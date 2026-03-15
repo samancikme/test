@@ -1,0 +1,1885 @@
+[
+  {
+    "id": "q1-Lev_1",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 1,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Your teacher instructs you to edit a classmate's research paper. Which two tools\nshould you use? (Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Design mode"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Spelling checker"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Linked notes"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Comments"
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p4_i0.png"
+  },
+  {
+    "id": "q1-Lev_2",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 2,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "When using an app, network, or service, you may be required to agree to an\nAcceptable Use Policy What are two types of information that an Acceptable Use Policy\ndescribes? (Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "The consequences of violating the policy"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Unacceptable uses of the app, network, or service"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "How to copyright data that you submit to the app, network, or service"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "How to monetize information through the app, network, or service"
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p5_i0.png"
+  },
+  {
+    "id": "q1-Lev_3",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 3,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What mental health issue can excessive social media use potentially lead to?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Improved social connections"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Enhanced emotional resilience"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Increased risk of mood swings"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Heightened feelings of happiness"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p6_i0.png"
+  },
+  {
+    "id": "q1-Lev_4",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 4,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is a benefit of \"in private\" or \"incognito\" browsing?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Your web browser allows you to change your IP address."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Your web browser permits visits to websites that are normally blocked in your country."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Your web browser blocks advertisements."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Your web browser hides activities from other people who use the same device"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p6_i1.png"
+  },
+  {
+    "id": "q1-Lev_5",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 5,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about the Android operating system, select True or False.\nNote: You will receive credit for each correct response.\nAnswer Area\nAndroid is open-source software True\nAndroid is a desktop operating system False\nAndroid requires the Google App Store False\n\n-- 1 of 21 --",
+    "image": "/images/1-Level_1_80_SORAW_p6_i2.png"
+  },
+  {
+    "id": "q1-Lev_7",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 7,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What are two negative effects of posting a derogatory meme on social media?\n(Choose 2)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "It showcases your wit and digital artistry skills."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "You can easily address a group of people who hold specific beliefs."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "It remains traceable after the event that inspired you to post it."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Various viewers may interpret the meme differently"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p7_i0.png"
+  },
+  {
+    "id": "q1-Lev_9",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 9,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to identify personally identifiable information (PII) that you should\nnot expose online. For each statement, select Yes if it is personally identifiable information or\nNo if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nEye color False\nDate of birth True\nPassport number True",
+    "image": "/images/1-Level_1_80_SORAW_p8_i0.png"
+  },
+  {
+    "id": "q1-Lev_10",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 10,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to store a list of webpages so you can easily return to them later.\nWhat web browser feature or setting should you use?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Favorites or Bookmarks"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "History or Timeline\n\n-- 3 of 21 --"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Tabbed Browsing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Address box"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p8_i1.png"
+  },
+  {
+    "id": "q1-Lev_11",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 11,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "You are conducting online research. You need to refine your search to return\nresults that are more relevant to your research subject. Which two techniques should you use?\n(Choose 2.) Note: You will receive credit for each correct answer.",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Enclose multi-word search terms in quotation marks"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Search for generic terms"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Capitalize important term"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Search for root words and exclude suffixes"
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p8_i2.png"
+  },
+  {
+    "id": "q1-Lev_12",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 12,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about time differences between wired and wireless\nnetworking, select True or False. Note: You will receive credit for each correct answer.\nAnswer Area\nAn encrypted Wi-Fi connection is more secure than an Ethernet connection False\nWireless networks typically have slower data transmission speeds than Ethernet connections\nTrue\nAn Ethernet connection typically provides fast network connection speeds than a Wi-Fi\nconnection True",
+    "image": "/images/1-Level_1_80_SORAW_p10_i0.png"
+  },
+  {
+    "id": "q1-Lev_13",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 13,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to download a file to use on your Windows computer. Which file\nextension will work directly on your computer?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": ".pkg"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": ".dmg"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": ".deb"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": ".exe"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p10_i1.png"
+  },
+  {
+    "id": "q1-Lev_14",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 14,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which unit describes the short-term data storage used by a computing\ndevice to run applications?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "CPU"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "RAM"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Mbps\n\n-- 4 of 21 --"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "GHz"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p10_i2.png"
+  },
+  {
+    "id": "q1-Lev_15",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 15,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are researching information in a long document. For each statement,\nselect Yes if you can use the Find feature to complete the task, or No if you cannot. Note: You\nwill receive credit for each correct answer.\nAnswer Area\nLocate a keyword or phrase within the document Yes\nChange the format of all citations in your document No\nIdentify pages that include references by a specific author No",
+    "image": "/images/1-Level_1_80_SORAW_p10_i3.png"
+  },
+  {
+    "id": "q1-Lev_16",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 16,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You have written an original recipe that you want to share on social media.\nYour recipe includes a paragraph describing the dish, a list of ingredients, step-by-step\ninstructions, and screen photos. Which guideline will most likely impact where you are able to\nshare your recipe online?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Some social media sites have a limit on the number of characters or pictures you can post."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Some social media sites do not allow you to format information as a bulleted list."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Some social media sites do not allow you to post recipes."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Some social media sites have a limit on the length of videos you can post"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p10_i4.png"
+  },
+  {
+    "id": "q1-Lev_17",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 17,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You enter a recipe into a Microsoft Word document as a single paragraph and\nconvert it to a numbered list, as shown in the image.\nYou need to separate the paragraph into individual numbered list items, as shown in the\nimage.\nWhich key (or key combination) should you press at the end of each sentence?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Shift+Tab"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Tab"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Shift+Enter"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Enter\n\n-- 5 of 21 --"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p1_i0.png"
+  },
+  {
+    "id": "q1-Lev_18",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 18,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which setting will allow you to print multiple slides on one page of paper?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Pages per sheet"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Slide layout"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Double-sided or duplex"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Slide sorter"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p11_i0.png"
+  },
+  {
+    "id": "q1-Lev_19",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 19,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "You need to maintain the security of your smartphone. Which three\nguidelines should you follow? (Choose 3.) Note: You will receive credit for each correct answer.",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Disable Wi-Fi and Bluetooth when you're not using them."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Do not leave your device unattended in public or easily accessible areas."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Use a USB 3.0 or newer connection cable when connecting to a new computer."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Always use a surge protector when charging the device."
+      },
+      {
+        "id": "o5",
+        "label": "E",
+        "text": "Update your smartphone's operating system only if you need a new feature offered in the\nupdate.\nF. Avoid using public Wi-Fi networks."
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p11_i1.png"
+  },
+  {
+    "id": "q1-Lev_20",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 20,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to follow ethical standards of behavior to protect your digital\nreputation. Which action meets the requirements?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Use public domain images for your company website."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Include the full version of your favorite song in a personal video profile on social media."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Comply with the terms of the Acceptable Use Policy while using your school's Wi-Fi.\n\n-- 6 of 21 --"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Enhance the Work Experience section of your online resume by including tasks you intend to\ncomplete"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p11_i2.png"
+  },
+  {
+    "id": "q1-Lev_21",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 21,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about the benefits of a good network infrastructure, select\nTrue or False. Note: You will receive credit for each correct answer.\nAnswer Area\nEnsures that students can consistently connect to the campus network True\nEnables students to connect to the school's computer lab from any location False\nSupports the scaling of the school network without redesign as the student population increases True",
+    "image": "/images/1-Level_1_80_SORAW_p11_i3.png"
+  },
+  {
+    "id": "q1-Lev_22",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 22,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Your class is planning a field trip to visit college campuses. Your teacher\nschedules a video conference for the trip participants using software that displays each attendee on\nscreen as shown.\nYou need to follow appropriate digital etiquette standards during the video conference.\nFor each statement, select Yes if it represents appropriate digital etiquette or No if it does not.\nNote: You will receive credit for each correct answer.\nAnswer Area\nTest the software before the meeting start time Yes\nPosition yourself and the camera so the camera lens is at eye level Yes\nEnsure that your microphone is always on so you can participate No\nWhen it's your turn to speak, introduce yourself and look at the onscreen\nimage of the person you're addressing No",
+    "image": "/images/1-Level_1_80_SORAW_p1_i1.png"
+  },
+  {
+    "id": "q1-Lev_23",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 23,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "You use a public computer at the library to check email and your bank account\nbalance. You need to prevent other people who use the computer after you from accessing your\nemail and bank accounts. Which two tasks should you complete before leaving the computer?\n(Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Clear the browser's cache and cookies"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Clear the browser's history\n\n-- 7 of 21 --"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Quit the browser sessions in which you're logged on to the websites"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Log out of the email and bank websites"
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p13_i0.png"
+  },
+  {
+    "id": "q1-Lev_24",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 24,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You post a funny and embarrassing photo of your friend on social media How\nlong will the information stay on the internet?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Forever, even after you delete it"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "7 years"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "24 hours"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Until your friend deletes it"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p13_i1.png"
+  },
+  {
+    "id": "q1-Lev_25",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 25,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about open source software, select True or False. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nAll free software is open source software False\nAnyone can inspect, modify, and enhance the source code of open source software True\nYou must agree to an End User License Agreement before using open source software False\n\n-- 8 of 21 --",
+    "image": "/images/1-Level_1_80_SORAW_p13_i2.png"
+  },
+  {
+    "id": "q1-Lev_26",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 26,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Your teacher instructs you to research a poster, a poem, a dramatic work, and an\nimage that are protected by any of the six Creative Commons licenses and are not dedicated to the\npublic domain. For each type of content use, select Yes if the terms of the Creative Commons\nlicenses allow the use of the work or No if they do not.\nAnswer Area\nDisplay the poster during a free movie night at your school No\nInclude the poem as part of a portfolio of your original work Yes\nPerform the dramatic work for parents at a class talent show Yes\nDisplay the image to other students as part of an in-class presentation Yes",
+    "image": "/images/1-Level_1_80_SORAW_p2_i0.png"
+  },
+  {
+    "id": "q1-Lev_27",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 27,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Which three devices output information when connected to a non-touchscreen\ncomputer? (Choose 3.)\nTo answer, select the correct devices in the answer area. Note: You will receive credit for each\ncorrect answer.\nCorrect Selections:\n1. Monitor (The screen)\n2. Printer (The device with paper)\n3. Headphones (The audio device)",
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p14_i0.png"
+  },
+  {
+    "id": "q1-Lev_28",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 28,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which practice follows effective file-naming conventions?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Using the default file name"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Using generic terms like \"document\" or \"file\""
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Using clear names that describe the content"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Including random letters and numbers for security\n\n-- 9 of 21 --"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p15_i0.png"
+  },
+  {
+    "id": "q1-Lev_29",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 29,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Which two methods should you use to reduce eye strain while using a digital\ndisplay? (Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Periodically look away from the screen and focus on a faraway object."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Shine the primary room light source directly onto the screen."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Tilt the screen directly toward your eyes."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Adjust the screen resolution to set the text at a comfortable size."
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p16_i0.png"
+  },
+  {
+    "id": "q1-Lev_30",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 30,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is a constructive reason for choosing not to engage with online trolling? I",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "It encourages the troll to continue their behavior"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "It motivates others to participate in the negative conversation"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "It helps avoid escalating the situation and reduces the troll's influence"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "It gives the troll an opportunity to explain their behavior."
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p16_i1.png"
+  },
+  {
+    "id": "q1-Lev_31",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 31,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is spyware?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "A program that is designed to look harmless but allows unauthorized access to your computer"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "A program that installs itself on your system without your knowledge and tracks your online habits"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Content that tricks you into revealing account codes and passwords by pretending to be legitimate"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "A program that can copy itself and spread to other computers"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p17_i0.png"
+  },
+  {
+    "id": "q1-Lev_32",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 32,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which two actions can you take to help maintain your digital privacy? (Choose\n2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Configure your web browser settings to block cookies"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Store your private documents in a cloud storage location"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Use only your school email to send private information"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Turn off GPS on your devices when you are not actively using it"
+      }
+    ],
+    "correctAnswer": "o1",
+    "image": "/images/1-Level_1_80_SORAW_p17_i1.png"
+  },
+  {
+    "id": "q1-Lev_33",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 33,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Online messaging apps simplify the process of communicating with other people.\nFor each statement, select True or False. Note: You will receive credit for each correct answer.\nAnswer Area\nPeople who use smart-messaging share the same beliefs and practices whether they are next door or in\nanother country False\nCommunication through emojis reproduces social constructs such as stereotypes, prejudices, and\nlimitations True\nEmojis are a constantly changing concept that may not universally reflect sources of study True",
+    "image": "/images/1-Level_1_80_SORAW_p18_i0.png"
+  },
+  {
+    "id": "q1-Lev_34",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 34,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Move each data storage device from the list on the left to the correct definition on\nthe right.\nNote: You will receive credit for each correct answer.\nA compact, lightweight external data storage device that uses flash memory USB flash drive\nAn external data storage device powered through the USB port of the computer Portable hard\ndrive\n\n-- 10 of 21 --\n\nAn internal data storage device that stores and retrieves data using flash memory Solid-state drive\nAn internal electromechanical data storage device that stores and retrieves data using a rapidly rotating\nplatter Hard disk drive",
+    "image": "/images/1-Level_1_80_SORAW_p18_i1.png"
+  },
+  {
+    "id": "q1-Lev_35",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 35,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Move each email address field from the list on the left to its purpose on the right.\nNote: You will receive credit for each correct answer.\nTo copy other people on a message and NOT let them see the email addresses Bcc\nTo copy other people on a message and let each see the email addresses Cc\nTo send the message you received from one person to a different person Forward\nTo respond to a message sender and exclude other message recipients Reply\nTo respond to a message sender and all other known message recipients Reply All",
+    "image": "/images/1-Level_1_80_SORAW_p19_i0.png"
+  },
+  {
+    "id": "q1-Lev_36",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 36,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Which two options are benefits of digital collaboration? (Choose 2.)\nNote: You will receive credit for each correct answer.",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Collaborators can more easily avoid distractions while working"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Ideas and feedback can be shared quickly"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Collaborators can work with others from any geographic location"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Confidential data is safer from theft and intrusion"
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p19_i1.png"
+  },
+  {
+    "id": "q1-Lev_37",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 37,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Move each cable from the list on the left to the best connection on the right.\nNote: You will receive credit for each correct answer.\nUSB A\nUSB-C\n\n-- 11 of 21 --\n\nLightning\nMicro USB",
+    "image": "/images/1-Level_1_80_SORAW_p19_i2.png"
+  },
+  {
+    "id": "q1-Lev_38",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 38,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to identify the functions that are managed by a computer operating\nsystem (not by an app). For each task, select OS if it is managed by the operating system and App if\nit is not. Note: You will not receive credit for a clean correct answer.\nAnswer Area\nEdits text files App\nSearches the internet App\nAllocates hardware resources OS\nCommunicates with peripheral devices\nOS",
+    "image": "/images/1-Level_1_80_SORAW_p20_i0.png"
+  },
+  {
+    "id": "q1-Lev_39",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 39,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Which three elements must you include in a citation that references a printed book?\n(Choose 3.) Note: You will receive credit for each correct answer.",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Book title"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Publication date"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Access date"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Copyright status"
+      },
+      {
+        "id": "o5",
+        "label": "E",
+        "text": "Trademark status\nF. Author name"
+      }
+    ],
+    "correctAnswer": [],
+    "image": "/images/1-Level_1_80_SORAW_p20_i1.png"
+  },
+  {
+    "id": "q1-Lev_40",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 40,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are writing a research paper. You need to add references to your work. For\neach scenario, select YES if you must add a reference or NO if you do not. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nYou use an idea from a news article YES\nYou write something new and original NO\nYou pull a paragraph from a webpage YES\nYou paraphrase content from a magazine article YES\n\n-- 12 of 21 --"
+  },
+  {
+    "id": "q1-Lev_41",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 41,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which statement correctly describes the use of Creative Commons content in a\nproject?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "All Creative Commons content is automatically owned by the government and cannot be used for\ncommercial purposes."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Creative Commons licenses restrict the use of educational content and do not allow for personal or\ncommercial use."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Creative Commons licenses allow you to use, share, and modify content as long as you follow the\nterms specified by the license."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Creative Commons content can only be used if you pay a fee to the original creator for each use."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_42",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 42,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Juliana takes photos with her phone for the school yearbook. She takes more\nthan 50 photographs each day. Juliana needs to use the quickest and most reliable method to back\nup the photos so she can delete them from her phone each day. What should Juliana do?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Download the photos to a USB flash drive."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Email the photos to her teacher."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Sync her phone to cloud storage."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Delete only the photos she doesn't want to use."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_43",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 43,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which symptom is associated with prolonged computer use?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Increased back pain"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Enhanced visual clarity"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Improved muscle tone"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Increased flexibility in joints"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_44",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 44,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which two technologies do websites use to track visitors' online browsing habits?\n(Choose 2)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "GPS locations"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "First-party cookies"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "In private/incognito browsing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "VPN tunneling"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_45",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 45,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are searching the web for information about how to grow your own\nvegetables. You scan through several pages of results. You need to determine which results are\nrelevant to your search. For each webpage description, select Yes if the page is relevant to your\nsearch or No if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nA tabloid magazine article about celebrity gardens NO\nA how-to article published by a prestigious university YES\nAn ad for a popular gardening blog NO\n\n-- 13 of 21 --"
+  },
+  {
+    "id": "q1-Lev_46",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 46,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which backup method offers the best protection for your data?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Sending files to others through entail"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Deleting files you don't need anymore"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Keeping files only on your computer's hard drive"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Using both cloud storage and an external hard drive"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_47",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 47,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about printing documents, select True or False.\nAnswer Area\nYou can change document margins from the Print settings False\nDuplex printing prints file content on both sides of the paper True\nYou can only change the paper size from the Page Setup option False\nTo preserve file formatting when electronically distributing a document, print the document to a PDF file\nTrue"
+  },
+  {
+    "id": "q1-Lev_48",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 48,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Move each computer hardware element from the list on the left to the\ncorresponding image on the right.\nCentral processing unit CPU - Image of the CPU\nHard disk drive HDD- Image of the hard disk drive\nMotherboard- Image of the motherboard\nSolid-state drive SSD - Image of the solid-state drive\n\n-- 14 of 21 --",
+    "image": "/images/1-Level_1_80_SORAW_p2_i1.png"
+  },
+  {
+    "id": "q1-Lev_49",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 49,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You and a partner are collaborating to create a sciesce report. You create\na shared document and save it to the cloud. You intend to work on the report at different times.\nWhat type of collaboration does this refer to?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Synchronous"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Offline"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Simultaneous"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Asynchronous"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_50",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 50,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are working with other students on a science project. Your team will\nmeet to discuss the project using the school's videoconferencing application. You will act as the\nhost. You need to ensure that each student can talk about the project without being interrupted by\nother students. What should each student do to meet this goal?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Sign in early to verify that the audio and video technology works"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Mute their microphone until you call on them"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Remain on camera throughout the conference"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Introduce themselves by name when they speak."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_51",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 51,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to collaborate with your peers and share your class journal.\nWhich digital platform is appropriate for this classroom activity?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Google Docs"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Facebook"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Instagram"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Twitter"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_52",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 52,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Digital Primacy – True or False Statements\nAnswer Area\nUpdating your browser every six months wipes your digital footprint clean False\nAnonymous online comments you post cannot be traced back to you if you use a web filter False\nPotential employers can find images and messages posted on social media by applicants under the age of\n18 True\nCompanies with which you share personal data in exchange for apps and services are not allowed to give\nthe data to anyone else False",
+    "image": "/images/1-Level_1_80_SORAW_p3_i0.png"
+  },
+  {
+    "id": "q1-Lev_53",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 53,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Maddie uses social media to stay in touch with friends and family. She is planning\nto go on vacation next month. What is the safest way for Maddie to protect herself from online\npredators when posting information about her vacation activities?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Checking in online when she goes places so her parents know where she is"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Posting her vacation plans before she leaves so her friends know she is out of town"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Setting her social media location map to \"public\"\n\n-- 15 of 21 --"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Waiting until she returns home to post vacation photos"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_54",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 54,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Which two connections can be used to connect a monitor to a computer? (Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "HDMI"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Ethernet"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "USB-C"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "PS/2"
+      }
+    ],
+    "correctAnswer": []
+  },
+  {
+    "id": "q1-Lev_55",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 55,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You see a post on social media that contains an article about a current event.\nYou want to evaluate the credibility of the article. Which factor is most important?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "The number of pictures included in the article"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "The number of likes and shares the article has received"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "The length of the article and the details it covers"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "The news outlet's reputation and trustworthiness"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_56",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 56,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "When assessing an online article's reliability, which is a critical step?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Verifying that the article includes multiple images"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Counting the article's words to determine depth of content"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Reviewing the article's publication date and checking for recent updates"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Confirming the author's popularity on social media"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_57",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 57,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "You need to ensure the security of your passwords. Which three guidelines\nshould you follow? (Choose 3.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Use the longest password or passphrase permissible by each password system."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Use passwords that are based on private personal information."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Use multi-factor authentication when available."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Use words that can be found in the dictionary of a language other than your primary language."
+      },
+      {
+        "id": "o5",
+        "label": "E",
+        "text": "Use complex passwords and record them in a notebook that you keep with you at all times.\nF. Use a different password for each account."
+      }
+    ],
+    "correctAnswer": []
+  },
+  {
+    "id": "q1-Lev_58",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 58,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about Creative Commons, select True or False.\nAnswer Area\nAllows creators to grant licenses to only specific people False\nHelps facilitate the sharing and discovery of creative works on the web True\nProvides tools that allow creators to dedicate their works to the public domain True"
+  },
+  {
+    "id": "q1-Lev_59",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 59,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which option is the best way to create a secure password?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Use your name and birthday"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Use your favorite movie title"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Use a mix of letters, numbers, and symbols\n\n-- 16 of 21 --"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Use something easy to remember, like \"12345\" or \"p@ssword\""
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_60",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 60,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which statement about web-based applications is correct?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Web applications process information locally on your computer"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "The web version of a desktop application has all the same features as the desktop version"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Before you can use a web application, you must install it on your computer"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "You must have an içternet connection to use a web application."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_61",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 61,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about copyright, select True or False.\nAnswer Area\nWork must be registered with the copyright office to be protected by copyright False\nCopyright laws protect the right to reproduce the copyrighted work True\nCopyright laws protect only works of art, such as paintings and sculptures\nFalse"
+  },
+  {
+    "id": "q1-Lev_62",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 62,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are working on a research project. You locate a long online article that\ncontains information related to your research topic. Which information can you locate on the\nwebpage by using the browser's Find feature?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "A list of secondary topics related to your primary research topic"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "The number of times the article mentions a specific topic"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "The answer to a specific Question related to the article topic"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Related comments on social media sites"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_63",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 63,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are searching the web to gather information for a research paper. You need\nto identify webpages that are likely to contain accurate and unbiased information for your\nresearch. For each statement, select Yes if it indicates that a webpage meets the requirements or No\nif it does not.\nAnswer Area\nThe webpage has misspelled words No\nThe webpage text is written objectively Yes\nThe webpage includes a list of references Yes"
+  },
+  {
+    "id": "q1-Lev_64",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 64,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "As an ethical computer user, you have a responsibility to practice good netiquette\nat all times. You need to identify examples of good netiquette in an office work environment. For\neach statement, select Yes if it is an example of good netiquette or No if it is not.\n\n-- 17 of 21 --\n\nAnswer Area\nCopy your coworkers on all email messages you send to keep them in the loop-\nYes\nShare large files from a cloud storage location instead of attaching them to email messages - Yes\nApply the same standards and values to online interactions that you do to face-to-face interactions - Yes"
+  },
+  {
+    "id": "q1-Lev_65",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 65,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are making suggestions, corrections, and comments on a classmate's\nresearch paper. What process are you performing?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Coauthoring"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Attributing"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Peer reviewing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Fact checking"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_66",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 66,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is a benefit of \"in private\" or \"incognito\" browsing?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Your web browser remembers the files you download"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Digital fingerprinting can't be used to track your browser activities"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Your web browser doesn't retain cookies"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Your web browser blocks advertisements"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_67",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 67,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to add artwork to a presentation you're creating for your class. You\ndo NOT have time to get permission to use the artwork. For each statement, select Yes if you may\nlegally use the artwork without permission or No if you may not.\nAnswer Area\nThe artist is your friend No\nThe artwork is protected by copyright No\nThe copyright owner dedicated the artwork to the public domain Yes"
+  },
+  {
+    "id": "q1-Lev_68",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 68,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about citation practices, select True or False.\nAnswer Area\nIf you quote directly from a speech, you must cite the source True\nIf you summarize someone else's work, you must cite the source True\nIf you paraphrase someone else's work, you must cite the source True\n\n-- 18 of 21 --\n\nYou should place quotation marks around phrases that you quote from someone else's work True"
+  },
+  {
+    "id": "q1-Lev_69",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 69,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Your name is Sam Grey. You are updating a school project and want to save a\nnew version. You need to choose a file name that clearly identifies the author, is easy to read, and\nsupports web usability and cross-platform compatibility. Which file name should you use?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "samgreyprojectoneversionthree04/15/2025.docx"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Sam Grey Project1-version3.docx"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "SamGrey pf3ject#1>v3.docx"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "SamGreyProject1v3.docx"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_70",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 70,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each physical health risk, select Yes if it is associated with prolonged computer use\nor No if it is not.\nAnswer Area\nDiscomfort in the neck Yes\nElevated blood pressure No\nEye strain Yes\nFrequent headaches Yes"
+  },
+  {
+    "id": "q1-Lev_71",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 71,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "Which two methods should you use to avoid computer-related injuries? (Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Use a mouse with a switch to adjust the DPI when needed"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Upgrade to a high-end graphics card to reduce eye strain"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Use an ergonomic keyboard so your wrists are in a more natural position"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Take frequent short breaks during which you walk around"
+      }
+    ],
+    "correctAnswer": []
+  },
+  {
+    "id": "q1-Lev_72",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 72,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which hardware component does a desktop computer use for long-term data\nstorage?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Central processing unit (CPU) I"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Motherboard"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "USB flash drive"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Hard disk drive\n\n-- 19 of 21 --"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q1-Lev_73",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 73,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to identify tools that help you to protect your digital privacy\nFor each statement, select Yes if the feature protects digital privacy and No if it does not.\nAnswer Area\nDisk defragmenter No\nPassword-management program Yes\nAnti-tracking browser extension Yes"
+  },
+  {
+    "id": "q1-Lev_74",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 74,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about the differences between internet and intranet, select\nTrue or False\nAnswer Area\nThe internet is privately owned by a consortium of companies False\nAn intranet connection is more secure than an internet connection True\nAn intranet has an unlimited number of users and can be accessed by anyone False"
+  },
+  {
+    "id": "q1-Lev_75",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 75,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each statement about creating basic presentations, select True or False\nAnswer Area\nYou should minimize text content in presentations True\nYou can only create Microsoft PowerPoint presentations pn Windows computers False\nYou can access Apple Keynote presentations from Windows computers through iCloud True\nYou should maintain a low contrast between the text and background colors of presentations False"
+  },
+  {
+    "id": "q1-Lev_76",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 76,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "Online messaging apps simplify the process of communicating with other people,\nwhether they are next door or in another country. For each statement, select True or False.\nAnswer Area\nPeople with similar heritages have the same beliefs and priorities False\n\n-- 20 of 21 --\n\nRespectful language conveys prejudices such as stereotypes, expectations and limitations False\nCulture is a constantly changing concept that may not completely reflect someone's identity True"
+  },
+  {
+    "id": "q1-Lev_77",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 77,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "For each item, select Yes if it is a valid Google search filter option, and\nNo if it is not.\nAnswer Area\nLanguage True\nFile type True\nColor False\nDates True"
+  },
+  {
+    "id": "q1-Lev_78",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 78,
+    "type": "multi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose all correct options.",
+    "questionText": "You are writing a research paper. You gather information from various sources\nthat you want to include in your paper. You need to reference your source material in your paper.\nFor which two reasons should you reference your source material? (Choose 2.)",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "It allows readers to find the original information source"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "It establishes the research paper as your original work"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "It gives credit to the people who did the research you're referencing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "It provides financial payment to the people who performed the research"
+      }
+    ],
+    "correctAnswer": []
+  },
+  {
+    "id": "q1-Lev_79",
+    "sourceFile": "1-Level_1_80_SORAW.pdf",
+    "questionNumber": 79,
+    "type": "single",
+    "topic": "General",
+    "difficulty": "Medium",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is a computer virus?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "A program that is designed to look harmless but allows unauthorized access to your computer"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Content that tricks you into revealing account codes and passwords by pretending to be legitimate"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "A program that installs itself on your system without your knowledge and tracks your computer usage"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "A program that can copy itself and spread to other computers"
+      }
+    ],
+    "correctAnswer": "o1"
+  }
+]
