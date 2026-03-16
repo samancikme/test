@@ -1,0 +1,892 @@
+[
+  {
+    "id": "q1",
+    "questionNumber": 1,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "You and your classmates are reading each other's shared digital documents. The document you are reading is well written, but you notice a factual error. You need to respectfully indicate the error to the author in a document comment. Which two actions should you take?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Provide the correct information in your comment if you have it."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Point out the error without explanation."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Write the correction in capital letters to ensure that the author will see it."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Keep the tone of your correction positive."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ],
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q2",
+    "questionNumber": 2,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each response.",
+    "questionText": "You find a social media post that shares inaccurate and misleading medical information. You decide to respond to the post. For each response, select Yes if it adheres to appropriate digital etiquette or No if it does not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "\"WRONG! Did you do ANY RESEARCH before posting this?\"",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "\"Many doctors, including Jane Smith of Harvard Medical School, disagree.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "\"It can be difficult to research everything, but there are many different sources to look at concerning this issue.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "\"This is just wrong and makes you look foolish! Obviously you didn't look at the research from Harvard Medical School!\"",
+        "correctAnswer": "no"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q3",
+    "questionNumber": 3,
+    "type": "matching",
+    "instruction": "Match each description to the correct Boolean search string.",
+    "questionText": "Match each description from the list on the left to the corresponding Boolean search string on the right.",
+    "pairs": [
+      {
+        "left": "Returns results for either word",
+        "right": "lions OR tigers"
+      },
+      {
+        "left": "Returns results excluding one word",
+        "right": "buffalo NOT bison"
+      },
+      {
+        "left": "Returns results for either word if another word is included",
+        "right": "(fish OR turtles) AND pacific ocean"
+      }
+    ],
+    "answerSource": "document table"
+  },
+  {
+    "id": "q4",
+    "questionNumber": 4,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "Select the option that allows you to secure Windows files or folders from unauthorized access.",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Encrypt contents to secure data"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Compress contents to save disk space"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "File is ready for archiving"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Allow this file to have contents indexed"
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q5",
+    "questionNumber": 5,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "When responding to an email, what is the best practice?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "BCC your friend on important emails."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Use reply all to make responses faster."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Reply immediately if you are busy."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Take your time to provide a thoughtful response."
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q6",
+    "questionNumber": 6,
+    "type": "short-answer",
+    "instruction": "Enter the correct option or setting name.",
+    "questionText": "You need to create a calendar event for a regular lunch meeting that will happen every Wednesday. Which option should you choose?",
+    "correctAnswerText": "Recurring / repeat weekly event",
+    "answerSource": "inferred; options not present in source file"
+  },
+  {
+    "id": "q7",
+    "questionNumber": 7,
+    "type": "matching",
+    "instruction": "Match each file extension to its description.",
+    "questionText": "Match each file extension to its corresponding file format description.",
+    "pairs": [
+      {
+        "left": ".wav",
+        "right": "A digital audio container for storing noncompressed or uncompressed audio data, often used for CD audio"
+      },
+      {
+        "left": ".mp4",
+        "right": "A compressed video file that is optimal for devices with limited storage space"
+      },
+      {
+        "left": ".mp3",
+        "right": "A compressed audio file that is optimal for devices such as tablets and smartphones"
+      }
+    ],
+    "answerSource": "document table"
+  },
+  {
+    "id": "q8",
+    "questionNumber": 8,
+    "type": "matching",
+    "instruction": "Match each term to its definition.",
+    "questionText": "Move each presentation term from the list on the left to its definition on the right.",
+    "pairs": [
+      {
+        "left": "A file that contains ready-made styles",
+        "right": "Template"
+      },
+      {
+        "left": "A special effect used to introduce slides",
+        "right": "Transition"
+      },
+      {
+        "left": "A slide that controls the design of the associated slide layouts",
+        "right": "Master"
+      },
+      {
+        "left": "A visual effect that moves placeholders, text, and images on and off slides",
+        "right": "Animation"
+      }
+    ],
+    "answerSource": "document table"
+  },
+  {
+    "id": "q9",
+    "questionNumber": 9,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about webcam security, select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "It is recommended that everyone cover their webcam when not in use.",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s2",
+        "text": "All webcameras include a recording light that cannot be disabled through software.",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s3",
+        "text": "Disabling a webcam in your computer settings protects against any unauthorized access.",
+        "correctAnswer": "false"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q10",
+    "questionNumber": 10,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is the primary purpose of using heading styles in a document?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "To highlight important keywords throughout the document"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "To add color for emphasis in the text"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "To change the font size for visual differentiation"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "To create structure and enable a table of contents"
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q11",
+    "questionNumber": 11,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "You are working on a collaborative team with three other people, and your team is discussing a task over email. Your team disagrees about the task, and you feel strongly that your opinion is correct. Which two steps could you take to deal with this disagreement in a way that follows the standards of digital etiquette?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Compose an email using strong language that shows how you feel about the task, and send it to everyone in your organization."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Pause the conversation to research the issue further, then compose a clear email describing your opinion."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Post about your team's disagreement publicly on social media and ask for the opinions of your friends and followers."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Schedule an in-person or virtual meeting with the whole team to discuss the task together face-to-face."
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ],
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q12",
+    "questionNumber": 12,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each symptom.",
+    "questionText": "For each physical symptom, select Yes if it is a sign of repetitive strain injury (RSI) or No if it is not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Pain",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s2",
+        "text": "Itching",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s3",
+        "text": "Tingling",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Weakness",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q13",
+    "questionNumber": 13,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "Which two statements about document file permissions are true?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Setting a document to Read-Only prevents others from making a new copy of the document."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "The default setting for any new word processing document is Read-Only."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Setting a document to Read-Write allows others to change the document content and add comments to the document."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "A Read-Only document can be viewed but not modified."
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q14",
+    "questionNumber": 14,
+    "type": "matching",
+    "instruction": "Match each collaboration tool to its description.",
+    "questionText": "Move each digital collaboration tool from the list on the left to its description on the right.",
+    "pairs": [
+      {
+        "left": "Collaborators can edit files at the same time and automatically save their changes",
+        "right": "Cloud file sharing"
+      },
+      {
+        "left": "Collaborators can simultaneously brainstorm, review, and edit visual information by writing, drawing, and inserting images",
+        "right": "Online whiteboard"
+      },
+      {
+        "left": "Collaborators participate in learning activities and immediately share reactions, interpretations, and ideas for application of the ideas presented",
+        "right": "Webinar"
+      }
+    ],
+    "answerSource": "document table"
+  },
+  {
+    "id": "q15",
+    "questionNumber": 15,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to research whether a snake is a good pet to have. Which search result presents a different perspective from the other three?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Do Snakes Make Good Pets? — www.snakerights.org — Snakes are wild animals and should never be kept as pets. Even if they are not poisonous, they are dangerous and cannot be tamed."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "How to Choose the Best Pet Snake For You — www.vetmed.famu.edu — Before choosing a pet snake, consider how much space you have to keep your snake. You will need a tank large enough for your snake to grow."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Snakes as Pets — www.petshop.com — Ball pythons and corn snakes make great pets that are easy to care for, but larger species like boas should be kept only by experienced professionals."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "11 Best Pet Snakes for Beginners — www.petchronicles.com — One of the best pet snakes for young pet owners is the corn snake. Corn snakes are small, calm, and have a beautiful color pattern."
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q16",
+    "questionNumber": 16,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are applying for a job in your chosen career field. Potential employers will access your professional online profile. What should you do to support your professional online profile?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Update the profile regularly to showcase your skills."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Restrict access to the profile to maintain privacy."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Include information about personal activities to demonstrate balance."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Include your salary history and expectations."
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q17",
+    "questionNumber": 17,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "A school principal is composing an email message to parents. What should the principal do?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Send one message to a contact group that includes only the students' email addresses."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Send one message to all parents using the Cc field."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Send a message to the parent of each student who has been tardy."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Send one message to all parents using the Bcc field."
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q18",
+    "questionNumber": 18,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "What are two universal design principles for computing hardware?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Easy to keep clean"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Size and space for approach and use"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Equitable use"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Internet of Things connected"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ],
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q19",
+    "questionNumber": 19,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each statement.",
+    "questionText": "You are preparing to write a research paper. You find a scientific study that relates to your topic. You need to determine whether the study is credible. For each statement, select Yes if you should consider it when determining the credibility of the study or No if you should not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The popularity of the study",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "The organization that funded the study",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "The entity that published the study results",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q20",
+    "questionNumber": 20,
+    "type": "ordering",
+    "instruction": "Arrange the actions in the correct sequence.",
+    "questionText": "You are creating a project proposal document with a partner. In what sequence should the actions be performed?",
+    "items": [
+      "Add comments and track changes in the document",
+      "Share a link to the document",
+      "Create a new document and upload it to cloud storage",
+      "Review and accept or reject comments and changes"
+    ],
+    "correctOrder": [
+      "Create a new document and upload it to cloud storage",
+      "Share a link to the document",
+      "Add comments and track changes in the document",
+      "Review and accept or reject comments and changes"
+    ],
+    "answerSource": "document table"
+  },
+  {
+    "id": "q21",
+    "questionNumber": 21,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each question.",
+    "questionText": "Your company wants to improve the design of an electric ride-on vehicle it manufactures. You need to survey retail customers who purchased the vehicle and provide usable feedback to help achieve the goal.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Do you like the vehicle?",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "What would make the vehicle better?",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "What are the most important features of the vehicle?",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Would you recommend this ride-on vehicle to a friend?",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q22",
+    "questionNumber": 22,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about the difference between CPUs and GPUs, select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You typically upgrade a laptop GPU by replacing the display",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s2",
+        "text": "Some CPUs have a built-in GPU and don't rely on a graphics card",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s3",
+        "text": "Many modern computers and game systems have only a GPU and not a CPU",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s4",
+        "text": "Modern GPUs run increasingly complex workloads, including deep learning and artificial intelligence",
+        "correctAnswer": "true"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q23",
+    "questionNumber": 23,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are in a loud room. What should you do to hear audio through the headphones instead of the speakers?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Manage output devices"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Mute your computer speakers"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Manage input devices"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Configure Ease of Access audio settings"
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q24",
+    "questionNumber": 24,
+    "type": "matching",
+    "instruction": "Match each AI ethical challenge to its description.",
+    "questionText": "Move the Artificial Intelligence ethical challenge on the left to its description on the right.",
+    "pairs": [
+      {
+        "left": "AI's limited comprehension of social norms and cultural aspects can result in inappropriate or false content",
+        "right": "Lack of contextual understanding"
+      },
+      {
+        "left": "AI-generated content may perpetuate stereotypes or discriminatory views, influencing public opinion negatively",
+        "right": "Promotion of harmful biased views"
+      },
+      {
+        "left": "AI may exhibit limited openness, potentially misleading the audience regarding the origin and intent of the content",
+        "right": "Deception and lack of transparency"
+      },
+      {
+        "left": "AI can create manipulated media that may deceive individuals, spread misinformation, and undermine trust in visual evidence",
+        "right": "Deepfake development"
+      }
+    ],
+    "answerSource": "document table"
+  },
+  {
+    "id": "q25",
+    "questionNumber": 25,
+    "type": "short-answer",
+    "instruction": "Enter the correct setting name.",
+    "questionText": "You need to change the speed of the mouse cursor as it moves across your computer screen. Which option should you choose?",
+    "correctAnswerText": "Tracking speed",
+    "answerSource": "document text"
+  },
+  {
+    "id": "q26",
+    "questionNumber": 26,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are working on your laptop computer in a sunny outside area. You need to minimize eyestrain. Which monitor setting should you adjust?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Contrast"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Sharpness"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Scale"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Brightness"
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q27",
+    "questionNumber": 27,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each resource.",
+    "questionText": "You are doing research for a school project on AI. For each resource, select Yes if it is helpful or No if it is not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Asking teachers and friends",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s2",
+        "text": "Searching an online forum",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "Reading textbooks",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Publishing an opinion online",
+        "correctAnswer": "no"
+      }
+    ],
+    "answerSource": "document marks"
+  },
+  {
+    "id": "q28",
+    "questionNumber": 28,
+    "type": "short-answer",
+    "instruction": "Enter the correct button name.",
+    "questionText": "You write an essay. A classmate reviews the essay and suggests corrections. You need to permanently implement the corrections in your document. Which button should you select?",
+    "correctAnswerText": "Accept (Accept All Changes)",
+    "answerSource": "document text"
+  },
+  {
+    "id": "q29",
+    "questionNumber": 29,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which practice should be used when sharing photos online?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Always include the names of everyone in the photo to give proper credit"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Always tag everyone in the photo to make sure they see it"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Add captions that provide context to the photos"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Share photos on your public account of your friends and family"
+      }
+    ],
+    "correctAnswer": "o3",
+    "answerSource": "inferred"
+  },
+  {
+    "id": "q30",
+    "questionNumber": 30,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each resource.",
+    "questionText": "You are using a new software program to create a presentation. You need to use a function that you are unfamiliar with. For each resource, select Yes if you could use it to find help or No if you could not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "\"WRONG! Did you do ANY RESEARCH before posting this?\"",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "\"Many doctors, including Jane Smith of Harvard Medical School, disagree.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "\"It can be difficult to research everything, but there are many different sources to look at concerning this issue.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "\"This is just wrong and makes you look foolish! Obviously you didn't look at the research from Harvard Medical School!\"",
+        "correctAnswer": "no"
+      }
+    ],
+    "answerSource": "document table, but the table appears duplicated/mismatched with the question text"
+  }
+]

@@ -4,7 +4,7 @@ import QuestionPalette from '../components/QuestionPalette';
 import QuestionCard from '../components/QuestionCard';
 import ProgressBar from '../components/ProgressBar';
 
-export default function Quiz({ questions, answers, setAnswers, flagged, setFlagged, timeRemaining, setTimeRemaining, onSubmit }) {
+export default function Quiz({ questions, answers, setAnswers, flagged, setFlagged, timeRemaining, setTimeRemaining, onSubmit, onBack }) {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [showPalette, setShowPalette] = useState(false);
 
@@ -43,6 +43,7 @@ export default function Quiz({ questions, answers, setAnswers, flagged, setFlagg
                 timeRemaining={timeRemaining}
                 togglePalette={() => setShowPalette(!showPalette)}
                 onSubmit={onSubmit}
+                onBack={onBack}
                 progress={(Object.keys(answers).length / questions.length) * 100}
             />
 

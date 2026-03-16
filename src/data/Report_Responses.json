@@ -63,14 +63,39 @@
     "id": "qRepor_4",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 4,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You need to identify personally identifiable information (PII) that you should not expose online. For each statement, select Yes if\nit is personally identifiable information or No if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nPassport number True\nEye color False\nDate of birth True\n\n-- 1 of 26 --",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p12_i1.png"
+    "questionText": "You need to identify personally identifiable information (PII) that you should not expose online. For each statement, select Yes if\nit is personally identifiable information or No if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nPassport number True\nEye color False\nDate of birth True",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "image": "/images/Report - Responses_p12_i1.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Passport number True",
+        "correctAnswer": null
+      },
+      {
+        "id": "s2",
+        "text": "Eye color False",
+        "correctAnswer": null
+      },
+      {
+        "id": "s3",
+        "text": "Date of birth True",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "qRepor_5",
@@ -223,7 +248,7 @@
       },
       {
         "id": "o2",
-        "text": "Use something easy to remember, like \"12345\" or \"p@ssword\"  -- 2 of 26 --"
+        "text": "Use something easy to remember, like \"12345\" or \"p@ssword\""
       }
     ],
     "correctAnswers": [
@@ -248,7 +273,7 @@
       },
       {
         "id": "o2",
-        "text": "-- 3 of 26 --"
+        "text": ""
       }
     ],
     "correctAnswer": "o1",
@@ -284,27 +309,77 @@
     "id": "qRepor_13",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 13,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You need to add artwork to a presentation you're creating for your class. You do NOT have time to get permission to\nuse the artwork. For each statement, select Yes if you may legally use the artwork without permission or No if you may\nnot.\nAnswer Area\nThe artwork is protected by copyright No\nThe artist is your friend No\nThe copyright owner dedicated the artwork to the public domain Yes\n\n-- 4 of 26 --",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p12_i8.png"
+    "questionText": "You need to add artwork to a presentation you're creating for your class. You do NOT have time to get permission to\nuse the artwork. For each statement, select Yes if you may legally use the artwork without permission or No if you may\nnot.\nAnswer Area\nThe artwork is protected by copyright No\nThe artist is your friend No\nThe copyright owner dedicated the artwork to the public domain Yes",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "image": "/images/Report - Responses_p12_i8.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The artwork is protected by copyright",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "The artist is your friend",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "The copyright owner dedicated the artwork to the public domain",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_14",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 14,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about open source software, select True or False. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nAnyone can inspect, modify, and enhance the source code of open source software True\nAll free software is open source software False\nYou must agree to an End User License Agreement before using open source software False",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p17_i0.png"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "image": "/images/Report - Responses_p17_i0.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Anyone can inspect, modify, and enhance the source code of open source software",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "All free software is open source software",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "You must agree to an End User License Agreement before using open source software",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "qRepor_15",
@@ -410,7 +485,7 @@
       },
       {
         "id": "o7",
-        "text": "The left (white) cable has a The middle (black) cable has a → USB-C  -- 5 of 26 --"
+        "text": "The left (white) cable has a The middle (black) cable has a → USB-C"
       }
     ],
     "correctAnswers": [
@@ -488,7 +563,7 @@
       },
       {
         "id": "o2",
-        "text": "Downloading files from unknown websites.  -- 6 of 26 --"
+        "text": "Downloading files from unknown websites."
       }
     ],
     "correctAnswer": "o1",
@@ -498,27 +573,82 @@
     "id": "qRepor_23",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 23,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "You are searching the web to gather information for a research paper. You need to identify webpages that are likely\nto contain accurate and unbiased information for your research. For each statement, select Yes if it indicates that a\nwebpage meets the requirements or No if it does not.\nAnswer Area\nThe webpage has misspelled words No\nThe webpage includes a list of references Yes\nCorrect answer: Yes\nThe webpage text is written objectively Yes",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p18_i6.png"
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "image": "/images/Report - Responses_p18_i6.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The webpage has misspelled words",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "The webpage includes a list of references",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Correct answer:",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "The webpage text is written objectively",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_24",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 24,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about time differences between wired and wireless networking, select True or False. Note: You will receive\ncredit for each correct answer.\nAnswer Area\nWireless networks typically have slower data transmission speeds than Ethernet connections True\nAn encrypted Wi-Fi connection is more secure than an Ethernet connection False\nAn Ethernet connection typically provides fast network connection speeds than a Wi-Fi connection True",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p18_i7.png"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "image": "/images/Report - Responses_p18_i7.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Wireless networks typically have slower data transmission speeds than Ethernet connections",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "An encrypted Wi-Fi connection is more secure than an Ethernet connection",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "An Ethernet connection typically provides fast network connection speeds than a Wi-Fi connection",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_25",
@@ -553,14 +683,44 @@
     "id": "qRepor_26",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 26,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Your teacher instructs you to research a poster, a poem, a dramatic work, and an image that are protected by any of\nthe six Creative Commons licenses and are not dedicated to the public domain. For each type of content use, select\nYes if the terms of the Creative Commons licenses allow the use of the work or No if they do not.\nAnswer Area\nInclude the poem as part of a portfolio of your original work Yes\nDisplay the image to other students as part of an in-class presentation Yes\nPerform the dramatic work for parents at a class talent show Yes\nDisplay the poster during a free movie night at your school No\n\n-- 7 of 26 --",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p3_i2.png"
+    "questionText": "Your teacher instructs you to research a poster, a poem, a dramatic work, and an image that are protected by any of\nthe six Creative Commons licenses and are not dedicated to the public domain. For each type of content use, select\nYes if the terms of the Creative Commons licenses allow the use of the work or No if they do not.\nAnswer Area\nInclude the poem as part of a portfolio of your original work Yes\nDisplay the image to other students as part of an in-class presentation Yes\nPerform the dramatic work for parents at a class talent show Yes\nDisplay the poster during a free movie night at your school No",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "image": "/images/Report - Responses_p3_i2.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Include the poem as part of a portfolio of your original work",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Display the image to other students as part of an in-class presentation",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Perform the dramatic work for parents at a class talent show",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "Display the poster during a free movie night at your school",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "qRepor_27",
@@ -668,14 +828,49 @@
     "id": "qRepor_31",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 31,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Digital Primacy – True or False Statements\nAnswer Area\nAnonymous online comments you post cannot be traced back to you if you use a web filter False\nUpdating your browser every six months wipes your digital footprint clean False\nCompanies with which you share personal data in exchange for apps and services are not allowed to give the\ndata to anyone else\nFalse\nPotential employers can find images and messages posted on social media by applicants under the age of 18 True\n\n-- 8 of 26 --",
-    "options": [],
-    "correctAnswer": "o1",
-    "image": "/images/Report - Responses_p3_i3.png"
+    "questionText": "Digital Primacy – True or False Statements\nAnswer Area\nAnonymous online comments you post cannot be traced back to you if you use a web filter False\nUpdating your browser every six months wipes your digital footprint clean False\nCompanies with which you share personal data in exchange for apps and services are not allowed to give the\ndata to anyone else\nFalse\nPotential employers can find images and messages posted on social media by applicants under the age of 18 True",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "image": "/images/Report - Responses_p3_i3.png",
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Anonymous online comments you post cannot be traced back to you if you use a web filter",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Updating your browser every six months wipes your digital footprint clean",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Companies with which you share personal data in exchange for apps and services are not allowed to give the",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "data to anyone else",
+        "correctAnswer": null
+      },
+      {
+        "id": "s6",
+        "text": "Potential employers can find images and messages posted on social media by applicants under the age of 18",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_32",
@@ -741,13 +936,38 @@
     "id": "qRepor_35",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 35,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about copyright, select True or False.\nAnswer Area\nWork must be registered with the copyright office to be protected by copyright False\nCopyright laws protect only works of art, such as paintings and sculptures False\nCopyright laws protect the right to reproduce the copyrighted work True",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Work must be registered with the copyright office to be protected by copyright",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Copyright laws protect only works of art, such as paintings and sculptures",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Copyright laws protect the right to reproduce the copyrighted work",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_36",
@@ -757,7 +977,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about the differences between internet and intranet, select True or False\nAn intranet connection is more secure than an internet connection True\nAn intranet has an unlimited number of users and can be accessed by anyone False\nThe internet is privately owned by a consortium of companies False\n\n-- 9 of 26 --",
+    "questionText": "For each statement about the differences between internet and intranet, select True or False\nAn intranet connection is more secure than an internet connection True\nAn intranet has an unlimited number of users and can be accessed by anyone False\nThe internet is privately owned by a consortium of companies False",
     "options": [],
     "correctAnswer": "o1"
   },
@@ -874,7 +1094,7 @@
       },
       {
         "id": "o2",
-        "text": "Synchronous  -- 10 of 26 --"
+        "text": "Synchronous"
       }
     ],
     "correctAnswer": "o1"
@@ -924,13 +1144,43 @@
     "id": "qRepor_44",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 44,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each physical health risk, select Yes if it is associated with prolonged computer use or No if it is not.\nAnswer Area\nFrequent headaches Yes\nElevated blood pressure No\nEye strain Yes\nDiscomfort in the neck Yes",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Frequent headaches",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Elevated blood pressure",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Eye strain",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "Discomfort in the neck",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_45",
@@ -952,7 +1202,7 @@
       },
       {
         "id": "o3",
-        "text": "Use only your school email to send private information Store your private documents in a cloud storage location  -- 11 of 26 --"
+        "text": "Use only your school email to send private information Store your private documents in a cloud storage location"
       }
     ],
     "correctAnswers": [
@@ -1041,13 +1291,43 @@
     "id": "qRepor_50",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 50,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about printing documents, select True or False.\nAnswer Area\nYou can change document margins from the Print settings False\nTo preserve file formatting when electronically distributing a document, print the document to a PDF file True\nDuplex printing prints file content on both sides of the paper True\nYou can only change the paper size from the Page Setup option False\n\n-- 12 of 26 --",
-    "options": [],
-    "correctAnswer": "o1"
+    "questionText": "For each statement about printing documents, select True or False.\nAnswer Area\nYou can change document margins from the Print settings False\nTo preserve file formatting when electronically distributing a document, print the document to a PDF file True\nDuplex printing prints file content on both sides of the paper True\nYou can only change the paper size from the Page Setup option False",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You can change document margins from the Print settings",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "To preserve file formatting when electronically distributing a document, print the document to a PDF file",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Duplex printing prints file content on both sides of the paper",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "You can only change the paper size from the Page Setup option",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "qRepor_51",
@@ -1170,7 +1450,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You need to identify tools that help you to protect your digital privacy\nFor each statement, select Yes if the feature protects digital privacy and No if it does not.\nDisk defragmenter No\nPassword-management program Yes\nAnti-tracking browser extension Yes\n\n-- 13 of 26 --",
+    "questionText": "You need to identify tools that help you to protect your digital privacy\nFor each statement, select Yes if the feature protects digital privacy and No if it does not.\nDisk defragmenter No\nPassword-management program Yes\nAnti-tracking browser extension Yes",
     "options": [],
     "correctAnswer": "o1"
   },
@@ -1261,7 +1541,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about images that are protected by Creative Commons licenses and not in the public domain, select True or\nFalse.\nIf you use the image, you must cite its source False\nCorrect answer: True\nYou can use the image unconditionally True\nCorrect answer: False\nYou can use the image for free True\n\n-- 14 of 26 --",
+    "questionText": "For each statement about images that are protected by Creative Commons licenses and not in the public domain, select True or\nFalse.\nIf you use the image, you must cite its source False\nCorrect answer: True\nYou can use the image unconditionally True\nCorrect answer: False\nYou can use the image for free True",
     "options": [],
     "correctAnswer": "o1",
     "image": "/images/Report - Responses_p4_i0.png"
@@ -1364,7 +1644,7 @@
       },
       {
         "id": "o4",
-        "text": "Update your smartphone's operating system only if you need a new feature offered in the update. Use a USB 3.0 or newer connection cable when connecting to a new computer. Always use a surge protector when charging the device.  -- 15 of 26 --"
+        "text": "Update your smartphone's operating system only if you need a new feature offered in the update. Use a USB 3.0 or newer connection cable when connecting to a new computer. Always use a surge protector when charging the device."
       }
     ],
     "correctAnswers": [
@@ -1501,7 +1781,7 @@
       },
       {
         "id": "o3",
-        "text": "How to monetize information through the app, network, or service How to copyright data that you submit to the app, network, or service  -- 16 of 26 --"
+        "text": "How to monetize information through the app, network, or service How to copyright data that you submit to the app, network, or service"
       }
     ],
     "correctAnswers": [
@@ -1563,13 +1843,38 @@
     "id": "qRepor_72",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 72,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "As an ethical computer user, you have a responsibility to practice good netiquette at all times. You need to identify\nexamples of good netiquette in an office work environment. For each statement, select Yes if it is an example of good\nnetiquette or No if it is not.\nAnswer Area\nShare large files from a cloud storage location instead of attaching them to email messages Yes\nCopy your coworkers on all email messages you send to keep them in the loop Yes\nApply the same standards and values to online interactions that you do to face-to-face interactions Yes",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Share large files from a cloud storage location instead of attaching them to email messages",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Copy your coworkers on all email messages you send to keep them in the loop",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Apply the same standards and values to online interactions that you do to face-to-face interactions",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_73",
@@ -1591,7 +1896,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Online messaging apps simplify the process of communicating with other people, whether they are next door or in\nanother country. For each statement, select True or False.\nRespectful language conveys prejudices such as stereotypes, expectations and limitations False\nPeople with similar heritages have the same beliefs and priorities False\nCulture is a constantly changing concept that may not completely reflect someone's identity True\n\n-- 17 of 26 --",
+    "questionText": "Online messaging apps simplify the process of communicating with other people, whether they are next door or in\nanother country. For each statement, select True or False.\nRespectful language conveys prejudices such as stereotypes, expectations and limitations False\nPeople with similar heritages have the same beliefs and priorities False\nCulture is a constantly changing concept that may not completely reflect someone's identity True",
     "options": [],
     "correctAnswer": "o1"
   },
@@ -1685,7 +1990,7 @@
       },
       {
         "id": "o3",
-        "text": "Tilt the screen directly toward your eyes. Shine the primary room light source directly onto the screen.  -- 18 of 26 --"
+        "text": "Tilt the screen directly toward your eyes. Shine the primary room light source directly onto the screen."
       }
     ],
     "correctAnswers": [
@@ -1777,7 +2082,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You are writing a research paper. You need to add references to your work. For each scenario, select YES if you\nmust add a reference or NO if you do not. Note:\nYou will receive credit for each correct answer.\nYou write something new and original No\nYou paraphrase content from a magazine article Yes\nYou pull a paragraph from a webpage Yes\nYou use an idea from a news article Yes\n\n-- 19 of 26 --",
+    "questionText": "You are writing a research paper. You need to add references to your work. For each scenario, select YES if you\nmust add a reference or NO if you do not. Note:\nYou will receive credit for each correct answer.\nYou write something new and original No\nYou paraphrase content from a magazine article Yes\nYou pull a paragraph from a webpage Yes\nYou use an idea from a news article Yes",
     "options": [],
     "correctAnswer": "o1"
   },
@@ -1797,13 +2102,38 @@
     "id": "qRepor_84",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 84,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about the Android operating system, select True or False.\nNote: You will receive credit for each correct response.\nAnswer Area\nAndroid is open-source software True\nAndroid requires the Google App Store False\nAndroid is a desktop operating system False",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Android is open-source software",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Android requires the Google App Store",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Android is a desktop operating system",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "qRepor_85",
@@ -1837,7 +2167,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You need to identify the functions that are managed by a computer operating system (not by an app). For each task,\nselect OS if it is managed by the operating system and App if it is not. Note: You will not receive credit for a clean\ncorrect answer.\nCommunicates with peripheral devices OS\nSearches the internet App\nAllocates hardware resources OS\nEdits text files App\n\n-- 20 of 26 --",
+    "questionText": "You need to identify the functions that are managed by a computer operating system (not by an app). For each task,\nselect OS if it is managed by the operating system and App if it is not. Note: You will not receive credit for a clean\ncorrect answer.\nCommunicates with peripheral devices OS\nSearches the internet App\nAllocates hardware resources OS\nEdits text files App",
     "options": [],
     "correctAnswer": "o1"
   },
@@ -1971,7 +2301,7 @@
       },
       {
         "id": "o3",
-        "text": "Word saves a new copy of the file, resulting in two separate files.  -- 21 of 26 --"
+        "text": "Word saves a new copy of the file, resulting in two separate files."
       }
     ],
     "correctAnswers": [
@@ -2086,7 +2416,7 @@
       },
       {
         "id": "o3",
-        "text": "VPN tunneling In private/incognito browsing  -- 22 of 26 --"
+        "text": "VPN tunneling In private/incognito browsing"
       }
     ],
     "correctAnswers": [
@@ -2098,13 +2428,48 @@
     "id": "qRepor_98",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 98,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about Creative Commons, select True or False.\nAnswer Area\nAllows creators to grant licenses to only specific people True\nCorrect answer: False\nHelps facilitate the sharing and discovery of creative works on the web True\nProvides tools that allow creators to dedicate their works to the public domain False\nCorrect answer: True",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Allows creators to grant licenses to only specific people",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Correct answer:",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Helps facilitate the sharing and discovery of creative works on the web",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "Provides tools that allow creators to dedicate their works to the public domain",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s5",
+        "text": "Correct answer:",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "qRepor_99",
@@ -2197,7 +2562,7 @@
       },
       {
         "id": "o2",
-        "text": "The answer to a specific Question related to the article topic Related comments on social media sites A list of secondary topics related to your primary research topic  -- 23 of 26 --"
+        "text": "The answer to a specific Question related to the article topic Related comments on social media sites A list of secondary topics related to your primary research topic"
       }
     ],
     "correctAnswer": "o1"
@@ -2206,13 +2571,68 @@
     "id": "qRepor_103",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 103,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement, select True or False. Note: You will receive credit for each correct answer.\nAnswer Area\nIf you do not cite your sources, you are guilty of plagiarism. False\nCorrect answer:\nTrue\nPlagiarism is the unauthorized and uncredited use of another person's ideas and written work. False\nCorrect answer:\nTrue\nYou must cite your sources only when you use someone else's work exactly as it was originally\ncreated..\nTrue\nCorrect answer:\nFalse\nIn written work, you must cite the source of all quotations and ideas. True\nCorrect answer:\nFalse",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "If you do not cite your sources, you are guilty of plagiarism.",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Correct answer:",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "Plagiarism is the unauthorized and uncredited use of another person's ideas and written work.",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s5",
+        "text": "Correct answer:",
+        "correctAnswer": null
+      },
+      {
+        "id": "s7",
+        "text": "You must cite your sources only when you use someone else's work exactly as it was originally",
+        "correctAnswer": null
+      },
+      {
+        "id": "s8",
+        "text": "created..",
+        "correctAnswer": null
+      },
+      {
+        "id": "s10",
+        "text": "Correct answer:",
+        "correctAnswer": null
+      },
+      {
+        "id": "s12",
+        "text": "In written work, you must cite the source of all quotations and ideas.",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s13",
+        "text": "Correct answer:",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "qRepor_104",
@@ -2254,7 +2674,7 @@
       },
       {
         "id": "o2",
-        "text": "Posting her vacation plans before she leaves so her friends know she is out of town  -- 24 of 26 --"
+        "text": "Posting her vacation plans before she leaves so her friends know she is out of town"
       }
     ],
     "correctAnswers": [
@@ -2278,13 +2698,43 @@
     "id": "qRepor_108",
     "sourceFile": "Report - Responses.pdf",
     "questionNumber": 108,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "Online messaging apps simplify the process of communicating with other people. For each statement, select True\nor False. Note: You will receive credit for each correct answer.\nAnswer Area\nEmojis are a constantly changing concept that may not universally reflect sources of study True\nCommunication through emojis reproduces social constructs such as stereotypes, prejudices, and limitations True\nPeople who use smart-messaging share the same beliefs and practices whether they are next door or in\nanother country\nFalse",
-    "options": [],
-    "correctAnswer": "o1"
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Emojis are a constantly changing concept that may not universally reflect sources of study",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Communication through emojis reproduces social constructs such as stereotypes, prejudices, and limitations",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "People who use smart-messaging share the same beliefs and practices whether they are next door or in",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "another country",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "qRepor_109",
@@ -2338,7 +2788,7 @@
       },
       {
         "id": "o2",
-        "text": "-- 25 of 26 --"
+        "text": ""
       }
     ],
     "correctAnswers": [
@@ -2405,7 +2855,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You are working on a research project and need to verify that an information source is in the public domain. For each\nstatement, select True if it is a reason a copyrighted work may become part of the public domain and False if it is not.\nThe copyright owner did not follow the copyright renewal process True\nThe copyright owner has chosen to place the work in the public domain True\nThe copyright has expired True\n\n-- 26 of 26 --",
+    "questionText": "You are working on a research project and need to verify that an information source is in the public domain. For each\nstatement, select True if it is a reason a copyrighted work may become part of the public domain and False if it is not.\nThe copyright owner did not follow the copyright renewal process True\nThe copyright owner has chosen to place the work in the public domain True\nThe copyright has expired True",
     "options": [],
     "correctAnswer": "o1"
   }

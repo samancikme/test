@@ -56,7 +56,9 @@ export default function OptionList({ type, options, value, onChange, isReview, c
                             {checked && type === 'checkbox' && !isReview && <Check size={14} className="text-white" />}
                             {isReview && (checked || (type === 'radio' && opt.id === correctAnswer) || (type === 'checkbox' && correctAnswers?.includes(opt.id))) && type === 'checkbox' && <Check size={14} className="text-white" />}
                         </div>
-                        <span className="text-base text-slate-700 dark:text-slate-200 flex-1 select-none">{opt.text}</span>
+                        <span className={`text-base flex-1 select-none ${checked && !isReview ? 'text-slate-900 dark:text-white font-medium' : 'text-slate-700 dark:text-slate-200'}`}>
+                            {opt.text}
+                        </span>
                         {ReviewIcon}
                     </div>
                 );

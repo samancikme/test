@@ -50,11 +50,12 @@ export default function Home({ startQuiz, availableTests }) {
                     </h3>
                     <div className="space-y-2 mb-4">
                         {availableTests.map((test) => (
-                            <label key={test.id} className={`flex items-center gap-3 p-3 rounded-lg border-2 cursor-pointer transition-all ${selectedTestId === test.id ? 'border-primary-500 bg-primary-50 dark:bg-primary-900/20 shadow-sm' : 'border-slate-200 dark:border-slate-700 hover:border-primary-300'}`}>
+                            <label key={test.id} className={`flex items-center gap-3 p-3 rounded-lg border-2 cursor-pointer transition-all ${selectedTestId === test.id ? 'border-primary-500 bg-primary-50 dark:bg-primary-900/30 shadow-sm text-slate-900 dark:text-white' : 'border-slate-200 dark:border-slate-700 hover:border-primary-300 text-slate-700 dark:text-slate-300'}`}>
+                                <input type="radio" className="hidden" name="test-selection" checked={selectedTestId === test.id} onChange={() => setSelectedTestId(test.id)} />
                                 <div className={`w-5 h-5 rounded-full border flex items-center justify-center ${selectedTestId === test.id ? 'border-primary-500 bg-primary-500' : 'border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800'}`}>
                                     {selectedTestId === test.id && <div className="w-2 h-2 bg-white rounded-full" />}
                                 </div>
-                                <div className="flex-1 text-sm font-medium">{test.title} <span className="text-slate-400 text-xs font-normal">({test.data.length} Qs)</span></div>
+                                <div className="flex-1 text-sm font-medium">{test.title} <span className={`${selectedTestId === test.id ? 'text-slate-500 dark:text-slate-400' : 'text-slate-400 dark:text-slate-500'} text-xs font-normal`}>({test.data.length} Qs)</span></div>
                             </label>
                         ))}
                     </div>

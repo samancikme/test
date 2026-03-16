@@ -1,0 +1,2073 @@
+[
+  {
+    "id": "q1",
+    "questionNumber": 1,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "You and your classmates are reading each other's shared digital documents. The document you are reading is well written, but you notice a factual error. You need to respectfully indicate the error to the author in a document comment. Which two actions should you take?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Provide the correct information in your comment if you have it."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Point out the error without explanation."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Write the correction in capital letters to ensure that the author will see it."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Keep the tone of your correction positive."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q2",
+    "questionNumber": 2,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each response.",
+    "questionText": "You find a social media post that shares inaccurate and misleading medical information. You decide to respond to the post. For each response, select Yes if it adheres to appropriate digital etiquette or No if it does not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "\"WRONG! Did you do ANY RESEARCH before posting this?\"",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "\"Many doctors, including Jane Smith of Harvard Medical School, disagree.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "\"It can be difficult to research everything, but there are many different sources to look at concerning this issue.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "\"This is just wrong and makes you look foolish! Obviously you didn't look at the research from Harvard Medical School!\"",
+        "correctAnswer": "no"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q3",
+    "questionNumber": 3,
+    "type": "matching",
+    "instruction": "Match each description to the correct Boolean search string.",
+    "questionText": "Match each description from the list on the left to the corresponding Boolean search string on the right.",
+    "pairs": [
+      {
+        "left": "Returns results for either word",
+        "right": "lions OR tigers"
+      },
+      {
+        "left": "Returns results excluding one word",
+        "right": "buffalo NOT bison"
+      },
+      {
+        "left": "Returns results for either word if another word is included",
+        "right": "(fish OR turtles) AND pacific ocean"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q4",
+    "questionNumber": 4,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "Select the option that allows you to secure Windows files or folders from unauthorized access.",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Encrypt contents to secure data"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Compress contents to save disk space"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "File is ready for archiving"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Allow this file to have contents indexed"
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q5",
+    "questionNumber": 5,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "When responding to an email, what is the best practice?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "BCC your friend on important emails."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Use reply all to make responses faster."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Reply immediately if you are busy."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Take your time to provide a thoughtful response."
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q6",
+    "questionNumber": 6,
+    "type": "short-answer",
+    "instruction": "Enter the correct option or setting name.",
+    "questionText": "You need to create a calendar event for a regular lunch meeting that will happen every Wednesday. Which option should you choose?",
+    "correctAnswerText": "Recurring / repeat weekly event",
+    "answerSource": "inferred; options not present in source file",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false,
+    "sourceIssue": "Source document did not include visible answer options."
+  },
+  {
+    "id": "q7",
+    "questionNumber": 7,
+    "type": "matching",
+    "instruction": "Match each file extension to its description.",
+    "questionText": "Match each file extension to its corresponding file format description.",
+    "pairs": [
+      {
+        "left": ".wav",
+        "right": "A digital audio container for storing noncompressed or uncompressed audio data, often used for CD audio"
+      },
+      {
+        "left": ".mp4",
+        "right": "A compressed video file that is optimal for devices with limited storage space"
+      },
+      {
+        "left": ".mp3",
+        "right": "A compressed audio file that is optimal for devices such as tablets and smartphones"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q8",
+    "questionNumber": 8,
+    "type": "matching",
+    "instruction": "Match each term to its definition.",
+    "questionText": "Move each presentation term from the list on the left to its definition on the right.",
+    "pairs": [
+      {
+        "left": "A file that contains ready-made styles",
+        "right": "Template"
+      },
+      {
+        "left": "A special effect used to introduce slides",
+        "right": "Transition"
+      },
+      {
+        "left": "A slide that controls the design of the associated slide layouts",
+        "right": "Master"
+      },
+      {
+        "left": "A visual effect that moves placeholders, text, and images on and off slides",
+        "right": "Animation"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q9",
+    "questionNumber": 9,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about webcam security, select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "It is recommended that everyone cover their webcam when not in use.",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s2",
+        "text": "All webcameras include a recording light that cannot be disabled through software.",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s3",
+        "text": "Disabling a webcam in your computer settings protects against any unauthorized access.",
+        "correctAnswer": "false"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q10",
+    "questionNumber": 10,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is the primary purpose of using heading styles in a document?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "To highlight important keywords throughout the document"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "To add color for emphasis in the text"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "To change the font size for visual differentiation"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "To create structure and enable a table of contents"
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q11",
+    "questionNumber": 11,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "You are working on a collaborative team with three other people, and your team is discussing a task over email. Your team disagrees about the task, and you feel strongly that your opinion is correct. Which two steps could you take to deal with this disagreement in a way that follows the standards of digital etiquette?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Compose an email using strong language that shows how you feel about the task, and send it to everyone in your organization."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Pause the conversation to research the issue further, then compose a clear email describing your opinion."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Post about your team's disagreement publicly on social media and ask for the opinions of your friends and followers."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Schedule an in-person or virtual meeting with the whole team to discuss the task together face-to-face."
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q12",
+    "questionNumber": 12,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each symptom.",
+    "questionText": "For each physical symptom, select Yes if it is a sign of repetitive strain injury (RSI) or No if it is not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Pain",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s2",
+        "text": "Itching",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s3",
+        "text": "Tingling",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Weakness",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q13",
+    "questionNumber": 13,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "Which two statements about document file permissions are true?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Setting a document to Read-Only prevents others from making a new copy of the document."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "The default setting for any new word processing document is Read-Only."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Setting a document to Read-Write allows others to change the document content and add comments to the document."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "A Read-Only document can be viewed but not modified."
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q14",
+    "questionNumber": 14,
+    "type": "matching",
+    "instruction": "Match each collaboration tool to its description.",
+    "questionText": "Move each digital collaboration tool from the list on the left to its description on the right.",
+    "pairs": [
+      {
+        "left": "Collaborators can edit files at the same time and automatically save their changes",
+        "right": "Cloud file sharing"
+      },
+      {
+        "left": "Collaborators can simultaneously brainstorm, review, and edit visual information by writing, drawing, and inserting images",
+        "right": "Online whiteboard"
+      },
+      {
+        "left": "Collaborators participate in learning activities and immediately share reactions, interpretations, and ideas for application of the ideas presented",
+        "right": "Webinar"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q15",
+    "questionNumber": 15,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to research whether a snake is a good pet to have. Which search result presents a different perspective from the other three?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Do Snakes Make Good Pets? — www.snakerights.org — Snakes are wild animals and should never be kept as pets. Even if they are not poisonous, they are dangerous and cannot be tamed."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "How to Choose the Best Pet Snake For You — www.vetmed.famu.edu — Before choosing a pet snake, consider how much space you have to keep your snake. You will need a tank large enough for your snake to grow."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Snakes as Pets — www.petshop.com — Ball pythons and corn snakes make great pets that are easy to care for, but larger species like boas should be kept only by experienced professionals."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "11 Best Pet Snakes for Beginners — www.petchronicles.com — One of the best pet snakes for young pet owners is the corn snake. Corn snakes are small, calm, and have a beautiful color pattern."
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q16",
+    "questionNumber": 16,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are applying for a job in your chosen career field. Potential employers will access your professional online profile. What should you do to support your professional online profile?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Update the profile regularly to showcase your skills."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Restrict access to the profile to maintain privacy."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Include information about personal activities to demonstrate balance."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Include your salary history and expectations."
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q17",
+    "questionNumber": 17,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "A school principal is composing an email message to parents. What should the principal do?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Send one message to a contact group that includes only the students' email addresses."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Send one message to all parents using the Cc field."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Send a message to the parent of each student who has been tardy."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Send one message to all parents using the Bcc field."
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q18",
+    "questionNumber": 18,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "What are two universal design principles for computing hardware?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Easy to keep clean"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Size and space for approach and use"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Equitable use"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Internet of Things connected"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q19",
+    "questionNumber": 19,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each statement.",
+    "questionText": "You are preparing to write a research paper. You find a scientific study that relates to your topic. You need to determine whether the study is credible. For each statement, select Yes if you should consider it when determining the credibility of the study or No if you should not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The popularity of the study",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "The organization that funded the study",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "The entity that published the study results",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q20",
+    "questionNumber": 20,
+    "type": "ordering",
+    "instruction": "Arrange the actions in the correct sequence.",
+    "questionText": "You are creating a project proposal document with a partner. In what sequence should the actions be performed?",
+    "items": [
+      "Add comments and track changes in the document",
+      "Share a link to the document",
+      "Create a new document and upload it to cloud storage",
+      "Review and accept or reject comments and changes"
+    ],
+    "correctOrder": [
+      "Create a new document and upload it to cloud storage",
+      "Share a link to the document",
+      "Add comments and track changes in the document",
+      "Review and accept or reject comments and changes"
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q21",
+    "questionNumber": 21,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each question.",
+    "questionText": "Your company wants to improve the design of an electric ride-on vehicle it manufactures. You need to survey retail customers who purchased the vehicle and provide usable feedback to help achieve the goal.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Do you like the vehicle?",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "What would make the vehicle better?",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "What are the most important features of the vehicle?",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Would you recommend this ride-on vehicle to a friend?",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q22",
+    "questionNumber": 22,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about the difference between CPUs and GPUs, select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You typically upgrade a laptop GPU by replacing the display",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s2",
+        "text": "Some CPUs have a built-in GPU and don't rely on a graphics card",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s3",
+        "text": "Many modern computers and game systems have only a GPU and not a CPU",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s4",
+        "text": "Modern GPUs run increasingly complex workloads, including deep learning and artificial intelligence",
+        "correctAnswer": "true"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q23",
+    "questionNumber": 23,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are in a loud room. What should you do to hear audio through the headphones instead of the speakers?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Manage output devices"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Mute your computer speakers"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Manage input devices"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Configure Ease of Access audio settings"
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q24",
+    "questionNumber": 24,
+    "type": "matching",
+    "instruction": "Match each AI ethical challenge to its description.",
+    "questionText": "Move the Artificial Intelligence ethical challenge on the left to its description on the right.",
+    "pairs": [
+      {
+        "left": "AI's limited comprehension of social norms and cultural aspects can result in inappropriate or false content",
+        "right": "Lack of contextual understanding"
+      },
+      {
+        "left": "AI-generated content may perpetuate stereotypes or discriminatory views, influencing public opinion negatively",
+        "right": "Promotion of harmful biased views"
+      },
+      {
+        "left": "AI may exhibit limited openness, potentially misleading the audience regarding the origin and intent of the content",
+        "right": "Deception and lack of transparency"
+      },
+      {
+        "left": "AI can create manipulated media that may deceive individuals, spread misinformation, and undermine trust in visual evidence",
+        "right": "Deepfake development"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q25",
+    "questionNumber": 25,
+    "type": "short-answer",
+    "instruction": "Enter the correct setting name.",
+    "questionText": "You need to change the speed of the mouse cursor as it moves across your computer screen. Which option should you choose?",
+    "correctAnswerText": "Tracking speed",
+    "answerSource": "document text",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q26",
+    "questionNumber": 26,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You are working on your laptop computer in a sunny outside area. You need to minimize eyestrain. Which monitor setting should you adjust?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Contrast"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Sharpness"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Scale"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Brightness"
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q27",
+    "questionNumber": 27,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each resource.",
+    "questionText": "You are doing research for a school project on AI. For each resource, select Yes if it is helpful or No if it is not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Asking teachers and friends",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s2",
+        "text": "Searching an online forum",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "Reading textbooks",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Publishing an opinion online",
+        "correctAnswer": "no"
+      }
+    ],
+    "answerSource": "document marks",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q28",
+    "questionNumber": 28,
+    "type": "short-answer",
+    "instruction": "Enter the correct button name.",
+    "questionText": "You write an essay. A classmate reviews the essay and suggests corrections. You need to permanently implement the corrections in your document. Which button should you select?",
+    "correctAnswerText": "Accept (Accept All Changes)",
+    "answerSource": "document text",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q29",
+    "questionNumber": 29,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which practice should be used when sharing photos online?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Always include the names of everyone in the photo to give proper credit"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Always tag everyone in the photo to make sure they see it"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Add captions that provide context to the photos"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Share photos on your public account of your friends and family"
+      }
+    ],
+    "correctAnswer": "o3",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q30",
+    "questionNumber": 30,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each resource.",
+    "questionText": "You are using a new software program to create a presentation. You need to use a function that you are unfamiliar with. For each resource, select Yes if you could use it to find help or No if you could not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "\"WRONG! Did you do ANY RESEARCH before posting this?\"",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "\"Many doctors, including Jane Smith of Harvard Medical School, disagree.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "\"It can be difficult to research everything, but there are many different sources to look at concerning this issue.\"",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "\"This is just wrong and makes you look foolish! Obviously you didn't look at the research from Harvard Medical School!\"",
+        "correctAnswer": "no"
+      }
+    ],
+    "answerSource": "document table, but the table appears duplicated/mismatched with the question text",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false,
+    "sourceIssue": "Question text and answer table do not match in the source document; preserved exactly as found."
+  },
+  {
+    "id": "q31",
+    "questionNumber": 31,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You have separate Google accounts for school and personal use. What should you do?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Configure both accounts to use the same password"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Link your personal account and school account Google Drives"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Switch from your personal Google account to your school account"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "In your personal Google account settings, unblock your school account"
+      }
+    ],
+    "correctAnswer": "o3",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q32",
+    "questionNumber": 32,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "Which element of the email message displays appropriate email etiquette?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Greeting"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Punctuation"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Grammar"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Capitalization"
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q33",
+    "questionNumber": 33,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about cloud computing, select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Cloud-based applications must be manually updated",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s2",
+        "text": "Cloud-based storage and applications have no possibility of service outage",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s3",
+        "text": "You can access files in cloud storage from anywhere if you are connected to the internet",
+        "correctAnswer": "true"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q34",
+    "questionNumber": 34,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about portable device security, select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You should disable the Autorun and Autoplay features for all removable media devices",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s2",
+        "text": "You should keep your work and personal files on separate media devices and never plug a personal device into a work computer or vice versa",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s3",
+        "text": "If you find a media storage device and don’t know who it belongs to, plug the device into your computer to find information about its owner",
+        "correctAnswer": "false"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q35",
+    "questionNumber": 35,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "Which two groups of files demonstrate good file naming conventions?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "myposter.psd, newposter.psd, poster.psd"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "poster_draft1.psd, poster_draft2.psd, poster_FINAL.psd"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "poster_original.psd, poster_cropped.psd, poster_grayscale.psd"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "poster.psd, poster copy.psd, poster copy 2.psd"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q36",
+    "questionNumber": 36,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "Bryce is experiencing anxiety and depression due to his fear of missing out (FOMO). What are two symptoms or effects of his FOMO?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "He needs to understand all the “in jokes” his friends post on social media."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Whenever he enjoys an activity, he must immediately update his status online."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "He becomes nervous when giving a class presentation."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "He worries that his grades will suffer if he does not complete his homework."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q37",
+    "questionNumber": 37,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "You’re having trouble printing from your computer. For each statement, select True if it is a method of confirming a successful connection to a printer or False if it is not.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "For a direct-connected printer, replace the connection cable with a CAT6 cable",
+        "correctAnswer": "false"
+      },
+      {
+        "id": "s2",
+        "text": "Check the status of the printer connection in the Printers & Scanners setting window",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s3",
+        "text": "For an Ethernet-connected printer, ensure that the Ethernet cable is connected directly to the computer instead of through a switch or router",
+        "correctAnswer": "false"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q38",
+    "questionNumber": 38,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is the primary advantage of using file compression?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Improved file readability"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Increased file size"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Decreased file security"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Faster data transfer"
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q39",
+    "questionNumber": 39,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "What are two benefits of working collaboratively?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "It promotes a more complete understanding of the topic."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "It develops interpersonal relationships among peers."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "It isn't affected by the failure of a single team member to perform."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "It enforces a unified working style for all team members."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q40",
+    "questionNumber": 40,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "What are two effects of FOMO (fear of missing out)?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Increased social media use"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Decreased self-esteem"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Decreased motivation"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Increased humility"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q41",
+    "questionNumber": 41,
+    "type": "matching",
+    "instruction": "Classify each item as Goods or Services.",
+    "questionText": "Internet commerce providers sell various goods and services online. Classify each item as Goods or Services.",
+    "pairs": [
+      {
+        "left": "Bluetooth headset",
+        "right": "Goods"
+      },
+      {
+        "left": "Network router",
+        "right": "Goods"
+      },
+      {
+        "left": "Cloud storage",
+        "right": "Services"
+      },
+      {
+        "left": "Software subscription",
+        "right": "Services"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q42",
+    "questionNumber": 42,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "To create an effective presentation, which method would best animate slide content?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Avoid using transitions and animations altogether"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Use slide transitions that complement the presentation's theme"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Animate only text elements, leaving images static"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Apply animations to all elements to keep audience engaged"
+      }
+    ],
+    "correctAnswer": "o2",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q43",
+    "questionNumber": 43,
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "questionText": "Which three services are audio streaming services?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Spotify"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Pandora"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "SiriusXM"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Vevo"
+      },
+      {
+        "id": "o5",
+        "label": "E",
+        "text": "Hulu"
+      },
+      {
+        "id": "o6",
+        "label": "F",
+        "text": "UHF"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q44",
+    "questionNumber": 44,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "Your friend asks you to review a PowerPoint presentation. Which two visual unity guidelines should you tell your friend to follow?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Apply the design principles of repetition, alignment, and proximity"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Maintain consistency across all presentation elements"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Center the text and visual elements on each slide"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Use a wide variety of fonts, colors, and backgrounds on each slide"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q45",
+    "questionNumber": 45,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is the name of the technology in which large groups of remote servers are networked to allow the following: sharing of data-processing tasks, centralized data storage, and online access to computer services or resources?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Virtual private network (VPN)"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Cloud data storage"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Cloud computing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Virtual machine (VM)"
+      }
+    ],
+    "correctAnswer": "o3",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q46",
+    "questionNumber": 46,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "What is the benefit of selecting a printer as the system default?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "The default printer will remain powered on at all times."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "The default printer can notify you when it is low on ink or toner."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "The default printer can receive print job any device connected to the internet."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "The default printer will automatically be selected when you click Print."
+      }
+    ],
+    "correctAnswer": "o4",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q47",
+    "questionNumber": 47,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each statement.",
+    "questionText": "You need to research the impacts of online learning and assess the relevance of your search results. For each statement, select Yes if the search result is relevant to your topic or No if it is not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "An article about the benefits of education",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s2",
+        "text": "A website offering educational resources for sale",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s3",
+        "text": "A graph comparing test scores of students in online and in-person educational systems",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "An article in an educational magazine about teachers' online teaching experiences",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q48",
+    "questionNumber": 48,
+    "type": "matching",
+    "instruction": "Match each type of question to the appropriate method of contacting your supervisor.",
+    "questionText": "It is late at night, after work hours. You have a question for your supervisor. Match each type of question to the appropriate method of contacting your supervisor.",
+    "pairs": [
+      {
+        "left": "A general work-related question that does not require an immediate answer",
+        "right": "Send an email to your supervisor and schedule its delivery for 9:00 the next morning."
+      },
+      {
+        "left": "A personal situation that you would like your supervisor's opinion on",
+        "right": "Speak to your supervisor in person during a break the next day."
+      },
+      {
+        "left": "An emergency situation that your supervisor needs to be aware of immediately",
+        "right": "Call or text your supervisor on their cell phone"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q49",
+    "questionNumber": 49,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "You need to send several high-resolution photos as an email attachment, but the file size is too large. What action will make the files easier to share?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Compress the files into a .zip folder."
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Increase the resolution of each photo."
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Add the photos to a document file."
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Change the file format of each photo to .svg."
+      }
+    ],
+    "correctAnswer": "o1",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q50",
+    "questionNumber": 50,
+    "type": "single",
+    "instruction": "Choose the correct option.",
+    "questionText": "A teenage neighbor creates a social media account through which she pretends to be a 40-year-old man. What is your neighbor doing?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Phishing"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Cyberhacking"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Catfishing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Trolling"
+      }
+    ],
+    "correctAnswer": "o3",
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q51",
+    "questionNumber": 51,
+    "type": "matching",
+    "instruction": "Match each technique to the correct definition.",
+    "questionText": "Sindi records a video for a school project. She only wants to use certain parts of the video. She decides to edit the video. Match each technique to the correct definition.",
+    "pairs": [
+      {
+        "left": "Hide portions of a video frame",
+        "right": "Crop"
+      },
+      {
+        "left": "Join two video clips together",
+        "right": "Splice"
+      },
+      {
+        "left": "Cut a video clip into two segments",
+        "right": "Split"
+      },
+      {
+        "left": "Remove the beginning and end of the clip",
+        "right": "Trim"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q52",
+    "questionNumber": 52,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "Which two communication methods are asynchronous?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Telephoning"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Text messaging"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Videoconferencing"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Emailing"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q53",
+    "questionNumber": 53,
+    "type": "statement-grid",
+    "instruction": "Select True or False for each statement.",
+    "questionText": "For each statement about central processing units (CPUs), select True or False.",
+    "options": [
+      {
+        "id": "true",
+        "text": "True"
+      },
+      {
+        "id": "false",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Most modern CPUs are built to support 64-bit systems",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s2",
+        "text": "When properly used, CPUs typically have an attached air cooler or liquid cooler",
+        "correctAnswer": "true"
+      },
+      {
+        "id": "s3",
+        "text": "The CPU speed affects the frames per second (fps) rendered in a 3D game",
+        "correctAnswer": "true"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q54",
+    "questionNumber": 54,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "What are two universal design principles for computing hardware?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Internet of Things connected: Implement online functionality whenever possible to improve the user experience"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Keep costs low: Use less expensive parts whenever possible to reduce build costs"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Tolerance for error: Minimize hazards and the adverse consequences of accidental or unintended actions"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Equitable use: The design is useful and marketable to people with diverse abilities"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q55",
+    "questionNumber": 55,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each statement.",
+    "questionText": "For each statement about web browsers, select Yes if you can perform the task or No if you cannot.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Customize browser buttons, menus, or toolbars",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s2",
+        "text": "Change the preprogrammed browser home page",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s3",
+        "text": "Add plug-ins and extensions to a browser for additional functionality",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q56",
+    "questionNumber": 56,
+    "type": "statement-grid",
+    "instruction": "Select Yes or No for each statement.",
+    "questionText": "Your job requires you to work at a computer for several hours each day. You are concerned that you will develop eye strain. For each action, select Yes if it will prevent eye strain or No if it will not.",
+    "options": [
+      {
+        "id": "yes",
+        "text": "Yes"
+      },
+      {
+        "id": "no",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Blink often",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s2",
+        "text": "Work in a very dark room",
+        "correctAnswer": "no"
+      },
+      {
+        "id": "s3",
+        "text": "Frequently change your focus from the computer screen to something at least six meters away",
+        "correctAnswer": "yes"
+      },
+      {
+        "id": "s4",
+        "text": "Position your monitor so it is an arm’s length away from you and the top of the screen is at your eye level",
+        "correctAnswer": "yes"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q57",
+    "questionNumber": 57,
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "questionText": "Your class is meeting in a video conference. You and three other students will take turns presenting information both on camera and while sharing your screens individually. Which three actions should you take before you present?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "Practice your presentation while others are presenting"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "Present from outdoors to be in natural lighting"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "Make sure the images in your presentation are school appropriate"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "Let other students know that they can share screens simultaneously"
+      },
+      {
+        "id": "o5",
+        "label": "E",
+        "text": "Test and practice using the screen-sharing feature"
+      },
+      {
+        "id": "o6",
+        "label": "F",
+        "text": "Close any programs and browser tabs that you won’t need"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o5",
+      "o6"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q58",
+    "questionNumber": 58,
+    "type": "matching",
+    "instruction": "Move each type of in-app purchase to its description.",
+    "questionText": "Move each type of in-app purchase from the list on the left to its description on the right.",
+    "pairs": [
+      {
+        "left": "Subscribe to a video streaming service",
+        "right": "Auto-renewable (Avtomatik yangilanuvchi obuna)"
+      },
+      {
+        "left": "Unlock a special feature in a video game",
+        "right": "Non-consumable (Sarflanmaydigan/Doimiy xarid)"
+      },
+      {
+        "left": "Purchase gems or coins for mobile games",
+        "right": "Consumable (Sarflanadigan xarid)"
+      },
+      {
+        "left": "Rent an online movie through a streaming service",
+        "right": "Non-renewable (Yangilanmaydigan/Bir martalik)"
+      }
+    ],
+    "answerSource": "document table",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q59",
+    "questionNumber": 59,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "You are considering a future career in the information technology (IT) industry. The summer before your senior year of high school, you are offered an unpaid summer internship at a local technology firm. What are two reasons to accept the internship?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "To learn new IT skills"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "To learn to supervise other IT workers"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "To apply your IT knowledge in a professional setting"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "To teach IT skills to the firm’s employees"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  },
+  {
+    "id": "q60",
+    "questionNumber": 60,
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "questionText": "You need to appropriately protect your privacy and security. In which two situations should you disable the camera on your online device?",
+    "options": [
+      {
+        "id": "o1",
+        "label": "A",
+        "text": "When exchanging messages with distant relatives"
+      },
+      {
+        "id": "o2",
+        "label": "B",
+        "text": "When chatting with other players during a public online gaming session"
+      },
+      {
+        "id": "o3",
+        "label": "C",
+        "text": "When participating in a distance learning class session"
+      },
+      {
+        "id": "o4",
+        "label": "D",
+        "text": "When watching a virtual college tour with hundreds of participants"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ],
+    "answerSource": "inferred",
+    "topic": "General",
+    "difficulty": "Medium",
+    "hasImage": false
+  }
+]

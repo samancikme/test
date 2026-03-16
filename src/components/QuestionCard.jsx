@@ -2,6 +2,9 @@ import React from 'react';
 import { Flag, Info } from 'lucide-react';
 import OptionList from './QuestionTypes/OptionList';
 import StatementGrid from './QuestionTypes/StatementGrid';
+import ShortAnswer from './QuestionTypes/ShortAnswer';
+import Matching from './QuestionTypes/Matching';
+import Ordering from './QuestionTypes/Ordering';
 
 export default function QuestionCard({ question, index, total, answer, onChange, isFlagged, onFlag, isReview }) {
     return (
@@ -61,6 +64,31 @@ export default function QuestionCard({ question, index, total, answer, onChange,
                         statements={question.statements}
                         options={question.options}
                         value={answer || {}}
+                        onChange={onChange}
+                        isReview={isReview}
+                    />
+                )}
+                {question.type === 'short-answer' && (
+                    <ShortAnswer
+                        value={answer || ''}
+                        onChange={onChange}
+                        isReview={isReview}
+                        correctAnswerText={question.correctAnswerText}
+                    />
+                )}
+                {question.type === 'matching' && (
+                    <Matching
+                        pairs={question.pairs}
+                        value={answer || {}}
+                        onChange={onChange}
+                        isReview={isReview}
+                    />
+                )}
+                {question.type === 'ordering' && (
+                    <Ordering
+                        items={question.items}
+                        correctOrder={question.correctOrder}
+                        value={answer || null}
                         onChange={onChange}
                         isReview={isReview}
                     />

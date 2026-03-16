@@ -139,12 +139,39 @@
     "id": "q1-Lev_5",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 5,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about the Android operating system, select True or False.\nNote: You will receive credit for each correct response.\nAnswer Area\nAndroid is open-source software True\nAndroid is a desktop operating system False\nAndroid requires the Google App Store False\n\n-- 1 of 21 --",
-    "image": "/images/1-Level_1_80_SORAW_p6_i2.png"
+    "questionText": "For each statement about the Android operating system, select True or False.\nNote: You will receive credit for each correct response.\nAnswer Area\nAndroid is open-source software True\nAndroid is a desktop operating system False\nAndroid requires the Google App Store False",
+    "image": "/images/1-Level_1_80_SORAW_p6_i2.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Android is open-source software",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Android is a desktop operating system",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Android requires the Google App Store",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_7",
@@ -184,12 +211,39 @@
     "id": "q1-Lev_9",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 9,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "You need to identify personally identifiable information (PII) that you should\nnot expose online. For each statement, select Yes if it is personally identifiable information or\nNo if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nEye color False\nDate of birth True\nPassport number True",
-    "image": "/images/1-Level_1_80_SORAW_p8_i0.png"
+    "image": "/images/1-Level_1_80_SORAW_p8_i0.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Eye color False",
+        "correctAnswer": null
+      },
+      {
+        "id": "s2",
+        "text": "Date of birth True",
+        "correctAnswer": null
+      },
+      {
+        "id": "s3",
+        "text": "Passport number True",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_10",
@@ -209,7 +263,7 @@
       {
         "id": "o2",
         "label": "B",
-        "text": "History or Timeline\n\n-- 3 of 21 --"
+        "text": "History or Timeline"
       },
       {
         "id": "o3",
@@ -263,12 +317,44 @@
     "id": "q1-Lev_12",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 12,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about time differences between wired and wireless\nnetworking, select True or False. Note: You will receive credit for each correct answer.\nAnswer Area\nAn encrypted Wi-Fi connection is more secure than an Ethernet connection False\nWireless networks typically have slower data transmission speeds than Ethernet connections\nTrue\nAn Ethernet connection typically provides fast network connection speeds than a Wi-Fi\nconnection True",
-    "image": "/images/1-Level_1_80_SORAW_p10_i0.png"
+    "image": "/images/1-Level_1_80_SORAW_p10_i0.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "An encrypted Wi-Fi connection is more secure than an Ethernet connection",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Wireless networks typically have slower data transmission speeds than Ethernet connections",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "An Ethernet connection typically provides fast network connection speeds than a Wi-Fi",
+        "correctAnswer": null
+      },
+      {
+        "id": "s5",
+        "text": "connection",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_13",
@@ -327,7 +413,7 @@
       {
         "id": "o3",
         "label": "C",
-        "text": "Mbps\n\n-- 4 of 21 --"
+        "text": "Mbps"
       },
       {
         "id": "o4",
@@ -342,12 +428,39 @@
     "id": "q1-Lev_15",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 15,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "You are researching information in a long document. For each statement,\nselect Yes if you can use the Find feature to complete the task, or No if you cannot. Note: You\nwill receive credit for each correct answer.\nAnswer Area\nLocate a keyword or phrase within the document Yes\nChange the format of all citations in your document No\nIdentify pages that include references by a specific author No",
-    "image": "/images/1-Level_1_80_SORAW_p10_i3.png"
+    "image": "/images/1-Level_1_80_SORAW_p10_i3.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Locate a keyword or phrase within the document",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Change the format of all citations in your document",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Identify pages that include references by a specific author",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_16",
@@ -411,7 +524,7 @@
       {
         "id": "o4",
         "label": "D",
-        "text": "Enter\n\n-- 5 of 21 --"
+        "text": "Enter"
       }
     ],
     "correctAnswer": "o1",
@@ -513,7 +626,7 @@
       {
         "id": "o3",
         "label": "C",
-        "text": "Comply with the terms of the Acceptable Use Policy while using your school's Wi-Fi.\n\n-- 6 of 21 --"
+        "text": "Comply with the terms of the Acceptable Use Policy while using your school's Wi-Fi."
       },
       {
         "id": "o4",
@@ -528,23 +641,87 @@
     "id": "q1-Lev_21",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 21,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "For each statement about the benefits of a good network infrastructure, select\nTrue or False. Note: You will receive credit for each correct answer.\nAnswer Area\nEnsures that students can consistently connect to the campus network True\nEnables students to connect to the school's computer lab from any location False\nSupports the scaling of the school network without redesign as the student population increases True",
-    "image": "/images/1-Level_1_80_SORAW_p11_i3.png"
+    "image": "/images/1-Level_1_80_SORAW_p11_i3.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Ensures that students can consistently connect to the campus network",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Enables students to connect to the school's computer lab from any location",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Supports the scaling of the school network without redesign as the student population increases",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_22",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 22,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "Your class is planning a field trip to visit college campuses. Your teacher\nschedules a video conference for the trip participants using software that displays each attendee on\nscreen as shown.\nYou need to follow appropriate digital etiquette standards during the video conference.\nFor each statement, select Yes if it represents appropriate digital etiquette or No if it does not.\nNote: You will receive credit for each correct answer.\nAnswer Area\nTest the software before the meeting start time Yes\nPosition yourself and the camera so the camera lens is at eye level Yes\nEnsure that your microphone is always on so you can participate No\nWhen it's your turn to speak, introduce yourself and look at the onscreen\nimage of the person you're addressing No",
-    "image": "/images/1-Level_1_80_SORAW_p1_i1.png"
+    "image": "/images/1-Level_1_80_SORAW_p1_i1.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Test the software before the meeting start time",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Position yourself and the camera so the camera lens is at eye level",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Ensure that your microphone is always on so you can participate",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s4",
+        "text": "When it's your turn to speak, introduce yourself and look at the onscreen",
+        "correctAnswer": null
+      },
+      {
+        "id": "s5",
+        "text": "image of the person you're addressing",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_23",
@@ -564,7 +741,7 @@
       {
         "id": "o2",
         "label": "B",
-        "text": "Clear the browser's history\n\n-- 7 of 21 --"
+        "text": "Clear the browser's history"
       },
       {
         "id": "o3",
@@ -618,23 +795,82 @@
     "id": "q1-Lev_25",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 25,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about open source software, select True or False. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nAll free software is open source software False\nAnyone can inspect, modify, and enhance the source code of open source software True\nYou must agree to an End User License Agreement before using open source software False\n\n-- 8 of 21 --",
-    "image": "/images/1-Level_1_80_SORAW_p13_i2.png"
+    "questionText": "For each statement about open source software, select True or False. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nAll free software is open source software False\nAnyone can inspect, modify, and enhance the source code of open source software True\nYou must agree to an End User License Agreement before using open source software False",
+    "image": "/images/1-Level_1_80_SORAW_p13_i2.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "All free software is open source software",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Anyone can inspect, modify, and enhance the source code of open source software",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "You must agree to an End User License Agreement before using open source software",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_26",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 26,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "Your teacher instructs you to research a poster, a poem, a dramatic work, and an\nimage that are protected by any of the six Creative Commons licenses and are not dedicated to the\npublic domain. For each type of content use, select Yes if the terms of the Creative Commons\nlicenses allow the use of the work or No if they do not.\nAnswer Area\nDisplay the poster during a free movie night at your school No\nInclude the poem as part of a portfolio of your original work Yes\nPerform the dramatic work for parents at a class talent show Yes\nDisplay the image to other students as part of an in-class presentation Yes",
-    "image": "/images/1-Level_1_80_SORAW_p2_i0.png"
+    "image": "/images/1-Level_1_80_SORAW_p2_i0.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Display the poster during a free movie night at your school",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Include the poem as part of a portfolio of your original work",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Perform the dramatic work for parents at a class talent show",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "Display the image to other students as part of an in-class presentation",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_27",
@@ -676,7 +912,7 @@
       {
         "id": "o4",
         "label": "D",
-        "text": "Including random letters and numbers for security\n\n-- 9 of 21 --"
+        "text": "Including random letters and numbers for security"
       }
     ],
     "correctAnswer": "o1",
@@ -822,12 +1058,49 @@
     "id": "q1-Lev_33",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 33,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "Online messaging apps simplify the process of communicating with other people.\nFor each statement, select True or False. Note: You will receive credit for each correct answer.\nAnswer Area\nPeople who use smart-messaging share the same beliefs and practices whether they are next door or in\nanother country False\nCommunication through emojis reproduces social constructs such as stereotypes, prejudices, and\nlimitations True\nEmojis are a constantly changing concept that may not universally reflect sources of study True",
-    "image": "/images/1-Level_1_80_SORAW_p18_i0.png"
+    "image": "/images/1-Level_1_80_SORAW_p18_i0.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "People who use smart-messaging share the same beliefs and practices whether they are next door or in",
+        "correctAnswer": null
+      },
+      {
+        "id": "s2",
+        "text": "another country",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Communication through emojis reproduces social constructs such as stereotypes, prejudices, and",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "limitations",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s5",
+        "text": "Emojis are a constantly changing concept that may not universally reflect sources of study",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_34",
@@ -837,7 +1110,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Move each data storage device from the list on the left to the correct definition on\nthe right.\nNote: You will receive credit for each correct answer.\nA compact, lightweight external data storage device that uses flash memory USB flash drive\nAn external data storage device powered through the USB port of the computer Portable hard\ndrive\n\n-- 10 of 21 --\n\nAn internal data storage device that stores and retrieves data using flash memory Solid-state drive\nAn internal electromechanical data storage device that stores and retrieves data using a rapidly rotating\nplatter Hard disk drive",
+    "questionText": "Move each data storage device from the list on the left to the correct definition on\nthe right.\nNote: You will receive credit for each correct answer.\nA compact, lightweight external data storage device that uses flash memory USB flash drive\nAn external data storage device powered through the USB port of the computer Portable hard\ndrive\n\n\n\nAn internal data storage device that stores and retrieves data using flash memory Solid-state drive\nAn internal electromechanical data storage device that stores and retrieves data using a rapidly rotating\nplatter Hard disk drive",
     "image": "/images/1-Level_1_80_SORAW_p18_i1.png"
   },
   {
@@ -893,19 +1166,51 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Move each cable from the list on the left to the best connection on the right.\nNote: You will receive credit for each correct answer.\nUSB A\nUSB-C\n\n-- 11 of 21 --\n\nLightning\nMicro USB",
+    "questionText": "Move each cable from the list on the left to the best connection on the right.\nNote: You will receive credit for each correct answer.\nUSB A\nUSB-C\n\n\n\nLightning\nMicro USB",
     "image": "/images/1-Level_1_80_SORAW_p19_i2.png"
   },
   {
     "id": "q1-Lev_38",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 38,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "You need to identify the functions that are managed by a computer operating\nsystem (not by an app). For each task, select OS if it is managed by the operating system and App if\nit is not. Note: You will not receive credit for a clean correct answer.\nAnswer Area\nEdits text files App\nSearches the internet App\nAllocates hardware resources OS\nCommunicates with peripheral devices\nOS",
-    "image": "/images/1-Level_1_80_SORAW_p20_i0.png"
+    "image": "/images/1-Level_1_80_SORAW_p20_i0.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "App"
+      },
+      {
+        "id": "o2",
+        "text": "OS"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Edits text files",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Searches the internet",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Allocates hardware resources",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s4",
+        "text": "Communicates with peripheral devices",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_39",
@@ -950,11 +1255,43 @@
     "id": "q1-Lev_40",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 40,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You are writing a research paper. You need to add references to your work. For\neach scenario, select YES if you must add a reference or NO if you do not. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nYou use an idea from a news article YES\nYou write something new and original NO\nYou pull a paragraph from a webpage YES\nYou paraphrase content from a magazine article YES\n\n-- 12 of 21 --"
+    "questionText": "You are writing a research paper. You need to add references to your work. For\neach scenario, select YES if you must add a reference or NO if you do not. Note:\nYou will receive credit for each correct answer.\nAnswer Area\nYou use an idea from a news article YES\nYou write something new and original NO\nYou pull a paragraph from a webpage YES\nYou paraphrase content from a magazine article YES",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You use an idea from a news article YES",
+        "correctAnswer": null
+      },
+      {
+        "id": "s2",
+        "text": "You write something new and original NO",
+        "correctAnswer": null
+      },
+      {
+        "id": "s3",
+        "text": "You pull a paragraph from a webpage YES",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "You paraphrase content from a magazine article YES",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_41",
@@ -1092,11 +1429,38 @@
     "id": "q1-Lev_45",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 45,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You are searching the web for information about how to grow your own\nvegetables. You scan through several pages of results. You need to determine which results are\nrelevant to your search. For each webpage description, select Yes if the page is relevant to your\nsearch or No if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nA tabloid magazine article about celebrity gardens NO\nA how-to article published by a prestigious university YES\nAn ad for a popular gardening blog NO\n\n-- 13 of 21 --"
+    "questionText": "You are searching the web for information about how to grow your own\nvegetables. You scan through several pages of results. You need to determine which results are\nrelevant to your search. For each webpage description, select Yes if the page is relevant to your\nsearch or No if it is not. Note: You will receive credit for each correct answer.\nAnswer Area\nA tabloid magazine article about celebrity gardens NO\nA how-to article published by a prestigious university YES\nAn ad for a popular gardening blog NO",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "A tabloid magazine article about celebrity gardens NO",
+        "correctAnswer": null
+      },
+      {
+        "id": "s2",
+        "text": "A how-to article published by a prestigious university YES",
+        "correctAnswer": null
+      },
+      {
+        "id": "s3",
+        "text": "An ad for a popular gardening blog NO",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_46",
@@ -1135,11 +1499,43 @@
     "id": "q1-Lev_47",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 47,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about printing documents, select True or False.\nAnswer Area\nYou can change document margins from the Print settings False\nDuplex printing prints file content on both sides of the paper True\nYou can only change the paper size from the Page Setup option False\nTo preserve file formatting when electronically distributing a document, print the document to a PDF file\nTrue"
+    "questionText": "For each statement about printing documents, select True or False.\nAnswer Area\nYou can change document margins from the Print settings False\nDuplex printing prints file content on both sides of the paper True\nYou can only change the paper size from the Page Setup option False\nTo preserve file formatting when electronically distributing a document, print the document to a PDF file\nTrue",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You can change document margins from the Print settings",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Duplex printing prints file content on both sides of the paper",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "You can only change the paper size from the Page Setup option",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s4",
+        "text": "To preserve file formatting when electronically distributing a document, print the document to a PDF file",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_48",
@@ -1149,7 +1545,7 @@
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Move each computer hardware element from the list on the left to the\ncorresponding image on the right.\nCentral processing unit CPU - Image of the CPU\nHard disk drive HDD- Image of the hard disk drive\nMotherboard- Image of the motherboard\nSolid-state drive SSD - Image of the solid-state drive\n\n-- 14 of 21 --",
+    "questionText": "Move each computer hardware element from the list on the left to the\ncorresponding image on the right.\nCentral processing unit CPU - Image of the CPU\nHard disk drive HDD- Image of the hard disk drive\nMotherboard- Image of the motherboard\nSolid-state drive SSD - Image of the solid-state drive",
     "image": "/images/1-Level_1_80_SORAW_p2_i1.png"
   },
   {
@@ -1255,12 +1651,54 @@
     "id": "q1-Lev_52",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 52,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
     "questionText": "Digital Primacy – True or False Statements\nAnswer Area\nUpdating your browser every six months wipes your digital footprint clean False\nAnonymous online comments you post cannot be traced back to you if you use a web filter False\nPotential employers can find images and messages posted on social media by applicants under the age of\n18 True\nCompanies with which you share personal data in exchange for apps and services are not allowed to give\nthe data to anyone else False",
-    "image": "/images/1-Level_1_80_SORAW_p3_i0.png"
+    "image": "/images/1-Level_1_80_SORAW_p3_i0.png",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Updating your browser every six months wipes your digital footprint clean",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Anonymous online comments you post cannot be traced back to you if you use a web filter",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Potential employers can find images and messages posted on social media by applicants under the age of",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "18",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s5",
+        "text": "Companies with which you share personal data in exchange for apps and services are not allowed to give",
+        "correctAnswer": null
+      },
+      {
+        "id": "s6",
+        "text": "the data to anyone else",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_53",
@@ -1285,7 +1723,7 @@
       {
         "id": "o3",
         "label": "C",
-        "text": "Setting her social media location map to \"public\"\n\n-- 15 of 21 --"
+        "text": "Setting her social media location map to \"public\""
       },
       {
         "id": "o4",
@@ -1436,11 +1874,38 @@
     "id": "q1-Lev_58",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 58,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about Creative Commons, select True or False.\nAnswer Area\nAllows creators to grant licenses to only specific people False\nHelps facilitate the sharing and discovery of creative works on the web True\nProvides tools that allow creators to dedicate their works to the public domain True"
+    "questionText": "For each statement about Creative Commons, select True or False.\nAnswer Area\nAllows creators to grant licenses to only specific people False\nHelps facilitate the sharing and discovery of creative works on the web True\nProvides tools that allow creators to dedicate their works to the public domain True",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Allows creators to grant licenses to only specific people",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Helps facilitate the sharing and discovery of creative works on the web",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Provides tools that allow creators to dedicate their works to the public domain",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_59",
@@ -1465,7 +1930,7 @@
       {
         "id": "o3",
         "label": "C",
-        "text": "Use a mix of letters, numbers, and symbols\n\n-- 16 of 21 --"
+        "text": "Use a mix of letters, numbers, and symbols"
       },
       {
         "id": "o4",
@@ -1512,11 +1977,38 @@
     "id": "q1-Lev_61",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 61,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about copyright, select True or False.\nAnswer Area\nWork must be registered with the copyright office to be protected by copyright False\nCopyright laws protect the right to reproduce the copyrighted work True\nCopyright laws protect only works of art, such as paintings and sculptures\nFalse"
+    "questionText": "For each statement about copyright, select True or False.\nAnswer Area\nWork must be registered with the copyright office to be protected by copyright False\nCopyright laws protect the right to reproduce the copyrighted work True\nCopyright laws protect only works of art, such as paintings and sculptures\nFalse",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Work must be registered with the copyright office to be protected by copyright",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Copyright laws protect the right to reproduce the copyrighted work",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Copyright laws protect only works of art, such as paintings and sculptures",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_62",
@@ -1555,21 +2047,75 @@
     "id": "q1-Lev_63",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 63,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You are searching the web to gather information for a research paper. You need\nto identify webpages that are likely to contain accurate and unbiased information for your\nresearch. For each statement, select Yes if it indicates that a webpage meets the requirements or No\nif it does not.\nAnswer Area\nThe webpage has misspelled words No\nThe webpage text is written objectively Yes\nThe webpage includes a list of references Yes"
+    "questionText": "You are searching the web to gather information for a research paper. You need\nto identify webpages that are likely to contain accurate and unbiased information for your\nresearch. For each statement, select Yes if it indicates that a webpage meets the requirements or No\nif it does not.\nAnswer Area\nThe webpage has misspelled words No\nThe webpage text is written objectively Yes\nThe webpage includes a list of references Yes",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The webpage has misspelled words",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "The webpage text is written objectively",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "The webpage includes a list of references",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_64",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 64,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "As an ethical computer user, you have a responsibility to practice good netiquette\nat all times. You need to identify examples of good netiquette in an office work environment. For\neach statement, select Yes if it is an example of good netiquette or No if it is not.\n\n-- 17 of 21 --\n\nAnswer Area\nCopy your coworkers on all email messages you send to keep them in the loop-\nYes\nShare large files from a cloud storage location instead of attaching them to email messages - Yes\nApply the same standards and values to online interactions that you do to face-to-face interactions - Yes"
+    "questionText": "As an ethical computer user, you have a responsibility to practice good netiquette\nat all times. You need to identify examples of good netiquette in an office work environment. For\neach statement, select Yes if it is an example of good netiquette or No if it is not.\n\n\n\nAnswer Area\nCopy your coworkers on all email messages you send to keep them in the loop-\nYes\nShare large files from a cloud storage location instead of attaching them to email messages - Yes\nApply the same standards and values to online interactions that you do to face-to-face interactions - Yes",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Copy your coworkers on all email messages you send to keep them in the loop-",
+        "correctAnswer": null
+      },
+      {
+        "id": "s3",
+        "text": "Share large files from a cloud storage location instead of attaching them to email messages -",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "Apply the same standards and values to online interactions that you do to face-to-face interactions -",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_65",
@@ -1641,21 +2187,80 @@
     "id": "q1-Lev_67",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 67,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You need to add artwork to a presentation you're creating for your class. You\ndo NOT have time to get permission to use the artwork. For each statement, select Yes if you may\nlegally use the artwork without permission or No if you may not.\nAnswer Area\nThe artist is your friend No\nThe artwork is protected by copyright No\nThe copyright owner dedicated the artwork to the public domain Yes"
+    "questionText": "You need to add artwork to a presentation you're creating for your class. You\ndo NOT have time to get permission to use the artwork. For each statement, select Yes if you may\nlegally use the artwork without permission or No if you may not.\nAnswer Area\nThe artist is your friend No\nThe artwork is protected by copyright No\nThe copyright owner dedicated the artwork to the public domain Yes",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The artist is your friend",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "The artwork is protected by copyright",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "The copyright owner dedicated the artwork to the public domain",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_68",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 68,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about citation practices, select True or False.\nAnswer Area\nIf you quote directly from a speech, you must cite the source True\nIf you summarize someone else's work, you must cite the source True\nIf you paraphrase someone else's work, you must cite the source True\n\n-- 18 of 21 --\n\nYou should place quotation marks around phrases that you quote from someone else's work True"
+    "questionText": "For each statement about citation practices, select True or False.\nAnswer Area\nIf you quote directly from a speech, you must cite the source True\nIf you summarize someone else's work, you must cite the source True\nIf you paraphrase someone else's work, you must cite the source True\n\n\n\nYou should place quotation marks around phrases that you quote from someone else's work True",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "If you quote directly from a speech, you must cite the source",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "If you summarize someone else's work, you must cite the source",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "If you paraphrase someone else's work, you must cite the source",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "You should place quotation marks around phrases that you quote from someone else's work",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_69",
@@ -1694,11 +2299,43 @@
     "id": "q1-Lev_70",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 70,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each physical health risk, select Yes if it is associated with prolonged computer use\nor No if it is not.\nAnswer Area\nDiscomfort in the neck Yes\nElevated blood pressure No\nEye strain Yes\nFrequent headaches Yes"
+    "questionText": "For each physical health risk, select Yes if it is associated with prolonged computer use\nor No if it is not.\nAnswer Area\nDiscomfort in the neck Yes\nElevated blood pressure No\nEye strain Yes\nFrequent headaches Yes",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Discomfort in the neck",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "Elevated blood pressure",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Eye strain",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "Frequent headaches",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_71",
@@ -1761,7 +2398,7 @@
       {
         "id": "o4",
         "label": "D",
-        "text": "Hard disk drive\n\n-- 19 of 21 --"
+        "text": "Hard disk drive"
       }
     ],
     "correctAnswer": "o1"
@@ -1770,51 +2407,196 @@
     "id": "q1-Lev_73",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 73,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "You need to identify tools that help you to protect your digital privacy\nFor each statement, select Yes if the feature protects digital privacy and No if it does not.\nAnswer Area\nDisk defragmenter No\nPassword-management program Yes\nAnti-tracking browser extension Yes"
+    "questionText": "You need to identify tools that help you to protect your digital privacy\nFor each statement, select Yes if the feature protects digital privacy and No if it does not.\nAnswer Area\nDisk defragmenter No\nPassword-management program Yes\nAnti-tracking browser extension Yes",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Disk defragmenter",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Password-management program",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "Anti-tracking browser extension",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_74",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 74,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about the differences between internet and intranet, select\nTrue or False\nAnswer Area\nThe internet is privately owned by a consortium of companies False\nAn intranet connection is more secure than an internet connection True\nAn intranet has an unlimited number of users and can be accessed by anyone False"
+    "questionText": "For each statement about the differences between internet and intranet, select\nTrue or False\nAnswer Area\nThe internet is privately owned by a consortium of companies False\nAn intranet connection is more secure than an internet connection True\nAn intranet has an unlimited number of users and can be accessed by anyone False",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The internet is privately owned by a consortium of companies",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "An intranet connection is more secure than an internet connection",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s3",
+        "text": "An intranet has an unlimited number of users and can be accessed by anyone",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_75",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 75,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each statement about creating basic presentations, select True or False\nAnswer Area\nYou should minimize text content in presentations True\nYou can only create Microsoft PowerPoint presentations pn Windows computers False\nYou can access Apple Keynote presentations from Windows computers through iCloud True\nYou should maintain a low contrast between the text and background colors of presentations False"
+    "questionText": "For each statement about creating basic presentations, select True or False\nAnswer Area\nYou should minimize text content in presentations True\nYou can only create Microsoft PowerPoint presentations pn Windows computers False\nYou can access Apple Keynote presentations from Windows computers through iCloud True\nYou should maintain a low contrast between the text and background colors of presentations False",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You should minimize text content in presentations",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s2",
+        "text": "You can only create Microsoft PowerPoint presentations pn Windows computers",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "You can access Apple Keynote presentations from Windows computers through iCloud",
+        "correctAnswer": "o1"
+      },
+      {
+        "id": "s4",
+        "text": "You should maintain a low contrast between the text and background colors of presentations",
+        "correctAnswer": "o2"
+      }
+    ]
   },
   {
     "id": "q1-Lev_76",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 76,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "Online messaging apps simplify the process of communicating with other people,\nwhether they are next door or in another country. For each statement, select True or False.\nAnswer Area\nPeople with similar heritages have the same beliefs and priorities False\n\n-- 20 of 21 --\n\nRespectful language conveys prejudices such as stereotypes, expectations and limitations False\nCulture is a constantly changing concept that may not completely reflect someone's identity True"
+    "questionText": "Online messaging apps simplify the process of communicating with other people,\nwhether they are next door or in another country. For each statement, select True or False.\nAnswer Area\nPeople with similar heritages have the same beliefs and priorities False\n\n\n\nRespectful language conveys prejudices such as stereotypes, expectations and limitations False\nCulture is a constantly changing concept that may not completely reflect someone's identity True",
+    "options": [
+      {
+        "id": "o1",
+        "text": "True"
+      },
+      {
+        "id": "o2",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "People with similar heritages have the same beliefs and priorities",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s2",
+        "text": "Respectful language conveys prejudices such as stereotypes, expectations and limitations",
+        "correctAnswer": "o2"
+      },
+      {
+        "id": "s3",
+        "text": "Culture is a constantly changing concept that may not completely reflect someone's identity",
+        "correctAnswer": "o1"
+      }
+    ]
   },
   {
     "id": "q1-Lev_77",
     "sourceFile": "1-Level_1_80_SORAW.pdf",
     "questionNumber": 77,
-    "type": "single",
+    "type": "statement-grid",
     "topic": "General",
     "difficulty": "Medium",
     "instruction": "Choose the correct option.",
-    "questionText": "For each item, select Yes if it is a valid Google search filter option, and\nNo if it is not.\nAnswer Area\nLanguage True\nFile type True\nColor False\nDates True"
+    "questionText": "For each item, select Yes if it is a valid Google search filter option, and\nNo if it is not.\nAnswer Area\nLanguage True\nFile type True\nColor False\nDates True",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Yes"
+      },
+      {
+        "id": "o2",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Language True",
+        "correctAnswer": null
+      },
+      {
+        "id": "s2",
+        "text": "File type True",
+        "correctAnswer": null
+      },
+      {
+        "id": "s3",
+        "text": "Color False",
+        "correctAnswer": null
+      },
+      {
+        "id": "s4",
+        "text": "Dates True",
+        "correctAnswer": null
+      }
+    ]
   },
   {
     "id": "q1-Lev_78",
