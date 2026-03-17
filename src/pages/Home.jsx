@@ -7,45 +7,10 @@ export default function Home({ startQuiz, availableTests }) {
     const { isDark, toggleTheme } = useTheme();
     const [selectedTestId, setSelectedTestId] = useState(availableTests[0].id);
     const [shuffleQuestions, setShuffleQuestions] = useState(true);
-    const [shuffleOpts, setShuffleOpts] = useState(false);
 
     const handleStart = () => {
         const testData = availableTests.find(t => t.id === selectedTestId)?.data || [];
         let qList = [...testData];
-
-        if (shuffleOpts) {
-            qList = qList.map(q => {
-                // Shuffle matching pairs (shuffle the right column independently)
-                if (q.type === 'matching' && q.pairs) {
-                    const rightValues = shuffleArray(q.pairs.map(p => p.right));
-                    const shuffledPairs = q.pairs.map((p, idx) => ({
-                        ...p,
-                        right: rightValues[idx],
-                        // Store correct right value so scoring can still work
-                        _originalRight: p.right
-                    }));
-                    // Build correct index mapping: for each left, which right index is correct?
-                    const correctIndexMap = shuffledPairs.map((p, idx) => {
-                        return rightValues.indexOf(p._originalRight);
-                    });
-                    return { ...q, pairs: shuffledPairs, _correctMatchIndices: correctIndexMap };
-                }
-
-                // Don't shuffle statement-grid options (Yes/No, True/False)
-                if (!q.options || q.type === 'statement-grid') return q;
-
-                // Shuffle the options array — keep original IDs intact, just reorder and update labels
-                const shuffled = shuffleArray([...q.options]);
-                const newOptions = shuffled.map((opt, idx) => ({
-                    ...opt,
-                    // Keep original opt.id — correctAnswer/correctAnswers already reference these
-                    label: String.fromCharCode(65 + idx) // Update label: A, B, C...
-                }));
-
-                // correctAnswer / correctAnswers don't need remapping since IDs didn't change
-                return { ...q, options: newOptions };
-            });
-        }
 
         if (shuffleQuestions) {
             qList = shuffleArray(qList);
@@ -93,10 +58,6 @@ export default function Home({ startQuiz, availableTests }) {
                     <label className="flex items-center justify-between cursor-pointer">
                         <span>Shuffle Questions</span>
                         <input type="checkbox" checked={shuffleQuestions} onChange={() => setShuffleQuestions(!shuffleQuestions)} className="accent-primary-600 w-5 h-5 rounded" />
-                    </label>
-                    <label className="flex items-center justify-between cursor-pointer">
-                        <span>Shuffle Options</span>
-                        <input type="checkbox" checked={shuffleOpts} onChange={() => setShuffleOpts(!shuffleOpts)} className="accent-primary-600 w-5 h-5 rounded" />
                     </label>
                 </div>
 

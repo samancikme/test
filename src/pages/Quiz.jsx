@@ -147,6 +147,12 @@ export default function Quiz({ questions, answers, setAnswers, flagged, setFlagg
                         currentIndex={currentIndex}
                         setCurrentIndex={(idx) => { setCurrentIndex(idx); setShowPalette(false); }}
                         onClose={() => setShowPalette(false)}
+                        results={Object.fromEntries(
+                            Object.keys(submitted).map(qId => {
+                                const q = questions.find(q => q.id === qId);
+                                return [qId, q ? validateAnswer(q, answers[qId]) : false];
+                            })
+                        )}
                     />
                 </div>
             </div>
