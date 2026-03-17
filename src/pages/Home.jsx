@@ -15,7 +15,23 @@ export default function Home({ startQuiz, availableTests }) {
 
         if (shuffleOpts) {
             qList = qList.map(q => {
-                // Only shuffle options for single/multi types. Don't shuffle statement-grid options (Yes/No, True/False)
+                // Shuffle matching pairs (shuffle the right column independently)
+                if (q.type === 'matching' && q.pairs) {
+                    const rightValues = shuffleArray(q.pairs.map(p => p.right));
+                    const shuffledPairs = q.pairs.map((p, idx) => ({
+                        ...p,
+                        right: rightValues[idx],
+                        // Store correct right value so scoring can still work
+                        _originalRight: p.right
+                    }));
+                    // Build correct index mapping: for each left, which right index is correct?
+                    const correctIndexMap = shuffledPairs.map((p, idx) => {
+                        return rightValues.indexOf(p._originalRight);
+                    });
+                    return { ...q, pairs: shuffledPairs, _correctMatchIndices: correctIndexMap };
+                }
+
+                // Don't shuffle statement-grid options (Yes/No, True/False)
                 if (!q.options || q.type === 'statement-grid') return q;
 
                 // Shuffle the options array
