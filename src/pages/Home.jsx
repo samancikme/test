@@ -14,10 +14,38 @@ export default function Home({ startQuiz, availableTests }) {
         let qList = [...testData];
 
         if (shuffleOpts) {
-            qList = qList.map(q => ({
-                ...q,
-                options: q.options ? shuffleArray(q.options) : q.options
-            }));
+            qList = qList.map(q => {
+                // Only shuffle options for single/multi types. Don't shuffle statement-grid options (Yes/No, True/False)
+                if (!q.options || q.type === 'statement-grid') return q;
+
+                // Shuffle the options array
+                const shuffled = shuffleArray([...q.options]);
+
+                // Build a mapping: oldId -> newId (based on new position)
+                const idRemap = {};
+                shuffled.forEach((opt, newIdx) => {
+                    const newId = `o${newIdx + 1}`;
+                    idRemap[opt.id] = newId;
+                });
+
+                // Assign new sequential IDs to shuffled options
+                const newOptions = shuffled.map((opt, idx) => ({
+                    ...opt,
+                    id: `o${idx + 1}`,
+                    label: String.fromCharCode(65 + idx) // A, B, C...
+                }));
+
+                // Remap correctAnswer/correctAnswers to new IDs
+                const newQ = { ...q, options: newOptions };
+                if (q.correctAnswer) {
+                    newQ.correctAnswer = idRemap[q.correctAnswer] || q.correctAnswer;
+                }
+                if (q.correctAnswers) {
+                    newQ.correctAnswers = q.correctAnswers.map(id => idRemap[id] || id);
+                }
+
+                return newQ;
+            });
         }
 
         if (shuffleQuestions) {

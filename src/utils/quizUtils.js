@@ -12,19 +12,38 @@ export const calculateScore = (questions, answers) => {
 
     questions.forEach(q => {
         const userAnswer = answers[q.id];
-        if (!userAnswer) return;
+        if (userAnswer === undefined || userAnswer === null || userAnswer === '') return;
 
         if (q.type === 'single' || q.type === 'boolean' || q.type === 'image-choice') {
             if (userAnswer === q.correctAnswer) correctCount++;
         }
         else if (q.type === 'multi') {
+            if (!q.correctAnswers || !Array.isArray(userAnswer)) return;
             const isCorrectLength = userAnswer.length === q.correctAnswers.length;
             const allCorrect = userAnswer.every(ans => q.correctAnswers.includes(ans));
             if (isCorrectLength && allCorrect) correctCount++;
         }
         else if (q.type === 'statement-grid') {
+            if (!q.statements || typeof userAnswer !== 'object') return;
             const allStatementsCorrect = q.statements.every(st => userAnswer[st.id] === st.correctAnswer);
             if (allStatementsCorrect) correctCount++;
+        }
+        else if (q.type === 'matching') {
+            if (!q.pairs || typeof userAnswer !== 'object') return;
+            // Each pair index should match: userAnswer[leftIdx] === rightIdx (same index = correct match)
+            const allCorrect = q.pairs.every((_, idx) => userAnswer[idx] === idx);
+            if (allCorrect) correctCount++;
+        }
+        else if (q.type === 'ordering') {
+            if (!q.correctOrder || !Array.isArray(userAnswer)) return;
+            const isCorrect = userAnswer.every((item, idx) => item === q.correctOrder[idx]);
+            if (isCorrect) correctCount++;
+        }
+        else if (q.type === 'short-answer') {
+            if (!q.correctAnswerText) return;
+            const correct = String(q.correctAnswerText).toLowerCase().trim();
+            const given = String(userAnswer).toLowerCase().trim();
+            if (given === correct) correctCount++;
         }
     });
 

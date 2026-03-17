@@ -8,29 +8,33 @@ export default function Result({ questions, answers, onRestart, isReviewMode, se
 
     if (isReviewMode) {
         return (
-            <div className="max-w-3xl mx-auto py-10 px-4 space-y-6">
-                <div className="flex justify-between items-center bg-white dark:bg-slate-800 p-4 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700 sticky top-4 z-10">
-                    <h2 className="text-xl font-bold">Review Answers</h2>
-                    <button onClick={onRestart} className="btn btn-outline">Back to Home</button>
-                </div>
-                {questions.map((q, idx) => (
-                    <div key={q.id} className="bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700 overflow-hidden relative">
-                        <div className="absolute top-4 right-4 text-sm font-semibold flex items-center gap-1">
-                            {(() => {
-                                const isCorrect = validateAnswer(q, answers[q.id]);
-                                return isCorrect ? <span className="text-green-600 flex items-center gap-1"><CheckCircle size={16} /> Correct</span>
-                                    : <span className="text-red-500 flex items-center gap-1"><XCircle size={16} /> Incorrect</span>
-                            })()}
-                        </div>
-                        <QuestionCard
-                            question={q}
-                            index={idx}
-                            total={questions.length}
-                            answer={answers[q.id]}
-                            isReview={true}
-                        />
+            <div className="min-h-screen bg-slate-50 dark:bg-slate-900 py-10 px-4">
+                <div className="max-w-3xl mx-auto space-y-6">
+                    <div className="flex justify-between items-center bg-white dark:bg-slate-800 p-4 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700 sticky top-4 z-10">
+                        <h2 className="text-xl font-bold dark:text-white">Review Answers</h2>
+                        <button onClick={onRestart} className="btn btn-outline">Back to Home</button>
                     </div>
-                ))}
+                    {questions.map((q, idx) => {
+                        const isCorrect = validateAnswer(q, answers[q.id]);
+                        return (
+                            <div key={q.id} className="bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700 overflow-hidden relative">
+                                <div className="absolute top-4 right-4 text-sm font-semibold flex items-center gap-1">
+                                    {isCorrect
+                                        ? <span className="text-green-600 flex items-center gap-1"><CheckCircle size={16} /> Correct</span>
+                                        : <span className="text-red-500 flex items-center gap-1"><XCircle size={16} /> Incorrect</span>
+                                    }
+                                </div>
+                                <QuestionCard
+                                    question={q}
+                                    index={idx}
+                                    total={questions.length}
+                                    answer={answers[q.id]}
+                                    isReview={true}
+                                />
+                            </div>
+                        );
+                    })}
+                </div>
             </div>
         );
     }
@@ -87,16 +91,36 @@ export default function Result({ questions, answers, onRestart, isReviewMode, se
 }
 
 function validateAnswer(q, userAnswer) {
-    if (!userAnswer) return false;
-    if (q.type === 'single' || q.type === 'boolean' || q.type === 'image-choice') {
-        return userAnswer === q.correctAnswer;
-    }
-    else if (q.type === 'multi') {
-        if (userAnswer.length !== q.correctAnswers.length) return false;
-        return userAnswer.every(ans => q.correctAnswers.includes(ans));
-    }
-    else if (q.type === 'statement-grid') {
-        return q.statements.every(st => userAnswer[st.id] === st.correctAnswer);
+    try {
+        if (userAnswer === undefined || userAnswer === null || userAnswer === '') return false;
+
+        if (q.type === 'single' || q.type === 'boolean' || q.type === 'image-choice') {
+            return userAnswer === q.correctAnswer;
+        }
+        if (q.type === 'multi') {
+            if (!q.correctAnswers || !Array.isArray(userAnswer)) return false;
+            if (userAnswer.length !== q.correctAnswers.length) return false;
+            return userAnswer.every(ans => q.correctAnswers.includes(ans));
+        }
+        if (q.type === 'statement-grid') {
+            if (!q.statements || typeof userAnswer !== 'object') return false;
+            return q.statements.every(st => userAnswer[st.id] === st.correctAnswer);
+        }
+        if (q.type === 'matching') {
+            if (!q.pairs || typeof userAnswer !== 'object') return false;
+            return q.pairs.every((_, idx) => userAnswer[idx] === idx);
+        }
+        if (q.type === 'ordering') {
+            if (!q.correctOrder || !Array.isArray(userAnswer)) return false;
+            return userAnswer.every((item, idx) => item === q.correctOrder[idx]);
+        }
+        if (q.type === 'short-answer') {
+            if (!q.correctAnswerText) return false;
+            return String(userAnswer).toLowerCase().trim() === String(q.correctAnswerText).toLowerCase().trim();
+        }
+    } catch (e) {
+        return false;
     }
     return false;
 }
+
