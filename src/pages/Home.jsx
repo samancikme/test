@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Play, Settings, Moon, Sun } from 'lucide-react';
+import { Play, Settings, Moon, Sun, UserCircle } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 import { shuffleArray } from '../utils/quizUtils';
 import { useTheme } from '../hooks/useTheme';
 import { getApiUrl } from '../config';
@@ -14,6 +15,7 @@ export default function Home({ startQuiz, availableTests: localTests = [] }) {
     const [loading, setLoading] = useState(true);
     const [starting, setStarting] = useState(false);
     const [error, setError] = useState(null);
+    const navigate = useNavigate();
 
     useEffect(() => {
         const fetchTests = async () => {
@@ -80,8 +82,17 @@ export default function Home({ startQuiz, availableTests: localTests = [] }) {
 
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-slate-50 dark:bg-slate-900 px-4">
-            <div className="absolute top-4 right-4">
-                <button onClick={toggleTheme} className="p-2 bg-white dark:bg-slate-800 rounded-full shadow-sm text-slate-600 dark:text-slate-300">
+            <div className="absolute top-4 right-4 flex items-center gap-3">
+                <button
+                    onClick={() => navigate('/admin')}
+                    className="flex items-center gap-2 px-3 py-2 bg-white dark:bg-slate-800 rounded-full shadow-sm text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 border border-slate-200 dark:border-slate-700 transition-colors"
+                >
+                    <UserCircle size={18} /> Admin
+                </button>
+                <button
+                    onClick={toggleTheme}
+                    className="p-2 bg-white dark:bg-slate-800 rounded-full shadow-sm text-slate-600 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 border border-slate-200 dark:border-slate-700 transition-colors"
+                >
                     {isDark ? <Sun size={20} /> : <Moon size={20} />}
                 </button>
             </div>
@@ -96,7 +107,7 @@ export default function Home({ startQuiz, availableTests: localTests = [] }) {
                 </p>
 
                 {error && (
-                    <div className="w-full bg-red-50 text-red-600 p-3 rounded-lg text-sm border border-red-200">
+                    <div className="w-full bg-red-50 dark:bg-red-900/20 text-red-600 dark:text-red-400 p-3 rounded-lg text-sm border border-red-200 dark:border-red-800">
                         {error}
                     </div>
                 )}
