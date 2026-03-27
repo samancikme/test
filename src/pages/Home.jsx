@@ -1,22 +1,62 @@
-import React, { useState } from 'react';
-import { Play, Settings, Moon, Sun } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Play, Settings, Moon, Sun, Download } from 'lucide-react';
 import { shuffleArray } from '../utils/quizUtils';
 import { useTheme } from '../hooks/useTheme';
+import { getApiUrl } from '../config';
 
-export default function Home({ startQuiz, availableTests }) {
+export default function Home({ startQuiz }) {
     const { isDark, toggleTheme } = useTheme();
-    const [selectedTestId, setSelectedTestId] = useState(availableTests[0].id);
+    const [availableTests, setAvailableTests] = useState([]);
+    const [selectedTestId, setSelectedTestId] = useState('');
     const [shuffleQuestions, setShuffleQuestions] = useState(true);
+    const [loading, setLoading] = useState(true);
+    const [starting, setStarting] = useState(false);
+    const [error, setError] = useState(null);
 
-    const handleStart = () => {
-        const testData = availableTests.find(t => t.id === selectedTestId)?.data || [];
-        let qList = [...testData];
+    useEffect(() => {
+        const fetchTests = async () => {
+            try {
+                const res = await fetch(`${getApiUrl()}/quizzes`);
+                if (!res.ok) throw new Error("Testlarni yuklashda xatolik");
+                const data = await res.json();
+                setAvailableTests(data);
+                if (data.length > 0) {
+                    setSelectedTestId(data[0]._id);
+                }
+            } catch (err) {
+                setError(err.message);
+            } finally {
+                setLoading(false);
+            }
+        };
+        fetchTests();
+    }, []);
 
-        if (shuffleQuestions) {
-            qList = shuffleArray(qList);
+    const handleStart = async () => {
+        if (!selectedTestId) return;
+        setStarting(true);
+        setError(null);
+
+        try {
+            const res = await fetch(`${getApiUrl()}/quizzes/${selectedTestId}`);
+            if (!res.ok) throw new Error("Test ma'lumotlarini yuklashda xatolik");
+
+            const fullQuiz = await res.json();
+            let qList = [...(fullQuiz.questions || [])];
+
+            if (qList.length === 0) {
+                throw new Error("Tanlangan testda savollar yo'q");
+            }
+
+            if (shuffleQuestions) {
+                qList = shuffleArray(qList);
+            }
+
+            startQuiz(qList);
+        } catch (err) {
+            setError(err.message);
+            setStarting(false);
         }
-
-        startQuiz(qList);
     };
 
     return (
@@ -36,20 +76,37 @@ export default function Home({ startQuiz, availableTests }) {
                     Select a test below to begin your examination.
                 </p>
 
+                {error && (
+                    <div className="w-full bg-red-50 text-red-600 p-3 rounded-lg text-sm border border-red-200">
+                        {error}
+                    </div>
+                )}
+
                 <div className="w-full text-left space-y-3 bg-slate-50 dark:bg-slate-900/50 p-4 rounded-lg border border-slate-200 dark:border-slate-700">
                     <h3 className="font-semibold flex items-center gap-2 mb-2">
                         <Settings size={18} /> Select Test
                     </h3>
                     <div className="space-y-2 mb-4">
-                        {availableTests.map((test) => (
-                            <label key={test.id} className={`flex items-center gap-3 p-3 rounded-lg border-2 cursor-pointer transition-all ${selectedTestId === test.id ? 'border-primary-500 bg-primary-50 dark:bg-primary-900/30 shadow-sm text-slate-900 dark:text-white' : 'border-slate-200 dark:border-slate-700 hover:border-primary-300 text-slate-700 dark:text-slate-300'}`}>
-                                <input type="radio" className="hidden" name="test-selection" checked={selectedTestId === test.id} onChange={() => setSelectedTestId(test.id)} />
-                                <div className={`w-5 h-5 rounded-full border flex items-center justify-center ${selectedTestId === test.id ? 'border-primary-500 bg-primary-500' : 'border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800'}`}>
-                                    {selectedTestId === test.id && <div className="w-2 h-2 bg-white rounded-full" />}
-                                </div>
-                                <div className="flex-1 text-sm font-medium">{test.title} <span className={`${selectedTestId === test.id ? 'text-slate-500 dark:text-slate-400' : 'text-slate-400 dark:text-slate-500'} text-xs font-normal`}>({test.data.length} Qs)</span></div>
-                            </label>
-                        ))}
+                        {loading ? (
+                            <div className="text-center py-4 text-slate-500 text-sm">Testlar yuklanmoqda...</div>
+                        ) : availableTests.length === 0 ? (
+                            <div className="text-center py-4 text-slate-500 text-sm">Hech qanday test topilmadi.</div>
+                        ) : (
+                            availableTests.map((test) => (
+                                <label key={test._id} className={`flex items-center gap-3 p-3 rounded-lg border-2 cursor-pointer transition-all ${selectedTestId === test._id ? 'border-primary-500 bg-primary-50 dark:bg-primary-900/30 shadow-sm text-slate-900 dark:text-white' : 'border-slate-200 dark:border-slate-700 hover:border-primary-300 text-slate-700 dark:text-slate-300'}`}>
+                                    <input type="radio" className="hidden" name="test-selection" checked={selectedTestId === test._id} onChange={() => setSelectedTestId(test._id)} />
+                                    <div className={`w-5 h-5 rounded-full border flex items-center justify-center flex-shrink-0 ${selectedTestId === test._id ? 'border-primary-500 bg-primary-500' : 'border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800'}`}>
+                                        {selectedTestId === test._id && <div className="w-2 h-2 bg-white rounded-full" />}
+                                    </div>
+                                    <div className="flex-1 text-sm font-medium">
+                                        {test.title}
+                                        <div className="text-xs font-normal text-slate-400 mt-0.5">
+                                            {test.description} • {test.level || "Noma'lum"}
+                                        </div>
+                                    </div>
+                                </label>
+                            ))
+                        )}
                     </div>
 
                     <h3 className="font-semibold flex items-center gap-2 mb-2 mt-4 pt-4 border-t border-slate-200 dark:border-slate-700">
@@ -61,8 +118,16 @@ export default function Home({ startQuiz, availableTests }) {
                     </label>
                 </div>
 
-                <button onClick={handleStart} className="btn btn-primary w-full text-lg py-3">
-                    Start Quiz
+                <button
+                    onClick={handleStart}
+                    disabled={starting || availableTests.length === 0}
+                    className="btn btn-primary w-full text-lg py-3 flex items-center justify-center gap-2 disabled:opacity-50"
+                >
+                    {starting ? (
+                        <>Yuklanmoqda...</>
+                    ) : (
+                        <>Start Quiz</>
+                    )}
                 </button>
             </div>
         </div>
