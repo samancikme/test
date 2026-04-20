@@ -1,0 +1,3431 @@
+[
+    {
+        "id": "q1",
+        "questionNumber": 1,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Your teacher instructs you to edit a classmate's research paper. Which two tools should you use?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Design mode"
+            },
+            {
+                "id": "o2",
+                "text": "Spelling checker"
+            },
+            {
+                "id": "o3",
+                "text": "Linked notes"
+            },
+            {
+                "id": "o4",
+                "text": "Comments"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q2",
+        "questionNumber": 2,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "When using an app, network, or service, you may be required to agree to an Acceptable Use Policy. What are two types of information that an Acceptable Use Policy describes?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The consequences of violating the policy"
+            },
+            {
+                "id": "o2",
+                "text": "Unacceptable uses of the app, network, or service"
+            },
+            {
+                "id": "o3",
+                "text": "How to copyright data that you submit to the app, network, or service"
+            },
+            {
+                "id": "o4",
+                "text": "Recommended web browsers to use for the app, network, or service"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2"
+        ]
+    },
+    {
+        "id": "q3",
+        "questionNumber": 3,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Many schools have a BYOD (Bring Your Own Device) policy. What are three consequences of using your personal device at school?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The IT department will be able to perform hardware repairs on your device."
+            },
+            {
+                "id": "o2",
+                "text": "The school can restrict the apps that you install."
+            },
+            {
+                "id": "o3",
+                "text": "Your device could be infected with malware while on the school network."
+            },
+            {
+                "id": "o4",
+                "text": "Your personal data could be compromised."
+            },
+            {
+                "id": "o5",
+                "text": "You can be removed from the school network."
+            }
+        ],
+        "correctAnswers": [
+            "o3",
+            "o4",
+            "o5"
+        ]
+    },
+    {
+        "id": "q4",
+        "questionNumber": 4,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Experts are concerned that society will lose some skills because of reliance on technology. Which three skills can become underutilized through the use of technology?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Map navigation"
+            },
+            {
+                "id": "o2",
+                "text": "Memorization"
+            },
+            {
+                "id": "o3",
+                "text": "Organization"
+            },
+            {
+                "id": "o4",
+                "text": "Mental math"
+            },
+            {
+                "id": "o5",
+                "text": "Eye-hand coordination"
+            },
+            {
+                "id": "o6",
+                "text": "Dexterity"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q5",
+        "questionNumber": 5,
+        "type": "matching",
+        "instruction": "Match each type of software license to its definition.",
+        "questionText": "Match each type of software license to its definition.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Proprietary -> Software that is legally the property of the creator and cannot be copied or modified without permission."
+            },
+            {
+                "id": "o2",
+                "text": "Open Source -> Software whose source code is available to the public and can be modified and distributed."
+            },
+            {
+                "id": "o3",
+                "text": "Freeware -> Software that is available for use at no cost but cannot be modified."
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2",
+            "o3"
+        ]
+    },
+    {
+        "id": "q6",
+        "questionNumber": 6,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "What are two features of a Learning Management System (LMS)?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The ability to repair computer hardware"
+            },
+            {
+                "id": "o2",
+                "text": "Grading systems"
+            },
+            {
+                "id": "o3",
+                "text": "Registration systems"
+            },
+            {
+                "id": "o4",
+                "text": "Payroll systems"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o3"
+        ]
+    },
+    {
+        "id": "q7",
+        "questionNumber": 7,
+        "type": "single",
+        "questionText": "Which tool allows a user to store files in the cloud and access them from any device?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "OneDrive"
+            },
+            {
+                "id": "o2",
+                "text": "Outlook"
+            },
+            {
+                "id": "o3",
+                "text": "Task Manager"
+            },
+            {
+                "id": "o4",
+                "text": "File Explorer"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q8",
+        "questionNumber": 8,
+        "type": "single",
+        "questionText": "Every time you log on to a retail website, a specific item you were previously looking at is displayed. What is this an example of?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Target marketing"
+            },
+            {
+                "id": "o2",
+                "text": "E-commerce"
+            },
+            {
+                "id": "o3",
+                "text": "Database generation"
+            },
+            {
+                "id": "o4",
+                "text": "Demographics"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q9",
+        "questionNumber": 9,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "In which two ways does using a student information system (SIS) make a school more effective?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Teachers can monitor security cameras."
+            },
+            {
+                "id": "o2",
+                "text": "Communication between teachers and parents is improved."
+            },
+            {
+                "id": "o3",
+                "text": "Student grades are calculated faster and more accurately."
+            },
+            {
+                "id": "o4",
+                "text": "The network bandwidth increases."
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o3"
+        ]
+    },
+    {
+        "id": "q10",
+        "questionNumber": 10,
+        "type": "single",
+        "questionText": "You purchase a software program to complete a specific project. After you finish the project, a friend asks to borrow the program. You need to determine whether this is an acceptable use of the software. Where can you find this information?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Content Management System (CMS)"
+            },
+            {
+                "id": "o2",
+                "text": "Electronic Software Rating Board (ESRB)"
+            },
+            {
+                "id": "o3",
+                "text": "Access Control List (ACL)"
+            },
+            {
+                "id": "o4",
+                "text": "End User License Agreement (EULA)"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q11",
+        "questionNumber": 11,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two actions are effective ways to protect your online identity and personal data?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Using the same password for all accounts"
+            },
+            {
+                "id": "o2",
+                "text": "Creating strong, unique passwords for different sites"
+            },
+            {
+                "id": "o3",
+                "text": "Sharing your address on public forums"
+            },
+            {
+                "id": "o4",
+                "text": "Enabling two-factor authentication (2FA)"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q12",
+        "questionNumber": 12,
+        "type": "single",
+        "questionText": "What is the best definition of a 'digital footprint'?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The physical mark left by a computer on a desk"
+            },
+            {
+                "id": "o2",
+                "text": "A trail of data you create while using the Internet"
+            },
+            {
+                "id": "o3",
+                "text": "A type of antivirus software"
+            },
+            {
+                "id": "o4",
+                "text": "The amount of electricity a device consumes"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q13",
+        "questionNumber": 13,
+        "type": "single",
+        "questionText": "You need to present a summary of your research to the class using slides. Which type of application is best suited for this task?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Spreadsheet software"
+            },
+            {
+                "id": "o2",
+                "text": "Word processing software"
+            },
+            {
+                "id": "o3",
+                "text": "Presentation software"
+            },
+            {
+                "id": "o4",
+                "text": "Database management software"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q14",
+        "questionNumber": 14,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Which three of the following devices are considered input devices?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Monitor"
+            },
+            {
+                "id": "o2",
+                "text": "Keyboard"
+            },
+            {
+                "id": "o3",
+                "text": "Mouse"
+            },
+            {
+                "id": "o4",
+                "text": "Printer"
+            },
+            {
+                "id": "o5",
+                "text": "Microphone"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o3",
+            "o5"
+        ]
+    },
+    {
+        "id": "q15",
+        "questionNumber": 15,
+        "type": "single",
+        "questionText": "What is the primary function of an operating system (OS)?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To protect the computer from physical damage"
+            },
+            {
+                "id": "o2",
+                "text": "To manage computer hardware and software resources"
+            },
+            {
+                "id": "o3",
+                "text": "To create formatted text documents"
+            },
+            {
+                "id": "o4",
+                "text": "To browse websites on the internet"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q16",
+        "questionNumber": 16,
+        "type": "single",
+        "questionText": "When sending an email, what does the 'Cc' field stand for and do?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Carbon Copy; sends a visible copy of the email to someone else"
+            },
+            {
+                "id": "o2",
+                "text": "Closed Copy; encrypts the email for security"
+            },
+            {
+                "id": "o3",
+                "text": "Computer Code; allows programming scripts to be sent"
+            },
+            {
+                "id": "o4",
+                "text": "Contact Center; routes the email to customer support"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q17",
+        "questionNumber": 17,
+        "type": "matching",
+        "instruction": "Match the keyboard shortcut to its correct function.",
+        "questionText": "Match the keyboard shortcut to its correct function.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Ctrl + C -> Copy selected text or items"
+            },
+            {
+                "id": "o2",
+                "text": "Ctrl + V -> Paste copied text or items"
+            },
+            {
+                "id": "o3",
+                "text": "Ctrl + Z -> Undo the previous action"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2",
+            "o3"
+        ]
+    },
+    {
+        "id": "q18",
+        "questionNumber": 18,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Ergonomics is important for health. Which two actions can help prevent eye strain when working on a computer for long periods?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Staring at the screen without blinking"
+            },
+            {
+                "id": "o2",
+                "text": "Taking regular breaks to look at distant objects"
+            },
+            {
+                "id": "o3",
+                "text": "Turning the screen brightness to the maximum level in a dark room"
+            },
+            {
+                "id": "o4",
+                "text": "Adjusting the screen brightness to match the room's lighting"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q19",
+        "questionNumber": 19,
+        "type": "single",
+        "questionText": "Which type of network is typically used to connect devices within a small geographical area, such as a single home or an office building?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Wide Area Network (WAN)"
+            },
+            {
+                "id": "o2",
+                "text": "Local Area Network (LAN)"
+            },
+            {
+                "id": "o3",
+                "text": "Virtual Private Network (VPN)"
+            },
+            {
+                "id": "o4",
+                "text": "Storage Area Network (SAN)"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q20",
+        "questionNumber": 20,
+        "type": "single",
+        "questionText": "Why is it important to regularly install software updates and patches provided by developers?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To increase the physical weight of the device"
+            },
+            {
+                "id": "o2",
+                "text": "To patch security vulnerabilities and improve software performance"
+            },
+            {
+                "id": "o3",
+                "text": "To change the physical appearance of the computer monitor"
+            },
+            {
+                "id": "o4",
+                "text": "To permanently delete all personal files"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q21",
+        "questionNumber": 21,
+        "type": "single",
+        "questionText": "What is an 'Internet Service Provider' (ISP)?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A company that provides access to the internet."
+            },
+            {
+                "id": "o2",
+                "text": "A web browser used to search for information."
+            },
+            {
+                "id": "o3",
+                "text": "A type of router used to connect devices locally."
+            },
+            {
+                "id": "o4",
+                "text": "A software program that protects against malware."
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q22",
+        "questionNumber": 22,
+        "type": "single",
+        "questionText": "When searching for information online, how can you evaluate if a website is a reliable source?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "By checking if the website has a professional design."
+            },
+            {
+                "id": "o2",
+                "text": "By verifying the author's credentials, looking for citations, and checking the publication date."
+            },
+            {
+                "id": "o3",
+                "text": "By counting the number of advertisements on the page."
+            },
+            {
+                "id": "o4",
+                "text": "By trusting the top result returned by the search engine."
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q23",
+        "questionNumber": 23,
+        "type": "single",
+        "questionText": "Which of the following describes a 'hyperlink'?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A high-speed internet connection"
+            },
+            {
+                "id": "o2",
+                "text": "A clickable text or image that directs you to another web page or document"
+            },
+            {
+                "id": "o3",
+                "text": "A hardware component used to store large amounts of data"
+            },
+            {
+                "id": "o4",
+                "text": "A type of virus that spreads through email attachments"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q24",
+        "questionNumber": 24,
+        "type": "single",
+        "questionText": "What does 'RAM' stand for and what is its main function?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Read Access Memory; permanently stores files"
+            },
+            {
+                "id": "o2",
+                "text": "Random Access Memory; temporarily stores data currently in use by the computer"
+            },
+            {
+                "id": "o3",
+                "text": "Run All Media; plays audio and video files"
+            },
+            {
+                "id": "o4",
+                "text": "Restore And Manage; creates system backups"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q25",
+        "questionNumber": 25,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Which three actions should you take to safely maintain your computer hardware?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Keep the computer in a well-ventilated area to prevent overheating."
+            },
+            {
+                "id": "o2",
+                "text": "Use compressed air to clean dust from vents and keyboards."
+            },
+            {
+                "id": "o3",
+                "text": "Eat and drink near the computer to save time."
+            },
+            {
+                "id": "o4",
+                "text": "Use a surge protector to guard against power spikes."
+            },
+            {
+                "id": "o5",
+                "text": "Open the computer case and remove components while it is plugged in."
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q26",
+        "questionNumber": 26,
+        "type": "single",
+        "questionText": "What is the main purpose of a firewall?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To prevent the computer from overheating"
+            },
+            {
+                "id": "o2",
+                "text": "To physically secure the computer to a desk"
+            },
+            {
+                "id": "o3",
+                "text": "To monitor and control incoming and outgoing network traffic based on security rules"
+            },
+            {
+                "id": "o4",
+                "text": "To permanently delete unnecessary files to free up disk space"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q27",
+        "questionNumber": 27,
+        "type": "single",
+        "questionText": "In a spreadsheet application, what is a 'formula' used for?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To change the font and color of the text"
+            },
+            {
+                "id": "o2",
+                "text": "To insert images and videos into a cell"
+            },
+            {
+                "id": "o3",
+                "text": "To perform calculations on data entered in cells"
+            },
+            {
+                "id": "o4",
+                "text": "To print the document"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q28",
+        "questionNumber": 28,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two of the following are characteristics of 'malware'?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "It is software designed specifically to damage or disrupt a system."
+            },
+            {
+                "id": "o2",
+                "text": "It helps improve computer performance."
+            },
+            {
+                "id": "o3",
+                "text": "It is a type of antivirus program."
+            },
+            {
+                "id": "o4",
+                "text": "It can steal personal information and data without the user's consent."
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o4"
+        ]
+    },
+    {
+        "id": "q29",
+        "questionNumber": 29,
+        "type": "single",
+        "questionText": "What does 'URL' stand for?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Uniform Resource Locator"
+            },
+            {
+                "id": "o2",
+                "text": "Universal Router Link"
+            },
+            {
+                "id": "o3",
+                "text": "Unified Registration Log"
+            },
+            {
+                "id": "o4",
+                "text": "Unique Read License"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q30",
+        "questionNumber": 30,
+        "type": "single",
+        "questionText": "When creating a document, what is the 'clipboard' used for?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A tool to draw shapes and lines"
+            },
+            {
+                "id": "o2",
+                "text": "A temporary storage area for data that has been copied or cut"
+            },
+            {
+                "id": "o3",
+                "text": "A physical board attached to the monitor"
+            },
+            {
+                "id": "o4",
+                "text": "A feature that automatically corrects spelling mistakes"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q31",
+        "questionNumber": 31,
+        "type": "single",
+        "questionText": "What is spyware?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A program that is designed to look harmless but allows unauthorized access to your computer"
+            },
+            {
+                "id": "o2",
+                "text": "A program that installs itself on your system without your knowledge and tracks your online habits"
+            },
+            {
+                "id": "o3",
+                "text": "Content that tricks you into revealing account codes and passwords by pretending to be legitimate"
+            },
+            {
+                "id": "o4",
+                "text": "A program that can copy itself and spread to other computers"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q32",
+        "questionNumber": 32,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two actions can you take to help maintain your digital privacy?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Configure your web browser settings to block cookies"
+            },
+            {
+                "id": "o2",
+                "text": "Store your private documents in a cloud storage location"
+            },
+            {
+                "id": "o3",
+                "text": "Use only your school email to send private information"
+            },
+            {
+                "id": "o4",
+                "text": "Turn off GPS on your devices when you are not actively using it"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o4"
+        ]
+    },
+    {
+        "id": "q33",
+        "questionNumber": 33,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "Online messaging apps simplify the process of communicating with other people. For each statement, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "People who use smart-messaging share the same beliefs and practices whether they are next door or in another country",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Communication through emojis reproduces social constructs such as stereotypes, prejudices, and limitations",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "Emojis are a constantly changing concept that may not universally reflect sources of study",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q34",
+        "questionNumber": 34,
+        "type": "matching",
+        "questionText": "Move each data storage device from the list on the left to the correct definition on the right.",
+        "pairs": [
+            {
+                "left": "A compact, lightweight external data storage device that uses flash memory",
+                "right": "USB flash drive"
+            },
+            {
+                "left": "An external data storage device powered through the USB port of the computer",
+                "right": "Portable hard drive"
+            },
+            {
+                "left": "An internal data storage device that stores and retrieves data using flash memory",
+                "right": "Solid-state drive (SSD)"
+            },
+            {
+                "left": "An internal electromechanical data storage device that stores and retrieves data using a rapidly rotating platter",
+                "right": "Hard disk drive (HDD)"
+            }
+        ]
+    },
+    {
+        "id": "q35",
+        "questionNumber": 35,
+        "type": "matching",
+        "questionText": "Move each email address field from the list on the left to its purpose on the right.",
+        "pairs": [
+            {
+                "left": "To copy other people on a message and NOT let them see the email addresses",
+                "right": "Bcc (Blind Carbon Copy)"
+            },
+            {
+                "left": "To copy other people on a message and let each see the email addresses",
+                "right": "Cc (Carbon Copy)"
+            },
+            {
+                "left": "To send the message you received from one person to a different person",
+                "right": "Forward"
+            },
+            {
+                "left": "To respond to a message sender and exclude other message recipients",
+                "right": "Reply"
+            },
+            {
+                "left": "To respond to a message sender and all other known message recipients",
+                "right": "Reply All"
+            }
+        ]
+    },
+    {
+        "id": "q36",
+        "questionNumber": 36,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two options are benefits of digital collaboration?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Collaborators can more easily avoid distractions while working"
+            },
+            {
+                "id": "o2",
+                "text": "Ideas and feedback can be shared quickly"
+            },
+            {
+                "id": "o3",
+                "text": "Collaborators can work with others from any geographic location"
+            },
+            {
+                "id": "o4",
+                "text": "Confidential data is safer from theft and intrusion"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o3"
+        ]
+    },
+    {
+        "id": "q37",
+        "questionNumber": 37,
+        "type": "matching-image",
+        "questionText": "Move each cable from the list on the left to the best connection on the right.",
+        "items": [
+            "USB A",
+            "USB-C",
+            "Lightning",
+            "Micro USB"
+        ],
+        "note": "Source document relies on images for the target matches. Image targets were not included in the extracted text."
+    },
+    {
+        "id": "q38",
+        "questionNumber": 38,
+        "type": "statement-grid",
+        "instruction": "Select App if it is managed by an application and OS if it is managed by the operating system.",
+        "questionText": "You need to identify the functions that are managed by a computer operating system (not by an app).",
+        "options": [
+            {
+                "id": "o1",
+                "text": "App"
+            },
+            {
+                "id": "o2",
+                "text": "OS"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Edits text files",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Searches the internet",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "Allocates hardware resources",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s4",
+                "text": "Communicates with peripheral devices",
+                "correctAnswer": "o2"
+            }
+        ]
+    },
+    {
+        "id": "q39",
+        "questionNumber": 39,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Which three elements must you include in a citation that references a printed book?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Book title"
+            },
+            {
+                "id": "o2",
+                "text": "Publication date"
+            },
+            {
+                "id": "o3",
+                "text": "Access date"
+            },
+            {
+                "id": "o4",
+                "text": "Copyright status"
+            },
+            {
+                "id": "o5",
+                "text": "Trademark status"
+            },
+            {
+                "id": "o6",
+                "text": "Author name"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2",
+            "o6"
+        ]
+    },
+    {
+        "id": "q40",
+        "questionNumber": 40,
+        "type": "statement-grid",
+        "instruction": "Select YES if you must add a reference or NO if you do not.",
+        "questionText": "You are writing a research paper. You need to add references to your work.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "YES"
+            },
+            {
+                "id": "o2",
+                "text": "NO"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "You use an idea from a news article",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "You write something new and original",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "You pull a paragraph from a webpage",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s4",
+                "text": "You paraphrase content from a magazine article",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q41",
+        "questionNumber": 41,
+        "type": "single",
+        "questionText": "Which statement correctly describes the use of Creative Commons content in a project?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "All Creative Commons content is automatically owned by the government and cannot be used for commercial purposes."
+            },
+            {
+                "id": "o2",
+                "text": "Creative Commons licenses restrict the use of educational content and do not allow for personal or commercial use."
+            },
+            {
+                "id": "o3",
+                "text": "Creative Commons licenses allow you to use, share, and modify content as long as you follow the terms specified by the license."
+            },
+            {
+                "id": "o4",
+                "text": "Creative Commons content can only be used if you pay a fee to the original creator for each use."
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q42",
+        "questionNumber": 42,
+        "type": "single",
+        "questionText": "Juliana takes photos with her phone for the school yearbook. She takes more than 50 photographs each day. Juliana needs to use the quickest and most reliable method to back up the photos so she can delete them from her phone each day. What should Juliana do?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Download the photos to a USB flash drive."
+            },
+            {
+                "id": "o2",
+                "text": "Email the photos to her teacher."
+            },
+            {
+                "id": "o3",
+                "text": "Sync her phone to cloud storage."
+            },
+            {
+                "id": "o4",
+                "text": "Delete only the photos she doesn't want to use."
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q43",
+        "questionNumber": 43,
+        "type": "single",
+        "questionText": "Which symptom is associated with prolonged computer use?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Increased back pain"
+            },
+            {
+                "id": "o2",
+                "text": "Enhanced visual clarity"
+            },
+            {
+                "id": "o3",
+                "text": "Improved muscle tone"
+            },
+            {
+                "id": "o4",
+                "text": "Increased flexibility in joints"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q44",
+        "questionNumber": 44,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two technologies do websites use to track visitors' online browsing habits?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "GPS locations"
+            },
+            {
+                "id": "o2",
+                "text": "First-party cookies"
+            },
+            {
+                "id": "o3",
+                "text": "In private/incognito browsing"
+            },
+            {
+                "id": "o4",
+                "text": "VPN tunneling"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o2"
+        ]
+    },
+    {
+        "id": "q45",
+        "questionNumber": 45,
+        "type": "statement-grid",
+        "instruction": "Select YES if the page is relevant to your search or NO if it is not.",
+        "questionText": "You are searching the web for information about how to grow your own vegetables. You need to determine which results are relevant to your search.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "YES"
+            },
+            {
+                "id": "o2",
+                "text": "NO"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "A tabloid magazine article about celebrity gardens",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "A how-to article published by a prestigious university",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "An ad for a popular gardening blog",
+                "correctAnswer": "o2"
+            }
+        ]
+    },
+    {
+        "id": "q46",
+        "questionNumber": 46,
+        "type": "single",
+        "questionText": "Which backup method offers the best protection for your data?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Sending files to others through email"
+            },
+            {
+                "id": "o2",
+                "text": "Deleting files you don't need anymore"
+            },
+            {
+                "id": "o3",
+                "text": "Keeping files only on your computer's hard drive"
+            },
+            {
+                "id": "o4",
+                "text": "Using both cloud storage and an external hard drive"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q47",
+        "questionNumber": 47,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about printing documents, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "You can change document margins from the Print settings",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Duplex printing prints file content on both sides of the paper",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "You can only change the paper size from the Page Setup option",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s4",
+                "text": "To preserve file formatting when electronically distributing a document, print the document to a PDF file",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q48",
+        "questionNumber": 48,
+        "type": "matching-image",
+        "questionText": "Move each computer hardware element from the list on the left to the corresponding image on the right.",
+        "items": [
+            "Central processing unit (CPU)",
+            "Hard disk drive (HDD)",
+            "Motherboard",
+            "Solid-state drive (SSD)"
+        ],
+        "note": "Source question depends on images for the target matches. Image positions were not preserved in the extracted text."
+    },
+    {
+        "id": "q49",
+        "questionNumber": 49,
+        "type": "single",
+        "questionText": "You and a partner are collaborating to create a science report. You create a shared document and save it to the cloud. You intend to work on the report at different times. What type of collaboration does this refer to?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Synchronous"
+            },
+            {
+                "id": "o2",
+                "text": "Offline"
+            },
+            {
+                "id": "o3",
+                "text": "Simultaneous"
+            },
+            {
+                "id": "o4",
+                "text": "Asynchronous"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q50",
+        "questionNumber": 50,
+        "type": "single",
+        "questionText": "You are working with other students on a science project. Your team will meet using the school's videoconferencing application. You will act as the host. You need to ensure that each student can talk about the project without being interrupted by other students. What should each student do to meet this goal?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Sign in early to verify that the audio and video technology works"
+            },
+            {
+                "id": "o2",
+                "text": "Mute their microphone until you call on them"
+            },
+            {
+                "id": "o3",
+                "text": "Remain on camera throughout the conference"
+            },
+            {
+                "id": "o4",
+                "text": "Introduce themselves by name when they speak."
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q51",
+        "questionNumber": 51,
+        "type": "single",
+        "questionText": "You need to collaborate with your peers and share your class journal. Which digital platform is appropriate for this classroom activity?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Google Docs"
+            },
+            {
+                "id": "o2",
+                "text": "Facebook"
+            },
+            {
+                "id": "o3",
+                "text": "Instagram"
+            },
+            {
+                "id": "o4",
+                "text": "Twitter"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q52",
+        "questionNumber": 52,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "Digital Primacy – True or False Statements",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Updating your browser every six months wipes your digital footprint clean",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Anonymous online comments you post cannot be traced back to you if you use a web filter",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Potential employers can find images and messages posted on social media by applicants under the age of 18",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s4",
+                "text": "Companies with which you share personal data in exchange for apps and services are not allowed to give the data to anyone else",
+                "correctAnswer": "o2"
+            }
+        ]
+    },
+    {
+        "id": "q53",
+        "questionNumber": 53,
+        "type": "single",
+        "questionText": "Maddie uses social media to stay in touch with friends and family. She is planning to go on vacation next month. What is the safest way for Maddie to protect herself from online predators when posting information about her vacation activities?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Checking in online when she goes places so her parents know where she is"
+            },
+            {
+                "id": "o2",
+                "text": "Posting her vacation plans before she leaves so her friends know she is out of town"
+            },
+            {
+                "id": "o3",
+                "text": "Setting her social media location map to 'public'"
+            },
+            {
+                "id": "o4",
+                "text": "Waiting until she returns home to post vacation photos"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q54",
+        "questionNumber": 54,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two connections can be used to connect a monitor to a computer?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "HDMI"
+            },
+            {
+                "id": "o2",
+                "text": "Ethernet"
+            },
+            {
+                "id": "o3",
+                "text": "USB-C"
+            },
+            {
+                "id": "o4",
+                "text": "PS/2 "
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3"
+        ]
+    },
+    {
+        "id": "q55",
+        "questionNumber": 55,
+        "type": "single",
+        "questionText": "You see a post on social media that contains an article about a current event. You want to evaluate the credibility of the article. Which factor is most important?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The number of pictures included in the article"
+            },
+            {
+                "id": "o2",
+                "text": "The number of likes and shares the article has received"
+            },
+            {
+                "id": "o3",
+                "text": "The length of the article and the details it covers"
+            },
+            {
+                "id": "o4",
+                "text": "The news outlet's reputation and trustworthiness"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q56",
+        "questionNumber": 56,
+        "type": "single",
+        "questionText": "When assessing an online article's reliability, which is a critical step?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Verifying that the article includes multiple images"
+            },
+            {
+                "id": "o2",
+                "text": "Counting the article's words to determine depth of content"
+            },
+            {
+                "id": "o3",
+                "text": "Reviewing the article's publication date and checking for recent updates"
+            },
+            {
+                "id": "o4",
+                "text": "Confirming the author's popularity on social media"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q57",
+        "questionNumber": 57,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "You need to ensure the security of your passwords. Which three guidelines should you follow?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Use the longest password or passphrase permissible by each password system."
+            },
+            {
+                "id": "o2",
+                "text": "Use passwords that are based on private personal information."
+            },
+            {
+                "id": "o3",
+                "text": "Use multi-factor authentication when available."
+            },
+            {
+                "id": "o4",
+                "text": "Use words that can be found in the dictionary of a language other than your primary language."
+            },
+            {
+                "id": "o5",
+                "text": "Use complex passwords and record them in a notebook that you keep with you at all times."
+            },
+            {
+                "id": "o6",
+                "text": "Use a different password for each account."
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3",
+            "o6"
+        ]
+    },
+    {
+        "id": "q58",
+        "questionNumber": 58,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about Creative Commons, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Allows creators to grant licenses to only specific people",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Helps facilitate the sharing and discovery of creative works on the web",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "Provides tools that allow creators to dedicate their works to the public domain",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q59",
+        "questionNumber": 59,
+        "type": "single",
+        "questionText": "Which option is the best way to create a secure password?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Use your name and birthday"
+            },
+            {
+                "id": "o2",
+                "text": "Use your favorite movie title"
+            },
+            {
+                "id": "o3",
+                "text": "Use a mix of letters, numbers, and symbols"
+            },
+            {
+                "id": "o4",
+                "text": "Use something easy to remember, like '12345' or 'p@ssword'"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q60",
+        "questionNumber": 60,
+        "type": "single",
+        "questionText": "Which statement about web-based applications is correct?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Web applications process information locally on your computer"
+            },
+            {
+                "id": "o2",
+                "text": "The web version of a desktop application has all the same features as the desktop version"
+            },
+            {
+                "id": "o3",
+                "text": "Before you can use a web application, you must install it on your computer"
+            },
+            {
+                "id": "o4",
+                "text": "You must have an internet connection to use a web application."
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q71",
+        "questionNumber": 71,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two methods should you use to avoid computer-related injuries?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Use a mouse with a switch to adjust the DPI when needed"
+            },
+            {
+                "id": "o2",
+                "text": "Upgrade to a high-end graphics card to reduce eye strain"
+            },
+            {
+                "id": "o3",
+                "text": "Use an ergonomic keyboard so your wrists are in a more natural position"
+            },
+            {
+                "id": "o4",
+                "text": "Take frequent short breaks during which you walk around"
+            }
+        ],
+        "correctAnswers": [
+            "o3",
+            "o4"
+        ]
+    },
+    {
+        "id": "q72",
+        "questionNumber": 72,
+        "type": "single",
+        "questionText": "Which hardware component does a desktop computer use for long-term data storage?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Central processing unit (CPU)"
+            },
+            {
+                "id": "o2",
+                "text": "Motherboard"
+            },
+            {
+                "id": "o3",
+                "text": "USB flash drive"
+            },
+            {
+                "id": "o4",
+                "text": "Hard disk drive"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q73",
+        "questionNumber": 73,
+        "type": "statement-grid",
+        "instruction": "Select Yes if the feature protects digital privacy and No if it does not.",
+        "questionText": "You need to identify tools that help you to protect your digital privacy.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Yes"
+            },
+            {
+                "id": "o2",
+                "text": "No"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Disk defragmenter",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Password-management program",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "Anti-tracking browser extension",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q74",
+        "questionNumber": 74,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about the differences between internet and intranet, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "The internet is owned by a decentralized consortium of companies",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "An intranet connection is more secure than an internet connection",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "An extranet allows customers and suppliers to access a company's intranet",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q75",
+        "questionNumber": 75,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about creating basic presentations, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "You should minimize text content in presentations",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "You can only create Microsoft PowerPoint presentations on Windows computers",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "You can access Apple Keynote presentations from Windows computers through iCloud",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s4",
+                "text": "You should maintain a low contrast between the text and background colors of presentations",
+                "correctAnswer": "o2"
+            }
+        ]
+    },
+    {
+        "id": "q76",
+        "questionNumber": 76,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "Online messaging apps simplify the process of communicating with other people, whether they are next door or in another country. For each statement, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "The internet is privately owned by a consortium of companies",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "An intranet connection is more secure than an internet connection",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "An intranet has an unlimited number of users and can be accessed by anyone",
+                "correctAnswer": "o2"
+            }
+        ]
+    },
+    {
+        "id": "q77",
+        "questionNumber": 77,
+        "type": "statement-grid",
+        "instruction": "Select Yes if it is a valid Google search filter option, and No if it is not.",
+        "questionText": "For each item, select Yes if it is a valid Google search filter option, and No if it is not.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Yes"
+            },
+            {
+                "id": "o2",
+                "text": "No"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Language",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "File type",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "Color",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s4",
+                "text": "Dates",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q78",
+        "questionNumber": 78,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "You are writing a research paper. You gather information from various sources that you want to include in your paper. You need to reference your source material in your paper. For which two reasons should you reference your source material?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "It allows readers to find the original information source"
+            },
+            {
+                "id": "o2",
+                "text": "It establishes the research paper as your original work"
+            },
+            {
+                "id": "o3",
+                "text": "It gives credit to the people who did the research you're referencing"
+            },
+            {
+                "id": "o4",
+                "text": "It provides financial payment to the people who performed the research"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3"
+        ]
+    },
+    {
+        "id": "q79",
+        "questionNumber": 79,
+        "type": "single",
+        "questionText": "What is a computer virus?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A program that is designed to look harmless but allows unauthorized access to your computer"
+            },
+            {
+                "id": "o2",
+                "text": "Content that tricks you into revealing account codes and passwords by pretending to be legitimate"
+            },
+            {
+                "id": "o3",
+                "text": "A program that installs itself on your system without your knowledge and tracks your computer usage"
+            },
+            {
+                "id": "o4",
+                "text": "A program that can copy itself and spread to other computers"
+            }
+        ],
+        "correctAnswer": "o4"
+    },
+    {
+        "id": "q80",
+        "questionNumber": 80,
+        "type": "single",
+        "questionText": "Which practice helps protect your computer and personal data?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Sharing your password with trusted friends"
+            },
+            {
+                "id": "o2",
+                "text": "Installing and updating antivirus software regularly"
+            },
+            {
+                "id": "o3",
+                "text": "Ignoring software update notifications"
+            },
+            {
+                "id": "o4",
+                "text": "Downloading files from unknown websites."
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q81",
+        "questionNumber": 81,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about navigating digital environments, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "You can customize your browser settings to allow pop-ups for specific websites",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Clearing your browser cache removes all of your saved passwords",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Bookmarks allow you to save web addresses for easy access later",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q82",
+        "questionNumber": 82,
+        "type": "single",
+        "questionText": "What does a green padlock icon or 'https' in the address bar of a web browser indicate?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The website is completely free to use"
+            },
+            {
+                "id": "o2",
+                "text": "The connection to the website is encrypted and secure"
+            },
+            {
+                "id": "o3",
+                "text": "The website has been blocked by your network administrator"
+            },
+            {
+                "id": "o4",
+                "text": "The website is immune to all forms of malware"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q83",
+        "questionNumber": 83,
+        "type": "single",
+        "questionText": "Which action is the best way to handle an email from an unknown sender that contains an unexpected attachment?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Open the attachment to see what it is"
+            },
+            {
+                "id": "o2",
+                "text": "Forward the email to a friend to ask their opinion"
+            },
+            {
+                "id": "o3",
+                "text": "Delete the email without opening the attachment"
+            },
+            {
+                "id": "o4",
+                "text": "Reply to the sender and ask who they are"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q84",
+        "questionNumber": 84,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two features are considered biometric authentication?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Password"
+            },
+            {
+                "id": "o2",
+                "text": "Fingerprint scan"
+            },
+            {
+                "id": "o3",
+                "text": "PIN"
+            },
+            {
+                "id": "o4",
+                "text": "Facial recognition"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q85",
+        "questionNumber": 85,
+        "type": "single",
+        "questionText": "What is the primary purpose of an Acceptable Use Policy (AUP) in a school or business?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To establish guidelines for the appropriate use of the organization's network and computers"
+            },
+            {
+                "id": "o2",
+                "text": "To dictate how much time employees can spend on the internet"
+            },
+            {
+                "id": "o3",
+                "text": "To prevent users from accessing the internet completely"
+            },
+            {
+                "id": "o4",
+                "text": "To track and sell the browsing history of users"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q86",
+        "questionNumber": 86,
+        "type": "single",
+        "questionText": "Which action should you take if you receive a cyberbullying message?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Reply with an insulting message"
+            },
+            {
+                "id": "o2",
+                "text": "Delete the message immediately so no one sees it"
+            },
+            {
+                "id": "o3",
+                "text": "Save the message and report it to a trusted adult or authority"
+            },
+            {
+                "id": "o4",
+                "text": "Forward the message to your friends"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q87",
+        "questionNumber": 87,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about social media privacy, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Once you post a photo on social media, you lose control over who can view and share it",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Employers and universities rarely check the social media profiles of applicants",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Privacy settings allow you to limit who can see your social media posts",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q88",
+        "questionNumber": 88,
+        "type": "single",
+        "questionText": "What is the function of a Wi-Fi router?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To store large amounts of backup data"
+            },
+            {
+                "id": "o2",
+                "text": "To route data packets and provide wireless internet access to devices"
+            },
+            {
+                "id": "o3",
+                "text": "To scan incoming files for malware"
+            },
+            {
+                "id": "o4",
+                "text": "To increase the physical memory (RAM) of connected devices"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q89",
+        "questionNumber": 89,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two file formats are commonly used for digital images?",
+        "options": [
+            {
+                "id": "o1",
+                "text": ".docx"
+            },
+            {
+                "id": "o2",
+                "text": ".jpg"
+            },
+            {
+                "id": "o3",
+                "text": ".png"
+            },
+            {
+                "id": "o4",
+                "text": ".mp4"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o3"
+        ]
+    },
+    {
+        "id": "q90",
+        "questionNumber": 90,
+        "type": "single",
+        "questionText": "Which type of software is best suited for analyzing data, performing calculations, and creating charts?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Word processing application"
+            },
+            {
+                "id": "o2",
+                "text": "Presentation software"
+            },
+            {
+                "id": "o3",
+                "text": "Spreadsheet application"
+            },
+            {
+                "id": "o4",
+                "text": "Database management system"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q91",
+        "questionNumber": 91,
+        "type": "single",
+        "questionText": "Which software application is used to create, edit, and format text documents?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Spreadsheet"
+            },
+            {
+                "id": "o2",
+                "text": "Word processor"
+            },
+            {
+                "id": "o3",
+                "text": "Presentation program"
+            },
+            {
+                "id": "o4",
+                "text": "Database management system"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q92",
+        "questionNumber": 92,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two hardware devices are considered output devices?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Monitor"
+            },
+            {
+                "id": "o2",
+                "text": "Keyboard"
+            },
+            {
+                "id": "o3",
+                "text": "Mouse"
+            },
+            {
+                "id": "o4",
+                "text": "Printer"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o4"
+        ]
+    },
+    {
+        "id": "q93",
+        "questionNumber": 93,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about computer files and folders, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Moving a file removes it from its original location and places it in a new location",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Copying a file removes the original file and creates a duplicate",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Deleting a file moves it to the Recycle Bin or Trash, where it can potentially be restored",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q94",
+        "questionNumber": 94,
+        "type": "single",
+        "questionText": "What is a major advantage of using cloud storage?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Files are stored completely offline and are inaccessible to hackers"
+            },
+            {
+                "id": "o2",
+                "text": "You can access your files from any device with an internet connection"
+            },
+            {
+                "id": "o3",
+                "text": "It increases the physical processing speed of your computer"
+            },
+            {
+                "id": "o4",
+                "text": "It replaces the need for a computer operating system"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q95",
+        "questionNumber": 95,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Which three elements are generally required to connect a home network to the internet?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Internet Service Provider (ISP)"
+            },
+            {
+                "id": "o2",
+                "text": "Web development software"
+            },
+            {
+                "id": "o3",
+                "text": "Modem"
+            },
+            {
+                "id": "o4",
+                "text": "Router"
+            },
+            {
+                "id": "o5",
+                "text": "Graphic design software"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3",
+            "o4"
+        ]
+    },
+    {
+        "id": "q96",
+        "questionNumber": 96,
+        "type": "single",
+        "questionText": "When typing in a word processor, what does the 'Ctrl + X' keyboard shortcut do?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Copies the selected text"
+            },
+            {
+                "id": "o2",
+                "text": "Pastes the copied text"
+            },
+            {
+                "id": "o3",
+                "text": "Cuts the selected text"
+            },
+            {
+                "id": "o4",
+                "text": "Undoes the last action"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q97",
+        "questionNumber": 97,
+        "type": "single",
+        "questionText": "Which key on a standard keyboard is typically used to capture an image of the entire screen?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Shift"
+            },
+            {
+                "id": "o2",
+                "text": "Print Screen (PrtScn)"
+            },
+            {
+                "id": "o3",
+                "text": "Alt"
+            },
+            {
+                "id": "o4",
+                "text": "Esc"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q98",
+        "questionNumber": 98,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about online security threats, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Phishing is a type of social engineering attack used to steal user data",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Spam emails always contain viruses and malware",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Ransomware encrypts a user's files and demands payment to restore access",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q99",
+        "questionNumber": 99,
+        "type": "single",
+        "questionText": "What does the 'Reply All' button do in an email client?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Sends a response only to the original sender of the email"
+            },
+            {
+                "id": "o2",
+                "text": "Sends a response to the sender and everyone else included in the 'To' and 'Cc' fields"
+            },
+            {
+                "id": "o3",
+                "text": "Forwards the email to a new contact not previously included"
+            },
+            {
+                "id": "o4",
+                "text": "Automatically deletes the email after replying"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q100",
+        "questionNumber": 100,
+        "type": "matching",
+        "instruction": "Match each shortcut key to its correct function.",
+        "questionText": "Match each shortcut key to its correct function.",
+        "pairs": [
+            {
+                "left": "Ctrl + C",
+                "right": "Copy"
+            },
+            {
+                "left": "Ctrl + V",
+                "right": "Paste"
+            },
+            {
+                "left": "Ctrl + Z",
+                "right": "Undo"
+            },
+            {
+                "left": "Ctrl + S",
+                "right": "Save"
+            }
+        ]
+    },
+    {
+        "id": "q101",
+        "questionNumber": 101,
+        "type": "matching",
+        "questionText": "You are setting up a home network. You need to identify the hardware components. Move each hardware component from the list on the left to its function on the right.",
+        "pairs": [
+            {
+                "left": "Modem",
+                "right": "Connects the home network to the internet"
+            },
+            {
+                "left": "Router",
+                "right": "Connects devices within the home network to each other"
+            }
+        ]
+    },
+    {
+        "id": "q102",
+        "questionNumber": 102,
+        "type": "single",
+        "questionText": "Which feature is the primary benefit of using a biometric authentication system?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "It requires users to change their passwords regularly"
+            },
+            {
+                "id": "o2",
+                "text": "It uses unique physical characteristics to verify identity"
+            },
+            {
+                "id": "o3",
+                "text": "It encrypts data stored on the hard drive"
+            },
+            {
+                "id": "o4",
+                "text": "It automatically locks the computer after a period of inactivity"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q103",
+        "questionNumber": 103,
+        "type": "single",
+        "questionText": "You are using a web browser to research a topic. Which keyboard shortcut opens a new tab?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Ctrl + N"
+            },
+            {
+                "id": "o2",
+                "text": "Ctrl + T"
+            },
+            {
+                "id": "o3",
+                "text": "Ctrl + W"
+            },
+            {
+                "id": "o4",
+                "text": "Ctrl + H"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q104",
+        "questionNumber": 104,
+        "type": "matching",
+        "questionText": "Match each application type to its primary function.",
+        "pairs": [
+            {
+                "left": "Word processor",
+                "right": "Creating and editing text documents"
+            },
+            {
+                "left": "Spreadsheet",
+                "right": "Organizing and analyzing numerical data"
+            },
+            {
+                "left": "Presentation",
+                "right": "Creating slides with text, images, and media"
+            },
+            {
+                "left": "Database",
+                "right": "Storing and managing large collections of data"
+            }
+        ]
+    },
+    {
+        "id": "q105",
+        "questionNumber": 105,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two actions can help protect your personal information when using public Wi-Fi?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Logging into your bank account to check your balance"
+            },
+            {
+                "id": "o2",
+                "text": "Using a Virtual Private Network (VPN)"
+            },
+            {
+                "id": "o3",
+                "text": "Connecting to networks that do not require a password"
+            },
+            {
+                "id": "o4",
+                "text": "Ensuring that a website URL begins with HTTPS"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q106",
+        "questionNumber": 106,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about computer networks, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "A Local Area Network (LAN) connects computers over a large geographical area",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "A Wide Area Network (WAN) can connect multiple LANs together",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "The internet is the largest example of a WAN",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q107",
+        "questionNumber": 107,
+        "type": "single",
+        "questionText": "Which component is considered the 'brain' of the computer?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Random Access Memory (RAM)"
+            },
+            {
+                "id": "o2",
+                "text": "Central Processing Unit (CPU)"
+            },
+            {
+                "id": "o3",
+                "text": "Hard Disk Drive (HDD)"
+            },
+            {
+                "id": "o4",
+                "text": "Motherboard"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q108",
+        "questionNumber": 108,
+        "type": "matching",
+        "questionText": "Move each storage type from the list on the left to its characteristic on the right.",
+        "pairs": [
+            {
+                "left": "Cloud storage",
+                "right": "Requires an internet connection to access files"
+            },
+            {
+                "left": "Local storage",
+                "right": "Stores files directly on the device's physical hard drive"
+            }
+        ]
+    },
+    {
+        "id": "q109",
+        "questionNumber": 109,
+        "type": "single",
+        "questionText": "What is the primary function of an operating system?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To protect the computer from physical damage"
+            },
+            {
+                "id": "o2",
+                "text": "To manage hardware and software resources"
+            },
+            {
+                "id": "o3",
+                "text": "To edit photos and videos"
+            },
+            {
+                "id": "o4",
+                "text": "To provide an internet connection"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q110",
+        "questionNumber": 110,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two of the following are examples of malware?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Antivirus software"
+            },
+            {
+                "id": "o2",
+                "text": "Trojan horse"
+            },
+            {
+                "id": "o3",
+                "text": "Operating system"
+            },
+            {
+                "id": "o4",
+                "text": "Ransomware"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q111",
+        "questionNumber": 111,
+        "type": "single",
+        "questionText": "Which network protocol is used to securely transfer web data between a browser and a website?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "HTTP (Hypertext Transfer Protocol)"
+            },
+            {
+                "id": "o2",
+                "text": "FTP (File Transfer Protocol)"
+            },
+            {
+                "id": "o3",
+                "text": "HTTPS (Hypertext Transfer Protocol Secure)"
+            },
+            {
+                "id": "o4",
+                "text": "SMTP (Simple Mail Transfer Protocol)"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q112",
+        "questionNumber": 112,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about phishing and online scams, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Phishing emails often create a sense of urgency to trick you into acting quickly",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Legitimate banks will frequently ask for your full password via email",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Checking the sender's actual email address can help identify a phishing attempt",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q113",
+        "questionNumber": 113,
+        "type": "single",
+        "questionText": "If a creator places their work in the 'Public Domain', what does this mean for other users?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "The work can be used by anyone for any purpose without needing permission"
+            },
+            {
+                "id": "o2",
+                "text": "The work can only be used for educational purposes"
+            },
+            {
+                "id": "o3",
+                "text": "Users must pay a royalty fee every time they view the work"
+            },
+            {
+                "id": "o4",
+                "text": "The work is heavily copyrighted and strictly protected"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q114",
+        "questionNumber": 114,
+        "type": "matching",
+        "instruction": "Match each file extension to its corresponding file type.",
+        "questionText": "Move each file extension from the left to the correct file type on the right.",
+        "pairs": [
+            {
+                "left": ".docx",
+                "right": "Word processing document"
+            },
+            {
+                "left": ".jpg",
+                "right": "Image file"
+            },
+            {
+                "left": ".mp4",
+                "right": "Video file"
+            },
+            {
+                "left": ".xlsx",
+                "right": "Spreadsheet file"
+            }
+        ]
+    },
+    {
+        "id": "q115",
+        "questionNumber": 115,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Your computer application has completely frozen and is not responding to your mouse clicks. Which two actions are appropriate troubleshooting steps?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Unplug the computer directly from the wall outlet"
+            },
+            {
+                "id": "o2",
+                "text": "Use the Task Manager (or Force Quit) to close the unresponsive application"
+            },
+            {
+                "id": "o3",
+                "text": "Delete the application's shortcut from your desktop"
+            },
+            {
+                "id": "o4",
+                "text": "Restart the computer if closing the application does not work"
+            }
+        ],
+        "correctAnswers": [
+            "o2",
+            "o4"
+        ]
+    },
+    {
+        "id": "q116",
+        "questionNumber": 116,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about computer ergonomics, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Your monitor should be placed directly at eye level to prevent neck strain",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Typing with your wrists resting heavily on the desk prevents repetitive strain injuries",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Using an adjustable chair helps maintain proper posture while working",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q117",
+        "questionNumber": 117,
+        "type": "single",
+        "questionText": "What is an IP (Internet Protocol) address?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate"
+            },
+            {
+                "id": "o2",
+                "text": "The physical location of your computer's hard drive"
+            },
+            {
+                "id": "o3",
+                "text": "A secret password used to access secure websites"
+            },
+            {
+                "id": "o4",
+                "text": "The serial number assigned to your computer by the manufacturer"
+            }
+        ],
+        "correctAnswer": "o1"
+    },
+    {
+        "id": "q118",
+        "questionNumber": 118,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "Which three devices are considered output devices?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Speakers"
+            },
+            {
+                "id": "o2",
+                "text": "Microphone"
+            },
+            {
+                "id": "o3",
+                "text": "Projector"
+            },
+            {
+                "id": "o4",
+                "text": "Scanner"
+            },
+            {
+                "id": "o5",
+                "text": "Monitor"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3",
+            "o5"
+        ]
+    },
+    {
+        "id": "q119",
+        "questionNumber": 119,
+        "type": "single",
+        "questionText": "Which of the following is a primary function of a computer's operating system?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To create and format text documents and spreadsheets"
+            },
+            {
+                "id": "o2",
+                "text": "To browse the internet and download files"
+            },
+            {
+                "id": "o3",
+                "text": "To act as an interface between the user, the applications, and the computer's hardware"
+            },
+            {
+                "id": "o4",
+                "text": "To physically cool down the CPU during heavy use"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q120",
+        "questionNumber": 120,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about cloud collaboration, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Multiple users can edit a shared cloud document simultaneously",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Changes made to a cloud document must be manually saved to a local hard drive to be seen by others",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Cloud collaboration requires an active internet connection to sync changes in real-time",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q121",
+        "questionNumber": 121,
+        "type": "matching",
+        "questionText": "Move each application type from the list on the left to its correct definition on the right.",
+        "pairs": [
+            {
+                "left": "Desktop application",
+                "right": "Software installed and run directly on a personal computer"
+            },
+            {
+                "left": "Web application",
+                "right": "Software accessed through a web browser over a network or the internet"
+            },
+            {
+                "left": "Mobile application",
+                "right": "Software designed specifically to run on smartphones and tablets"
+            }
+        ]
+    },
+    {
+        "id": "q122",
+        "questionNumber": 122,
+        "type": "single",
+        "questionText": "Which of the following is a primary benefit of using a wired network connection over a wireless one?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Greater mobility and convenience"
+            },
+            {
+                "id": "o2",
+                "text": "Faster data transfer speeds and a more reliable connection"
+            },
+            {
+                "id": "o3",
+                "text": "Lower setup and hardware costs"
+            },
+            {
+                "id": "o4",
+                "text": "The ability to connect an unlimited number of devices simultaneously"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q123",
+        "questionNumber": 123,
+        "type": "multi",
+        "instruction": "Choose 3 correct options.",
+        "questionText": "You are creating a strong, secure password. Which three elements should you include?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "A combination of uppercase and lowercase letters"
+            },
+            {
+                "id": "o2",
+                "text": "Your personal date of birth"
+            },
+            {
+                "id": "o3",
+                "text": "Numbers"
+            },
+            {
+                "id": "o4",
+                "text": "Special characters (like @, #, $, etc.)"
+            },
+            {
+                "id": "o5",
+                "text": "A common dictionary word"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3",
+            "o4"
+        ]
+    },
+    {
+        "id": "q124",
+        "questionNumber": 124,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about using public Wi-Fi safely, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "You should avoid accessing sensitive information, like bank accounts, on public Wi-Fi",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Public Wi-Fi networks are generally as secure and encrypted as your home network",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s3",
+                "text": "Using a Virtual Private Network (VPN) provides an extra layer of security on public Wi-Fi",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q125",
+        "questionNumber": 125,
+        "type": "single",
+        "questionText": "Which hardware device physically connects a home network to the internet service provider (ISP)?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Central Processing Unit (CPU)"
+            },
+            {
+                "id": "o2",
+                "text": "Modem"
+            },
+            {
+                "id": "o3",
+                "text": "Ethernet switch"
+            },
+            {
+                "id": "o4",
+                "text": "Network interface card (NIC)"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q126",
+        "questionNumber": 126,
+        "type": "matching",
+        "questionText": "Move each operating system from the list on the left to its primary platform on the right.",
+        "pairs": [
+            {
+                "left": "Windows",
+                "right": "Personal computers (PCs)"
+            },
+            {
+                "left": "iOS",
+                "right": "Mobile devices (Smartphones/Tablets) - Apple"
+            },
+            {
+                "left": "Android",
+                "right": "Mobile devices (Smartphones/Tablets) - Non-Apple"
+            },
+            {
+                "left": "macOS",
+                "right": "Personal computers - Apple"
+            }
+        ]
+    },
+    {
+        "id": "q127",
+        "questionNumber": 127,
+        "type": "single",
+        "questionText": "What is the main function of a web search engine?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "To design, build, and host websites on the internet"
+            },
+            {
+                "id": "o2",
+                "text": "To protect a computer network from viruses and malware"
+            },
+            {
+                "id": "o3",
+                "text": "To index and search for information and content on the World Wide Web"
+            },
+            {
+                "id": "o4",
+                "text": "To directly send and receive private email messages"
+            }
+        ],
+        "correctAnswer": "o3"
+    },
+    {
+        "id": "q128",
+        "questionNumber": 128,
+        "type": "statement-grid",
+        "instruction": "Select Yes if it is an example of cloud storage or No if it is not.",
+        "questionText": "For each of the following services or devices, select Yes if it is an example of cloud storage or No if it is not.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Yes"
+            },
+            {
+                "id": "o2",
+                "text": "No"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "Google Drive",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s2",
+                "text": "Microsoft OneDrive",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "USB Flash Drive",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s4",
+                "text": "Dropbox",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q129",
+        "questionNumber": 129,
+        "type": "multi",
+        "instruction": "Choose 2 correct options.",
+        "questionText": "Which two actions are effective practices to help you avoid malware infections on your computer?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Downloading software and applications only from trusted, official sources"
+            },
+            {
+                "id": "o2",
+                "text": "Clicking on pop-up advertisements to claim free prizes"
+            },
+            {
+                "id": "o3",
+                "text": "Keeping your operating system and installed software regularly updated"
+            },
+            {
+                "id": "o4",
+                "text": "Opening unexpected email attachments from unknown senders"
+            }
+        ],
+        "correctAnswers": [
+            "o1",
+            "o3"
+        ]
+    },
+    {
+        "id": "q130",
+        "questionNumber": 130,
+        "type": "single",
+        "questionText": "You want to share an old physical photograph digitally on social media. Which hardware device should you use to convert the physical photograph into a digital image file?",
+        "options": [
+            {
+                "id": "o1",
+                "text": "Printer"
+            },
+            {
+                "id": "o2",
+                "text": "Scanner"
+            },
+            {
+                "id": "o3",
+                "text": "Projector"
+            },
+            {
+                "id": "o4",
+                "text": "Webcam"
+            }
+        ],
+        "correctAnswer": "o2"
+    },
+    {
+        "id": "q131",
+        "questionNumber": 131,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about maintaining computer hardware, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "You should use a damp cloth with strong household cleaners to wipe the computer screen",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Using compressed air is an effective way to remove dust from keyboard crevices",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "Keeping a computer in a well-ventilated area helps prevent overheating",
+                "correctAnswer": "o1"
+            }
+        ]
+    },
+    {
+        "id": "q132",
+        "questionNumber": 132,
+        "type": "statement-grid",
+        "instruction": "Select True or False for each statement.",
+        "questionText": "For each statement about digital footprints, select True or False.",
+        "options": [
+            {
+                "id": "o1",
+                "text": "True"
+            },
+            {
+                "id": "o2",
+                "text": "False"
+            }
+        ],
+        "statements": [
+            {
+                "id": "s1",
+                "text": "A digital footprint only includes the information you intentionally share on social media",
+                "correctAnswer": "o2"
+            },
+            {
+                "id": "s2",
+                "text": "Online purchases and search history contribute to your passive digital footprint",
+                "correctAnswer": "o1"
+            },
+            {
+                "id": "s3",
+                "text": "It is easy to completely erase your digital footprint once data is online",
+                "correctAnswer": "o2"
+            }
+        ]
+    }
+]
