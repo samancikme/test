@@ -3019,40 +3019,6 @@
   },
   {
     "id": "q112",
-    "questionNumber": 111,
-    "questionText": "Analyze the following statements about employment and how it relates to social media use and privacy. For each statement, select True or False.",
-    "topic": "Level-3",
-    "type": "statement-grid",
-    "options": [
-      {
-        "id": "True",
-        "text": "True"
-      },
-      {
-        "id": "False",
-        "text": "False"
-      }
-    ],
-    "statements": [
-      {
-        "id": "s1",
-        "text": "Employers are allowed to monitor your social media posts",
-        "correctAnswer": "True"
-      },
-      {
-        "id": "s2",
-        "text": "You can be fired for social media messages you post on your own time",
-        "correctAnswer": "True"
-      },
-      {
-        "id": "s3",
-        "text": "Employers can restrict what you post on your personal social media accounts",
-        "correctAnswer": "True"
-      }
-    ]
-  },
-  {
-    "id": "q113",
     "questionNumber": 113,
     "questionText": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt-text or No if it is not.",
     "topic": "Level-3",
@@ -3086,7 +3052,7 @@
     ]
   },
   {
-    "id": "q114",
+    "id": "q113",
     "questionNumber": 114,
     "questionText": "Which two actions will improve the readability of a document? (Choose 2.)",
     "topic": "Level-3",
@@ -3120,7 +3086,7 @@
     "instruction": "Choose 2 correct options."
   },
   {
-    "id": "q115",
+    "id": "q114",
     "questionNumber": 115,
     "questionText": "You are starting a home bakery business. You plan to create a website on which customers can place pickup and delivery orders. For which two reasons should you create a prototype of your order form? (Choose 2.)",
     "topic": "Level-3",
@@ -3150,7 +3116,7 @@
     "instruction": "Choose 2 correct options."
   },
   {
-    "id": "q116",
+    "id": "q115",
     "questionNumber": 116,
     "questionText": "For which two reasons should you run a virus scan? (Choose 2.)",
     "topic": "Level-3",
@@ -3180,7 +3146,7 @@
     "instruction": "Choose 2 correct options."
   },
   {
-    "id": "q117",
+    "id": "q116",
     "questionNumber": 117,
     "questionText": "Your team is creating a website for a local business. You agree to act as the team spokesperson, although you do not have all the information. You arrange a virtual meeting with the business owner. Your meeting software allows you to enable and disable chat for different participants. How should you configure the chat feature of the virtual meeting software for this meeting?",
     "topic": "Level-3",
@@ -3206,7 +3172,7 @@
     "correctAnswer": "o2"
   },
   {
-    "id": "q118",
+    "id": "q117",
     "questionNumber": 118,
     "questionText": "Which three types of authentication factors are used to prove your identity when you use multifactor authentication? (Choose 3.)",
     "topic": "Level-3",
@@ -3245,7 +3211,7 @@
     "instruction": "Choose 3 correct options."
   },
   {
-    "id": "q119",
+    "id": "q118",
     "questionNumber": 119,
     "questionText": "A story about a college test prep study guide appears in your social media news feed. Which two logical fallacies does the story contain? (Choose 2.)",
     "topic": "Level-3",
@@ -3275,7 +3241,7 @@
     "instruction": "Choose 2 correct options."
   },
   {
-    "id": "q120",
+    "id": "q119",
     "questionNumber": 120,
     "questionText": "You are performing online research for a class. For each search topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
     "topic": "Level-3",
@@ -3314,7 +3280,7 @@
     ]
   },
   {
-    "id": "q121",
+    "id": "q120",
     "questionNumber": 121,
     "questionText": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
     "topic": "Level-3",
@@ -3340,7 +3306,7 @@
     "correctAnswer": "o4"
   },
   {
-    "id": "q122",
+    "id": "q121",
     "questionNumber": 122,
     "questionText": "Which two actions can you take to improve your communication skills? (Choose 2)",
     "topic": "Level-3",
@@ -3361,51 +3327,291 @@
       {
         "id": "o4",
         "text": "Have another team member take over the communication at the next meeting."
-      },
-      {
-        "id": "o5",
-        "text": "Option 5"
-      },
-      {
-        "id": "o6",
-        "text": "Option 6"
-      },
-      {
-        "id": "o7",
-        "text": "Option 7"
-      },
-      {
-        "id": "o8",
-        "text": "Option 8"
-      },
-      {
-        "id": "o9",
-        "text": "Option 9"
-      },
-      {
-        "id": "o10",
-        "text": "Option 10"
-      },
-      {
-        "id": "o11",
-        "text": "Option 11"
-      },
-      {
-        "id": "o12",
-        "text": "Option 12"
-      },
-      {
-        "id": "o13",
-        "text": "Option 13"
-      },
-      {
-        "id": "o14",
-        "text": "Option 14"
       }
     ],
     "correctAnswers": [
       "o1",
       "o3"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q122",
+    "questionNumber": 123,
+    "questionText": "Which two video editing methods are used to alter videos to change the original meaning of the content? (Choose 2.)",
+    "topic": "Level-3",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Show a brief clip of a longer segment of the video."
+      },
+      {
+        "id": "o2",
+        "text": "At the end of the video, show links to credible sources that support the message of the video."
+      },
+      {
+        "id": "o3",
+        "text": "Edit together pieces of different videos."
+      },
+      {
+        "id": "o4",
+        "text": "Identify the people in the video and the cameraperson in credits at the end of the video."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q123",
+    "questionNumber": 124,
+    "questionText": "Which statement is correct?",
+    "topic": "Level-3",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "This laptop meets the optimal system requirements."
+      },
+      {
+        "id": "o2",
+        "text": "This laptop meets the recommended system requirements."
+      },
+      {
+        "id": "o3",
+        "text": "This laptop meets the minimum system requirements."
+      },
+      {
+        "id": "o4",
+        "text": "This laptop does not meet the minimum system requirements."
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q124",
+    "questionNumber": 125,
+    "questionText": "Which file size is the largest?",
+    "topic": "Level-3",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "3 petabytes (PB)"
+      },
+      {
+        "id": "o2",
+        "text": "16 gigabytes (GB)"
+      },
+      {
+        "id": "o3",
+        "text": "1.44 megabytes (MB)"
+      },
+      {
+        "id": "o4",
+        "text": "640 kilobytes (KB)"
+      },
+      {
+        "id": "o5",
+        "text": "2 terabytes (TB)"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q125",
+    "questionNumber": 126,
+    "questionText": "How can you ensure your contributions to a project team are most effective?",
+    "topic": "Level-3",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "By being open to suggestions and willing to adapt your ideas"
+      },
+      {
+        "id": "o2",
+        "text": "By focusing only on your own tasks"
+      },
+      {
+        "id": "o3",
+        "text": "By always taking the lead"
+      },
+      {
+        "id": "o4",
+        "text": "By withholding your ideas"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q126",
+    "questionNumber": 127,
+    "questionText": "Which of the following files can you NOT send through a standard email provider such as Gmail or Yahoo?",
+    "topic": "Level-3",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A 30-frame 1080p-resolution animated GIF"
+      },
+      {
+        "id": "o2",
+        "text": "A 5-minute podcast in MP3 format"
+      },
+      {
+        "id": "o3",
+        "text": "A 1-minute 8K-resolution video in AVI format"
+      },
+      {
+        "id": "o4",
+        "text": "A 400-page plain-text file"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q127",
+    "questionNumber": 128,
+    "questionText": "Which file cannot typically be sent through a standard email provider?",
+    "topic": "Level-3",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A text document"
+      },
+      {
+        "id": "o2",
+        "text": "A 5-minute MP3 file"
+      },
+      {
+        "id": "o3",
+        "text": "A 1-minute 8K video in AVI format"
+      },
+      {
+        "id": "o4",
+        "text": "An animated GIF"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q128",
+    "questionNumber": 129,
+    "questionText": "Which scenario would NOT be considered fair use of a video clip?",
+    "topic": "Level-3",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using the clip in a news report"
+      },
+      {
+        "id": "o2",
+        "text": "Using the clip for teaching"
+      },
+      {
+        "id": "o3",
+        "text": "Using the clip in a political advertisement"
+      },
+      {
+        "id": "o4",
+        "text": "Using the clip in a parody"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q129",
+    "questionNumber": 130,
+    "questionText": "Which two video editing methods can alter a video to change its original meaning? (Choose 2)",
+    "topic": "Level-3",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Showing a short clip out of context"
+      },
+      {
+        "id": "o2",
+        "text": "Editing together clips from different videos"
+      },
+      {
+        "id": "o3",
+        "text": "Adding credits"
+      },
+      {
+        "id": "o4",
+        "text": "Including references"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q130",
+    "questionNumber": 131,
+    "questionText": "Which two actions will improve the readability of a document? (Choose 2)",
+    "topic": "Level-3",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use all capital letters"
+      },
+      {
+        "id": "o2",
+        "text": "Use a strong contrast between text and background"
+      },
+      {
+        "id": "o3",
+        "text": "Use slight spacing between lines of text"
+      },
+      {
+        "id": "o4",
+        "text": "Use decorative fonts"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q131",
+    "questionNumber": 132,
+    "questionText": "Which two actions will improve communication skills when working with a client? (Choose 2)",
+    "topic": "Level-3",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Summarize the question before answering"
+      },
+      {
+        "id": "o2",
+        "text": "Send a text message to apologize for poor communication"
+      },
+      {
+        "id": "o3",
+        "text": "Have another team member take over communication"
+      },
+      {
+        "id": "o4",
+        "text": "Speak in a positive and respectful tone"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
     ],
     "instruction": "Choose 2 correct options."
   }
