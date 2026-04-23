@@ -1,0 +1,3314 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Experts are concerned that society will lose some skills because of reliance on technology. Which three skills can become underutilized through the use of technology? (Choose 3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Map navigation",
+          "selected": true
+        },
+        {
+          "id": "B",
+          "text": "Memorization",
+          "selected": true
+        },
+        {
+          "id": "C",
+          "text": "Organization",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Mental math",
+          "selected": true
+        },
+        {
+          "id": "E",
+          "text": "Eye-hand coordination",
+          "selected": false
+        },
+        {
+          "id": "F",
+          "text": "Dexterity",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which practice helps keep your online accounts secure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Share your password with trusted friends",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Use the same password for all accounts",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Use strong, unique passwords for each account",
+          "selected": true
+        },
+        {
+          "id": "D",
+          "text": "Write your password on paper near your computer",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "total_questions": 132,
+      "question_text": "What is an advantage of collaborating within a team to resolve an issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures external resources are unnecessary.",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "It eliminates the need for individual leadership.",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "It allows for diverse perspectives to generate solutions.",
+          "selected": true
+        },
+        {
+          "id": "D",
+          "text": "It balances speed and quality when addressing problems.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "total_questions": 132,
+      "question_text": "Electronic waste (e-waste) refers to used electronics that are discarded, donated, or given to a recycler. For each statement about e-waste, select True or False.",
+      "statements": [
+        {
+          "statement": "Over 60% of e-waste is recycled",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "E-waste is the slowest growing form of waste worldwide",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "E-waste contains precious metals like gold and silver that can be recovered and reused",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "E-waste contains toxic metals like lead and mercury that cause human illness if they leach into groundwater",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "total_questions": 132,
+      "question_text": "What is a benefit of using a cyclical design process to create digital products?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows you to follow a strict schedule with a definite ending deadline.",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "It allows you to deliver the final product as quickly as possible with few changes.",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "It allows you to continually test and improve the product to achieve the best possible result.",
+          "selected": true
+        },
+        {
+          "id": "D",
+          "text": "It allows you to work independently, without needing to ask for input from other team members.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "total_questions": 132,
+      "question_text": "You are working with classmates on a team project. Your part of the project is due in three days. You realize that you need more time to finish. You have an online meeting tomorrow. What should you do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wait to communicate with the team until after you complete your part of the project.",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Explain why you haven't made enough progress.",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Tell the team you took on too much.",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Describe what you have accomplished and ask for help with the rest.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "total_questions": 132,
+      "question_text": "Your Windows 10 computer has Microsoft Edge, Microsoft Internet Explorer, and Google Chrome installed. Every time you click a link to a website in an email message, the website opens in Microsoft Edge. You want to open links in Google Chrome instead. In Windows 10, where can you configure this setting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Default Apps",
+          "selected": true
+        },
+        {
+          "id": "B",
+          "text": "Email Privacy Settings",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Notifications",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Task Manager",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "total_questions": 132,
+      "question_text": "You are researching apples on the internet. For each research topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
+      "statements": [
+        {
+          "text": "Apple varieties",
+          "selected": "No"
+        },
+        {
+          "text": "History of apple agriculture",
+          "selected": "Yes"
+        },
+        {
+          "text": "Recipes for apple pie or cake",
+          "selected": "Yes"
+        },
+        {
+          "text": "Macintosh apples, but not the Macintosh computer",
+          "selected": "No"
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "total_questions": 132,
+      "question_text": "You need to find drivers for a Windows 10 laptop. Device Manager shows 'unknown device' for several components. What should you do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "From Device Manager, scan for hardware changes.",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Use the model number of the machine to locate the Drivers page on the laptop manufacturer’s website.",
+          "selected": true
+        },
+        {
+          "id": "C",
+          "text": "Restart the computer and use the Windows 10 repair tool.",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Purchase device driver software from the store where the computer was purchased.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "total_questions": 132,
+      "question_text": "You purchase a software program to complete a specific project. After you finish the project, a friend asks to borrow the program. You need to determine whether this is an acceptable use of the software. Where can you find this information?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Content Management System (CMS)",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Electronic Software Rating Board (ESRB)",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Access Control List (ACL)",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "End User License Agreement (EULA)",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "total_questions": 132,
+      "question_text": "You work for a company with a strict security policy. A coworker shares their password with you. For each statement, select True or False.",
+      "statements": [
+        {
+          "statement": "If you use someone else's password, your employer can restrict your future access to the company network",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "Using a coworker's password to sign them into the company network because they are late for work is fraud",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "If multiple people know a coworker's password and a security breach occurs, they could all be held responsible",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "total_questions": 132,
+      "question_text": "What happens when you enlarge a small bitmap image that you save from a webpage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The image becomes pixelated.",
+          "selected": true
+        },
+        {
+          "id": "B",
+          "text": "The image becomes clearer.",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "The image file size decreases.",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "The image resolution decreases.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "total_questions": 132,
+      "question_text": "Which command should you select?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You and Google",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Appearance",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Default browser",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "On startup",
+          "selected": false
+        },
+        {
+          "id": "E",
+          "text": "Reset and clean up",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "total_questions": 132,
+      "question_text": "What are two traits of a constructive team member? (Choose 2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opinionated",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Rigid",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Confident",
+          "selected": true
+        },
+        {
+          "id": "D",
+          "text": "Inquisitive",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "total_questions": 132,
+      "question_text": "You encounter a video on social media that you suspect might be a deepfake generated by AI. For each statement, select Yes if the action would help you determine if the video is trustworthy.",
+      "statements": [
+        {
+          "statement": "Assume that because the video contains a statement unlikely to be said by the speaker that the video is trustworthy.",
+          "selected": "No"
+        },
+        {
+          "statement": "Search online for some of the specific quotes from the video to see if they are being featured by reputable news organizations.",
+          "selected": "Yes"
+        },
+        {
+          "statement": "Consider the motivations of the originators and sharers of the video.",
+          "selected": "Yes"
+        },
+        {
+          "statement": "Check the comments on the video to see if there are accusations of impropriety or other issues.",
+          "selected": "Yes"
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "total_questions": 132,
+      "question_text": "A story about a college test prep study guide appears in your social media news feed... Which two logical fallacies does the story contain? (Choose 2.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Appeal to authority — relying on one expert, named or unnamed, as the basis for an argument.",
+          "selected": true
+        },
+        {
+          "id": "B",
+          "text": "Ad hominem (“against the person”) — attacking the person and not the issue.",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Appeal to tradition — ignoring past problems and assuming that the way things were is better than they are now.",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "False dilemma — limiting the possible choices to avoid consideration of another choice.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "total_questions": 132,
+      "question_text": "Move each content type from the list on the left to the most appropriate application for presenting the content on the right.",
+      "matches": [
+        {
+          "content_type": "A large data set that you manipulate by using formulas",
+          "application": "Microsoft Excel"
+        },
+        {
+          "content_type": "A multiple-page project proposal with an automatically generated table of contents and index",
+          "application": "Microsoft Word"
+        },
+        {
+          "content_type": "A visual presentation that automatically advances through multiple topics on an unattended computer",
+          "application": "Microsoft PowerPoint"
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "total_questions": 132,
+      "question_text": "You copy a 30-second video clip from the internet. You do not know who created the video. Which scenario would NOT be fair use of the video clip?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You create a parody that includes the video clip.",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "You create a political ad that includes the video clip.",
+          "selected": true
+        },
+        {
+          "id": "C",
+          "text": "You use the video clip as part of a news report.",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "You use the video clip to teach.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "total_questions": 132,
+      "question_text": "You see a post online in which a person is threatening to commit a harmful act. What is the first action you should take?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Take a screenshot of the post and wait to see if the harmful act is committed.",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Reply to the post and convince the original poster not to commit this act.",
+          "selected": false
+        },
+        {
+          "id": "C",
+          "text": "Share the post to your own social media audience to warn others about the threat.",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Notify your local law enforcement by telephone or emergency text message if available.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "total_questions": 132,
+      "question_text": "Your team is working virtually on a group project. You want the group and the project to be successful. For each statement about strategies for achieving success in a virtual group, select True or False.",
+      "statements": [
+        {
+          "statement": "Have team members collect information in a OneNote notebook",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "Increase efficiency by utilizing only asynchronous communication",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "Create a team discussion board for project-related conversations",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "Have a central file storage location that all team members can access",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "total_questions": 132,
+      "question_text": "For each statement, select True or False. Note: You will receive partial credit for each correct selection.",
+      "statements": [
+        {
+          "statement": "Web pages are more credible if they cite sources for their content",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "You know a source is reliable when the website address ends in .org",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "Consulting multiple sources is a good way to determine a site's accuracy",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "A search engine differentiates between good and bad sites. The first results are usually the most reliable",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 22,
+      "total_questions": 132,
+      "question_text": "Jackson is working at a tech store. A customer calls to ask about a faulty laptop. The laptop is an older model, and there are newer versions available. What is the best first step for Jackson to take to understand the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Explain that the laptop is probably too old to fix",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Ask the customer about any error messages",
+          "selected": true
+        },
+        {
+          "id": "C",
+          "text": "Tell the customer to come into the store for a refund",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Suggest that the customer buy a new laptop",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 23,
+      "total_questions": 132,
+      "question_text": "You have been asked to address unhappy and angry customer reviews online. You need to determine how to customize your message for the audience. For each customization, select True if you should implement it or False if you should not.",
+      "statements": [
+        {
+          "statement": "Offer solutions to the problems the customers express",
+          "options": [
+            {
+              "value": "True",
+              "selected": true
+            },
+            {
+              "value": "False",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "Apologize only if the customers have a valid complaint",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "Tell unhappy customers that many other customers have given positive reviews of your company",
+          "options": [
+            {
+              "value": "True",
+              "selected": false
+            },
+            {
+              "value": "False",
+              "selected": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 24,
+      "total_questions": 132,
+      "question_text": "Which term describes the text embedded with an image that describes the image's visual content to be read aloud by a screen reader?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Caption",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Alt text",
+          "selected": true
+        },
+        {
+          "id": "C",
+          "text": "Blockquote",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Header",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 25,
+      "total_questions": 132,
+      "question_text": "What is the first thing you should consider when preparing a digital presentation to ensure it can be viewed effectively on various devices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Use many transitions and animations",
+          "selected": false
+        },
+        {
+          "id": "B",
+          "text": "Optimize file size of images and videos for quick loading",
+          "selected": true
+        },
+        {
+          "id": "C",
+          "text": "Use fancy decorative fonts",
+          "selected": false
+        },
+        {
+          "id": "D",
+          "text": "Put as much text as possible on slides",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 26,
+      "total_questions": 132,
+      "question_text": "You must conduct various searches. Move each search topic from the list on the left to the corresponding type of search on the right.",
+      "matching_pairs": [
+        {
+          "search_type": "Informational",
+          "topic": "Population statistics"
+        },
+        {
+          "search_type": "Navigational",
+          "topic": "A specific site"
+        },
+        {
+          "search_type": "Transactional",
+          "topic": "Third-party options to purchase software"
+        }
+      ]
+    },
+    {
+      "question_number": 27,
+      "total_questions": 132,
+      "question_text": "You need to maximize your online privacy. For each action, select Yes if it contributes to online privacy or No if it does not.",
+      "statements": [
+        {
+          "statement": "Stay logged into websites",
+          "options": [
+            {
+              "value": "Yes",
+              "selected": false
+            },
+            {
+              "value": "No",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "Delete cookies after using the browser",
+          "options": [
+            {
+              "value": "Yes",
+              "selected": true
+            },
+            {
+              "value": "No",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "statement": "Use the same credentials for multiple accounts",
+          "options": [
+            {
+              "value": "Yes",
+              "selected": false
+            },
+            {
+              "value": "No",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "statement": "Open all email messages to make sure they do not include malware",
+          "options": [
+            {
+              "value": "Yes",
+              "selected": false
+            },
+            {
+              "value": "No",
+              "selected": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 28,
+      "total_questions": 132,
+      "question_text": "Which type of software can be used online and with iOS and Android devices?",
+      "options": [
+        {
+          "option": "A. Microsoft 365",
+          "selected": true
+        },
+        {
+          "option": "B. Chrome OS",
+          "selected": false
+        },
+        {
+          "option": "C. Windows 11",
+          "selected": false
+        },
+        {
+          "option": "D. Mac OS",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 29,
+      "total_questions": 132,
+      "question_text": "Which term describes unwanted email messages that are sent in bulk?",
+      "options": [
+        {
+          "option": "A. Spam",
+          "selected": true
+        },
+        {
+          "option": "B. Malware",
+          "selected": false
+        },
+        {
+          "option": "C. Phishing",
+          "selected": false
+        },
+        {
+          "option": "D. Encryption",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 30,
+      "total_questions": 132,
+      "question_text": "Which two actions will increase audience engagement?",
+      "options": [
+        {
+          "option": "A. Clearly read aloud the slide text",
+          "selected": false
+        },
+        {
+          "option": "B. Speak in a soothing monotone",
+          "selected": false
+        },
+        {
+          "option": "C. Encourage participation with polls or virtual hand-raising",
+          "selected": true
+        },
+        {
+          "option": "D. Have group members take turns presenting",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 31,
+      "total_questions": 132,
+      "question_text": "Which two actions will help the idea-generation process? (Choose 2)",
+      "options": [
+        {
+          "option": "A. Withhold criticism of your peers' ideas",
+          "selected": true
+        },
+        {
+          "option": "B. Only share ideas you're very confident about",
+          "selected": false
+        },
+        {
+          "option": "C. Limit each team member to one or two ideas",
+          "selected": false
+        },
+        {
+          "option": "D. Encourage wild ideas",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 32,
+      "total_questions": 132,
+      "question_text": "Which action best demonstrates an understanding of intellectual property guidelines when reusing someone's work?",
+      "options": [
+        {
+          "option": "A. Modify the original work slightly and present it as your own",
+          "selected": false
+        },
+        {
+          "option": "B. Credit the source only in a bibliography",
+          "selected": false
+        },
+        {
+          "option": "C. Use small portions assuming it is fair use",
+          "selected": false
+        },
+        {
+          "option": "D. Provide attribution after adhering to fair use principles",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 33,
+      "total_questions": 132,
+      "question_text": "Complete the sentences by selecting the correct option from each drop-down list.",
+      "completions": [
+        {
+          "sentence_start": "Fingerprints and facial recognition are examples of",
+          "selected_option": "Biometric",
+          "sentence_end": "authentication factors"
+        },
+        {
+          "sentence_start": "Smartphones and employee access cards are examples of",
+          "selected_option": "Possession (Physical)",
+          "sentence_end": "authentication factors"
+        },
+        {
+          "sentence_start": "Passwords and personal identification numbers (PINs) are examples of",
+          "selected_option": "Knowledge (Logical)",
+          "sentence_end": "authentication factors"
+        }
+      ]
+    },
+    {
+      "question_number": 34,
+      "total_questions": 132,
+      "question_text": "You are creating content for a website. You need to follow accessibility standards. Complete the sentences by selecting the correct option from each drop-down list.",
+      "completions": [
+        {
+          "sentence_start": "The preferred font style is",
+          "selected_option": "sans serif."
+        },
+        {
+          "sentence_start": "The minimum recommended font size for website body text is",
+          "selected_option": "12 point / 16 pixels."
+        },
+        {
+          "sentence_start": "You should maintain a",
+          "selected_option": "high contrast",
+          "sentence_end": "between the font color and the background color."
+        }
+      ]
+    },
+    {
+      "question_number": 35,
+      "total_questions": 132,
+      "question_text": "You plan to get a job in information technology. You need to stay current with the latest digital technologies. What should you do?",
+      "options": [
+        {
+          "option": "A. Subscribe to and read notifications from respected technology sites.",
+          "selected": true
+        },
+        {
+          "option": "B. Refresh your knowledge of digital technology by taking a new class every three years.",
+          "selected": false
+        },
+        {
+          "option": "C. Volunteer to create a monthly newsletter for a local school.",
+          "selected": false
+        },
+        {
+          "option": "D. Write a monthly blog post about new technology that interests you.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 36,
+      "total_questions": 132,
+      "question_text": "Which two visual representations are best for population growth over time?",
+      "options": [
+        {
+          "option": "A. Bar graph",
+          "selected": true
+        },
+        {
+          "option": "B. Map",
+          "selected": false
+        },
+        {
+          "option": "C. Line graph",
+          "selected": true
+        },
+        {
+          "option": "D. Pie chart",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 37,
+      "total_questions": 132,
+      "question_text": "Which option is recommended for creating a secure password you can remember?",
+      "options": [
+        {
+          "option": "A. Use your social media profile name",
+          "selected": false
+        },
+        {
+          "option": "B. Use your favorite color and animal",
+          "selected": false
+        },
+        {
+          "option": "C. Use parts of a random phrase",
+          "selected": true
+        },
+        {
+          "option": "D. Use a name with a number at the end",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 38,
+      "total_questions": 132,
+      "question_text": "Liam is working on his math homework but doesn't understand how to solve question 12 in the \"Fractions 4.1\" assignment. What should Liam write in the subject line when emailing his teacher about this issue?",
+      "options": [
+        {
+          "option": "A. Help Needed for Fractions 4.1, Question 12",
+          "selected": true
+        },
+        {
+          "option": "B. Urgent Help",
+          "selected": false
+        },
+        {
+          "option": "C. Teacher I Need HELP Email Me Back NOW",
+          "selected": false
+        },
+        {
+          "option": "D. (no subject)",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 39,
+      "total_questions": 132,
+      "question_text": "Isaac's online banking app asks for a code from his phone in addition to his password. What is this an example of?",
+      "options": [
+        {
+          "option": "A. Multifactor authentication",
+          "selected": true
+        },
+        {
+          "option": "B. A website cookie",
+          "selected": false
+        },
+        {
+          "option": "C. A phishing attempt",
+          "selected": false
+        },
+        {
+          "option": "D. A password reset prompt",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 40,
+      "total_questions": 132,
+      "question_text": "You need to troubleshoot issues with your computer and smartphone. Move each troubleshooting step from the list on the left to its corresponding issue on the right.",
+      "matches": [
+        {
+          "issue": "The computer screen freezes while you are working on a project",
+          "step": "Check Task Manager for resource usage"
+        },
+        {
+          "issue": "Webpages load slowly while you are searching for information on the internet",
+          "step": "Check the network connection"
+        },
+        {
+          "issue": "A camera shutter noise comes from your smartphone, but you are not taking photos",
+          "step": "Check application permissions"
+        },
+        {
+          "issue": "When you start your computer, you hear a rhythmic ticking sound inside the case",
+          "step": "Check the hard disk drive for a worn disk head"
+        }
+      ]
+    },
+    {
+      "question_number": 41,
+      "total_questions": 132,
+      "question_text": "Your teacher requires that you store your assignments in a specific folder in the cloud. The school's cloud storage platform has versioning turned on. What does this enable you to do?",
+      "options": [
+        {
+          "option": "A. Access your files from any operating system",
+          "selected": false
+        },
+        {
+          "option": "B. Restore files that you've deleted from the cloud",
+          "selected": false
+        },
+        {
+          "option": "C. Retrieve old versions of your files from the cloud",
+          "selected": true
+        },
+        {
+          "option": "D. Access your files from any version of the cloud storage app",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 42,
+      "total_questions": 132,
+      "question_text": "Move each visual representation goal from the list on the left to its most effective visual format on the right.",
+      "matches": [
+        {
+          "goal": "Illustrate simple part-to-whole relationships within a small data set",
+          "visual_format": "Pie chart"
+        },
+        {
+          "goal": "Show how one or more data series change over time",
+          "visual_format": "Line graph"
+        },
+        {
+          "goal": "Show the correlation and distribution of a large amount of data",
+          "visual_format": "Scatter plot"
+        }
+      ]
+    },
+    {
+      "question_number": 43,
+      "total_questions": 132,
+      "question_text": "Which action best demonstrates an understanding of intellectual property guidelines when reusing someone's work?",
+      "options": [
+        {
+          "option": "A. Providing attribution after adhering to fair use principles",
+          "selected": true
+        },
+        {
+          "option": "B. Crediting the original source in a bibliography instead of using direct in-text citations",
+          "selected": false
+        },
+        {
+          "option": "C. Using small portions of the work under the assumption that it falls under fair use",
+          "selected": false
+        },
+        {
+          "option": "D. Making sure you modify the original work slightly and then present it as your own",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 44,
+      "total_questions": 132,
+      "question_text": "You are tasked with designing a website that achieves the following goals: ... Which two website criteria are design constraints? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. It must be quick to load.",
+          "selected": true
+        },
+        {
+          "option": "B. It must provide a method for students to indicate why they will be absent.",
+          "selected": false
+        },
+        {
+          "option": "C. It must be complete in two weeks.",
+          "selected": true
+        },
+        {
+          "option": "D. It must be easy to use.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 45,
+      "total_questions": 132,
+      "question_text": "What is the first thing you should consider when preparing a digital presentation to ensure it can be viewed effectively on various devices?",
+      "options": [
+        {
+          "option": "A. Include as much text as possible on each slide to keep the total number of slides low",
+          "selected": false
+        },
+        {
+          "option": "B. Use a variety of transitions and animations to keep the audience engaged",
+          "selected": false
+        },
+        {
+          "option": "C. The file size of the images and videos should be optimized to ensure quick loading times and smooth playback",
+          "selected": true
+        },
+        {
+          "option": "D. The font style used in the presentation should be fancy and decorative to make it visually appealing",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 46,
+      "total_questions": 132,
+      "question_text": "In which two ways do cloud computing data centers negatively impact the environment? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. They use chemical coolants, which are typically made from hazardous materials.",
+          "selected": false
+        },
+        {
+          "option": "B. They use a significant amount of electricity that is derived from non-renewable energy sources.",
+          "selected": true
+        },
+        {
+          "option": "C. They dump their waste heat into nearby water sources, which raises the temperature beyond what aquatic life can survive.",
+          "selected": true
+        },
+        {
+          "option": "D. They are built in cold climates, damaging habitats for polar bears and other wildlife.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 47,
+      "total_questions": 132,
+      "question_text": "You are trying to access a website, but it is not loading properly on your browser. What should you try first?",
+      "options": [
+        {
+          "option": "A. Clear the browser cache",
+          "selected": true
+        },
+        {
+          "option": "B. Email the website owner",
+          "selected": false
+        },
+        {
+          "option": "C. Check the BIOS settings",
+          "selected": false
+        },
+        {
+          "option": "D. Remove unnecessary apps",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 48,
+      "total_questions": 132,
+      "question_text": "For each statement about digital communications with clients and coworkers, select True or False.",
+      "statements": [
+        {
+          "statement": "Avoid directly stating the purpose of the message.",
+          "answer": "False"
+        },
+        {
+          "statement": "Use bullet points or lists to organize message details.",
+          "answer": "True"
+        },
+        {
+          "statement": "Use acronyms and abbreviations in all messages to keep them short.",
+          "answer": "False"
+        },
+        {
+          "statement": "When you need a client to make a choice, provide multiple options to minimize back-and-forth.",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "question_number": 49,
+      "total_questions": 132,
+      "question_text": "You need to appropriately protect your personally identifiable information (PII). For each statement, select True or False.",
+      "statements": [
+        {
+          "statement": "The PII collected by websites can be used for identity theft purposes.",
+          "answer": "True"
+        },
+        {
+          "statement": "Using multifactor authentication increases the risk of an outsider accessing your PII.",
+          "answer": "False"
+        },
+        {
+          "statement": "Closing an online account permanently deletes your PII from the website hosting server.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "question_number": 50,
+      "total_questions": 132,
+      "question_text": "Emma needs to send a quick reminder about homework to her study group. Which method is most appropriate?",
+      "options": [
+        {
+          "option": "A. Send a brief group text message with the homework reminder.",
+          "selected": true
+        },
+        {
+          "option": "B. Post it on her school's Instagram page.",
+          "selected": false
+        },
+        {
+          "option": "C. Call each person individually and remind them.",
+          "selected": false
+        },
+        {
+          "option": "D. Ask her teacher to send a reminder email to her study group.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 51,
+      "total_questions": 132,
+      "question_text": "Which two options help keep data secure in the workplace? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. Use strong passwords.",
+          "selected": true
+        },
+        {
+          "option": "B. Shut computers down at night.",
+          "selected": false
+        },
+        {
+          "option": "C. Report suspicious emails.",
+          "selected": true
+        },
+        {
+          "option": "D. Allow workers to share computers.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 52,
+      "total_questions": 132,
+      "question_text": "You are using Microsoft Word on a Windows 10 computer to write a paper about a company. The company name, Abusives, begins with two capital letters. Each time you type the company name, the software corrects the capital letters. Where can you change this correction preference?",
+      "options": [
+        {
+          "option": "A. In the AutoCorrect Options settings",
+          "selected": true
+        },
+        {
+          "option": "B. In the computer operating system preferences",
+          "selected": false
+        },
+        {
+          "option": "C. In the Grammar & Refinements settings",
+          "selected": false
+        },
+        {
+          "option": "D. In the Office Language Preferences",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 53,
+      "total_questions": 132,
+      "question_text": "You are searching the internet for facts and information to use for a research project, but your results are not giving you the answers you expected. Which action should you take?",
+      "options": [
+        {
+          "option": "A. Refresh the page and search again.",
+          "selected": false
+        },
+        {
+          "option": "B. Rephrase your search term to be more specific.",
+          "selected": true
+        },
+        {
+          "option": "C. Use fewer words in your search term.",
+          "selected": false
+        },
+        {
+          "option": "D. Clear your browser's cache and search again.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 54,
+      "total_questions": 132,
+      "question_text": "You are the leader of a digital design team. Your team is creating a poster for a local fundraising event. You send a draft of the poster to the client. The client requests changes that you and your team members believe will make the poster less attractive and less effective. You need to communicate effectively with the client about the design changes. Which three actions should you take? (Choose 3)",
+      "options": [
+        {
+          "option": "A. Create a mockup of the poster with the client's changes and send it to the client.",
+          "selected": true
+        },
+        {
+          "option": "B. Ask the client to explain the reasons for the changes and the impact they will have on the poster.",
+          "selected": true
+        },
+        {
+          "option": "C. Tell the client that their ideas are not welcome.",
+          "selected": false
+        },
+        {
+          "option": "D. Remind the client that your team has the knowledge and experience to create an effective final poster design.",
+          "selected": false
+        },
+        {
+          "option": "E. Tell the client you don't want to make the changes.",
+          "selected": false
+        },
+        {
+          "option": "F. Focus the discussion on the design choices, rather than your emotional response to the client's changes.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 55,
+      "total_questions": 132,
+      "question_text": "Match each term on the left with its correct description on the right.",
+      "matches": [
+        {
+          "description": "The influence of personal opinions or agendas on how information is presented, potentially distorting facts",
+          "term": "Bias"
+        },
+        {
+          "description": "The qualifications and expertise of the author, indicating their knowledge about the topic",
+          "term": "Credentials"
+        },
+        {
+          "description": "The relevance and timeliness of the information, indicating how up-to-date it is",
+          "term": "Currency"
+        }
+      ]
+    },
+    {
+      "question_number": 56,
+      "total_questions": 132,
+      "question_text": "You need to plan a project that will use a cyclical design process. In which order should you complete the project tasks?",
+      "correct_order": [
+        "Identify project requirements",
+        "Generate ideas",
+        "Develop the prototype",
+        "Test the prototype",
+        "Refine the prototype"
+      ]
+    },
+    {
+      "question_number": 57,
+      "total_questions": 132,
+      "question_text": "For each statement about technology-driven automation, select True or False.",
+      "statements": [
+        {
+          "statement": "Automation will displace some existing job roles.",
+          "answer": "True"
+        },
+        {
+          "statement": "Automation will lead to the creation of new job roles.",
+          "answer": "True"
+        },
+        {
+          "statement": "Activities that include social interactions are more likely than others to be automated.",
+          "answer": "False"
+        },
+        {
+          "statement": "Activities that include physical tasks in predictable environments are more likely than others to be automated.",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "question_number": 58,
+      "total_questions": 132,
+      "question_text": "You are conducting online research. When should you use a Boolean search?",
+      "statements": [
+        {
+          "statement": "To narrow the search results by excluding terms using the NOT operator",
+          "yes_selected": true,
+          "no_selected": false
+        },
+        {
+          "statement": "To broaden the search results by including multiple search alternatives using the OR operator",
+          "yes_selected": false,
+          "no_selected": true
+        },
+        {
+          "statement": "To narrow the search results by combining search terms using the AND operator",
+          "yes_selected": true,
+          "no_selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 59,
+      "total_questions": 132,
+      "question_text": "You are conducting online research. You find a selection of videos that appear to support your hypothesis. You need to determine whether a video has been altered to change the original message. Which two methods of audio editing would indicate that the video has been altered to change the message? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. A voice-over identifying the cameraperson has been added to the end of the video.",
+          "selected": false
+        },
+        {
+          "option": "B. The original audio has been replaced by a music soundtrack.",
+          "selected": true
+        },
+        {
+          "option": "C. Closed captions have been added to the original audio.",
+          "selected": false
+        },
+        {
+          "option": "D. Words have been rearranged and inserted.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 60,
+      "total_questions": 132,
+      "question_text": "You plan to sell your computer. You delete your personal files from your hard drive and then empty the Recycle Bin or Trash. What data remains on your hard drive?",
+      "options": [
+        {
+          "option": "A. None. The reference to the files on the hard drive and the file data are completely removed.",
+          "selected": false
+        },
+        {
+          "option": "B. All of it. The reference to the files on the hard drive remains. The file data remains.",
+          "selected": false
+        },
+        {
+          "option": "C. The reference to the files on the hard drive remains. The file data is completely removed.",
+          "selected": false
+        },
+        {
+          "option": "D. The reference to the files on the hard drive is deleted. The file data remains.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 61,
+      "total_questions": 132,
+      "question_text": "You design a website for your school to track student involvement in clubs. You arrange a usability test to find out how well students can use the website. Which two actions should you take to ensure you get good test data? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. Watch the students use the website and note whether they have problems.",
+          "selected": true
+        },
+        {
+          "option": "B. Show the students how to use the website.",
+          "selected": false
+        },
+        {
+          "option": "C. Listen to the students and record any questions they have about how to use the site.",
+          "selected": true
+        },
+        {
+          "option": "D. Tell the students why the school asked you to create the website.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 62,
+      "total_questions": 132,
+      "question_text": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt-text or No if it is not.",
+      "selections": [
+        {
+          "information": "The image copyright",
+          "include": false
+        },
+        {
+          "information": "A brief description of the image",
+          "include": true
+        },
+        {
+          "information": "Context and details relevant to the image purpose",
+          "include": true
+        }
+      ]
+    },
+    {
+      "question_number": 63,
+      "total_questions": 132,
+      "question_text": "You are the assistant coach of an adult soccer league. You collect registration information from each player. You decide to create a team contact list. Which information can you NOT share without the player's permission?",
+      "options": [
+        {
+          "option": "A. City of residence",
+          "selected": false
+        },
+        {
+          "option": "B. Team name and position",
+          "selected": false
+        },
+        {
+          "option": "C. First name and last name",
+          "selected": false
+        },
+        {
+          "option": "D. Allergies",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 64,
+      "total_questions": 132,
+      "question_text": "You open a small business. You and your employees will use the Microsoft Office suite of productivity software. You need to decide whether to install the desktop apps or use the online version. What is a benefit of using a desktop app rather than a cloud app?",
+      "options": [
+        {
+          "option": "A. The software does not depend on an internet connection.",
+          "selected": true
+        },
+        {
+          "option": "B. The up-front cost is less.",
+          "selected": false
+        },
+        {
+          "option": "C. The software uses less hard disk drive storage space.",
+          "selected": false
+        },
+        {
+          "option": "D. The software is updated more frequently.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 65,
+      "total_questions": 132,
+      "question_text": "Sophia's group is working on a class project, but they're unsure how to start. The teacher has already given instructions but the group is having a hard time getting started. What is the best approach for Sophia to help the team identify the issue?",
+      "options": [
+        {
+          "option": "A. Ask everyone to give their input on how to begin.",
+          "selected": true
+        },
+        {
+          "option": "B. Let one person decide for the group.",
+          "selected": false
+        },
+        {
+          "option": "C. Begin working independently until the group decides what to do.",
+          "selected": false
+        },
+        {
+          "option": "D. Wait until the next day to see if anyone comes up with an idea.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 66,
+      "total_questions": 132,
+      "question_text": "What is the key to contributing constructively to a project team?",
+      "options": [
+        {
+          "option": "A. Completing tasks faster than the other group members",
+          "selected": false
+        },
+        {
+          "option": "B. Providing feedback that helps improve the team's work",
+          "selected": true
+        },
+        {
+          "option": "C. Focusing only on your assigned tasks",
+          "selected": false
+        },
+        {
+          "option": "D. Avoiding conflicts by agreeing with all ideas",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 67,
+      "total_questions": 132,
+      "question_text": "Which statement describes the principles of cloud versioning?",
+      "options": [
+        {
+          "option": "A. Cloud versioning requires users to manually save every version of their files.",
+          "selected": false
+        },
+        {
+          "option": "B. Cloud versioning enables users to create multiple copies of a file.",
+          "selected": false
+        },
+        {
+          "option": "C. Cloud versioning allows users to save only the most recent version of a file.",
+          "selected": false
+        },
+        {
+          "option": "D. Cloud versioning keeps a history of changes made to a file.",
+          "selected": true
+        },
+        {
+          "option": "E. Cloud versioning automatically deletes old versions after 30 days",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 68,
+      "total_questions": 132,
+      "question_text": "Match each media creation process from the list on the left with its appropriate action on the right.",
+      "matches": [
+        {
+          "process": "Choosing the right video resolution and aspect ratio for the platform",
+          "action": "Capture video"
+        },
+        {
+          "process": "Adjusting colors, contrast, and brightness of the footage",
+          "action": "Finalize production"
+        },
+        {
+          "process": "Uploading the video to YouTube or other platforms for audience access",
+          "action": "Distribute video"
+        }
+      ]
+    },
+    {
+      "question_number": 69,
+      "total_questions": 132,
+      "question_text": "Which two actions describe ways to protect individual and corporate intellectual property? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. Share your creative work on a public social media account.",
+          "selected": false
+        },
+        {
+          "option": "B. Embed your name in the metadata of digital files as the copyright owner.",
+          "selected": true
+        },
+        {
+          "option": "C. Create a Creative Commons license, allowing others to use your work with attribution.",
+          "selected": true
+        },
+        {
+          "option": "D. Create a digital portfolio that is accessible to everyone on the internet.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 70,
+      "total_questions": 132,
+      "question_text": "A friend is being bullied. Who should your friend report the bullying to?",
+      "matches": [
+        {
+          "situation": "The bully threatens to hurt your friend physically",
+          "report_to": "Law enforcement"
+        },
+        {
+          "situation": "The bully writes insults from social media posts on your friend's gym class locker",
+          "report_to": "School faculty"
+        },
+        {
+          "situation": "The bully posts a series of insults about your friend on a hacked social media account",
+          "report_to": "Social media provider"
+        }
+      ]
+    },
+    {
+      "question_number": 71,
+      "total_questions": 132,
+      "question_text": "McKenna is setting up a new social media account and is asked to enable multifactor authentication. What is the main purpose of enabling this feature?",
+      "options": [
+        {
+          "option": "A. To change your password every month",
+          "selected": false
+        },
+        {
+          "option": "B. To allow your friends to easily find you online",
+          "selected": false
+        },
+        {
+          "option": "C. To confirm your identity",
+          "selected": true
+        },
+        {
+          "option": "D. To create a more complex password for your account",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 72,
+      "total_questions": 132,
+      "question_text": "You lead a project team in your digital design class. You and your teammates will create a project for a local business. You arrange a virtual meeting with the business owner to discuss the project. You need to ensure that the business owner leaves the meeting with confidence that your team can successfully complete the project. Which three actions should you take? (Choose 3.)",
+      "options": [
+        {
+          "option": "A. After the client presents ideas, paraphrase what they said.",
+          "selected": true
+        },
+        {
+          "option": "B. Speak in a casual, informal manner to put the client at ease and encourage discussion.",
+          "selected": false
+        },
+        {
+          "option": "C. Tell the client that you will email a draft proposal that includes deadlines.",
+          "selected": true
+        },
+        {
+          "option": "D. Discuss your career goals in the field of digital design.",
+          "selected": false
+        },
+        {
+          "option": "E. Decide with the client which forms of digital communication to use during the project.",
+          "selected": true
+        },
+        {
+          "option": "F. Include a lengthy discussion about the design applications you will use.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 73,
+      "total_questions": 132,
+      "question_text": "Your team has just completed a client review, and the client is not happy with the product. They have requested multiple changes to the product to address the problems, and they need the product to be fixed as quickly as possible. How should you efficiently complete their revisions?",
+      "options": [
+        {
+          "option": "A. Assign all tasks to the entire team so everyone will collaborate on the remaining tasks.",
+          "selected": false
+        },
+        {
+          "option": "B. Assign the same task to multiple team members to avoid missing any of the remaining tasks.",
+          "selected": false
+        },
+        {
+          "option": "C. Assign all work to the most experienced team member so the rest of the team can work on other projects.",
+          "selected": false
+        },
+        {
+          "option": "D. Assign responsibilities so work is evenly distributed among team members.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 74,
+      "total_questions": 132,
+      "question_text": "You are creating a flowchart. Move each symbol description from the list on the left to its corresponding symbol on the right.",
+      "mapping": [
+        {
+          "symbol": "Diamond shape",
+          "description": "Data: can represent any type of data in a flowchart."
+        },
+        {
+          "symbol": "Parallelogram shape",
+          "description": "Decision: indicates a decision point between two or more paths in the chart."
+        },
+        {
+          "symbol": "Oval/Rounded shape",
+          "description": "Delay: indicates a delay in the process."
+        },
+        {
+          "symbol": "Pill/Capsule shape",
+          "description": "Terminator: indicates the beginning or end of a process."
+        }
+      ]
+    },
+    {
+      "question_number": 75,
+      "total_questions": 132,
+      "question_text": "Which software program can be used to create pivot tables?",
+      "options": [
+        {
+          "option": "A. Excel",
+          "selected": true
+        },
+        {
+          "option": "B. Pages",
+          "selected": false
+        },
+        {
+          "option": "C. Publisher",
+          "selected": false
+        },
+        {
+          "option": "D. PowerPoint",
+          "selected": false
+        },
+        {
+          "option": "E. Word",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 76,
+      "total_questions": 132,
+      "question_text": "What is the purpose of clearing file storage space during troubleshooting?",
+      "options": [
+        {
+          "option": "A. To increase network speed",
+          "selected": false
+        },
+        {
+          "option": "B. To make room for new system updates",
+          "selected": true
+        },
+        {
+          "option": "C. To remove viruses from the system",
+          "selected": false
+        },
+        {
+          "option": "D. To prevent applications from syncing with cloud storage",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 77,
+      "total_questions": 132,
+      "question_text": "Which two are appropriate web page elements that may require the use of the alt text attribute? (Choose 2)",
+      "options": [
+        {
+          "option": "A. Index",
+          "selected": false
+        },
+        {
+          "option": "B. Table of Contents",
+          "selected": false
+        },
+        {
+          "option": "C. Lengthy URL",
+          "selected": false
+        },
+        {
+          "option": "D. Caption",
+          "selected": true
+        },
+        {
+          "option": "E. Image",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 78,
+      "total_questions": 132,
+      "question_text": "Which two actions would most likely make someone aware of technological advancements? (Choose 2)",
+      "options": [
+        {
+          "option": "A. Subscribe to a technology news feed.",
+          "selected": true
+        },
+        {
+          "option": "B. Use a computing device daily.",
+          "selected": false
+        },
+        {
+          "option": "C. Watch movies produced using technology.",
+          "selected": false
+        },
+        {
+          "option": "D. Join several technology groups on social media and read their posts.",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 79,
+      "total_questions": 132,
+      "question_text": "Which two circumstances would create a new cloud version in Google Docs? (Choose 2)",
+      "options": [
+        {
+          "option": "A. Uploading a new file",
+          "selected": true
+        },
+        {
+          "option": "B. Copying a folder",
+          "selected": false
+        },
+        {
+          "option": "C. Viewing contents of a folder",
+          "selected": false
+        },
+        {
+          "option": "D. Adding a comment to a Google Doc",
+          "selected": true
+        },
+        {
+          "option": "E. Downloading a file",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 80,
+      "total_questions": 132,
+      "question_text": "Identify if the digital devices meets the requirements.",
+      "table": [
+        {
+          "requirement": "A smartphone is capable of checking email, sending messages, and receiving voice calls without Wi-Fi",
+          "selected": "Yes"
+        },
+        {
+          "requirement": "A tablet is sufficient to merge and edit large videos for your clients' websites",
+          "selected": "No"
+        },
+        {
+          "requirement": "A notebook computer is portable for classroom use, supports access to the cloud, and runs most office apps",
+          "selected": "Yes"
+        }
+      ]
+    },
+    {
+      "question_number": 81,
+      "total_questions": 132,
+      "question_text": "You are searching a job database website for 'project manager' positions that work with SQL. But, you don't speak Spanish. Your first attempt entering just the keywords 'project manager' returned too many results that had nothing to do with SQL or required Spanish language skills. You decide to narrow your results using a Boolean search. Which Boolean search would be appropriate to return only project manager positions involving SQL, but not Spanish language skills?",
+      "options": [
+        {
+          "option": "A. \"Project Manager\" AND SQL AND Spanish",
+          "selected": false
+        },
+        {
+          "option": "B. \"Project Manager\" AND NOT SQL AND Spanish",
+          "selected": false
+        },
+        {
+          "option": "C. \"Project Manager\" AND SQL AND NOT Spanish",
+          "selected": true
+        },
+        {
+          "option": "D. \"Project Manager\" AND NOT (SQL OR Spanish)",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 82,
+      "total_questions": 132,
+      "question_text": "What can be performed to remove any personal information from a device?",
+      "options": [
+        {
+          "option": "A. A quick scan",
+          "selected": false
+        },
+        {
+          "option": "B. Software updates",
+          "selected": false
+        },
+        {
+          "option": "C. A factory reset",
+          "selected": true
+        },
+        {
+          "option": "D. Device shutdown",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 83,
+      "total_questions": 132,
+      "question_text": "Multifactor authentication (MFA) helps provide added security to an account by requiring two or more credentials to be entered when logging in. Which are three common credentials?",
+      "options": [
+        {
+          "option": "A. Fingerprint",
+          "selected": true
+        },
+        {
+          "option": "B. Date",
+          "selected": false
+        },
+        {
+          "option": "C. PIN",
+          "selected": true
+        },
+        {
+          "option": "D. Username",
+          "selected": false
+        },
+        {
+          "option": "E. Password",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 84,
+      "total_questions": 132,
+      "question_text": "If a user frequently uses the internet, how often should they run scans on their computer?",
+      "options": [
+        {
+          "option": "A. Once a month",
+          "selected": false
+        },
+        {
+          "option": "B. Two to three times per week",
+          "selected": true
+        },
+        {
+          "option": "C. Rarely",
+          "selected": false
+        },
+        {
+          "option": "D. Every day",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 85,
+      "total_questions": 132,
+      "question_text": "To communicate the results of data sets, it is helpful to display them visually. Identify the appropriate visual format to express the described data set. Select Yes if the visual format is appropriate or No if it is not.",
+      "table": [
+        {
+          "description": "A Table would be best to illustrate simple part-to-whole relationships within a small data set",
+          "selected": "No"
+        },
+        {
+          "description": "To show trends that change over time, you should use a Line Graph",
+          "selected": "Yes"
+        },
+        {
+          "description": "Displaying sales volumes of various products can be represented with a Column Chart",
+          "selected": "Yes"
+        },
+        {
+          "description": "Displaying a comparative ranking of data, can be represented with a Bar Chart",
+          "selected": "Yes"
+        }
+      ]
+    },
+    {
+      "question_number": 86,
+      "total_questions": 132,
+      "question_text": "You are traveling and your smartphone hasn't received text messages for the past several hours, yet a friend just called and told you she sent several. Now your phone won't make outbound calls. Which is the first troubleshooting step you should make with your smartphone?",
+      "options": [
+        {
+          "option": "A. If you have a SIM card, replace it.",
+          "selected": false
+        },
+        {
+          "option": "B. Perform a factory reset.",
+          "selected": false
+        },
+        {
+          "option": "C. Power your phone off and back on.",
+          "selected": true
+        },
+        {
+          "option": "D. Call technical support.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 87,
+      "total_questions": 132,
+      "question_text": "Which is the best way to archive online privacy at your workplace?",
+      "options": [
+        {
+          "option": "A. Delete all cookies after doing personal shopping on your work computer.",
+          "selected": false
+        },
+        {
+          "option": "B. Send personal emails using your work account.",
+          "selected": false
+        },
+        {
+          "option": "C. Make sure nobody is looking when you surf the Internet.",
+          "selected": false
+        },
+        {
+          "option": "D. Don't use work equipment to do anything personal",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 88,
+      "total_questions": 132,
+      "question_text": "Which two software tools would be best to compose a flowchart? (Choose two).",
+      "options": [
+        {
+          "option": "A. Intuit QuickBooks",
+          "selected": false
+        },
+        {
+          "option": "B. Affinity Designer",
+          "selected": false
+        },
+        {
+          "option": "C. Microsoft Visio",
+          "selected": true
+        },
+        {
+          "option": "D. SmartDraw",
+          "selected": true
+        },
+        {
+          "option": "E. Adobe Illustrator",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 89,
+      "total_questions": 132,
+      "question_text": "Your smartphone has FireFox, Google Chrome, and your phone manufacturer's brand of browser installed. Currently, all websites open in the manufacturer's browser. You want to change the phone setting so websites automatically open in FireFox. On either an Android or iPhone smartphone, where can you change the setting that controls which browser opens automatically?",
+      "options": [
+        {
+          "option": "A. Task Manager",
+          "selected": false
+        },
+        {
+          "option": "B. In the browser settings",
+          "selected": true
+        },
+        {
+          "option": "C. Email Settings",
+          "selected": false
+        },
+        {
+          "option": "D. In your phone's App store",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 90,
+      "total_questions": 132,
+      "question_text": "Which two software tools would be best to build tables, charts, and visual representations of raw data? (Choose two).",
+      "options": [
+        {
+          "option": "A. Google Sheets",
+          "selected": true
+        },
+        {
+          "option": "B. Microsoft Excel",
+          "selected": true
+        },
+        {
+          "option": "C. Adobe Illustrator",
+          "selected": false
+        },
+        {
+          "option": "D. Affinity Designer",
+          "selected": false
+        },
+        {
+          "option": "E. Intuit QuickBooks",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 91,
+      "total_questions": 132,
+      "question_text": "The browser you use is Chrome. You would like to add an extension that will automatically display Spanish web pages in English. Which extension will allow the Chrome browser to display Spanish web pages in English?",
+      "options": [
+        {
+          "option": "A. Google Translate",
+          "selected": true
+        },
+        {
+          "option": "B. Read-a-Loud",
+          "selected": false
+        },
+        {
+          "option": "C. Screencastify",
+          "selected": false
+        },
+        {
+          "option": "D. Dark Reader",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 92,
+      "total_questions": 132,
+      "question_text": "Which of these file formats is capable of holding audio, video, and other media by containing data rather than code?",
+      "options": [
+        {
+          "option": "A. MP3",
+          "selected": false
+        },
+        {
+          "option": "B. MP4",
+          "selected": true
+        },
+        {
+          "option": "C. WMA",
+          "selected": false
+        },
+        {
+          "option": "D. WAV",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 93,
+      "total_questions": 132,
+      "question_text": "A team of college students are creating content for a website. Their instructor has advised them it is important that they follow accessibility standards for using fonts. Select Yes if the action stated follows accessibility standards or No if it will not.",
+      "table": [
+        {
+          "description": "Serif fonts should be used because they are the easiest to read online",
+          "selected": "No"
+        },
+        {
+          "description": "Body text font sizes should be between 15-25px",
+          "selected": "Yes"
+        },
+        {
+          "description": "Optimal length of a line of text is 45-90 characters. The ideal width is 66 characters",
+          "selected": "Yes"
+        },
+        {
+          "description": "White space between headers and body text should be between 15-30px",
+          "selected": "Yes"
+        }
+      ]
+    },
+    {
+      "question_number": 94,
+      "total_questions": 132,
+      "question_text": "How does color contrast affect the visually impaired?",
+      "options": [
+        {
+          "option": "A. Increasing contrast between an object and its background makes the object more visible.",
+          "selected": true
+        },
+        {
+          "option": "B. Offering a variety of colors makes focusing easier for the visually impaired.",
+          "selected": false
+        },
+        {
+          "option": "C. Color contrast has no affect on the visually impaired.",
+          "selected": false
+        },
+        {
+          "option": "D. Increasing contrast between an object and its background makes the object less visible.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 95,
+      "total_questions": 132,
+      "question_text": "What are two reasons for software versioning? (Choose two).",
+      "options": [
+        {
+          "option": "A. Allows retailers to charge more money",
+          "selected": false
+        },
+        {
+          "option": "B. Enables customers to recognize updated versions",
+          "selected": true
+        },
+        {
+          "option": "C. Allows programmers to track changes",
+          "selected": true
+        },
+        {
+          "option": "D. Enables computing devices to use less memory",
+          "selected": false
+        },
+        {
+          "option": "E. Allows software publishers to more efficiently track sales",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 96,
+      "total_questions": 132,
+      "question_text": "What is the name of human ideas, which are internationally protected by either copyright, patent, trademark, or trade secret?",
+      "options": [
+        {
+          "option": "A. Imaginary Property",
+          "selected": false
+        },
+        {
+          "option": "B. Real Property",
+          "selected": false
+        },
+        {
+          "option": "C. Tangible Property",
+          "selected": false
+        },
+        {
+          "option": "D. Intellectual Property",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 97,
+      "total_questions": 132,
+      "question_text": "Which is the highest screen resolution?",
+      "options": [
+        {
+          "option": "A. 1366×768",
+          "selected": false
+        },
+        {
+          "option": "B. 1920×1080",
+          "selected": true
+        },
+        {
+          "option": "C. 1440×900",
+          "selected": false
+        },
+        {
+          "option": "D. 1536×864",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 98,
+      "total_questions": 132,
+      "question_text": "Which two are the most popular ways to distinguish between paragraph headings and body text on a website? (Choose two).",
+      "options": [
+        {
+          "option": "A. Use a larger font for headings than body text.",
+          "selected": true
+        },
+        {
+          "option": "B. Use the same font for both headings and body text.",
+          "selected": false
+        },
+        {
+          "option": "C. Use only serif fonts.",
+          "selected": false
+        },
+        {
+          "option": "D. Use the same size font for both headings and body text.",
+          "selected": false
+        },
+        {
+          "option": "E. Use one font for headings and a different font for body text",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 99,
+      "total_questions": 132,
+      "question_text": "A license that gives customers the right to modify and reuse the software.",
+      "options": [
+        {
+          "option": "A. Free and Open Source Software",
+          "selected": true
+        },
+        {
+          "option": "B. Boolean Search",
+          "selected": false
+        },
+        {
+          "option": "C. Computer Model Number",
+          "selected": false
+        },
+        {
+          "option": "D. Synchronous Editing",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 100,
+      "total_questions": 132,
+      "question_text": "A virus or Trojan horse designed to cause harm to a computer or device.",
+      "options": [
+        {
+          "option": "A. Proprietary Software",
+          "selected": false
+        },
+        {
+          "option": "B. Password",
+          "selected": false
+        },
+        {
+          "option": "C. Malware",
+          "selected": true
+        },
+        {
+          "option": "D. Instant Messaging",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 101,
+      "total_questions": 132,
+      "question_text": "An application used to access websites on the internet.",
+      "options": [
+        {
+          "option": "A. Attribution",
+          "selected": false
+        },
+        {
+          "option": "B. Email",
+          "selected": false
+        },
+        {
+          "option": "C. Browser",
+          "selected": true
+        },
+        {
+          "option": "D. Public Domain",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 102,
+      "total_questions": 132,
+      "question_text": "What are two consequences of posting one's current location while away on vacation?",
+      "options": [
+        {
+          "option": "A. Others will know the user's location",
+          "selected": true
+        },
+        {
+          "option": "B. Others will not believe the user is away",
+          "selected": false
+        },
+        {
+          "option": "C. Others will go on vacation",
+          "selected": false
+        },
+        {
+          "option": "D. Others will know that the user's home is vacant",
+          "selected": true
+        },
+        {
+          "option": "E. Others will think the user is home",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 103,
+      "total_questions": 132,
+      "question_text": "What should digital users have current knowledge of? Choose 2.",
+      "options": [
+        {
+          "option": "A. The latest technology",
+          "selected": true
+        },
+        {
+          "option": "B. Internet wormholes",
+          "selected": false
+        },
+        {
+          "option": "C. Early computer history",
+          "selected": false
+        },
+        {
+          "option": "D. Compromised data",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 104,
+      "total_questions": 132,
+      "question_text": "If someone chooses to share their account information with a close friend, what should that friend do with the information?",
+      "options": [
+        {
+          "option": "A. Keep the information safe",
+          "selected": true
+        },
+        {
+          "option": "B. Impersonate the friend as a joke",
+          "selected": false
+        },
+        {
+          "option": "C. Steal and share personally identifiable information",
+          "selected": false
+        },
+        {
+          "option": "D. Use the information to make purchases",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 105,
+      "total_questions": 132,
+      "question_text": "Matching: Match the specific requirement to the most appropriate digital device.",
+      "matches": [
+        {
+          "requirement": "Capable of checking email, sending messages, and receiving voice calls without Wi-Fi",
+          "device": "Smartphone"
+        },
+        {
+          "requirement": "Capable of merging and editing large videos for a client's website",
+          "device": "Desktop Computer"
+        },
+        {
+          "requirement": "Portable for classroom use, supports note taking, access to the cloud, and runs most office apps",
+          "device": "Tablet"
+        }
+      ]
+    },
+    {
+      "question_number": 106,
+      "total_questions": 132,
+      "question_text": "A means of giving credit to a source when their information is used.",
+      "options": [
+        {
+          "option": "A. Search Operators",
+          "selected": false
+        },
+        {
+          "option": "B. Chart",
+          "selected": false
+        },
+        {
+          "option": "C. Encryption",
+          "selected": false
+        },
+        {
+          "option": "D. Citation",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 107,
+      "total_questions": 132,
+      "question_text": "A free license used by creators to permit others to use their content, free of charge, as long as they follow the license rules.",
+      "options": [
+        {
+          "option": "A. Email",
+          "selected": false
+        },
+        {
+          "option": "B. Attribution",
+          "selected": false
+        },
+        {
+          "option": "C. Personally Identifiable Information",
+          "selected": false
+        },
+        {
+          "option": "D. Creative Commons License",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 108,
+      "total_questions": 132,
+      "question_text": "A digital language made up of binary digits, which are ones and zeros that allow the hardware and software to communicate and work together.",
+      "options": [
+        {
+          "option": "A. Grammarly",
+          "selected": false
+        },
+        {
+          "option": "B. Binary-Coded Machine Language",
+          "selected": true
+        },
+        {
+          "option": "C. Page Orientation",
+          "selected": false
+        },
+        {
+          "option": "D. Public Domain",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 109,
+      "total_questions": 132,
+      "question_text": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
+      "options": [
+        {
+          "option": "A. Intuit QuickBooks",
+          "selected": false
+        },
+        {
+          "option": "B. Microsoft PowerPoint",
+          "selected": false
+        },
+        {
+          "option": "C. Adobe InDesign",
+          "selected": false
+        },
+        {
+          "option": "D. Google Sheets",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "question_number": 110,
+      "total_questions": 132,
+      "question_text": "Which two practices are recommended to help you stay informed about current digital threats, scams, and security breaches for a digital app that you use?",
+      "options": [
+        {
+          "option": "A. Follow a variety of social media accounts that post independent content about digital tools.",
+          "selected": true
+        },
+        {
+          "option": "B. Pay attention to app notifications for software updates and terms of use changes from the app publisher.",
+          "selected": true
+        },
+        {
+          "option": "C. Subscribe to email alerts for the app publisher's latest marketing offers and special discounts.",
+          "selected": false
+        },
+        {
+          "option": "D. Review the app publisher's website once a year for updates and news.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 111,
+      "total_questions": 132,
+      "question_text": "Analyze the following statements about employment and how it relates to social media use and privacy. For each statement, select True or False.",
+      "statements": [
+        {
+          "statement": "Employers are allowed to monitor your social media posts",
+          "selected": "True"
+        },
+        {
+          "statement": "You can be fired for social media messages you post on your own time",
+          "selected": "True"
+        },
+        {
+          "statement": "Employers can restrict what you post on your personal social media accounts",
+          "selected": "True"
+        }
+      ]
+    },
+    {
+      "question_number": 111,
+      "total_questions": 132,
+      "question_text": "Analyze the following statements about employment and how it relates to social media use and privacy. For each statement, select True or False.",
+      "statements": [
+        {
+          "statement": "Employers are allowed to monitor your social media posts",
+          "is_true": true
+        },
+        {
+          "statement": "You can be fired for social media messages you post on your own time",
+          "is_true": true
+        },
+        {
+          "statement": "Employers can restrict what you post on your personal social media accounts",
+          "is_true": true
+        }
+      ]
+    },
+    {
+      "question_number": 113,
+      "total_questions": 132,
+      "question_text": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt-text or No if it is not.",
+      "information_types": [
+        {
+          "type": "The image copyright",
+          "is_necessary": false
+        },
+        {
+          "type": "A brief description of the image",
+          "is_necessary": true
+        },
+        {
+          "type": "Context and details relevant to the image purpose",
+          "is_necessary": true
+        }
+      ]
+    },
+    {
+      "question_number": 114,
+      "total_questions": 132,
+      "question_text": "Which two actions will improve the readability of a document? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. Carefully choose a font color with strong contrast against the background.",
+          "is_correct": true
+        },
+        {
+          "option": "B. Use a small, compact font size to prevent paragraphs from breaking across pages.",
+          "is_correct": false
+        },
+        {
+          "option": "C. Set the line spacing so there is a slight distance between each line of text.",
+          "is_correct": true
+        },
+        {
+          "option": "D. Type in all caps to make the text more uniform in appearance.",
+          "is_correct": false
+        },
+        {
+          "option": "E. Select a font family that is unique, decorative, and in line with modern trends.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 115,
+      "total_questions": 132,
+      "question_text": "You are starting a home bakery business. You plan to create a website on which customers can place pickup and delivery orders. For which two reasons should you create a prototype of your order form? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. To test whether the solution will work.",
+          "selected": true
+        },
+        {
+          "option": "B. To enable customers to place orders before you launch the website.",
+          "selected": false
+        },
+        {
+          "option": "C. To reveal flaws in your design.",
+          "selected": true
+        },
+        {
+          "option": "D. To advertise your business.",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "question_number": 116,
+      "total_questions": 132,
+      "question_text": "For which two reasons should you run a virus scan? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. Your computer starts to run slower than usual.",
+          "is_correct": true
+        },
+        {
+          "option": "B. You receive an email message from an online store after placing an order there.",
+          "is_correct": false
+        },
+        {
+          "option": "C. A program begins operations on its own, without you initiating it.",
+          "is_correct": true
+        },
+        {
+          "option": "D. A pop-up ad appears on a website.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 117,
+      "total_questions": 132,
+      "question_text": "Your team is creating a website for a local business. You agree to act as the team spokesperson, although you do not have all the information. You arrange a virtual meeting with the business owner. Your meeting software allows you to enable and disable chat for different participants. How should you configure the chat feature of the virtual meeting software for this meeting?",
+      "options": [
+        {
+          "option": "A. Allow chat communication between all meeting participants.",
+          "is_correct": false
+        },
+        {
+          "option": "B. Allow chat communication only between you and the client.",
+          "is_correct": true
+        },
+        {
+          "option": "C. Turn off the chat function.",
+          "is_correct": false
+        },
+        {
+          "option": "D. Allow chat communication only between you and your team members.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 118,
+      "total_questions": 132,
+      "question_text": "Which three types of authentication factors are used to prove your identity when you use multifactor authentication? (Choose 3.)",
+      "options": [
+        {
+          "option": "A. Something you are",
+          "is_correct": true
+        },
+        {
+          "option": "B. Something you make",
+          "is_correct": false
+        },
+        {
+          "option": "C. Something you calculate",
+          "is_correct": false
+        },
+        {
+          "option": "D. Something you know",
+          "is_correct": true
+        },
+        {
+          "option": "E. Something you research",
+          "is_correct": false
+        },
+        {
+          "option": "F. Something you have",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 119,
+      "total_questions": 132,
+      "question_text": "A story about a college test prep study guide appears in your social media news feed. Which two logical fallacies does the story contain? (Choose 2.)",
+      "options": [
+        {
+          "option": "A. Red herring",
+          "is_correct": false
+        },
+        {
+          "option": "B. False dilemma",
+          "is_correct": true
+        },
+        {
+          "option": "C. Ad hominem",
+          "is_correct": false
+        },
+        {
+          "option": "D. Hasty generalization",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 120,
+      "total_questions": 132,
+      "question_text": "You are performing online research for a class. For each search topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
+      "search_topics": [
+        {
+          "topic": "Safaris outside of Africa",
+          "boolean_helpful": true
+        },
+        {
+          "topic": "General information about zebras",
+          "boolean_helpful": false
+        },
+        {
+          "topic": "A specific quote by a specific author",
+          "boolean_helpful": true
+        },
+        {
+          "topic": "Elephants in the southern hemisphere",
+          "boolean_helpful": true
+        }
+      ]
+    },
+    {
+      "question_number": 121,
+      "total_questions": 132,
+      "question_text": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
+      "options": [
+        {
+          "option": "A. Intuit QuickBooks",
+          "is_correct": false
+        },
+        {
+          "option": "B. Microsoft PowerPoint",
+          "is_correct": false
+        },
+        {
+          "option": "C. Adobe InDesign",
+          "is_correct": false
+        },
+        {
+          "option": "D. Google Sheets",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 122,
+      "total_questions": 132,
+      "question_text": "Which two actions can you take to improve your communication skills? (Choose 2)",
+      "options": [
+        {
+          "option": "A. When talking with the client, speak in a positive, respectful tone.",
+          "is_correct": true
+        },
+        {
+          "option": "B. Text the client to apologize for your poor communication.",
+          "is_correct": false
+        },
+        {
+          "option": "C. When the client asks questions, summarize the question before you answer.",
+          "is_correct": true
+        },
+        {
+          "option": "D. Have another team member take over the communication at the next meeting.",
+          "is_correct": false
+        },
+        {
+          "question_number": 123,
+          "total_questions": 132,
+          "question_text": "Which two video editing methods are used to alter videos to change the original meaning of the content? (Choose 2.)",
+          "options": [
+            {
+              "option": "A. Show a brief clip of a longer segment of the video.",
+              "is_correct": true
+            },
+            {
+              "option": "B. At the end of the video, show links to credible sources that support the message of the video.",
+              "is_correct": false
+            },
+            {
+              "option": "C. Edit together pieces of different videos.",
+              "is_correct": true
+            },
+            {
+              "option": "D. Identify the people in the video and the cameraperson in credits at the end of the video.",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 124,
+          "total_questions": 132,
+          "question_text": "Which statement is correct?",
+          "options": [
+            {
+              "option": "A. This laptop meets the optimal system requirements.",
+              "is_correct": false
+            },
+            {
+              "option": "B. This laptop meets the recommended system requirements.",
+              "is_correct": false
+            },
+            {
+              "option": "C. This laptop meets the minimum system requirements.",
+              "is_correct": true
+            },
+            {
+              "option": "D. This laptop does not meet the minimum system requirements.",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 125,
+          "total_questions": 132,
+          "question_text": "Which file size is the largest?",
+          "options": [
+            {
+              "option": "A. 3 petabytes (PB)",
+              "is_correct": true
+            },
+            {
+              "option": "B. 16 gigabytes (GB)",
+              "is_correct": false
+            },
+            {
+              "option": "C. 1.44 megabytes (MB)",
+              "is_correct": false
+            },
+            {
+              "option": "D. 640 kilobytes (KB)",
+              "is_correct": false
+            },
+            {
+              "option": "E. 2 terabytes (TB)",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 126,
+          "total_questions": 132,
+          "question_text": "How can you ensure your contributions to a project team are most effective?",
+          "options": [
+            {
+              "option": "A. By being open to suggestions and willing to adapt your ideas",
+              "is_correct": true
+            },
+            {
+              "option": "B. By focusing only on your own tasks",
+              "is_correct": false
+            },
+            {
+              "option": "C. By always taking the lead",
+              "is_correct": false
+            },
+            {
+              "option": "D. By withholding your ideas",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 127,
+          "total_questions": 132,
+          "question_text": "Which of the following files can you NOT send through a standard email provider such as Gmail or Yahoo?",
+          "options": [
+            {
+              "option": "A. A 30-frame 1080p-resolution animated GIF",
+              "is_correct": false
+            },
+            {
+              "option": "B. A 5-minute podcast in MP3 format",
+              "is_correct": false
+            },
+            {
+              "option": "C. A 1-minute 8K-resolution video in AVI format",
+              "is_correct": true
+            },
+            {
+              "option": "D. A 400-page plain-text file",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 128,
+          "question_text": "Which file cannot typically be sent through a standard email provider?",
+          "options": [
+            {
+              "option": "A. A text document",
+              "is_correct": false
+            },
+            {
+              "option": "B. A 5-minute MP3 file",
+              "is_correct": false
+            },
+            {
+              "option": "C. A 1-minute 8K video in AVI format",
+              "is_correct": true
+            },
+            {
+              "option": "D. An animated GIF",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 129,
+          "total_questions": 132,
+          "question_text": "Which scenario would NOT be considered fair use of a video clip?",
+          "options": [
+            {
+              "option": "A. Using the clip in a news report",
+              "is_correct": false
+            },
+            {
+              "option": "B. Using the clip for teaching",
+              "is_correct": false
+            },
+            {
+              "option": "C. Using the clip in a political advertisement",
+              "is_correct": true
+            },
+            {
+              "option": "D. Using the clip in a parody",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 130,
+          "total_questions": 132,
+          "question_text": "Which two video editing methods can alter a video to change its original meaning? (Choose 2)",
+          "options": [
+            {
+              "option": "A. Showing a short clip out of context",
+              "is_correct": true
+            },
+            {
+              "option": "B. Editing together clips from different videos",
+              "is_correct": true
+            },
+            {
+              "option": "C. Adding credits",
+              "is_correct": false
+            },
+            {
+              "option": "D. Including references",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 131,
+          "total_questions": 132,
+          "question_text": "Which two actions will improve the readability of a document? (Choose 2)",
+          "options": [
+            {
+              "option": "A. Use all capital letters",
+              "is_correct": false
+            },
+            {
+              "option": "B. Use a strong contrast between text and background",
+              "is_correct": true
+            },
+            {
+              "option": "C. Use slight spacing between lines of text",
+              "is_correct": true
+            },
+            {
+              "option": "D. Use decorative fonts",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_number": 132,
+          "total_questions": 132,
+          "question_text": "Which two actions will improve communication skills when working with a client? (Choose 2)",
+          "options": [
+            {
+              "option": "A. Summarize the question before answering",
+              "is_correct": true
+            },
+            {
+              "option": "B. Send a text message to apologize for poor communication",
+              "is_correct": false
+            },
+            {
+              "option": "C. Have another team member take over communication",
+              "is_correct": false
+            },
+            {
+              "option": "D. Speak in a positive and respectful tone",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
