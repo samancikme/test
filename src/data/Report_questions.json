@@ -1,0 +1,3320 @@
+[
+  {
+    "id": "q1",
+    "questionNumber": 1,
+    "questionText": "Which of the following are good file naming conventions? For each statement, select Yes if it is a good practice or No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Do NOT use special characters ( ! @ # $ % ^& * () ' ' : ; ?, [] { } and | ).",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Insert spaces between words",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "Use long, descriptive file names",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "For file name series that include dates, use the format MMDDYY",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "questionNumber": 2,
+    "questionText": "You are having problems with your Windows laptop computer. Before contacting support, you must gather information about your device, its processor, RAM amount, and the version of OS. On a Windows computer, where can you find the device and system information?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Settings > System Info"
+      },
+      {
+        "id": "o2",
+        "text": "File > Info"
+      },
+      {
+        "id": "o3",
+        "text": "Desktop > System Info"
+      },
+      {
+        "id": "o4",
+        "text": "Settings > About"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q3",
+    "questionNumber": 3,
+    "questionText": "You post a funny and embarrassing photo of your friend on social media. How long will the information stay on the internet?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Until your friend deletes it"
+      },
+      {
+        "id": "o2",
+        "text": "Forever, even after you delete it"
+      },
+      {
+        "id": "o3",
+        "text": "7 years"
+      },
+      {
+        "id": "o4",
+        "text": "24 hours"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q4",
+    "questionNumber": 4,
+    "questionText": "You need to identify personally identifiable information (PII) that you should not expose online. For each statement, select Yes if it is personally identifiable information or No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Passport number",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Eye color",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "Date of birth",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "questionNumber": 6,
+    "questionText": "What is a benefit of 'in private' or 'incognito' browsing?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Digital fingerprinting can't be used to track your browser activities"
+      },
+      {
+        "id": "o2",
+        "text": "Your web browser remembers the files you download"
+      },
+      {
+        "id": "o3",
+        "text": "Your web browser blocks advertisements"
+      },
+      {
+        "id": "o4",
+        "text": "Your web browser doesn't retain cookies"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q6",
+    "questionNumber": 7,
+    "questionText": "What is the main contributor to your digital identity?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Data stored on your computer that allows you to log in to a secure website through a secure account"
+      },
+      {
+        "id": "o2",
+        "text": "Documents stored on your computer"
+      },
+      {
+        "id": "o3",
+        "text": "For each site or service you use, your username and password"
+      },
+      {
+        "id": "o4",
+        "text": "The information you post on social networking sites, blogs, and forums"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q7",
+    "questionNumber": 8,
+    "questionText": "You need to collaborate with your peers and share your class journal. Which digital platform is appropriate for this classroom activity?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Facebook"
+      },
+      {
+        "id": "o2",
+        "text": "Google Docs"
+      },
+      {
+        "id": "o3",
+        "text": "Twitter"
+      },
+      {
+        "id": "o4",
+        "text": "Instagram"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q8",
+    "questionNumber": 9,
+    "questionText": "Which two methods should you use to reduce eye strain while using a digital display? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Position the screen slightly above eye level"
+      },
+      {
+        "id": "o2",
+        "text": "Shine the primary light source directly onto the screen"
+      },
+      {
+        "id": "o3",
+        "text": "Make sure the primary light source is not shining directly into your eyes"
+      },
+      {
+        "id": "o4",
+        "text": "Make sure the screen is not too close to your eyes"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q9",
+    "questionNumber": 10,
+    "questionText": "Which option is the best way to create a secure password?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use your name and birthday"
+      },
+      {
+        "id": "o2",
+        "text": "Use your favorite movie title"
+      },
+      {
+        "id": "o3",
+        "text": "Use a mix of letters, numbers, and symbols"
+      },
+      {
+        "id": "o4",
+        "text": "Use something easy to remember, like '12345' or 'p@ssword'"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q10",
+    "questionNumber": 11,
+    "questionText": "You enter a recipe into a Microsoft Word document as a single paragraph and convert it to a numbered list. You need to separate the paragraph into individual numbered list items. Which key (or key combination) should you press at the end of each sentence?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tab"
+      },
+      {
+        "id": "o2",
+        "text": "Shift+Enter"
+      },
+      {
+        "id": "o3",
+        "text": "Shift+Tab"
+      },
+      {
+        "id": "o4",
+        "text": "Enter"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q11",
+    "questionNumber": 13,
+    "questionText": "You need to add artwork to a presentation you're creating for your class. You do NOT have time to get permission to use the artwork. For each statement, select Yes if you may legally use the artwork without permission or No if you may not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The artwork is protected by copyright",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "The artist is your friend",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "The copyright owner dedicated the artwork to the public domain",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "questionNumber": 14,
+    "questionText": "For each statement about open source software, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Anyone can inspect, modify, and enhance the source code of open source software",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "All free software is open source software",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "You must agree to an End User License Agreement before using open source software",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "questionNumber": 15,
+    "questionText": "Which symptom is associated with prolonged computer use?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Enhanced visual clarity"
+      },
+      {
+        "id": "o2",
+        "text": "Improved muscle tone"
+      },
+      {
+        "id": "o3",
+        "text": "Increased back pain"
+      },
+      {
+        "id": "o4",
+        "text": "Increased flexibility in joints"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q14",
+    "questionNumber": 16,
+    "questionText": "Which unit describes the short-term data storage used by a computing device to run applications?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "CPU"
+      },
+      {
+        "id": "o2",
+        "text": "GHz"
+      },
+      {
+        "id": "o3",
+        "text": "RAM"
+      },
+      {
+        "id": "o4",
+        "text": "Mbps"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q15",
+    "questionNumber": 17,
+    "questionText": "You see a post on social media that contains an article about a current event. You want to evaluate the credibility of the article. Which factor is most important?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The number of likes and shares the article has received"
+      },
+      {
+        "id": "o2",
+        "text": "The length of the article and the details it covers"
+      },
+      {
+        "id": "o3",
+        "text": "The number of pictures included in the article"
+      },
+      {
+        "id": "o4",
+        "text": "The news outlet's reputation and trustworthiness"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q16",
+    "questionNumber": 19,
+    "questionText": "Which hardware component does a desktop computer use for long-term data storage?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Central processing unit (CPU)"
+      },
+      {
+        "id": "o2",
+        "text": "Hard disk drive"
+      },
+      {
+        "id": "o3",
+        "text": "USB flash drive"
+      },
+      {
+        "id": "o4",
+        "text": "Motherboard"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q17",
+    "questionNumber": 20,
+    "questionText": "You and a friend are collaborating on a web comic. Move each term from the list on the left to its activity on the right. (Not all terms will be used.)",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "You and your friend conduct a video chat to brainstorm ideas for the story.",
+        "right": "Synchronous Collaboration"
+      },
+      {
+        "left": "On your own, you write the story, while your friend draws the artwork. While you work, you send emails with questions and updates.",
+        "right": "Asynchronous Collaboration"
+      },
+      {
+        "left": "You and your friend both post the finished comic to your social media accounts, and tag each other in the post.",
+        "right": "Coauthoring"
+      },
+      {
+        "left": "Enables machines to process and comprehend text or speech, helping communication between humans and computers in a more instinctive way.",
+        "right": "Natural Language Processing"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "questionNumber": 21,
+    "questionText": "For each statement, select Yes if it is a warning that an email is a phishing message, or No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The message uses a generic greeting",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "The message includes a threat",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "The message requests your private information",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "questionNumber": 22,
+    "questionText": "Which practice helps protect your computer and personal data?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Ignoring software update notifications"
+      },
+      {
+        "id": "o2",
+        "text": "Sharing your password with trusted friends"
+      },
+      {
+        "id": "o3",
+        "text": "Installing and updating antivirus software regularly"
+      },
+      {
+        "id": "o4",
+        "text": "Downloading files from unknown websites"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q20",
+    "questionNumber": 23,
+    "questionText": "You are searching the web to gather information for a research paper. You need to identify webpages that are likely to contain accurate and unbiased information for your research. For each statement, select Yes if it indicates that a webpage meets the requirements or No if it does not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The webpage has misspelled words",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "The webpage includes a list of references",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "The webpage text is written objectively",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q21",
+    "questionNumber": 24,
+    "questionText": "For each statement about time differences between wired and wireless networking, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Wireless networks typically have slower data transmission speeds than Ethernet connections",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "An encrypted Wi-Fi connection is more secure than an Ethernet connection",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "An Ethernet connection typically provides faster network connection speeds than a Wi-Fi connection",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "questionNumber": 25,
+    "questionText": "What are two negative effects of posting a derogatory meme on social media? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It showcases your wit and digital artistry skills."
+      },
+      {
+        "id": "o2",
+        "text": "Various viewers may interpret the meme differently"
+      },
+      {
+        "id": "o3",
+        "text": "You can easily address a group of people who hold specific beliefs."
+      },
+      {
+        "id": "o4",
+        "text": "It remains traceable after the event that inspired you to post it."
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q23",
+    "questionNumber": 26,
+    "questionText": "Your teacher instructs you to research a poster, a poem, a dramatic work, and an image that are protected by any of the six Creative Commons licenses and are not dedicated to the public domain. For each type of content use, select Yes if the terms of the Creative Commons licenses allow the use of the work or No if they do not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Include the poem as part of a portfolio of your original work",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Display the image to other students as part of an in-class presentation",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Perform the dramatic work for parents at a class talent show",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Display the poster during a free movie night at your school",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "questionNumber": 27,
+    "questionText": "Your teacher instructs you to edit a classmate's research paper. Which two tools should you use? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Spelling checker"
+      },
+      {
+        "id": "o2",
+        "text": "Linked notes"
+      },
+      {
+        "id": "o3",
+        "text": "Design mode"
+      },
+      {
+        "id": "o4",
+        "text": "Comments"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q25",
+    "questionNumber": 28,
+    "questionText": "You're having difficulty sending and receiving information. How can you identify whether your device is connected to the Internet?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Download a Speedtest"
+      },
+      {
+        "id": "o2",
+        "text": "Open a browser"
+      },
+      {
+        "id": "o3",
+        "text": "Try saving a file."
+      },
+      {
+        "id": "o4",
+        "text": "Try sending a text"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q26",
+    "questionNumber": 29,
+    "questionText": "Which two methods should you use to avoid computer-related injuries? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Take frequent short breaks during which you walk around"
+      },
+      {
+        "id": "o2",
+        "text": "Use a mouse with a switch to adjust the DPI when needed"
+      },
+      {
+        "id": "o3",
+        "text": "Upgrade to a high-end graphics card to reduce eye strain"
+      },
+      {
+        "id": "o4",
+        "text": "Use an ergonomic keyboard so your wrists are in a more natural position"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q27",
+    "questionNumber": 30,
+    "questionText": "You write a research paper for school. In your paper, you paraphrase information from an article you read on the internet. You do not cite the source of the information in your bibliography. What is this an example of?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Attribution"
+      },
+      {
+        "id": "o2",
+        "text": "Creative Commons use"
+      },
+      {
+        "id": "o3",
+        "text": "Fair use"
+      },
+      {
+        "id": "o4",
+        "text": "Plagiarism"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q28",
+    "questionNumber": 31,
+    "questionText": "Digital Primacy – True or False Statements",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Anonymous online comments you post cannot be traced back to you if you use a web filter",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Updating your browser every six months wipes your digital footprint clean",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Companies with which you share personal data in exchange for apps and services are not allowed to give the data to anyone else",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Potential employers can find images and messages posted on social media by applicants under the age of 18",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q29",
+    "questionNumber": 32,
+    "questionText": "For each statement about the differences between wired and wireless networking, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "An Ethernet connection typically provides faster network connection speeds than a Wi-Fi connection",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "An encrypted Wi-Fi connection is more secure than an Ethernet connection",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Wi-Fi connections typically have fewer data transmission delays than Ethernet connections",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q30",
+    "questionNumber": 33,
+    "questionText": "Juliana takes photos with her phone for the school yearbook. She takes more than 50 photographs each day. Juliana needs to use the quickest and most reliable method to back up the photos so she can delete them from her phone each day. What should Juliana do?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sync her phone to cloud storage."
+      },
+      {
+        "id": "o2",
+        "text": "Delete only the photos she doesn't want to use."
+      },
+      {
+        "id": "o3",
+        "text": "Download the photos to a USB flash drive."
+      },
+      {
+        "id": "o4",
+        "text": "Email the photos to her teacher."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q31",
+    "questionNumber": 34,
+    "questionText": "Which setting will allow you to print multiple slides on one page of paper?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Slide sorter"
+      },
+      {
+        "id": "o2",
+        "text": "Slide layout"
+      },
+      {
+        "id": "o3",
+        "text": "Pages per sheet"
+      },
+      {
+        "id": "o4",
+        "text": "Double-sided or duplex"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q32",
+    "questionNumber": 35,
+    "questionText": "For each statement about copyright, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Work must be registered with the copyright office to be protected by copyright",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Copyright laws protect only works of art, such as paintings and sculptures",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Copyright laws protect the right to reproduce the copyrighted work",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q33",
+    "questionNumber": 36,
+    "questionText": "For each statement about the differences between internet and intranet, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "An intranet connection is more secure than an internet connection",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "An intranet has an unlimited number of users and can be accessed by anyone",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "The internet is privately owned by a consortium of companies",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q34",
+    "questionNumber": 37,
+    "questionText": "Which two connections can be used to connect a monitor to a computer? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Ethernet"
+      },
+      {
+        "id": "o2",
+        "text": "PS/2"
+      },
+      {
+        "id": "o3",
+        "text": "HDMI"
+      },
+      {
+        "id": "o4",
+        "text": "USB-C"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q35",
+    "questionNumber": 38,
+    "questionText": "Which two options are benefits of digital collaboration? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Confidential data is safer from theft and intrusion"
+      },
+      {
+        "id": "o2",
+        "text": "Collaborators can more easily avoid distractions while working"
+      },
+      {
+        "id": "o3",
+        "text": "Ideas and feedback can be shared quickly"
+      },
+      {
+        "id": "o4",
+        "text": "Collaborators can work with others from any geographic location"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q36",
+    "questionNumber": 39,
+    "questionText": "Which statement correctly describes the use of Creative Commons content in a project?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Creative Commons content can only be used if you pay a fee to the original creator for each use."
+      },
+      {
+        "id": "o2",
+        "text": "Creative Commons licenses restrict the use of educational content and do not allow for personal or commercial use."
+      },
+      {
+        "id": "o3",
+        "text": "Creative Commons licenses allow you to use, share, and modify content as long as you follow the terms specified by the license."
+      },
+      {
+        "id": "o4",
+        "text": "All Creative Commons content is automatically owned by the government and cannot be used for commercial purposes."
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q37",
+    "questionNumber": 40,
+    "questionText": "You are working on a group project and one group member is making changes to the shared project without consulting the rest of the group. What should you do?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Restore the document by removing their changes."
+      },
+      {
+        "id": "o2",
+        "text": "Take away the person's editing access to the document."
+      },
+      {
+        "id": "o3",
+        "text": "Ignore the changes and keep working on your part."
+      },
+      {
+        "id": "o4",
+        "text": "Have a group discussion about editing the document"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q38",
+    "questionNumber": 41,
+    "questionText": "You and a partner are collaborating to create a science report. You create a shared document and save it to the cloud. You intend to work on the report at different times. What type of collaboration does this refer to?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Simultaneous"
+      },
+      {
+        "id": "o2",
+        "text": "Offline"
+      },
+      {
+        "id": "o3",
+        "text": "Asynchronous"
+      },
+      {
+        "id": "o4",
+        "text": "Synchronous"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q39",
+    "questionNumber": 42,
+    "questionText": "You are writing a research paper. You need to add references to your work. For each scenario, select Yes if you must add a reference or No if you do not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You use an idea from a news article",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "You write something new and original",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "You copy a paragraph from a webpage",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "You paraphrase content from a magazine article",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q40",
+    "questionNumber": 43,
+    "questionText": "You need to follow ethical standards of behavior to protect your digital reputation. Which action meets the requirements? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Comply with the terms of the Acceptable Use Policy while using your school's Wi-Fi."
+      },
+      {
+        "id": "o2",
+        "text": "Include the full version of your favorite song in a personal video profile on social media."
+      },
+      {
+        "id": "o3",
+        "text": "Enhance the Work Experience section of your online resume by including tasks you intend to complete"
+      },
+      {
+        "id": "o4",
+        "text": "Use public domain images for your company website."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q41",
+    "questionNumber": 44,
+    "questionText": "For each physical health risk, select Yes if it is associated with prolonged computer use or No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Frequent headaches",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Elevated blood pressure",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "Eye strain",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Discomfort in the neck",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q42",
+    "questionNumber": 45,
+    "questionText": "Which two actions can you take to help maintain your digital privacy? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Configure your web browser settings to block cookies"
+      },
+      {
+        "id": "o2",
+        "text": "Use only your school email to send private information"
+      },
+      {
+        "id": "o3",
+        "text": "Store your private documents in a cloud storage location"
+      },
+      {
+        "id": "o4",
+        "text": "Turn off GPS on your devices when you are not actively using it"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q43",
+    "questionNumber": 46,
+    "questionText": "Move each collaboration term to the correct description. (Terms: Coauthoring, Editing)",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Using the Spelling & Grammar tool to correct errors in a classmate's Word Online document",
+        "right": "Editing"
+      },
+      {
+        "left": "Creating five slides for a group PowerPoint presentation that is saved on OneDrive",
+        "right": "Coauthoring"
+      },
+      {
+        "left": "Proofreading a Google Docs document for a classmate",
+        "right": "Editing"
+      },
+      {
+        "left": "Taking photos and inserting them into a Google Slides presentation created by your classmates",
+        "right": "Coauthoring"
+      }
+    ]
+  },
+  {
+    "id": "q44",
+    "questionNumber": 47,
+    "questionText": "What is a benefit of 'in private' or 'incognito' browsing?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Your web browser blocks advertisements."
+      },
+      {
+        "id": "o2",
+        "text": "Your web browser permits visits to websites that are normally blocked in your country."
+      },
+      {
+        "id": "o3",
+        "text": "Your web browser allows you to change your IP address."
+      },
+      {
+        "id": "o4",
+        "text": "Your web browser hides activities from other people who use the same device"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q45",
+    "questionNumber": 48,
+    "questionText": "Which practice follows effective file-naming conventions?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using the default file name"
+      },
+      {
+        "id": "o2",
+        "text": "Using generic terms like 'document' or 'file'"
+      },
+      {
+        "id": "o3",
+        "text": "Using clear names that describe the content"
+      },
+      {
+        "id": "o4",
+        "text": "Including random letters and numbers for security"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q46",
+    "questionNumber": 49,
+    "questionText": "You have written an original recipe that you want to share on social media. Your recipe includes a paragraph describing the dish, a list of ingredients, step-by-step instructions, and screen photos. Which guideline will most likely impact where you are able to share your recipe online?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Some social media sites do not allow you to format information as a bulleted list"
+      },
+      {
+        "id": "o2",
+        "text": "Some social media sites have a limit on the number of characters or pictures you can post."
+      },
+      {
+        "id": "o3",
+        "text": "Some social media sites have a limit on the length of videos you can post"
+      },
+      {
+        "id": "o4",
+        "text": "Some social media sites do not allow you to post recipes."
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q47",
+    "questionNumber": 50,
+    "questionText": "For each statement about printing documents, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You can change document margins from the Print settings",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "To preserve file formatting when electronically distributing a document, print the document to a PDF file",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Duplex printing prints file content on both sides of the paper",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "You can only change the paper size from the Page Setup option",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q48",
+    "questionNumber": 51,
+    "questionText": "What are three key elements of an effective Acceptable Use Policy? (Choose 3.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A bibliography"
+      },
+      {
+        "id": "o2",
+        "text": "A copyright and trademark statement"
+      },
+      {
+        "id": "o3",
+        "text": "A definition section"
+      },
+      {
+        "id": "o4",
+        "text": "A violations or sanctions section"
+      },
+      {
+        "id": "o5",
+        "text": "A policy statement"
+      },
+      {
+        "id": "o6",
+        "text": "A license agreement"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4",
+      "o5"
+    ],
+    "instruction": "Choose 3 correct options."
+  },
+  {
+    "id": "q49",
+    "questionNumber": 53,
+    "questionText": "Your class is planning a field trip to visit college campuses. Your teacher schedules a video conference for the trip participants. You need to follow appropriate digital etiquette standards during the video conference. For each statement, select Yes if it represents appropriate digital etiquette or No if it does not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Ensure that your microphone is always on so you can participate",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "When it's your turn to speak, introduce yourself and look at the onscreen image of the person you're addressing",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Test the software before the meeting start time",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Position yourself and the camera so the camera lens is at eye level",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q50",
+    "questionNumber": 54,
+    "questionText": "You need to identify tools that help you to protect your digital privacy. For each statement, select Yes if the feature protects digital privacy and No if it does not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Disk defragmenter",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Password-management program",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Anti-tracking browser extension",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q51",
+    "questionNumber": 55,
+    "questionText": "Which statement about web-based applications is correct?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The web version of a desktop application has all the same features as the desktop version"
+      },
+      {
+        "id": "o2",
+        "text": "You must have an internet connection to use a web application."
+      },
+      {
+        "id": "o3",
+        "text": "Before you can use a web application, you must install it on your computer"
+      },
+      {
+        "id": "o4",
+        "text": "Web applications process information locally on your computer"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q52",
+    "questionNumber": 56,
+    "questionText": "Which of the following is an example of cyberbullying?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Helping a friend by posting researched articles about bullying to their blog"
+      },
+      {
+        "id": "o2",
+        "text": "Posting songs of your favorite artists online and charging your friends money to download them."
+      },
+      {
+        "id": "o3",
+        "text": "Writing an opinion article about the unfair requirements of cheerleader tryouts and submitting it to your school news website."
+      },
+      {
+        "id": "o4",
+        "text": "Stealing someone's password and pretending to be that person while tweeting or posting things online."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q53",
+    "questionNumber": 57,
+    "questionText": "You use a public computer at the library to check email and your bank account balance. You need to prevent other people who use the computer after you from accessing your email and bank accounts. Which two tasks should you complete before leaving the computer? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Clear the browser's cache and cookies"
+      },
+      {
+        "id": "o2",
+        "text": "Log out of the email and bank websites"
+      },
+      {
+        "id": "o3",
+        "text": "Quit the browser sessions in which you're logged on to the websites"
+      },
+      {
+        "id": "o4",
+        "text": "Clear the browser's history"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q54",
+    "questionNumber": 58,
+    "questionText": "Move each AI term from the list on the left to its definition on the right.",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Possesses many small parts, like tiny computers, that can figure out patterns and connections just like humans do when they learn new things.",
+        "right": "Neural Networks"
+      },
+      {
+        "left": "Enables machines to gain knowledge from data and improve their performance over time without being explicitly programmed.",
+        "right": "Machine Learning"
+      },
+      {
+        "left": "Focuses on creating physical machines capable of performing tasks autonomously or with minimal human intervention.",
+        "right": "Robotics"
+      },
+      {
+        "left": "Enables machines to process and comprehend text or speech, helping communication between humans and computers in a more instinctive way.",
+        "right": "Natural Language Processing"
+      }
+    ]
+  },
+  {
+    "id": "q55",
+    "questionNumber": 59,
+    "questionText": "For each statement about images that are protected by Creative Commons licenses and not in the public domain, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "If you use the image, you must cite its source",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "You can use the image unconditionally",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "You can use the image for free",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q56",
+    "questionNumber": 60,
+    "questionText": "Move each type of storage drive to its description.",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Can be accessed on any device with an internet connection",
+        "right": "Cloud drive"
+      },
+      {
+        "left": "Is small enough to carry on a keychain",
+        "right": "Flash drive"
+      },
+      {
+        "left": "Can be installed permanently in a computer and does not use moving parts",
+        "right": "Solid state drive (SSD)"
+      },
+      {
+        "left": "Uses a magnetic disc to read and write data",
+        "right": "Hard disc drive (HDD)"
+      }
+    ]
+  },
+  {
+    "id": "q57",
+    "questionNumber": 61,
+    "questionText": "You need to create an exact copy of your Windows computer system to ensure that you can restore the computer, applications, and files to the current state in the event of a catastrophic system crash. What should you do?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Set up Windows Backup"
+      },
+      {
+        "id": "o2",
+        "text": "Create a system image"
+      },
+      {
+        "id": "o3",
+        "text": "Turn on File History"
+      },
+      {
+        "id": "o4",
+        "text": "Create a system repair disc."
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q58",
+    "questionNumber": 62,
+    "questionText": "A boy in your art class posts a photo of a pig with your head pasted on it on a social media site. What should you do?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Post a revenge photo with his face on bacon."
+      },
+      {
+        "id": "o2",
+        "text": "Assume it's about your weight and go on a diet"
+      },
+      {
+        "id": "o3",
+        "text": "Respond with a neutral comment just so he knows you saw it."
+      },
+      {
+        "id": "o4",
+        "text": "Tell the boy you're curious and want to understand why he posted the photo."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q59",
+    "questionNumber": 63,
+    "questionText": "Which backup method offers the best protection for your data?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Deleting files you don't need anymore"
+      },
+      {
+        "id": "o2",
+        "text": "Keeping files only on your computer's hard drive"
+      },
+      {
+        "id": "o3",
+        "text": "Sending files to others through email"
+      },
+      {
+        "id": "o4",
+        "text": "Using both cloud storage and an external hard drive"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q60",
+    "questionNumber": 64,
+    "questionText": "You need to maintain the security of your smartphone. Which three guidelines should you follow? (Choose 3.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Disable Wi-Fi and Bluetooth when you're not using them."
+      },
+      {
+        "id": "o2",
+        "text": "Avoid using public Wi-Fi networks."
+      },
+      {
+        "id": "o3",
+        "text": "Update your smartphone's operating system only if you need a new feature offered in the update."
+      },
+      {
+        "id": "o4",
+        "text": "Use a USB 3.0 or newer connection cable when connecting to a new computer."
+      },
+      {
+        "id": "o5",
+        "text": "Do not leave your device unattended in public or easily accessible areas."
+      },
+      {
+        "id": "o6",
+        "text": "Always use a surge protector when charging the device."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o5"
+    ],
+    "instruction": "Choose 3 correct options."
+  },
+  {
+    "id": "q61",
+    "questionNumber": 65,
+    "questionText": "You plan to purchase a portable computing device. The device must be able to run on battery power and must have a built-in physical keyboard. (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Windows laptop computer"
+      },
+      {
+        "id": "o2",
+        "text": "Windows All-in-One computer"
+      },
+      {
+        "id": "o3",
+        "text": "Android smartphone"
+      },
+      {
+        "id": "o4",
+        "text": "Mac desktop computer"
+      },
+      {
+        "id": "o5",
+        "text": "Chromebook"
+      },
+      {
+        "id": "o6",
+        "text": "Android tablet"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o5"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q62",
+    "questionNumber": 66,
+    "questionText": "You are working with other students on a science project. Your team will meet to discuss the project using the school's videoconferencing application. You will act as the host. You need to ensure that each student can talk about the project without being interrupted by other students. What should each student do to meet this goal?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mute their microphone until you call on them"
+      },
+      {
+        "id": "o2",
+        "text": "Introduce themselves by name when they speak."
+      },
+      {
+        "id": "o3",
+        "text": "Sign in early to verify that the audio and video technology works"
+      },
+      {
+        "id": "o4",
+        "text": "Remain on camera throughout the conference"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q63",
+    "questionNumber": 67,
+    "questionText": "Your teacher has cautioned you about protecting your digital identity. Which three activities help define your digital identity? (Choose three)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using Twitter and Snapchat instead of Facebook"
+      },
+      {
+        "id": "o2",
+        "text": "Comments you post or tweet"
+      },
+      {
+        "id": "o3",
+        "text": "Only posting from a phone, never from a computer"
+      },
+      {
+        "id": "o4",
+        "text": "Your profile"
+      },
+      {
+        "id": "o5",
+        "text": "Having multiple email accounts"
+      },
+      {
+        "id": "o6",
+        "text": "Media posted by other people that you share with your friends"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4",
+      "o6"
+    ],
+    "instruction": "Choose 3 correct options."
+  },
+  {
+    "id": "q64",
+    "questionNumber": 68,
+    "questionText": "For each statement about citation practices, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You should place quotation marks around phrases that you quote from someone else's work",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "If you paraphrase someone else's work, you must cite the source",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "If you quote directly from a speech, you must cite the source",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "If you summarize someone else's work, you must cite the source",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q65",
+    "questionNumber": 69,
+    "questionText": "When using an app, network, or service, you may be required to agree to an Acceptable Use Policy. What are two types of information that an Acceptable Use Policy describes? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The consequences of violating the policy"
+      },
+      {
+        "id": "o2",
+        "text": "Unacceptable uses of the app, network, or service"
+      },
+      {
+        "id": "o3",
+        "text": "How to monetize information through the app, network, or service"
+      },
+      {
+        "id": "o4",
+        "text": "How to copyright data that you submit to the app, network, or service"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q66",
+    "questionNumber": 70,
+    "questionText": "Your name is Sam Grey. You are updating a school project and want to save a new version. You need to choose a file name that clearly identifies the author, is easy to read, and supports web usability and cross-platform compatibility. Which file name should you use?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "SamGrey pf3ject#1>v3.docx"
+      },
+      {
+        "id": "o2",
+        "text": "Sam Grey Project1-version3.docx"
+      },
+      {
+        "id": "o3",
+        "text": "SamGreyProject1v3.docx"
+      },
+      {
+        "id": "o4",
+        "text": "samgreyprojectoneversionthree04/15/2025.docx"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q67",
+    "questionNumber": 71,
+    "questionText": "When assessing an online article's reliability, which is a critical step?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Reviewing the article's publication date and checking for recent updates"
+      },
+      {
+        "id": "o2",
+        "text": "Confirming the author's popularity on social media"
+      },
+      {
+        "id": "o3",
+        "text": "Counting the article's words to determine depth of content"
+      },
+      {
+        "id": "o4",
+        "text": "Verifying that the article includes multiple images"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q68",
+    "questionNumber": 72,
+    "questionText": "As an ethical computer user, you have a responsibility to practice good netiquette at all times. You need to identify examples of good netiquette in an office work environment. For each statement, select Yes if it is an example of good netiquette or No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Share large files from a cloud storage location instead of attaching them to email messages",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Copy your coworkers on all email messages you send to keep them in the loop",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Apply the same standards and values to online interactions that you do to face-to-face interactions",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q69",
+    "questionNumber": 73,
+    "questionText": "For each statement about types of social media activity, select Yes if it will likely be allowed on most social media platforms or No if it likely will not be allowed.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Impersonate a real person",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Post negative reviews of products or services",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Post original content that you created yourself",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Share someone else's content that is their intellectual property",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "q70",
+    "questionNumber": 74,
+    "questionText": "Online messaging apps simplify the process of communicating with other people, whether they are next door or in another country. For each statement, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Respectful language conveys prejudices such as stereotypes, expectations and limitations",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "People with similar heritages have the same beliefs and priorities",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Culture is a constantly changing concept that may not completely reflect someone's identity",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q71",
+    "questionNumber": 75,
+    "questionText": "Ava reshared Mia's post on social media, and now more people can see it. Which action would help protect Mia's personal data?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sharing posts with friends only, trusting they will keep your information private"
+      },
+      {
+        "id": "o2",
+        "text": "Turning on privacy settings to control who can see your information"
+      },
+      {
+        "id": "o3",
+        "text": "Sharing your phone number or address in your profile bio to stay connected"
+      },
+      {
+        "id": "o4",
+        "text": "Making your profile public so everyone can see your posts."
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q72",
+    "questionNumber": 77,
+    "questionText": "Move each concept to its correct description.",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "A set of defined rules that allow different software applications to communicate with each other",
+        "right": "API"
+      },
+      {
+        "left": "A computer program that simulates conversation with human users",
+        "right": "Chatbot"
+      },
+      {
+        "left": "A type of machine learning that uses artificial neural networks to learn from data",
+        "right": "Deep Learning"
+      },
+      {
+        "left": "A type of artificial intelligence that is used to create new data, such as text, images, or music",
+        "right": "Generative AI"
+      }
+    ]
+  },
+  {
+    "id": "q73",
+    "questionNumber": 78,
+    "questionText": "Which two methods should you use to reduce eye strain while using a digital display? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Periodically look away from the screen and focus on a faraway object."
+      },
+      {
+        "id": "o2",
+        "text": "Tilt the screen directly toward your eyes."
+      },
+      {
+        "id": "o3",
+        "text": "Adjust the screen resolution to set the text at a comfortable size."
+      },
+      {
+        "id": "o4",
+        "text": "Shine the primary room light source directly onto the screen."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q74",
+    "questionNumber": 80,
+    "questionText": "For each statement about the benefits of a good network infrastructure, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Enables students to connect to the school's computer lab from any location",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Supports the scaling of the school network without redesign as the student population increases",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Ensures that students can consistently connect to the campus network",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q75",
+    "questionNumber": 81,
+    "questionText": "The information saved about you online is known as your digital footprint. For each statement, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Updating your browser every six months wipes your digital footprint clean",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Potential employers can find images and messages posted on social media by applicants under the age of 18",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Anonymous online comments you post cannot be traced back to you if you use a web filter",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q76",
+    "questionNumber": 82,
+    "questionText": "You are writing a research paper. You need to add references to your work. For each scenario, select YES if you must add a reference or NO if you do not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You write something new and original",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "You paraphrase content from a magazine article",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "You pull a paragraph from a webpage",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "You use an idea from a news article",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q77",
+    "questionNumber": 83,
+    "questionText": "Move each email address field from the list on the left to its purpose on the right.",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "To send the message you received from one person to a different person",
+        "right": "Forward"
+      },
+      {
+        "left": "To respond to a message sender and exclude other message recipients",
+        "right": "Reply"
+      },
+      {
+        "left": "To copy other people on a message and let each see the email addresses",
+        "right": "Cc"
+      },
+      {
+        "left": "To copy other people on a message and NOT let them see the email addresses",
+        "right": "Bcc"
+      },
+      {
+        "left": "To respond to a message sender and all other known message recipients",
+        "right": "Reply All"
+      }
+    ]
+  },
+  {
+    "id": "q78",
+    "questionNumber": 84,
+    "questionText": "For each statement about the Android operating system, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Android is open-source software",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Android requires the Google App Store",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Android is a desktop operating system",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q79",
+    "questionNumber": 85,
+    "questionText": "You are downloading an .exe file to use on your device. Which operating system does this file work in?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "MacOS"
+      },
+      {
+        "id": "o2",
+        "text": "Linux"
+      },
+      {
+        "id": "o3",
+        "text": "Windows"
+      },
+      {
+        "id": "o4",
+        "text": "iOS"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q80",
+    "questionNumber": 86,
+    "questionText": "You need to identify the functions that are managed by a computer operating system (not by an app). For each task, select OS if it is managed by the operating system and App if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "OS",
+        "text": "OS"
+      },
+      {
+        "id": "App",
+        "text": "App"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Communicates with peripheral devices",
+        "correctAnswer": "OS"
+      },
+      {
+        "id": "s2",
+        "text": "Searches the internet",
+        "correctAnswer": "App"
+      },
+      {
+        "id": "s3",
+        "text": "Allocates hardware resources",
+        "correctAnswer": "OS"
+      },
+      {
+        "id": "s4",
+        "text": "Edits text files",
+        "correctAnswer": "App"
+      }
+    ]
+  },
+  {
+    "id": "q81",
+    "questionNumber": 87,
+    "questionText": "You are writing a research paper. You gather information from various sources that you want to include in your paper. For which two reasons should you reference your source material? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It provides financial payment to the people who performed the research"
+      },
+      {
+        "id": "o2",
+        "text": "It establishes the research paper as your original work"
+      },
+      {
+        "id": "o3",
+        "text": "It allows readers to find the original information source"
+      },
+      {
+        "id": "o4",
+        "text": "It gives credit to the people who did the research you're referencing"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q82",
+    "questionNumber": 88,
+    "questionText": "What is a constructive reason for choosing not to engage with online trolling?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It encourages the troll to continue their behavior"
+      },
+      {
+        "id": "o2",
+        "text": "It helps avoid escalating the situation and reduces the troll's influence"
+      },
+      {
+        "id": "o3",
+        "text": "It gives the troll an opportunity to explain their behavior."
+      },
+      {
+        "id": "o4",
+        "text": "It motivates others to participate in the negative conversation"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q83",
+    "questionNumber": 89,
+    "questionText": "You are searching the web for information about how to grow your own vegetables. You need to determine which results are relevant to your search. For each webpage description, select Yes if the page is relevant to your search or No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "An ad for a popular gardening blog",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "A tabloid magazine article about celebrity gardens",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "A how-to article published by a prestigious university",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q84",
+    "questionNumber": 90,
+    "questionText": "Which two methods do websites use to track visitors' online browsing habits? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Facial recognition"
+      },
+      {
+        "id": "o2",
+        "text": "Third-party cookies"
+      },
+      {
+        "id": "o3",
+        "text": "VPN tunneling"
+      },
+      {
+        "id": "o4",
+        "text": "First-party cookies"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q85",
+    "questionNumber": 91,
+    "questionText": "You are making suggestions, corrections, and comments on a classmate's research paper. What process are you performing?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Coauthoring"
+      },
+      {
+        "id": "o2",
+        "text": "Fact checking"
+      },
+      {
+        "id": "o3",
+        "text": "Attributing"
+      },
+      {
+        "id": "o4",
+        "text": "Peer reviewing"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q86",
+    "questionNumber": 92,
+    "questionText": "You use a local installation of Microsoft Word. Yesterday, you started writing a letter to a friend, and saved the file to your Documents folder. Today, you open the file and finish writing the letter. You need to save the changes you made to the file today. You select File and then Save. What is the result?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Word prompts you to enter a new file name"
+      },
+      {
+        "id": "o2",
+        "text": "Word prompts you to choose a new location to save the file"
+      },
+      {
+        "id": "o3",
+        "text": "Word overwrites the previously saved version of the file"
+      },
+      {
+        "id": "o4",
+        "text": "Word saves a new copy of the file, resulting in two separate files."
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q87",
+    "questionNumber": 93,
+    "questionText": "For each statement about creating basic presentations, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You can access Apple Keynote presentations from Windows computers through iCloud",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "You should minimize text content in presentations",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "You should maintain a low contrast between the text and background colors of presentations",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "You can only create Microsoft PowerPoint presentations on Windows computers",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q88",
+    "questionNumber": 94,
+    "questionText": "You need to store a list of webpages so you can easily return to them later. What web browser feature or setting should you use?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Address box"
+      },
+      {
+        "id": "o2",
+        "text": "Favorites or Bookmarks"
+      },
+      {
+        "id": "o3",
+        "text": "History or Timeline"
+      },
+      {
+        "id": "o4",
+        "text": "Tabbed Browsing"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "q89",
+    "questionNumber": 95,
+    "questionText": "You are gathering information online for a research paper. Which three pieces of information about each webpage should you save? (Choose 3.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Purpose of the information"
+      },
+      {
+        "id": "o2",
+        "text": "Page content sources"
+      },
+      {
+        "id": "o3",
+        "text": "Page title"
+      },
+      {
+        "id": "o4",
+        "text": "Comments that support the veracity of the page content"
+      },
+      {
+        "id": "o5",
+        "text": "URL"
+      },
+      {
+        "id": "o6",
+        "text": "Author, if provided"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o5",
+      "o6"
+    ],
+    "instruction": "Choose 3 correct options."
+  },
+  {
+    "id": "q90",
+    "questionNumber": 96,
+    "questionText": "What is a computer virus?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Content that tricks you into revealing account codes and passwords by pretending to be legitimate"
+      },
+      {
+        "id": "o2",
+        "text": "A program that is designed to look harmless but allows unauthorized access to your computer"
+      },
+      {
+        "id": "o3",
+        "text": "A program that installs itself on your system without your knowledge and tracks your computer usage"
+      },
+      {
+        "id": "o4",
+        "text": "A program that can copy itself and spread to other computers"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q91",
+    "questionNumber": 97,
+    "questionText": "Which two technologies do websites use to track visitors' online browsing habits? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "GPS locations"
+      },
+      {
+        "id": "o2",
+        "text": "First-party cookies"
+      },
+      {
+        "id": "o3",
+        "text": "VPN tunneling"
+      },
+      {
+        "id": "o4",
+        "text": "In private/incognito browsing"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q92",
+    "questionNumber": 98,
+    "questionText": "For each statement about Creative Commons, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Allows creators to grant licenses to only specific people",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Helps facilitate the sharing and discovery of creative works on the web",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Provides tools that allow creators to dedicate their works to the public domain",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q93",
+    "questionNumber": 99,
+    "questionText": "Which three elements must you include in a citation that references a printed book? (Choose 3.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Access date"
+      },
+      {
+        "id": "o2",
+        "text": "Author name"
+      },
+      {
+        "id": "o3",
+        "text": "Publication date"
+      },
+      {
+        "id": "o4",
+        "text": "Book title"
+      },
+      {
+        "id": "o5",
+        "text": "Copyright status"
+      },
+      {
+        "id": "o6",
+        "text": "Trademark status"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3",
+      "o4"
+    ],
+    "instruction": "Choose 3 correct options."
+  },
+  {
+    "id": "q94",
+    "questionNumber": 100,
+    "questionText": "What is spyware?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A program that installs itself on your system without your knowledge and tracks your online habits"
+      },
+      {
+        "id": "o2",
+        "text": "A program that can copy itself and spread to other computers"
+      },
+      {
+        "id": "o3",
+        "text": "A program that is designed to look harmless but allows unauthorized access to your computer"
+      },
+      {
+        "id": "o4",
+        "text": "Content that tricks you into revealing account codes and passwords by pretending to be legitimate"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q95",
+    "questionNumber": 101,
+    "questionText": "What distinguishes generative AI from chatbots?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Generative AI and chatbots are terms used interchangeably to refer to the same technology"
+      },
+      {
+        "id": "o2",
+        "text": "Chatbots are designed for creating new content, while generative AI specializes in text-based interactions."
+      },
+      {
+        "id": "o3",
+        "text": "Both generative AI and chatbots excel at simulating conversations, but generative AI is restricted to pre-defined responses."
+      },
+      {
+        "id": "o4",
+        "text": "Generative AI focuses on generating creative content, while chatbots simulate human-like conversations."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q96",
+    "questionNumber": 102,
+    "questionText": "You are working on a research project. You locate a long online article that contains information related to your research topic. Which information can you locate on the webpage by using the browser's Find feature?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The number of times the article mentions a specific topic"
+      },
+      {
+        "id": "o2",
+        "text": "The answer to a specific question related to the article topic"
+      },
+      {
+        "id": "o3",
+        "text": "Related comments on social media sites"
+      },
+      {
+        "id": "o4",
+        "text": "A list of secondary topics related to your primary research topic"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "q97",
+    "questionNumber": 103,
+    "questionText": "For each statement, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "If you do not cite your sources, you are guilty of plagiarism.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Plagiarism is the unauthorized and uncredited use of another person's ideas and written work.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "You must cite your sources only when you use someone else's work exactly as it was originally created.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "In written work, you must cite the source of all quotations and ideas.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "q98",
+    "questionNumber": 104,
+    "questionText": "For each item, select Yes if it is a valid Google search filter option, and No if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "File type",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Language",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Dates",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Color",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "q99",
+    "questionNumber": 105,
+    "questionText": "You need to identify the standard features of the taskbar in a Windows operating system. For each statement, select Yes if you can perform the action from the taskbar or No if you can't.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Display network connection settings",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "Start the Task Manager",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Adjust the audio output volume",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Minimize all open programs to display the desktop",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q100",
+    "questionNumber": 106,
+    "questionText": "Maddie uses social media to stay in touch with friends and family. She is planning to go on vacation next month. What is the safest way for Maddie to protect herself from online predators when posting information about her vacation activities?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Checking in online when she goes places so her parents know where she is"
+      },
+      {
+        "id": "o2",
+        "text": "Setting her social media location map to 'public'"
+      },
+      {
+        "id": "o3",
+        "text": "Waiting until she returns home to post vacation photos"
+      },
+      {
+        "id": "o4",
+        "text": "Posting her vacation plans before she leaves so her friends know she is out of town"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "q101",
+    "questionNumber": 107,
+    "questionText": "You are researching information in a long document. For each statement, select Yes if you can use the Find feature to complete the task, or No if you cannot.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Change the format of all citations in your document",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Identify pages that include references by a specific author",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "Locate a keyword or phrase within the document",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "q102",
+    "questionNumber": 108,
+    "questionText": "Online messaging apps simplify the process of communicating with other people. For each statement, select True or False.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Emojis are a constantly changing concept that may not universally reflect sources of study",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Communication through emojis reproduces social constructs such as stereotypes, prejudices, and limitations",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "People who use smart-messaging share the same beliefs and practices whether they are next door or in another country",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "q103",
+    "questionNumber": 109,
+    "questionText": "Move each data storage device from the list on the left to the correct definition on the right.",
+    "topic": "Report",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "An internal data storage device that stores and retrieves data using flash memory",
+        "right": "Solid-state drive"
+      },
+      {
+        "left": "A compact, lightweight external data storage device that uses flash memory",
+        "right": "USB flash drive"
+      },
+      {
+        "left": "An external data storage device powered through the USB port of the computer",
+        "right": "Portable hard drive"
+      },
+      {
+        "left": "An internal electromechanical data storage device that stores and retrieves data using a rapidly rotating platter",
+        "right": "Hard disk drive"
+      }
+    ]
+  },
+  {
+    "id": "q104",
+    "questionNumber": 110,
+    "questionText": "You are conducting online research. You need to refine your search to return results that are more relevant to your research subject. Which two techniques should you use? (Choose 2.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Search for generic terms"
+      },
+      {
+        "id": "o2",
+        "text": "Capitalize important term"
+      },
+      {
+        "id": "o3",
+        "text": "Enclose multi-word search terms in quotation marks"
+      },
+      {
+        "id": "o4",
+        "text": "Search for root words and exclude suffixes"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ],
+    "instruction": "Choose 2 correct options."
+  },
+  {
+    "id": "q105",
+    "questionNumber": 111,
+    "questionText": "What mental health issue can excessive social media use potentially lead to?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Heightened feelings of happiness"
+      },
+      {
+        "id": "o2",
+        "text": "Enhanced emotional resilience"
+      },
+      {
+        "id": "o3",
+        "text": "Improved social connections"
+      },
+      {
+        "id": "o4",
+        "text": "Increased risk of mood swings"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q106",
+    "questionNumber": 112,
+    "questionText": "You need to download a file to use on your Windows computer. Which file extension will work directly on your computer?",
+    "topic": "Report",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": ".pkg"
+      },
+      {
+        "id": "o2",
+        "text": ".deb"
+      },
+      {
+        "id": "o3",
+        "text": ".dmg"
+      },
+      {
+        "id": "o4",
+        "text": ".exe"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "q107",
+    "questionNumber": 113,
+    "questionText": "You need to ensure the security of your passwords. Which three guidelines should you follow? (Choose 3.)",
+    "topic": "Report",
+    "type": "multi",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use words that can be found in the dictionary of a language other than your primary language."
+      },
+      {
+        "id": "o2",
+        "text": "Use a different password for each account."
+      },
+      {
+        "id": "o3",
+        "text": "Use complex passwords and record them in a notebook that you keep with you at all times."
+      },
+      {
+        "id": "o4",
+        "text": "Use the longest password or passphrase permissible by each password system."
+      },
+      {
+        "id": "o5",
+        "text": "Use multi-factor authentication when available."
+      },
+      {
+        "id": "o6",
+        "text": "Use passwords that are based on private personal information."
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4",
+      "o5"
+    ],
+    "instruction": "Choose 3 correct options."
+  },
+  {
+    "id": "q108",
+    "questionNumber": 114,
+    "questionText": "You are working on a research project and need to verify that an information source is in the public domain. For each statement, select True if it is a reason a copyrighted work may become part of the public domain and False if it is not.",
+    "topic": "Report",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The copyright owner did not follow the copyright renewal process",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "The copyright owner has chosen to place the work in the public domain",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "The copyright has expired",
+        "correctAnswer": "True"
+      }
+    ]
+  }
+]
