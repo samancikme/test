@@ -10,7 +10,7 @@ import { useTheme } from './hooks/useTheme';
 const availableTests = [
     { id: 'level-1', title: 'Level 1 (80 So\'raw)', data: level1Questions },
     { id: 'level-2', title: 'Level 2 (1-127 So\'raw)', data: level2Questions },
-    { id: 'level-3', title: 'Level 3 (121 So\'raw)', data: level3Questions },
+    { id: 'level-3', title: 'Level 3 (122 So\'raw)', data: level3Questions },
 ];
 
 function MainApp() {
