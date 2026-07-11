@@ -1,0 +1,2235 @@
+[
+  {
+    "id": "l3n-q1",
+    "questionNumber": 1,
+    "questionText": "You are in a virtual meeting with some of your classmates while working on a project. Everyone is having a hard time deciding on the project goals and responsibilities for the team. Which two behaviors promote mutual understanding in this conversation? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Ask open-ended questions for teammates to answer"
+      },
+      {
+        "id": "o2",
+        "text": "Email your teacher to ask for different teammates"
+      },
+      {
+        "id": "o3",
+        "text": "Paraphrase the ideas you have heard so far"
+      },
+      {
+        "id": "o4",
+        "text": "Decide you should meet again at a later time"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q2",
+    "questionNumber": 2,
+    "questionText": "For each of the three statements about quotation marks in search queries, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Quotation marks broaden search results.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Quotation marks ensure exact phrase matching.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Quotation marks reduce irrelevant results.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q3",
+    "questionNumber": 3,
+    "questionText": "For each of the four statements about protecting someone else's personally identifiable information (PII), select Yes if the action protects PII or No if it does not",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Posting a friend's email address in a public forum",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Sharing a coworker's phone number in a private message without asking",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "Tagging a friend in a location post without telling them",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s4",
+        "text": "Asking for permission before sharing a friend's photo on social media",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q4",
+    "questionNumber": 4,
+    "questionText": "For each of three statements about video editing, select True or False",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Increasing file size always improves quality.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Adding captions improves accessibility.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Removing background noise enhances audio clarity.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q5",
+    "questionNumber": 5,
+    "questionText": "Move each hardware resource from the list on the left to what it provides on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "RAM size and speed",
+        "right": "Memory amount"
+      },
+      {
+        "left": "Wattage supplied to the computer",
+        "right": "Power needs"
+      },
+      {
+        "left": "How the GPU renders images",
+        "right": "Graphics power"
+      },
+      {
+        "left": "CPU speed and number of cores",
+        "right": "Processing speed"
+      },
+      {
+        "left": "Disk space and speed",
+        "right": "Storage type"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q6",
+    "questionNumber": 6,
+    "questionText": "For each of the three statements about resolving issues collaboratively, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Listening to all team members' input helps identify the root cause.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Documenting agreed-upon solutions supports accountability.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Holding individuals accountable by identifying errors publicly improves collaboration.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q7",
+    "questionNumber": 7,
+    "questionText": "Your school requires multifactor login. Which login process fulfills this requirement?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A student logs in with a password. Then they answer security questions"
+      },
+      {
+        "id": "o2",
+        "text": "A student logs in with a password. Then they answer security questions"
+      },
+      {
+        "id": "o3",
+        "text": "A student logs in with a password. Then they type in a code from an app on their phone"
+      },
+      {
+        "id": "o4",
+        "text": "A student uses a hard password with at least three types of letters, numbers, and symbols"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3n-q8",
+    "questionNumber": 8,
+    "questionText": "Which option is an example of workplace privacy best practice?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Which option is an example of workplace privacy best practice?"
+      },
+      {
+        "id": "o2",
+        "text": "Encrypting files that contain customer data before sending them"
+      },
+      {
+        "id": "o3",
+        "text": "Leaving printed documents with client information on your desk overnight"
+      },
+      {
+        "id": "o4",
+        "text": "Using a coworker's login credentials to finish a task quickly"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l3n-q9",
+    "questionNumber": 9,
+    "questionText": "Move each file format from the list on the left to its typical use on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "High-quality audio format",
+        "right": "WAV"
+      },
+      {
+        "left": "Compressed video format",
+        "right": "MP4"
+      },
+      {
+        "left": "Compressed image format that permanently loses some image quality",
+        "right": "JPEG"
+      },
+      {
+        "left": "Image format supporting transparency",
+        "right": "PNG"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q10",
+    "questionNumber": 10,
+    "questionText": "Match each communication tool to its best use.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Task tracking",
+        "right": "Project management platform"
+      },
+      {
+        "left": "Face-to-face discussion",
+        "right": "Video call"
+      },
+      {
+        "left": "Real-time team updates",
+        "right": "Instant messaging"
+      },
+      {
+        "left": "Formal documentation",
+        "right": "Email"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q11",
+    "questionNumber": 11,
+    "questionText": "Complete the sentences by selecting the correct option from each drop-down list. Note: You will receive partial credit for each correct answer. (Choose 3)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "integration"
+      },
+      {
+        "id": "o2",
+        "text": "collaboration"
+      },
+      {
+        "id": "o3",
+        "text": "reporting"
+      },
+      {
+        "id": "o4",
+        "text": "messaging"
+      },
+      {
+        "id": "o5",
+        "text": "encryption"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q12",
+    "questionNumber": 12,
+    "questionText": "A client reports a confidentiality issue with a shared project file. Which two actions should you take first? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Forward the issue to the technical team without reviewing it"
+      },
+      {
+        "id": "o2",
+        "text": "Create a duplicate file and continue work in the new version"
+      },
+      {
+        "id": "o3",
+        "text": "Review the client's concern and confirm the details."
+      },
+      {
+        "id": "o4",
+        "text": "Temporarily restrict access to the file while you investigate"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q13",
+    "questionNumber": 13,
+    "questionText": "Move each search strategy from the list on the left to its scenario on the right",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Exclude irrelevant topics.",
+        "right": "Use NOT"
+      },
+      {
+        "left": "Narrow to a specific domain.",
+        "right": "Use site: operator"
+      },
+      {
+        "left": "Search for an exact phrase.",
+        "right": "Use quotation marks"
+      },
+      {
+        "left": "Broaden results to include alternatives.",
+        "right": "Use OR"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q14",
+    "questionNumber": 14,
+    "questionText": "You received a new laptop as a gift and are selling your old device. You need to make sure the device is ready to be sold before giving it to the new owner. Match each hardware transfer step with the risk it helps to reduce.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Unwanted access to accounts and personal data by new user",
+        "right": "Removing authentication credentials"
+      },
+      {
+        "left": "Unwanted device access using old fingerprints or face data",
+        "right": "Disabling biometric registration"
+      },
+      {
+        "left": "New user recovering your private files from storage",
+        "right": "Data wiping and secure deletion"
+      },
+      {
+        "left": "Losing important work or personal documents forever",
+        "right": "Backing up critical files before transfer"
+      },
+      {
+        "left": "Private files and passwords coming back to the device",
+        "right": "Clearing cloud account synchronization"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q15",
+    "questionNumber": 15,
+    "questionText": "For each of the three statements about internal team communication, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Confirming understanding increases conflict.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Discussing side topics enhances problem solving.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Documenting discussions allows for easier follow up on pending action items.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q16",
+    "questionNumber": 16,
+    "questionText": "For each of the three statements about chart selection, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "A pie chart is best for showing parts of a whole.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "A line chart is ideal for comparing categories at one point in time.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "A bar chart is useful for comparing values across categories.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q17",
+    "questionNumber": 17,
+    "questionText": "You are setting up a home office. For each of the four statements about a home office setup, select whether it is Ergonomic or Non-Ergonomic.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Ergonomic",
+        "text": "Ergonomic"
+      },
+      {
+        "id": "Non-Ergonomic",
+        "text": "Non-Ergonomic"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Monitor at eye level",
+        "correctAnswer": "Ergonomic"
+      },
+      {
+        "id": "s2",
+        "text": "A stool with adjustable seat positioning",
+        "correctAnswer": "Non-Ergonomic"
+      },
+      {
+        "id": "s3",
+        "text": "Screen tilted upward",
+        "correctAnswer": "Non-Ergonomic"
+      },
+      {
+        "id": "s4",
+        "text": "Keyboard positioned for neutral wrist alignment",
+        "correctAnswer": "Ergonomic"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q18",
+    "questionNumber": 18,
+    "questionText": "Which two actions demonstrate responsible handling of someone else's account information? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Writing down a coworker's password for convenience"
+      },
+      {
+        "id": "o2",
+        "text": "Using another person's account to complete a task"
+      },
+      {
+        "id": "o3",
+        "text": "Logging out after using a shared computer"
+      },
+      {
+        "id": "o4",
+        "text": "Refusing to share someone's login credentials with others"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q19",
+    "questionNumber": 19,
+    "questionText": "Move each behavior from the list on the left to its scenario on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "You adapt to a new project timeline without complaint.",
+        "right": "Flexibility"
+      },
+      {
+        "left": "You provide feedback that focuses on solutions.",
+        "right": "Constructive criticism"
+      },
+      {
+        "left": "You clarify unclear instructions before starting work.",
+        "right": "Proactive communication"
+      },
+      {
+        "left": "A teammate struggles with a task, and you offer help.",
+        "right": "Supportiveness"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q20",
+    "questionNumber": 20,
+    "questionText": "Move each troubleshooting action from the list on the left to its purpose on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Clear temporary files and reset hardware to fix short-term errors.",
+        "right": "Restart the device"
+      },
+      {
+        "left": "Record specific info about the problem to find patterns.",
+        "right": "Write down error messages"
+      },
+      {
+        "left": "Make sure the computer can communicate with the network and other devices.",
+        "right": "Check device connections"
+      },
+      {
+        "left": "Evaluate system records and events to find root causes and timing.",
+        "right": "Look at system logs"
+      },
+      {
+        "left": "Determine if recently installed apps are causing conflicts with system drivers.",
+        "right": "Turn off new software"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q21",
+    "questionNumber": 21,
+    "questionText": "Which characteristic most strongly suggests bias in a news article?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The article includes only one perspective and dismisses others"
+      },
+      {
+        "id": "o2",
+        "text": "The article uses neutral language and factual evidence"
+      },
+      {
+        "id": "o3",
+        "text": "The article presents multiple viewpoints on the issue"
+      },
+      {
+        "id": "o4",
+        "text": "The article cites data from government and academic sources"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "l3n-q22",
+    "questionNumber": 22,
+    "questionText": "A project team is behind schedule on a project that is essential for meeting the company's yearly goals. How can you contribute constructively?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Wait for the manager to assign new responsibilities"
+      },
+      {
+        "id": "o2",
+        "text": "Suggest canceling the project to avoid failure"
+      },
+      {
+        "id": "o3",
+        "text": "Tell your manager who is responsible for the project being behind schedule"
+      },
+      {
+        "id": "o4",
+        "text": "Offer to take on additional tasks or help prioritize work"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l3n-q23",
+    "questionNumber": 23,
+    "questionText": "Which two behaviors promote understanding of issues during a virtual meeting? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Take notes and confirm key points"
+      },
+      {
+        "id": "o2",
+        "text": "Avoid summarizing to save time"
+      },
+      {
+        "id": "o3",
+        "text": "Ask participants to clarify unclear statements"
+      },
+      {
+        "id": "o4",
+        "text": "Disable transcription"
+      },
+      {
+        "id": "o5",
+        "text": "Turn video off for all participants"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q24",
+    "questionNumber": 24,
+    "questionText": "Which visual design practice makes a bar chart easier to read and interpret?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Eliminating all gridlines"
+      },
+      {
+        "id": "o2",
+        "text": "Using a legend or key"
+      },
+      {
+        "id": "o3",
+        "text": "Adding gradient backgrounds"
+      },
+      {
+        "id": "o4",
+        "text": "Removing axis labels"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l3n-q25",
+    "questionNumber": 25,
+    "questionText": "Complete the sentences by selecting the correct option from each drop-down list. (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "recovering"
+      },
+      {
+        "id": "o2",
+        "text": "reusable"
+      },
+      {
+        "id": "o3",
+        "text": "hazardous"
+      },
+      {
+        "id": "o4",
+        "text": "eliminating"
+      },
+      {
+        "id": "o5",
+        "text": "incinerating"
+      },
+      {
+        "id": "o6",
+        "text": "valuable"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q26",
+    "questionNumber": 26,
+    "questionText": "For each of the three statements about assessing online information, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Cross-checking facts with multiple sources improves accuracy.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "A website with a professional design is guaranteed to be credible.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "A site with a clear author and date is more likely to be reliable.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q27",
+    "questionNumber": 27,
+    "questionText": "Which two actions reflect best practices for digital citizenship? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sharing unverified rumors to warn friends"
+      },
+      {
+        "id": "o2",
+        "text": "Keeping up with changes in online safety guidelines"
+      },
+      {
+        "id": "o3",
+        "text": "Reporting cyberbullying to a trusted authority"
+      },
+      {
+        "id": "o4",
+        "text": "Posting others' personal information to expose alleged wrongdoing"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q28",
+    "questionNumber": 28,
+    "questionText": "You are gathering system information to help you fix a problem with your computer. Which three types of data would help most when troubleshooting technical issues? (Choose 3.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Operating system version and available system updates"
+      },
+      {
+        "id": "o2",
+        "text": "Complete browsing history and website visit logs"
+      },
+      {
+        "id": "o3",
+        "text": "Network adapter type and current connection state"
+      },
+      {
+        "id": "o4",
+        "text": "Hardware details, including processor, memory, and storage size"
+      },
+      {
+        "id": "o5",
+        "text": "List of all the files stored in the user downloads folder"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q29",
+    "questionNumber": 29,
+    "questionText": "Match each scenario to the correct strategy",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Your team is confused about the project schedule.",
+        "right": "Use clear deadlines"
+      },
+      {
+        "left": "Your audience is unfamiliar with technical terms.",
+        "right": "Provide examples"
+      },
+      {
+        "left": "You need to encourage participation in a discussion.",
+        "right": "Ask open-ended questions"
+      },
+      {
+        "left": "You are communicating with a college admissions representative.",
+        "right": "Use formal tone"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q30",
+    "questionNumber": 30,
+    "questionText": "For each of the three statements about digital citizenship, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Keeping your digital knowledge current is unnecessary once you learn basic online safety.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "It is acceptable to share someone else's private information online if you believe you have a good reason.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Reporting illegal or harmful online activity to the appropriate authorities is a best practice for digital citizenship.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q31",
+    "questionNumber": 31,
+    "questionText": "Which two methods strengthen account security through multifactor authentication? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using a password and a fingerprint scan"
+      },
+      {
+        "id": "o2",
+        "text": "Using a password and a one-time code sent to a mobile device"
+      },
+      {
+        "id": "o3",
+        "text": "Using two different passwords for the same account"
+      },
+      {
+        "id": "o4",
+        "text": "Using a password and a security question"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "l3n-q32",
+    "questionNumber": 32,
+    "questionText": "Match each tool to the scenario in which you would use it",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "You need to generate a schedule and coordinate tasks for a small team.",
+        "right": "Project management software"
+      },
+      {
+        "left": "You need to interview someone in a different location for a project.",
+        "right": "Video conferencing"
+      },
+      {
+        "left": "You need to collaborate with your classmates on a research paper.",
+        "right": "Shared document editor"
+      },
+      {
+        "left": "You are in a meeting and need to answer a question for a coworker who is in a different meeting.",
+        "right": "Instant messaging"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q33",
+    "questionNumber": 33,
+    "questionText": "For each of the three statements about narrowing search results, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Using quotation marks narrows results.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Using OR between keywords narrows results.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Adding more keywords narrows results.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q34",
+    "questionNumber": 34,
+    "questionText": "Which two features of cloud storage help prevent data loss when multiple users edit the same file? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "File sharing permissions"
+      },
+      {
+        "id": "o2",
+        "text": "Version history"
+      },
+      {
+        "id": "o3",
+        "text": "File compression"
+      },
+      {
+        "id": "o4",
+        "text": "Encryption"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "l3n-q35",
+    "questionNumber": 35,
+    "questionText": "Your company has software version 4.7.2. An update to version 4.7.3 is now available. Which changes would you expect in this update?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Complete rewrite of the software"
+      },
+      {
+        "id": "o2",
+        "text": "Big new features and new design"
+      },
+      {
+        "id": "o3",
+        "text": "Bug fixes and small improvements"
+      },
+      {
+        "id": "o4",
+        "text": "Removal of old features"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3n-q36",
+    "questionNumber": 36,
+    "questionText": "Complete the sentences by selecting the correct option from each drop-down list. (Choose 3.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "security"
+      },
+      {
+        "id": "o2",
+        "text": "beta"
+      },
+      {
+        "id": "o3",
+        "text": "critical"
+      },
+      {
+        "id": "o4",
+        "text": "minor"
+      },
+      {
+        "id": "o5",
+        "text": "patch"
+      },
+      {
+        "id": "o6",
+        "text": "major"
+      }
+    ],
+    "correctAnswers": [
+      "o4",
+      "o5",
+      "o6"
+    ]
+  },
+  {
+    "id": "l3n-q37",
+    "questionNumber": 37,
+    "questionText": "Which two elements improve the effectiveness of a search query? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using capital letters for important words"
+      },
+      {
+        "id": "o2",
+        "text": "Adding quotation marks around phrases"
+      },
+      {
+        "id": "o3",
+        "text": "Including words like AND and OR"
+      },
+      {
+        "id": "o4",
+        "text": "Adding extra punctuation for emphasis"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q38",
+    "questionNumber": 38,
+    "questionText": "For each of the four statements about maintaining someone else's privacy online, select Yes if the action maintains privacy or No if it does not",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Sharing your location and tagging the friends you are with",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Posting your friend's address for an online party invitation",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "Asking friends before tagging them in a photo",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Sharing a friend's birthday publicly without asking",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q39",
+    "questionNumber": 39,
+    "questionText": "You are trying to share a video on a social networking platform. You receive an error that the file is too large. Which action ensures that your video file can be shared quickly without losing quality?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Converting the file to an encrypted format"
+      },
+      {
+        "id": "o2",
+        "text": "Converting the file to a compressed format"
+      },
+      {
+        "id": "o3",
+        "text": "Changing the file extension to a smaller format"
+      },
+      {
+        "id": "o4",
+        "text": "Splitting the file into multiple parts manually"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l3n-q40",
+    "questionNumber": 40,
+    "questionText": "You are working on a shared document and notice conflicting edits from a teammate. Which two actions should you take to resolve the issue? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Create a separate copy of the document and continue working alone"
+      },
+      {
+        "id": "o2",
+        "text": "Revert the document to an earlier version without notifying anyone"
+      },
+      {
+        "id": "o3",
+        "text": "Contact the teammate to understand their changes before finalizing"
+      },
+      {
+        "id": "o4",
+        "text": "Add a comment explaining your changes and request feedback"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q41",
+    "questionNumber": 41,
+    "questionText": "For each of the three statements about managing interpersonal digital communication, select True or False",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Using clear subject lines improves message clarity.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Adjusting tone based on audience is important.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Responding with one-word answers promotes engagement.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q42",
+    "questionNumber": 42,
+    "questionText": "For each of the three statements about secure computing, select True or False",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Using a password plus multi-factor authentication is safer than using a hard password with special symbols.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Using many antivirus programs on one device is recommended because one program might catch threats another program misses.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "A factory reset is the safest way to protect your private data before giving your phone to someone else.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q43",
+    "questionNumber": 43,
+    "questionText": "Which two features help screen reader users understand page content? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using bold text for section titles"
+      },
+      {
+        "id": "o2",
+        "text": "Adding decorative images"
+      },
+      {
+        "id": "o3",
+        "text": "Using alt text for images"
+      },
+      {
+        "id": "o4",
+        "text": "Creating a clear heading structure"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q44",
+    "questionNumber": 44,
+    "questionText": "Move each versioning term from the list on the left to its description on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Fixes bugs and security problems",
+        "right": "Patch version"
+      },
+      {
+        "left": "Adds new features but still works with old files",
+        "right": "Minor version"
+      },
+      {
+        "left": "Test version before the final release",
+        "right": "Release candidate"
+      },
+      {
+        "left": "Big changes that may not work with old files or adds major features",
+        "right": "Major version"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q45",
+    "questionNumber": 45,
+    "questionText": "What is the most appropriate action if you accidentally receive an email containing someone else's personal information?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Post about the mistake on social media to raise awareness"
+      },
+      {
+        "id": "o2",
+        "text": "Reply to the sender to ask what to do with the personal information"
+      },
+      {
+        "id": "o3",
+        "text": "Forward it to your friends to warn them"
+      },
+      {
+        "id": "o4",
+        "text": "Notify the sender and follow your organization's privacy policy"
+      },
+      {
+        "id": "o5",
+        "text": "Reply to the sender to explain that they shouldn't send personal information"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l3n-q46",
+    "questionNumber": 46,
+    "questionText": "You are a high school student who has been spending long hours on a laptop completing assignments and playing games. Recently, you started experiencing wrist pain and shoulder discomfort. Which action is the most effective way to reduce the physical risks associated with this situation?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use an external keyboard and mouse with an adjustable chair and desk"
+      },
+      {
+        "id": "o2",
+        "text": "Use noise-canceling headphones to improve focus and reduce fatigue"
+      },
+      {
+        "id": "o3",
+        "text": "Switch to a laptop with a higher screen resolution for better image quality"
+      },
+      {
+        "id": "o4",
+        "text": "Wear blue-light filtering glasses during all computer sessions"
+      },
+      {
+        "id": "o5",
+        "text": "Move your laptop to the bedroom so you can lie down while you work"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "l3n-q47",
+    "questionNumber": 47,
+    "questionText": "Which two practices are appropriate when interacting with external clients to understand issues? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Keep the conversation brief to respect the client's time"
+      },
+      {
+        "id": "o2",
+        "text": "Use clear and professional language"
+      },
+      {
+        "id": "o3",
+        "text": "Ask open-ended questions to gather information"
+      },
+      {
+        "id": "o4",
+        "text": "Share confidential internal details to build trust"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q48",
+    "questionNumber": 48,
+    "questionText": "Move each evaluation step from the list on the left to its goal on the right",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Determine the type of organization associated with the site",
+        "right": "Review the site's domain"
+      },
+      {
+        "left": "Confirm expertise of the source",
+        "right": "Check author credentials"
+      },
+      {
+        "left": "Ensure the information is current",
+        "right": "Verify publication date"
+      },
+      {
+        "left": "Validate accuracy through cross-checking",
+        "right": "Compare with other sources"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q49",
+    "questionNumber": 49,
+    "questionText": "Move each principle from the list on the left to its action on the right",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "You take the lead when solving a problem.",
+        "right": "Initiative"
+      },
+      {
+        "left": "Each person contributes their expertise to a project with a tight deadline",
+        "right": "Collaboration"
+      },
+      {
+        "left": "You meet deadlines for your assigned tasks.",
+        "right": "Accountability"
+      },
+      {
+        "left": "You listen without interrupting when teammates are sharing ideas.",
+        "right": "Respectful communication"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q50",
+    "questionNumber": 50,
+    "questionText": "Which action demonstrates responsible digital citizenship?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Posting personal details of others without consent"
+      },
+      {
+        "id": "o2",
+        "text": "Ignoring suspicious online activity to avoid involvement"
+      },
+      {
+        "id": "o3",
+        "text": "Reporting harmful online behavior to the appropriate authority"
+      },
+      {
+        "id": "o4",
+        "text": "Sharing unverified news articles to raise awareness"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3n-q51",
+    "questionNumber": 51,
+    "questionText": "You have been asked to update the software on your friend's older computer. Before doing so, you need to make sure the old hardware can run the new software. Move each compatibility check step from the list on the left to its step in order on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Step 1",
+        "right": "Check key system specs against what the software needs at a minimum"
+      },
+      {
+        "left": "Step 2",
+        "right": "Find hardware parts that slow down performance"
+      },
+      {
+        "left": "Step 3",
+        "right": "Decide which devices must be upgraded and which can stay"
+      },
+      {
+        "left": "Step 4",
+        "right": "Estimate the budget and make a plan for upgrades over time"
+      },
+      {
+        "left": "Step 5",
+        "right": "Plan to test the system and train users on the new software"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q52",
+    "questionNumber": 52,
+    "questionText": "Which factor indicates that an online article is credible",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The article uses persuasive language and emotional appeals"
+      },
+      {
+        "id": "o2",
+        "text": "The article has a recent publication date and cites reputable sources"
+      },
+      {
+        "id": "o3",
+        "text": "The article includes multiple advertisements and pop-ups"
+      },
+      {
+        "id": "o4",
+        "text": "The article appears on a popular social media platform"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l3n-q53",
+    "questionNumber": 53,
+    "questionText": "You are working on a project with a tight deadline, and one member of the team is proposing that you change the review process to include more stakeholders. The proposed idea will be time consuming and not the best use of the time you have on the project. Which option is an example of constructive feedback you can give to the team member?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "I like your ideas, but I worry they'll push us past our schedule. Can we choose one or two key stakeholders instead?"
+      },
+      {
+        "id": "o2",
+        "text": "Your idea won't work; half of the stakeholders won't respond. I have worked with them before and I know them."
+      },
+      {
+        "id": "o3",
+        "text": "We don't have time for new ideas right now. This project is already close to failing."
+      },
+      {
+        "id": "o4",
+        "text": "That's not how we usually do things. Stakeholders don't like it when we change things"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "l3n-q54",
+    "questionNumber": 54,
+    "questionText": "Move each accessibility principle from the list on the left to its example on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Images have alt text.",
+        "right": "Perceivable"
+      },
+      {
+        "left": "Keyboard navigation is available.",
+        "right": "Operable"
+      },
+      {
+        "left": "Content works with assistive technology.",
+        "right": "Robust"
+      },
+      {
+        "left": "Clear and simple language is used.",
+        "right": "Understandable"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q55",
+    "questionNumber": 55,
+    "questionText": "Which legal term refers to the protection of original works such as books, music, and software from unlimited use?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Trademark"
+      },
+      {
+        "id": "o2",
+        "text": "Patent"
+      },
+      {
+        "id": "o3",
+        "text": "Fair use"
+      },
+      {
+        "id": "o4",
+        "text": "Copyright"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l3n-q56",
+    "questionNumber": 56,
+    "questionText": "Complete the sentences by selecting the correct option from each drop-down list. (Choose 3.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "cache"
+      },
+      {
+        "id": "o2",
+        "text": "GPU"
+      },
+      {
+        "id": "o3",
+        "text": "monitor"
+      },
+      {
+        "id": "o4",
+        "text": "RAM"
+      },
+      {
+        "id": "o5",
+        "text": "hard drive"
+      },
+      {
+        "id": "o6",
+        "text": "power supply"
+      },
+      {
+        "id": "o7",
+        "text": "webcam"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q57",
+    "questionNumber": 57,
+    "questionText": "For each of the three statements about digital citizenship, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Using strong passwords is part of maintaining good digital citizenship.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Ignoring harmful online behavior is considered responsible digital citizenship.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Digital citizenship includes respecting others' rights and privacy online.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q58",
+    "questionNumber": 58,
+    "questionText": "Move each protection method from the list on the left to its purpose on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Deters unauthorized image use.",
+        "right": "Watermark"
+      },
+      {
+        "left": "Protects confidential business information.",
+        "right": "Non-disclosure agreement (NDA)"
+      },
+      {
+        "left": "Secures digital files from unauthorized access.",
+        "right": "Encryption"
+      },
+      {
+        "left": "Asserts ownership of creative work.",
+        "right": "Copyright notice"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q59",
+    "questionNumber": 59,
+    "questionText": "You are troubleshooting a computer issue. Move each specification from the list on the left to the problem it helps diagnose on the right",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Are conflicts between apps or outdated drivers causing crashes?",
+        "right": "Installed software and other driver versions"
+      },
+      {
+        "left": "Does the device have enough resources to run apps smoothly?",
+        "right": "Processor and RAM details"
+      },
+      {
+        "left": "Is slow performance being caused by not enough disk space?",
+        "right": "Storage size and free space"
+      },
+      {
+        "left": "Do software needs match the installed system version?",
+        "right": "Operating system version and updates"
+      },
+      {
+        "left": "Are there internet connection problems and slow data speeds?",
+        "right": "Network adapter and connection type"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q60",
+    "questionNumber": 60,
+    "questionText": "A worker needs to make sure that the same web browser always opens HTML files and web links. What is the best way to do this?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Pick the browser each time a link opens"
+      },
+      {
+        "id": "o2",
+        "text": "Go to system settings to set default programs"
+      },
+      {
+        "id": "o3",
+        "text": "Make desktop shortcuts for each HTML file"
+      },
+      {
+        "id": "o4",
+        "text": "Reinstall the browser with admin rights"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l3n-q61",
+    "questionNumber": 61,
+    "questionText": "Which activity is part of refining a prototype in a cyclical design process?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Approving the final product for release"
+      },
+      {
+        "id": "o2",
+        "text": "Gathering initial requirements"
+      },
+      {
+        "id": "o3",
+        "text": "Setting the project budget"
+      },
+      {
+        "id": "o4",
+        "text": "Adjusting design based on user feedback"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l3n-q62",
+    "questionNumber": 62,
+    "questionText": "Move each version number update from the list on the left to its description on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Version that lets you try out new features before everyone gets it",
+        "right": "3.9 to 4.0 Beta"
+      },
+      {
+        "left": "Big redesign that may change the way you work with the program",
+        "right": "2.0 to 3.0"
+      },
+      {
+        "left": "Important repairs and security fixes with no new features",
+        "right": "1.8.2 to 1.8.3"
+      },
+      {
+        "left": "Small improvements and new optional features while other features stay the same",
+        "right": "3.0 to 3.1"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q63",
+    "questionNumber": 63,
+    "questionText": "Which two actions occur during the initial phase of a cyclical design process? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Approving the product for release"
+      },
+      {
+        "id": "o2",
+        "text": "Identifying requirements"
+      },
+      {
+        "id": "o3",
+        "text": "Testing prototypes with users"
+      },
+      {
+        "id": "o4",
+        "text": "Considering design constraints"
+      },
+      {
+        "id": "o5",
+        "text": "Creating a prototype"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q64",
+    "questionNumber": 64,
+    "questionText": "For each of the three statements about accessibility, select whether it is Accurate or Inaccurate.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Accurate",
+        "text": "Accurate"
+      },
+      {
+        "id": "Inaccurate",
+        "text": "Inaccurate"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Captions improve accessibility for visual impairments.",
+        "correctAnswer": "Inaccurate"
+      },
+      {
+        "id": "s2",
+        "text": "High-contrast colors improve readability.",
+        "correctAnswer": "Accurate"
+      },
+      {
+        "id": "s3",
+        "text": "Alt text helps users with visual impairments.",
+        "correctAnswer": "Accurate"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q65",
+    "questionNumber": 65,
+    "questionText": "Complete the sentences by selecting the correct option from each drop-down list. (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "data import"
+      },
+      {
+        "id": "o2",
+        "text": "notification systems"
+      },
+      {
+        "id": "o3",
+        "text": "file menus"
+      },
+      {
+        "id": "o4",
+        "text": "search"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3n-q66",
+    "questionNumber": 66,
+    "questionText": "For each of the three statements about flowcharts select whether it is Accurate or Inaccurate.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Accurate",
+        "text": "Accurate"
+      },
+      {
+        "id": "Inaccurate",
+        "text": "Inaccurate"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Arrows indicate the sequence of steps in flowcharts.",
+        "correctAnswer": "Accurate"
+      },
+      {
+        "id": "s2",
+        "text": "Flowcharts are most efficient for visually representing complex data.",
+        "correctAnswer": "Inaccurate"
+      },
+      {
+        "id": "s3",
+        "text": "Intentionally chosen shapes can improve readability.",
+        "correctAnswer": "Accurate"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q67",
+    "questionNumber": 67,
+    "questionText": "Which visualization is used for illustrating the sequence of steps in a process?",
+    "topic": "Level 3 (New)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Histogram"
+      },
+      {
+        "id": "o2",
+        "text": "Column chart"
+      },
+      {
+        "id": "o3",
+        "text": "Pie chart"
+      },
+      {
+        "id": "o4",
+        "text": "Flowchart"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l3n-q68",
+    "questionNumber": 68,
+    "questionText": "For each of the three statements about cloud versioning, select True or False",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Version history allows restoring previous file content.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Version history is useful for collaborative editing.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Version history prevents any accidental deletions.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q69",
+    "questionNumber": 69,
+    "questionText": "Which two practices help maintain version control in cloud storage? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Saving files locally"
+      },
+      {
+        "id": "o2",
+        "text": "Enabling automatic version history"
+      },
+      {
+        "id": "o3",
+        "text": "Using real-time collaboration tools"
+      },
+      {
+        "id": "o4",
+        "text": "Renaming files with each edit"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q70",
+    "questionNumber": 70,
+    "questionText": "For each of the three statements about accessibility best practices, select True or False.",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Using bold text for section titles provides the same navigation benefits as using headings.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Alt text for images helps screen readers describe visual content.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Marking every image as decorative improves accessibility.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q71",
+    "questionNumber": 71,
+    "questionText": "Which two actions make digital documents more accessible? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Including descriptive hyperlinks"
+      },
+      {
+        "id": "o2",
+        "text": "Inserting images without alternative text"
+      },
+      {
+        "id": "o3",
+        "text": "Adding captions to videos"
+      },
+      {
+        "id": "o4",
+        "text": "Using decorative fonts for emphasis"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3n-q72",
+    "questionNumber": 72,
+    "questionText": "Move each term from the list on the left to the protection it provides on the right.",
+    "topic": "Level 3 (New)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Protects inventions and processes.",
+        "right": "Patent"
+      },
+      {
+        "left": "Protects brand names and logos.",
+        "right": "Trademark"
+      },
+      {
+        "left": "Protects original creative works.",
+        "right": "Copyright"
+      },
+      {
+        "left": "Allows limited applications under certain conditions.",
+        "right": "Fair use"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q73",
+    "questionNumber": 73,
+    "questionText": "For each of the three statements about copyright, select True or False",
+    "topic": "Level 3 (New)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Copyright protection lasts for only one year after creation.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Copyright applies only if the work is registered with a government office.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Copyright protects original creative works such as text, music, and images.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3n-q74",
+    "questionNumber": 74,
+    "questionText": "Which two activities are part of prototype refinement? (Choose 2.)",
+    "topic": "Level 3 (New)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Collecting user feedback"
+      },
+      {
+        "id": "o2",
+        "text": "Defining requirements"
+      },
+      {
+        "id": "o3",
+        "text": "Adjusting design based on testing"
+      },
+      {
+        "id": "o4",
+        "text": "Finalizing product for release"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  }
+]
