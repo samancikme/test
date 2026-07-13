@@ -1,0 +1,260 @@
+[
+  {
+    "id": "l3e-q1",
+    "questionNumber": 1,
+    "questionText": "For each of the four statements about the presence of bias within information sources, evaluate whether it is True or False:",
+    "topic": "Level 3 (Extra)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Statements from official, verified accounts on social media are trustworthy and without bias.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "The tone of an information source is important as it can lead to an outsized sense of imminence or impact.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "The policies and views of publishers and media owners should be reported in a transparent and ethical way.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "An eyewitness account of a news event is more likely to be credible than a source who must rely on others to provide information.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l3e-q2",
+    "questionNumber": 2,
+    "questionText": "After meeting with a client, the client told your teacher that your team needs to improve its communication skills. Which two actions should you take to improve your communication skills? (Choose 2.)",
+    "topic": "Level 3 (Extra)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Continue the same approach so your team can improve with practice"
+      },
+      {
+        "id": "o2",
+        "text": "Individually text the client to apologize for your poor communication"
+      },
+      {
+        "id": "o3",
+        "text": "Have another team member take over the communication at the next meeting."
+      },
+      {
+        "id": "o4",
+        "text": "Ask your teacher for feedback on which communication skills you need to improve"
+      },
+      {
+        "id": "o5",
+        "text": "When talking with the client, speak in a positive, respectful tone"
+      }
+    ],
+    "correctAnswers": [
+      "o4",
+      "o5"
+    ]
+  },
+  {
+    "id": "l3e-q3",
+    "questionNumber": 3,
+    "questionText": "Your group members need to be informed of a change in plans for the next meeting. Which response is the most efficient choice?",
+    "topic": "Level 3 (Extra)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Post the change to your social media account."
+      },
+      {
+        "id": "o2",
+        "text": "Call them each individually"
+      },
+      {
+        "id": "o3",
+        "text": "Send an email to your instructor"
+      },
+      {
+        "id": "o4",
+        "text": "Send an email to the group about the change"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l3e-q4",
+    "questionNumber": 4,
+    "questionText": "Match each step in the media creation process with its description",
+    "topic": "Level 3 (Extra)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Pre-production",
+        "right": "Scripting, storyboarding, and location scouting"
+      },
+      {
+        "left": "Production",
+        "right": "Capturing and recording video and audio"
+      },
+      {
+        "left": "Post-production",
+        "right": "Editing, applying effects, and adding captions"
+      },
+      {
+        "left": "Distribution",
+        "right": "Uploading media to the desired platform"
+      }
+    ]
+  },
+  {
+    "id": "l3e-q5",
+    "questionNumber": 5,
+    "questionText": "A classmate is asking for assistance editing a document to help improve readability when posted online. Which two options are the best ways to achieve that? (Choose 2.)",
+    "topic": "Level 3 (Extra)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Encourage them to minimize the use of excessive punctuation and sentences that span multiple lines"
+      },
+      {
+        "id": "o2",
+        "text": "Have them check the text against the grade level it reads at to ensure alignment of message and audience"
+      },
+      {
+        "id": "o3",
+        "text": "Ensure that there is limited contrast between the type and the background to ensure readability on all types of screens."
+      },
+      {
+        "id": "o4",
+        "text": "Remind them to add accessibility features, like closed captions"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "l3e-q6",
+    "questionNumber": 6,
+    "questionText": "Your teacher has assigned a group project. Part of the grade includes evaluation of each team member's positive contributions. Select the three statements that best demonstrate your ability to contribute productively to a group. (Choose 3.)",
+    "topic": "Level 3 (Extra)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Agree with your teacher's recommendations on the division for the project's scope"
+      },
+      {
+        "id": "o2",
+        "text": "Agree to a set of norms concerning the online group conversation"
+      },
+      {
+        "id": "o3",
+        "text": "Save discussion of deliverable format until a later meeting"
+      },
+      {
+        "id": "o4",
+        "text": "Set a series of deadlines throughout the project to keep all members accountable"
+      },
+      {
+        "id": "o5",
+        "text": "Do extra work to compensate for group members who are not doing their share"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3e-q7",
+    "questionNumber": 7,
+    "questionText": "You see that a classmate has posted content on social media that seems concerning and out of character. For each of the four proposed courses of action, mark True if it is something you should do, or False if it is not an appropriate course of action:",
+    "topic": "Level 3 (Extra)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Respond in the comments of the post with questions about their mental state.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Report the content to have it removed, saving your classmate embarrassment and consequences.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Take screenshots of the content to show to a trusted adult so they can offer additional support(s).",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Assume that they are posting impulsively and ignore the post.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l3e-q8",
+    "questionNumber": 8,
+    "questionText": "Which two actions describe ways to protect individual and corporate intellectual property? (Choose 2.)",
+    "topic": "Level 3 (Extra)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Create a digital portfolio that is accessible to everyone on the internet"
+      },
+      {
+        "id": "o2",
+        "text": "Put a disclaimer in all your posts stating that all content is your intellectual property"
+      },
+      {
+        "id": "o3",
+        "text": "Place a watermark over all publicly shared content"
+      },
+      {
+        "id": "o4",
+        "text": "Create a Creative Commons license, allowing others to use your work with attribution"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  }
+]

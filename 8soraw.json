@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "savol": "For each of the four statements about the presence of bias within information sources, evaluate whether it is True or False:",
+        "variantlar": [
+            "Statements from official, verified accounts on social media are trustworthy and without bias.",
+            "The tone of an information source is important as it can lead to an outsized sense of imminence or impact.",
+            "The policies and views of publishers and media owners should be reported in a transparent and ethical way.",
+            "An eyewitness account of a news event is more likely to be credible than a source who must rely on others to provide information."
+        ],
+        "javob": {
+            "Statements from official, verified accounts on social media are trustworthy and without bias.": "False",
+            "The tone of an information source is important as it can lead to an outsized sense of imminence or impact.": "True",
+            "The policies and views of publishers and media owners should be reported in a transparent and ethical way.": "True",
+            "An eyewitness account of a news event is more likely to be credible than a source who must rely on others to provide information.": "True"
+        }
+    },
+    {
+        "id": 2,
+        "savol": "After meeting with a client, the client told your teacher that your team needs to improve its communication skills. Which two actions should you take to improve your communication skills? (Choose 2.)",
+        "variantlar": {
+            "A": "Continue the same approach so your team can improve with practice",
+            "B": "Individually text the client to apologize for your poor communication",
+            "C": "Have another team member take over the communication at the next meeting.",
+            "D": "Ask your teacher for feedback on which communication skills you need to improve",
+            "E": "When talking with the client, speak in a positive, respectful tone"
+        },
+        "javob": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "id": 3,
+        "savol": "Your group members need to be informed of a change in plans for the next meeting. Which response is the most efficient choice?",
+        "variantlar": {
+            "A": "Post the change to your social media account.",
+            "B": "Call them each individually",
+            "C": "Send an email to your instructor",
+            "D": "Send an email to the group about the change"
+        },
+        "javob": "D"
+    },
+    {
+        "id": 4,
+        "savol": "Match each step in the media creation process with its description",
+        "variantlar": [
+            "Pre-production",
+            "Production",
+            "Post-production",
+            "Distribution"
+        ],
+        "javob": {
+            "Pre-production": "Scripting, storyboarding, and location scouting",
+            "Production": "Capturing and recording video and audio",
+            "Post-production": "Editing, applying effects, and adding captions",
+            "Distribution": "Uploading media to the desired platform"
+        }
+    },
+    {
+        "id": 5,
+        "savol": "A classmate is asking for assistance editing a document to help improve readability when posted online. Which two options are the best ways to achieve that? (Choose 2.)",
+        "variantlar": {
+            "A": "Encourage them to minimize the use of excessive punctuation and sentences that span multiple lines",
+            "B": "Have them check the text against the grade level it reads at to ensure alignment of message and audience",
+            "C": "Ensure that there is limited contrast between the type and the background to ensure readability on all types of screens.",
+            "D": "Remind them to add accessibility features, like closed captions"
+        },
+        "javob": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 6,
+        "savol": "Your teacher has assigned a group project. Part of the grade includes evaluation of each team member's positive contributions. Select the three statements that best demonstrate your ability to contribute productively to a group. (Choose 3.)",
+        "variantlar": {
+            "A": "Agree with your teacher's recommendations on the division for the project's scope",
+            "B": "Agree to a set of norms concerning the online group conversation",
+            "C": "Save discussion of deliverable format until a later meeting",
+            "D": "Set a series of deadlines throughout the project to keep all members accountable",
+            "E": "Do extra work to compensate for group members who are not doing their share"
+        },
+        "javob": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 7,
+        "savol": "You see that a classmate has posted content on social media that seems concerning and out of character. For each of the four proposed courses of action, mark True if it is something you should do, or False if it is not an appropriate course of action:",
+        "variantlar": [
+            "Respond in the comments of the post with questions about their mental state.",
+            "Report the content to have it removed, saving your classmate embarrassment and consequences.",
+            "Take screenshots of the content to show to a trusted adult so they can offer additional support(s).",
+            "Assume that they are posting impulsively and ignore the post."
+        ],
+        "javob": {
+            "Respond in the comments of the post with questions about their mental state.": "False",
+            "Report the content to have it removed, saving your classmate embarrassment and consequences.": "False",
+            "Take screenshots of the content to show to a trusted adult so they can offer additional support(s).": "True",
+            "Assume that they are posting impulsively and ignore the post.": "False"
+        }
+    },
+    {
+        "id": 8,
+        "savol": "Which two actions describe ways to protect individual and corporate intellectual property? (Choose 2.)",
+        "variantlar": {
+            "A": "Create a digital portfolio that is accessible to everyone on the internet",
+            "B": "Put a disclaimer in all your posts stating that all content is your intellectual property",
+            "C": "Place a watermark over all publicly shared content",
+            "D": "Create a Creative Commons license, allowing others to use your work with attribution"
+        },
+        "javob": [
+            "C",
+            "D"
+        ]
+    }
+]

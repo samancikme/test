@@ -6,6 +6,7 @@ import level2Questions from './data/Level_2_1_127.json';
 import level1Questions from './data/Level_1_80_complete.json';
 import level3Questions from './data/Level_3_1_132.json';
 import level3NewQuestions from './data/Level_3_New.json';
+import level3ExtraQuestions from './data/Level_3_Extra.json';
 import reportQuestions from './data/Report_questions.json';
 import { useTheme } from './hooks/useTheme';
 
@@ -14,6 +15,7 @@ const availableTests = [
     { id: 'level-2', title: 'Level 2 (1-127 So\'raw)', data: level2Questions },
     { id: 'level-3', title: 'Level 3 (131 So\'raw)', data: level3Questions },
     { id: 'level-3-new', title: 'Level 3 (New) (74 So\'raw)', data: level3NewQuestions },
+    { id: 'level-3-extra', title: 'Level 3 (Extra) (8 So\'raw)', data: level3ExtraQuestions },
     { id: 'report', title: 'Report (108 So\'raw)', data: reportQuestions },
 ];
 
