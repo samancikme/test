@@ -1,0 +1,478 @@
+[
+  {
+    "id": "l3-15q-q1",
+    "questionNumber": 1,
+    "questionText": "You want to make sure your laptop computer can run a new software application. The following table describes the application system requirements: Minimum - 64-bit dual core 2Ghz CPU with SSE2 support, 4 GB RAM, 1280x720 display, Graphics card with 1 GB RAM; Recommended - 64-bit quad core CPU, 16 GB RAM, 1366x768 display, Graphics card with 4 GB RAM; Optimal - 64-bit eight core CPU, 32 GB RAM, 1920x1080 display, Graphics card with 12 GB RAM. The laptop has the following specifications: 64-bit dual core 2Ghz CPU with SSE2 support, 32 GB RAM, 1920x1080 display, Graphics card with 2 GB RAM. Which statement is correct?",
+    "topic": "Level 3 (15 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "This laptop meets the optimal system requirements"
+      },
+      {
+        "id": "o2",
+        "text": "This laptop meets the recommended system requirements"
+      },
+      {
+        "id": "o3",
+        "text": "This laptop meets the minimum system requirements"
+      },
+      {
+        "id": "o4",
+        "text": "This laptop exceeds the optimal system requirements"
+      },
+      {
+        "id": "o5",
+        "text": "This laptop does not meet the minimum system requirements"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3-15q-q2",
+    "questionNumber": 2,
+    "questionText": "You customize your installation of Google Chrome. You are unhappy with some of the changes. You need to return Google Chrome to its default state by using only one command in the Settings menu shown. Note: You might need to scroll to see the entire menu. Which command should you select?",
+    "topic": "Level 3 (15 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "You and Google"
+      },
+      {
+        "id": "o2",
+        "text": "On startup"
+      },
+      {
+        "id": "o3",
+        "text": "Reset and clean-up"
+      },
+      {
+        "id": "o4",
+        "text": "Appearance"
+      },
+      {
+        "id": "o5",
+        "text": "Default browser"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3-15q-q3",
+    "questionNumber": 3,
+    "questionText": "You are preparing a presentation on the population increase in your city over the years. You need to effectively represent the population growth over time. Which two types of visual representation would be most effective? (Choose 2.)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Line graph"
+      },
+      {
+        "id": "o2",
+        "text": "Bar graph"
+      },
+      {
+        "id": "o3",
+        "text": "Map"
+      },
+      {
+        "id": "o4",
+        "text": "Pie chart"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "l3-15q-q4",
+    "questionNumber": 4,
+    "questionText": "Which two actions are recommended during a brainstorming session? (Choose 2.)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Withhold criticism of your peers’ ideas."
+      },
+      {
+        "id": "o2",
+        "text": "Limit each team member to one or two ideas"
+      },
+      {
+        "id": "o3",
+        "text": "Encourage wild ideas"
+      },
+      {
+        "id": "o4",
+        "text": "Only share ideas you’re very confident about"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3-15q-q5",
+    "questionNumber": 5,
+    "questionText": "Your class recently completed group projects. You are preparing a presentation about your group’s project. Your group will deliver your presentation live, and it will be live streamed for remote viewers. You need to ensure that the remote audience watches and listens to your presentation. Which two actions will increase the audience engagement during your presentation? (Choose 2.)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Speak in a soothing monotone"
+      },
+      {
+        "id": "o2",
+        "text": "Encourage participation with polls or questions requiring virtual hand-raising."
+      },
+      {
+        "id": "o3",
+        "text": "Have group members take turns presenting information"
+      },
+      {
+        "id": "o4",
+        "text": "Clearly read aloud the content of each presentation slide."
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l3-15q-q6",
+    "questionNumber": 6,
+    "questionText": "Your school asks you to design a website to track participation in student clubs. You gather your team to generate ideas to solve the problem. Which two actions will help the idea-generation process? (Choose 2.)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Withhold criticism of your peers' ideas"
+      },
+      {
+        "id": "o2",
+        "text": "Limit each team member to one or two ideas"
+      },
+      {
+        "id": "o3",
+        "text": "Focus only on realistic and practical ideas"
+      },
+      {
+        "id": "o4",
+        "text": "Only share ideas you're very confident about"
+      },
+      {
+        "id": "o5",
+        "text": "Encourage wild ideas"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o5"
+    ]
+  },
+  {
+    "id": "l3-15q-q7",
+    "questionNumber": 7,
+    "questionText": "You are a member of a student team that is creating a website for a local volunteer organization. After your last meeting with the client, the client told your teacher that your team needs to improve its communication skills. Which two actions can you take to improve your communication skills? (Choose 2.)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Have another team member take over the communication at the next meeting"
+      },
+      {
+        "id": "o2",
+        "text": "When the client asks questions, summarize the question before you answer"
+      },
+      {
+        "id": "o3",
+        "text": "Text the client to apologize for your poor communication"
+      },
+      {
+        "id": "o4",
+        "text": "When talking with the client, speak in a positive, respectful tone"
+      },
+      {
+        "id": "o5",
+        "text": "Prepare a written script for all future meetings"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3-15q-q8",
+    "questionNumber": 8,
+    "questionText": "Which three actions might compromise your online privacy? (Choose three)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Opening email attachments"
+      },
+      {
+        "id": "o2",
+        "text": "Staying logged into websites"
+      },
+      {
+        "id": "o3",
+        "text": "Downloading files"
+      },
+      {
+        "id": "o4",
+        "text": "Posting in a forum"
+      },
+      {
+        "id": "o5",
+        "text": "Using the same login and password for multiple accounts"
+      },
+      {
+        "id": "o6",
+        "text": "Allowing and keeping browser cookies"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o5",
+      "o6"
+    ]
+  },
+  {
+    "id": "l3-15q-q9",
+    "questionNumber": 9,
+    "questionText": "Which two are types of digital licensing that typically allow use for no cost? (Choose 2)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Per-user"
+      },
+      {
+        "id": "o2",
+        "text": "Public Domain"
+      },
+      {
+        "id": "o3",
+        "text": "Per-seat"
+      },
+      {
+        "id": "o4",
+        "text": "Site"
+      },
+      {
+        "id": "o5",
+        "text": "Creative Commons"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o5"
+    ]
+  },
+  {
+    "id": "l3-15q-q10",
+    "questionNumber": 10,
+    "questionText": "Which of the scenarios requires that you cite a reference? Select all that apply. (Choose 2)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "You quote lyrics from a song"
+      },
+      {
+        "id": "o2",
+        "text": "You copy a paragraph from a webpage"
+      },
+      {
+        "id": "o3",
+        "text": "You describe a current event you saw on the news"
+      },
+      {
+        "id": "o4",
+        "text": "You are writing an opinion"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "l3-15q-q11",
+    "questionNumber": 11,
+    "questionText": "What is one of the most important actions you can take to protect your privacy after browsing the Internet?",
+    "topic": "Level 3 (15 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using different browsers"
+      },
+      {
+        "id": "o2",
+        "text": "Stay logged into the last website you visit"
+      },
+      {
+        "id": "o3",
+        "text": "Delete your browser cookies"
+      },
+      {
+        "id": "o4",
+        "text": "Use the same login and password for multiple web sites"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3-15q-q12",
+    "questionNumber": 12,
+    "questionText": "Your history class is taking a field trip to a museum. Some of your classmates cannot attend. Your teacher has asked for a volunteer to webcast the field trip. Which software application would be appropriate for producing a webcast?",
+    "topic": "Level 3 (15 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Microsoft PowerPoint"
+      },
+      {
+        "id": "o2",
+        "text": "Google Chrome"
+      },
+      {
+        "id": "o3",
+        "text": "Zoom"
+      },
+      {
+        "id": "o4",
+        "text": "Adobe InDesign"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l3-15q-q13",
+    "questionNumber": 13,
+    "questionText": "Which are two types of legal claims that relate to unauthorized publication of personal and private information? (Choose 2)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Publication of Private Facts"
+      },
+      {
+        "id": "o2",
+        "text": "Sharing an IP Address"
+      },
+      {
+        "id": "o3",
+        "text": "Posting Evaluations of a Contractor's Performance"
+      },
+      {
+        "id": "o4",
+        "text": "Browsing Habits collected by Cookies"
+      },
+      {
+        "id": "o5",
+        "text": "Using the Name or Likeness of Another"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o5"
+    ]
+  },
+  {
+    "id": "l3-15q-q14",
+    "questionNumber": 14,
+    "questionText": "Which three situations would compromise your privacy by allowing your email message to be available to an employer or school administration? (Choose 3)",
+    "topic": "Level 3 (15 Questions)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Send the email from a work computer using the work account"
+      },
+      {
+        "id": "o2",
+        "text": "Send the email from a school computer using the personal account"
+      },
+      {
+        "id": "o3",
+        "text": "Send the email from a work computer using a personal account"
+      },
+      {
+        "id": "o4",
+        "text": "Send the email from a smartphone using the work account"
+      },
+      {
+        "id": "o5",
+        "text": "Send the email from a work computer using the school account"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l3-15q-q15",
+    "questionNumber": 15,
+    "questionText": "You have just graduated with a degree in Information Technology and hired as a member of an IT Department within a large corporation. How can you keep your digital knowledge current? Select Yes if the action will help keep your digital knowledge current or No if it will not.",
+    "topic": "Level 3 (15 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Volunteer to sit on the advisory board of a non-profit organization.",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Talk to experienced colleagues about new technologies.",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Read weekly technology newsfeeds related to your field.",
+        "correctAnswer": "Yes"
+      }
+    ]
+  }
+]
