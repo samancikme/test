@@ -1,0 +1,1713 @@
+[
+    {
+        "id": 1,
+        "savol": "Experts are concerned that society will lose some skills because of reliance on technology. Which three skills can become underutilized through the use of technology? (Choose 3)",
+        "variantlar": [
+            "Map navigation",
+            "Memorization",
+            "Organization",
+            "Mental math",
+            "Eye-hand coordination",
+            "Dexterity"
+        ],
+        "javob": [
+            "Map navigation",
+            "Memorization",
+            "Mental math"
+        ]
+    },
+    {
+        "id": 2,
+        "savol": "Which practice helps keep your online accounts secure?",
+        "variantlar": [
+            "Share your password with trusted friends",
+            "Use the same password for all accounts",
+            "Use strong, unique passwords for each account",
+            "Write your password on paper near your computer"
+        ],
+        "javob": "Use strong, unique passwords for each account"
+    },
+    {
+        "id": 3,
+        "savol": "What is an advantage of collaborating within a team to resolve an issue?",
+        "variantlar": [
+            "It ensures external resources are unnecessary.",
+            "It eliminates the need for individual leadership",
+            "It allows for diverse perspective to generate solutions.",
+            "It balances speed and quality when addressing"
+        ],
+        "javob": "It allows for diverse perspective to generate solutions."
+    },
+    {
+        "id": 4,
+        "savol": "Electronic waste (e-waste) refers to used electronics that are discarded, donated, or given to a recycler. For each statement about e-waste, select True or False",
+        "variantlar": [
+            "Over 60% of e-waste is recycled",
+            "E-waste is the slowest slowest growing from of waste worldwide",
+            "E-waste contains precious metals like gold and silver that can be recovered and reused",
+            "E-waste contains toxic metals like lead and mercury that cause human illness uf they leach into groundwater"
+        ],
+        "javob": {
+            "Over 60% of e-waste is recycled": "False",
+            "E-waste is the slowest slowest growing from of waste worldwide": "False",
+            "E-waste contains precious metals like gold and silver that can be recovered and reused": "True",
+            "E-waste contains toxic metals like lead and mercury that cause human illness uf they leach into groundwater": "True"
+        }
+    },
+    {
+        "id": 5,
+        "savol": "What is a benefit of using a cyclical design process to create digital products?",
+        "variantlar": [
+            "It allows you to follow a strict schedule with a definite ending deadline.",
+            "It allows you to deliver the final product as quickly as possible with few changes",
+            "It allows you to continually test and improve the product to achieve the best possible result.",
+            "It allows you to work independently, without needing to ask input from other team members."
+        ],
+        "javob": "It allows you to continually test and improve the product to achieve the best possible result."
+    },
+    {
+        "id": 6,
+        "savol": "You are working with classmates on a team project. Your part of the project is due in three days. You realize that you need more time to finish. You have an online meeting tomorrow. What should you do?",
+        "variantlar": [
+            "Wait to communicate with the team until after you complete your part of the project.",
+            "Explain why you haven’t made enough progress",
+            "Tell the team you took an too much",
+            "Describe what you have accomplished and ask for help with the rest."
+        ],
+        "javob": "Describe what you have accomplished and ask for help with the rest."
+    },
+    {
+        "id": 7,
+        "savol": "Your Windows 10 computer has Microsoft Edge, Microsoft Internet Explorer, and Google Chrome installed, Every time you click a link to a website in an email message, the website opens in Microsoft Edge. You want to open links in Google Chrome instead. In Windows 10, where can you configure this setting?",
+        "variantlar": [
+            "Default Apps",
+            "Email Privacy Settings",
+            "Notifications",
+            "Task Manager"
+        ],
+        "javob": "Default Apps"
+    },
+    {
+        "id": 8,
+        "savol": "You are researching apples on the internet. For each research topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
+        "variantlar": [
+            "Apple varieties",
+            "History of apple agriculture",
+            "Recipes for apple pie or cake",
+            "Macintosh apples, but not the Macintosh computer"
+        ],
+        "javob": {
+            "Apple varieties": "False",
+            "History of apple agriculture": "False",
+            "Recipes for apple pie or cake": "False",
+            "Macintosh apples, but not the Macintosh computer": "True"
+        }
+    },
+    {
+        "id": 9,
+        "savol": "You need to find drivers for a Windows 10 laptop. Device manager shows “unknown device” for several components. What should you do?",
+        "variantlar": [
+            "From Device Manager, scan for hardware changes.",
+            "Use the model number of the machine to locate the Drivers page on the laptop manufacturer’s website.",
+            "Restart the computer and use the Windows 10 repair tool",
+            "Purchase device driver software from the store where the computer was purchased."
+        ],
+        "javob": "Use the model number of the machine to locate the Drivers page on the laptop manufacturer’s website."
+    },
+    {
+        "id": 10,
+        "savol": "You purchase a software program to complete a specific project. After you finish the project, a friend asks to borrow the program. You need to determine whether this is an acceptable use of the software. Where can you find this information?",
+        "variantlar": [
+            "Content Management System (CMS)",
+            "Electronic Software Rating Board (ESRB)",
+            "Access Control List (ACL)",
+            "End User License Agreement (EULA)"
+        ],
+        "javob": "End User License Agreement (EULA)"
+    },
+    {
+        "id": 11,
+        "savol": "You work for company with a strict security policy. A coworker shares their password with you. For each statement, select true or False.",
+        "variantlar": [
+            "If you someone else’s password, your employer can restrict your future access to the company network.",
+            "Using a coworker’s password to sign then into the company network because they are late for work is fraud",
+            "If multiple people know a coworker’s password and a security breach occurs, they could all be held responsible"
+        ],
+        "javob": {
+            "If you someone else’s password, your employer can restrict your future access to the company network.": "True",
+            "Using a coworker’s password to sign then into the company network because they are late for work is fraud": "True",
+            "If multiple people know a coworker’s password and a security breach occurs, they could all be held responsible": "True"
+        }
+    },
+    {
+        "id": 12,
+        "savol": "What happens when you enlarge a small bitmap image that you save from a webpage?",
+        "variantlar": [
+            "The image becomes pixelated.",
+            "The image becomes clearer",
+            "The image file size decreases",
+            "The image resolution decreases"
+        ],
+        "javob": "The image becomes pixelated."
+    },
+    {
+        "id": 13,
+        "savol": "Which command should you select?",
+        "variantlar": [
+            "You and Google",
+            "Appearance",
+            "Default browser",
+            "On startup",
+            "Reset an clean up"
+        ],
+        "javob": "Reset an clean up"
+    },
+    {
+        "id": 14,
+        "savol": "What are two traits of a constructive team member? (Choose 2)",
+        "variantlar": [
+            "Opinionated",
+            "Rigid",
+            "Confident",
+            "Inquisitive"
+        ],
+        "javob": [
+            "Confident",
+            "Inquisitive"
+        ]
+    },
+    {
+        "id": 15,
+        "savol": "You encounter a video on social media that you suspect might be a deepfake generated by AI. For each statement, select Yes if the action would help you determine if the statement is true or No if it would not.",
+        "variantlar": [
+            "Assume that because the video contains a statement unlikely to be said by the speaker that the video is trustworthy",
+            "Search online for some of the specific quotes from the video to see if they are being featured by reputable news organizations",
+            "Consider the motivations of the originators and sharers of the video",
+            "Check the comments on the video to see if there are accusations of impropriety or other issues"
+        ],
+        "javob": {
+            "Assume that because the video contains a statement unlikely to be said by the speaker that the video is trustworthy": "No",
+            "Search online for some of the specific quotes from the video to see if they are being featured by reputable news organizations": "Yes",
+            "Consider the motivations of the originators and sharers of the video": "Yes",
+            "Check the comments on the video to see if there are accusations of impropriety or other issues": "Yes"
+        }
+    },
+    {
+        "id": 16,
+        "savol": "A story about a college test prep study guide appears in your social media news feed. The story contains the following information: A recent study of 1000 students showed that students improved their test scores by 25% when they used this specific study guide. One renowned college professor associated with the study stated, “If students do not use this guige, they might not earn the scores they need to be admitted to a college or university.” You identify two common logical fallacies does the story contain?(Choose 2)",
+        "variantlar": [
+            "Appeal to authority – relying on one expert, named or unnamed, as the basis for an argument.",
+            "Ad hominem (“against the person”) – attacking the person and not the issue.",
+            "Appeal to tradition – ignoring past problems and assuming that the way things were is better than they are now",
+            "False dilemma – limiting the possible choices to avoid consideration of another choice"
+        ],
+        "javob": [
+            "Appeal to authority – relying on one expert, named or unnamed, as the basis for an argument.",
+            "False dilemma – limiting the possible choices to avoid consideration of another choice"
+        ]
+    },
+    {
+        "id": 17,
+        "savol": "Move each content type from the list on the left to the most appropriate application for presenting the content on the right.",
+        "variantlar": [
+            "A large data set that you manipulate by using formulas",
+            "A multiple – page project proposal with an automatically generated table of contents and index",
+            "A visual presentation that automatically advances through multiple topics on an computer"
+        ],
+        "javob": {
+            "A large data set that you manipulate by using formulas": "Microsoft Excel",
+            "A multiple – page project proposal with an automatically generated table of contents and index": "Microsoft Word",
+            "A visual presentation that automatically advances through multiple topics on an computer": "Microsoft PowerPoint"
+        }
+    },
+    {
+        "id": 18,
+        "savol": "You copy a 30-second video clip from the internet. You do not know who created the video. Which scenario would NOT be fair use of the video clip?",
+        "variantlar": [
+            "You create a parody that includes the video clip.",
+            "You create a political ad that includes the video clip.",
+            "You use the video clip as part of a news report.",
+            "You use the video clip to teach/"
+        ],
+        "javob": "You create a political ad that includes the video clip."
+    },
+    {
+        "id": 19,
+        "savol": "You see a post online in which a person is threatening to commit a harmful act. What is the action you should take?",
+        "variantlar": [
+            "Take a screenshot of the post and wait to see if the harmful act is committed.",
+            "Reply to the post and convince the original poster not to commit this act.",
+            "Share the post to your own social media audience to warn others about the threat",
+            "Notify your local law enforcement by telephone or emergency text message if available."
+        ],
+        "javob": "Notify your local law enforcement by telephone or emergency text message if available."
+    },
+    {
+        "id": 20,
+        "savol": "Your team is working virtually on a group project. You want the group and project to be successful. For each statement about strategies for achieving success in a virtual group, select True or False.",
+        "variantlar": [
+            "Have team members collect information in a OneNote notebook",
+            "Increase efficiency by utilizing only asynchronous communication",
+            "Create a team discussion board for project-related conversations",
+            "Have a central file storage location that all team members can accerss"
+        ],
+        "javob": {
+            "Have team members collect information in a OneNote notebook": "True",
+            "Increase efficiency by utilizing only asynchronous communication": "False",
+            "Create a team discussion board for project-related conversations": "True",
+            "Have a central file storage location that all team members can accerss": "True"
+        }
+    },
+    {
+        "id": 21,
+        "savol": "For each statement, select True or False. Note: You will receive partial credit for each correct selection.",
+        "variantlar": [
+            "Web pages are more credible if they cite sources for their content",
+            "You know a source is reliable when the website address ends in .org",
+            "Consulting multiple sources is a good way to determine a site’s accuracy",
+            "A search engine differentiates between good and bad sites. The first results are usually the most reliable"
+        ],
+        "javob": {
+            "Web pages are more credible if they cite sources for their content": "True",
+            "You know a source is reliable when the website address ends in .org": "False",
+            "Consulting multiple sources is a good way to determine a site’s accuracy": "True",
+            "A search engine differentiates between good and bad sites. The first results are usually the most reliable": "False"
+        }
+    },
+    {
+        "id": 22,
+        "savol": "Jackson is working at a tech store. A customer calls to ask about a faulty laptop. The laptop is an older model, and there are newer versions available. What is the best first step for Jackson to take to understand the issue?",
+        "variantlar": [
+            "Explain that the laptop is probably too old to fix",
+            "Ask the customer about any error messages",
+            "Tell the customer to come into the store for a refund",
+            "Suggest that the customer buy a new laptop"
+        ],
+        "javob": "Ask the customer about any error messages"
+    },
+    {
+        "id": 23,
+        "savol": "You have been asked to address unhappy and angry customer reviews online. You need to determine how to customize your message for the audience . for each customization , select True if you should implement it or False if you should not.",
+        "variantlar": [
+            "Offer solutions to the problems the customers express",
+            "Apologize only if the customers have a valid complaint",
+            "Tell unhappy customers that many other customers have given positive reviews of your company"
+        ],
+        "javob": {
+            "Offer solutions to the problems the customers express": "True",
+            "Apologize only if the customers have a valid complaint": "False",
+            "Tell unhappy customers that many other customers have given positive reviews of your company": "False"
+        }
+    },
+    {
+        "id": 24,
+        "savol": "Which term describes the text embedded with an image that describes the image’s visual content to be read aloud by a screen reader?",
+        "variantlar": [
+            "Caption",
+            "Alt text",
+            "Blockquote",
+            "Header"
+        ],
+        "javob": "Alt text"
+    },
+    {
+        "id": 25,
+        "savol": "What is the first thing you should consider when preparing a digital presentation to ensure it can be viewed effectively on various devices?",
+        "variantlar": [
+            "Use many transitions and animations",
+            "Optimize file size of images and videos for quick loading",
+            "Use fancy decorative fonts",
+            "Put as much text as possible on slides"
+        ],
+        "javob": "Optimize file size of images and videos for quick loading"
+    },
+    {
+        "id": 26,
+        "savol": "You must conduct various searches. Move each search topic from the list on the left to the corresponding type of search on the right.",
+        "variantlar": [
+            "Population statistics",
+            "A specific site",
+            "Third – party options to purchase software"
+        ],
+        "javob": {
+            "Population statistics": "Informational",
+            "A specific site": "Navigational",
+            "Third – party options to purchase software": "Transactional"
+        }
+    },
+    {
+        "id": 27,
+        "savol": "You need to maximize you online privacy. For each action, select Yes if it contributes to online privacy or No if it does not",
+        "variantlar": [
+            "Stay logged into websites",
+            "Delete cookies after using the browser",
+            "Use the same credentials for multiple accounts",
+            "Open all email messages to make sure they do not include malware"
+        ],
+        "javob": {
+            "Stay logged into websites": "No",
+            "Delete cookies after using the browser": "Yes",
+            "Use the same credentials for multiple accounts": "No",
+            "Open all email messages to make sure they do not include malware": "No"
+        }
+    },
+    {
+        "id": 28,
+        "savol": "Which type of software can be used online and with iOS and Android devices?",
+        "variantlar": [
+            "Microsoft 365",
+            "Chrome OS",
+            "Windows 11",
+            "Mac OS"
+        ],
+        "javob": "Microsoft 365"
+    },
+    {
+        "id": 29,
+        "savol": "Which term describes unwanted email that are sent in bulk?",
+        "variantlar": [
+            "Spam",
+            "Malware",
+            "Phishing",
+            "Encryption"
+        ],
+        "javob": "Spam"
+    },
+    {
+        "id": 30,
+        "savol": "Which two action will increase audience engagement?",
+        "variantlar": [
+            "Clearly read aloud the slide text",
+            "Speak in a soothing monotone",
+            "Encourage participation with polls or virtual hand - raising",
+            "Have group members take turns presenting"
+        ],
+        "javob": [
+            "Encourage participation with polls or virtual hand - raising",
+            "Have group members take turns presenting"
+        ]
+    },
+    {
+        "id": 31,
+        "savol": "Which to actions will help the idea – generation process? (Choose 2)",
+        "variantlar": [
+            "Withhold criticism of your peer’s ideas",
+            "Only share ideas you’re very confident about",
+            "Limit each team member to one or two ideas",
+            "Encourage wild ideas"
+        ],
+        "javob": [
+            "Withhold criticism of your peer’s ideas",
+            "Encourage wild ideas"
+        ]
+    },
+    {
+        "id": 32,
+        "savol": "Which action best demonstrates an understanding of intellectual property guidelines when reusing someone’s work?",
+        "variantlar": [
+            "Modify the original work slightly and present it as your own",
+            "Credit the source only in a bibliography",
+            "Use small portions assuming it is fair use",
+            "Provide attribution after adhering to fair use principles"
+        ],
+        "javob": "Provide attribution after adhering to fair use principles"
+    },
+    {
+        "id": 33,
+        "savol": "Complete the sentences by selecting the correct option from each drop – down list.",
+        "variantlar": [
+            "Fingerprints and facial recognition are examples of...",
+            "Smartphones and employee access cards are examples of...",
+            "Passwords and personal identification numbers (PINs) are examples of..."
+        ],
+        "javob": {
+            "Fingerprints and facial recognition are examples of...": "Biometric authentication factors",
+            "Smartphones and employee access cards are examples of...": "Possession (Physical) authentication factors",
+            "Passwords and personal identification numbers (PINs) are examples of...": "Knowledge (Logical) authentication factors"
+        }
+    },
+    {
+        "id": 34,
+        "savol": "You are creating content for a website. You need to follow accessibility standards. Complete the sentences by selecting the correct option from each drop-down list",
+        "variantlar": [
+            "The preferred font style is...",
+            "The minimum recommended font size for website body test is...",
+            "You should maintain a... between the font color and the background color"
+        ],
+        "javob": {
+            "The preferred font style is...": "sans serif",
+            "The minimum recommended font size for website body test is...": "12 point/16 pixels",
+            "You should maintain a... between the font color and the background color": "high contrast"
+        }
+    },
+    {
+        "id": 35,
+        "savol": "You plan to get a job in information technology. You need to stay current with the latest digital technologies. What should you do?",
+        "variantlar": [
+            "Subscribe to and read notifications from respected technology sites.",
+            "Refresh your knowledge of digital technology by taking a new class every three years.",
+            "Volunteer to create a monthly newsletter for a local school",
+            "Write a monthly blog post about new technology that interests you."
+        ],
+        "javob": "Subscribe to and read notifications from respected technology sites."
+    },
+    {
+        "id": 36,
+        "savol": "Which two visual representations are best for population growth over time?",
+        "variantlar": [
+            "Bar graph",
+            "Map",
+            "Line graph",
+            "Pie chart"
+        ],
+        "javob": [
+            "Bar graph",
+            "Line graph"
+        ]
+    },
+    {
+        "id": 37,
+        "savol": "Which option is recommended for creating a secure password you can remember?",
+        "variantlar": [
+            "Use your social media profile name",
+            "Use your favorite color and animal",
+            "Use parts of a random phrase",
+            "Use a name with a number at the end"
+        ],
+        "javob": "Use parts of a random phrase"
+    },
+    {
+        "id": 38,
+        "savol": "Liam is working on his math homework but doesn’t understand how to solve question 12 in the “Fractions 4.1” assignment. What should Liam write in the subject line when emailing his teacher about this issue?",
+        "variantlar": [
+            "Help Needed for Fractions 4.1, Question 12",
+            "Urgent Help",
+            "Teacher I Need HELP Email Me Back NOW",
+            "(no subject)"
+        ],
+        "javob": "Help Needed for Fractions 4.1, Question 12"
+    },
+    {
+        "id": 39,
+        "savol": "Isaac’s online banking app asks for a code from his phone in addition to his password. What is this an example of?",
+        "variantlar": [
+            "Multifactor authentication",
+            "A website cookie",
+            "A phishing attempt",
+            "A password reset prompt"
+        ],
+        "javob": "Multifactor authentication"
+    },
+    {
+        "id": 40,
+        "savol": "You need to troubleshoot issues with your computer and smartphone. Move each troubleshooting step from the list on the left to its corresponding issue on the right.",
+        "variantlar": [
+            "The computer screen freezes while you are working on a project",
+            "Webpages load slowly while you are searching for information on the internet",
+            "A camera shutter noise comes from your smartphone but you are not taking photos",
+            "When you start your computer, you hear a rhythmic ticking sound inside the case"
+        ],
+        "javob": {
+            "The computer screen freezes while you are working on a project": "Check Task Manager for resource usage",
+            "Webpages load slowly while you are searching for information on the internet": "Check the network connection",
+            "A camera shutter noise comes from your smartphone but you are not taking photos": "Check application permission",
+            "When you start your computer, you hear a rhythmic ticking sound inside the case": "Check the hard disk drive for a worn disk head"
+        }
+    },
+    {
+        "id": 41,
+        "savol": "Your teacher requires that you store your assignments in a specific folder in the cloud. The school’s cloud storage platform has versioning turned on. What does this enable you to do?",
+        "variantlar": [
+            "Access your files from any operating system",
+            "Restore files that you’ve deleted from the cloud",
+            "Retrieve old versions of your files from the cloud",
+            "Access your files from any version of the cloud storage app"
+        ],
+        "javob": "Retrieve old versions of your files from the cloud"
+    },
+    {
+        "id": 42,
+        "savol": "Move each visual representation goal from the list on the left to ots most effective visual format on the right.",
+        "variantlar": [
+            "Illustrate simple part- to-whole relationships within a small data set",
+            "Show how one or more data series change over time",
+            "Show the correlation and distribution of a large amount of data"
+        ],
+        "javob": {
+            "Illustrate simple part- to-whole relationships within a small data set": "Pie chart",
+            "Show how one or more data series change over time": "Line graph",
+            "Show the correlation and distribution of a large amount of data": "Scatter plot"
+        }
+    },
+    {
+        "id": 43,
+        "savol": "Which action best demonstrates an understanding of intellectual property guidelines when reusing someone’s work ?",
+        "variantlar": [
+            "Providing attribution after adhering to fair use principles",
+            "Crediting the original source in a bibliography instead of using direct in –text citations",
+            "Using small portions of the work under the assumption that it falls under fair use",
+            "Making sure you modify the original work slightly and then present it as your own."
+        ],
+        "javob": "Providing attribution after adhering to fair use principles"
+    },
+    {
+        "id": 44,
+        "savol": "You are tasked with designing a website that achieves the following goals:… Which two website criteria are design constraints? (Choose 2)",
+        "variantlar": [
+            "It must be quick to load.",
+            "It must provide a method for students to indicate why they will be absent.",
+            "It must be complete in two weeks.",
+            "It must be easy to use."
+        ],
+        "javob": [
+            "It must be quick to load.",
+            "It must be complete in two weeks."
+        ]
+    },
+    {
+        "id": 45,
+        "savol": "What is the first thing you should consider when preparing a digital presentation to ensure it can be viewed effectively on various devices?",
+        "variantlar": [
+            "Include as much text as possible on each slide to keep the total number of slides low",
+            "Use a variety of transitions and animations to keep the audience engaged",
+            "The file size of the images and videos should be optimized to ensure quick loading times and smooth playback",
+            "The font style used in the presentation should be fancy and decorative to make it visually appealing"
+        ],
+        "javob": "The file size of the images and videos should be optimized to ensure quick loading times and smooth playback"
+    },
+    {
+        "id": 46,
+        "savol": "In which two ways do cloud computing data centers negatively impact the environment? (Choose 2)",
+        "variantlar": [
+            "They use chemical coolants, which are typically made from hazardous materials.",
+            "They use a significant amount of electricity that is derived from non – renewable energy sources",
+            "They dump their waste heat into nearby water sources, which raises the temperature beyond what aquatic life can survive",
+            "They are built in cold climates, damaging habitats for polar bears and other wildlife"
+        ],
+        "javob": [
+            "They use chemical coolants, which are typically made from hazardous materials.",
+            "They use a significant amount of electricity that is derived from non – renewable energy sources"
+        ]
+    },
+    {
+        "id": 47,
+        "savol": "You are trying to access a website, but it is not loading property on your browser. What should you try first?",
+        "variantlar": [
+            "Clear the browser cache",
+            "Email the website owner",
+            "Check the BIOS settings",
+            "Remove unnecessary apps"
+        ],
+        "javob": "Clear the browser cache"
+    },
+    {
+        "id": 48,
+        "savol": "For each statement about digital communications with clients and coworkers, select True or False",
+        "variantlar": [
+            "Avoid directly stating the purpose of the message",
+            "Use bullet points or lists to organize message details",
+            "Use acronyms and abbreviations in all messages to keep the short",
+            "When you need a client to make a choice, provide multiple options to minimize back-and-forth"
+        ],
+        "javob": {
+            "Avoid directly stating the purpose of the message": "False",
+            "Use bullet points or lists to organize message details": "True",
+            "Use acronyms and abbreviations in all messages to keep the short": "False",
+            "When you need a client to make a choice, provide multiple options to minimize back-and-forth": "True"
+        }
+    },
+    {
+        "id": 49,
+        "savol": "You need to appropriately protect your personally identifiable information (PII). For each statement, select True or False",
+        "variantlar": [
+            "The AII collected by websites can be used for identity theft purposes",
+            "Using multifactor authentication increases the risk of an outsider accessing your PII",
+            "Closing an online account permanently deletes your PII from the hosting server"
+        ],
+        "javob": {
+            "The AII collected by websites can be used for identity theft purposes": "True",
+            "Using multifactor authentication increases the risk of an outsider accessing your PII": "False",
+            "Closing an online account permanently deletes your PII from the hosting server": "False"
+        }
+    },
+    {
+        "id": 50,
+        "savol": "Emma needs to send to a quick reminder about homework to her study group. Which method is most appropriate?",
+        "variantlar": [
+            "Send a brief group text message with the homework reminder.",
+            "Post it on her school’s Instagram page",
+            "Call each person individually and remind them",
+            "Ask her teacher to send a reminder email to her study group."
+        ],
+        "javob": "Send a brief group text message with the homework reminder."
+    },
+    {
+        "id": 51,
+        "savol": "Which two options help keep data secure in the workplace? (Choose 2)",
+        "variantlar": [
+            "Use strong passwords",
+            "Shat computers down at night",
+            "Report suspicious emails",
+            "Allow workers to share computers"
+        ],
+        "javob": [
+            "Use strong passwords",
+            "Report suspicious emails"
+        ]
+    },
+    {
+        "id": 52,
+        "savol": "You are using Microsoft Word on a Windows 10 computer to write a paper about a company. The company name, Abusives, begins with two capital letters, Each time you type the company name, the software corrects the capital letters. Where can you change this correction preference?",
+        "variantlar": [
+            "In the AutoCorrect Options settings",
+            "In the computer operating system preferences",
+            "In the Grammar & Refinements settings",
+            "In the Office Language Preferences"
+        ],
+        "javob": "In the AutoCorrect Options settings"
+    },
+    {
+        "id": 53,
+        "savol": "You are searching the internet for facts and information to use for a research project, but your results are not giving you the answers you expected. Which action should you take?",
+        "variantlar": [
+            "Refresh the page and search again.",
+            "Rephrase your search term to be more specific",
+            "Use fewer words in your search term",
+            "Clear your browser’s cache and search again"
+        ],
+        "javob": "Rephrase your search term to be more specific"
+    },
+    {
+        "id": 54,
+        "savol": "You are the leader of a digital design team. You team is creating a poster for a local fundraising event. You send a draft of the poster of the client. The client requests changes that you and your team members believe will make the poster less attractive and less effective. You need to communicate effectively with the client about the design changes. Which three actions should you take ? (Choose 3)",
+        "variantlar": [
+            "Create a mockup of the poster with the client’s changes and send it to the client",
+            "Ask the client to explain the reasons for the changes and the impact they will have on the poster",
+            "Tell the client that their ideas are not welcome",
+            "Remind the client that your team has the knowledge and experience to create an effective final poster design",
+            "Tell the client you don’t want to make the changes",
+            "Focus the discussion on the design choices, rather than your emotional response to the client’s changes."
+        ],
+        "javob": [
+            "Create a mockup of the poster with the client’s changes and send it to the client",
+            "Ask the client to explain the reasons for the changes and the impact they will have on the poster",
+            "Focus the discussion on the design choices, rather than your emotional response to the client’s changes."
+        ]
+    },
+    {
+        "id": 55,
+        "savol": "Match each term on the left with its correct description on the right.",
+        "variantlar": [
+            "The influence of personal opinions or agendas on how information is presented, potentially distorting facts",
+            "The qualifications and expertise of the author, indicating their knowledge about the topic",
+            "The relevance and timeliness of the information, indicating how up-to-date it is"
+        ],
+        "javob": {
+            "The influence of personal opinions or agendas on how information is presented, potentially distorting facts": "Bias",
+            "The qualifications and expertise of the author, indicating their knowledge about the topic": "Credentials",
+            "The relevance and timeliness of the information, indicating how up-to-date it is": "Currency"
+        }
+    },
+    {
+        "id": 56,
+        "savol": "You need to plan a project that will use a cyclical design process. In which order should you complete the project tasks?",
+        "variantlar": [
+            "Develop the prototype",
+            "Generate ideas",
+            "Identify project requirements",
+            "Test the prototype",
+            "Refine the prototype"
+        ],
+        "javob": {
+            "Step 1": "Identify project requirements",
+            "Step 2": "Generate ideas",
+            "Step 3": "Develop the prototype",
+            "Step 4": "Test the prototype",
+            "Step 5": "Refine the prototype"
+        }
+    },
+    {
+        "id": 57,
+        "savol": "For each statement about technology – driven automation, select True or False.",
+        "variantlar": [
+            "Automation will displace some existing job roles",
+            "Automation will lead to the creation of new job roles",
+            "Activities that include social interactions are more likely than others to be automated",
+            "Activities that include physical tasks in predictable environments are more likely than others to be automated"
+        ],
+        "javob": {
+            "Automation will displace some existing job roles": "True",
+            "Automation will lead to the creation of new job roles": "True",
+            "Activities that include social interactions are more likely than others to be automated": "False",
+            "Activities that include physical tasks in predictable environments are more likely than others to be automated": "True"
+        }
+    },
+    {
+        "id": 58,
+        "savol": "You are conducting online research. When should you use a Boolean search?",
+        "variantlar": [
+            "To narrow the search results by excluding terms using the Not operator",
+            "To broaden the search results by including multiple search alternatives using the Or operator",
+            "To narrow the search results by combining search terms using the AND operator"
+        ],
+        "javob": {
+            "To narrow the search results by excluding terms using the Not operator": "Yes",
+            "To broaden the search results by including multiple search alternatives using the Or operator": "No",
+            "To narrow the search results by combining search terms using the AND operator": "Yes"
+        }
+    },
+    {
+        "id": 59,
+        "savol": "You are conducting online research. You find a selection of videos appear to support your hypothesis. You need to determine whether a video has been altered to change the original message. Which two methods of audio editing would indicate that the video has been altered to change the message? (Choose 2)",
+        "variantlar": [
+            "A voice-over identifying the cameraperson has been added to the end of the video",
+            "The original audio has been replaced by a music soundtrack",
+            "Closed captions have been added to the original audio",
+            "Words have been rearranged and inserted"
+        ],
+        "javob": [
+            "The original audio has been replaced by a music soundtrack",
+            "Words have been rearranged and inserted"
+        ]
+    },
+    {
+        "id": 60,
+        "savol": "You plan to sell your computer. You delete your personal files from your hard drive and then empty the Recycle Bin or Trash. What data remains on your hard drive?",
+        "variantlar": [
+            "None. The reference to the files on the hard drive and the file data are completely removed.",
+            "All of it. The reference to the files on the hard drive remains. The file data remains",
+            "The reference to the files on the hard drive remains. The file data is completely removed",
+            "The reference to the files on the hard drive is deleted. The file data remains."
+        ],
+        "javob": "The reference to the files on the hard drive is deleted. The file data remains."
+    },
+    {
+        "id": 61,
+        "savol": "You design a website for your school to track student involvement in clubs. You arrange a usability test to find out how well students can use the website. Which two actions should you take to ensure you get good test data? (Choose 2)",
+        "variantlar": [
+            "Watch the students use the website and note whether they have problems.",
+            "Show the students how to use the website",
+            "Listen to the students and record any questions they have about how to use the site",
+            "Tell the students why the school asked you to create the website"
+        ],
+        "javob": [
+            "Watch the students use the website and note whether they have problems.",
+            "Listen to the students and record any questions they have about how to use the site"
+        ]
+    },
+    {
+        "id": 62,
+        "savol": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt – text or No if it is not.",
+        "variantlar": [
+            "The image copyright",
+            "A brief description of the image",
+            "Context and details relevant to the image purpose"
+        ],
+        "javob": {
+            "The image copyright": "No",
+            "A brief description of the image": "Yes",
+            "Context and details relevant to the image purpose": "Yes"
+        }
+    },
+    {
+        "id": 63,
+        "savol": "You are the assistant coach of an adult soccer league. You collect registration information from each player. You decide to create a team contact list. Which information can you Not share without the player’s permission?",
+        "variantlar": [
+            "City of residence",
+            "Team name and position",
+            "First name and last name",
+            "Allergies"
+        ],
+        "javob": "Allergies"
+    },
+    {
+        "id": 64,
+        "savol": "You open a small business. You and your employees will use the Microsoft Office suite of productivity software. You need to decide whether to install the desktop apps or use the online version. What is a benefit of using a desktop app rather than a cloud app?",
+        "variantlar": [
+            "The software does not depend on an internet connection.",
+            "The up-front cost is less",
+            "The software uses less hard disk drive storage space",
+            "The software is updated more frequently"
+        ],
+        "javob": "The software does not depend on an internet connection."
+    },
+    {
+        "id": 65,
+        "savol": "Sophia’s group is working on a class project, but they’re unsure how to star. The teacher has already given instructions but the group is having a hard time getting started. What is the best approach for Sophia to help the team identify the issue?",
+        "variantlar": [
+            "Ask everyone to give their input on how to begin.",
+            "Let one person decide for the group.",
+            "Begin working independently until the group decides what to do.",
+            "Wait until the next day to see if everyone comes up with an idea."
+        ],
+        "javob": "Ask everyone to give their input on how to begin."
+    },
+    {
+        "id": 66,
+        "savol": "What is the key to contributing constructively to a project team?",
+        "variantlar": [
+            "Completing tasks faster than the other group members.",
+            "Providing feedback that helps improve the team’s work.",
+            "Focusing only on your assigned tasks",
+            "Avoiding conflicts by agreeing with all ideas."
+        ],
+        "javob": "Providing feedback that helps improve the team’s work."
+    },
+    {
+        "id": 67,
+        "savol": "Which statement describes the principles of cloud versioning?",
+        "variantlar": [
+            "Cloud versioning requires users to manually save every version of their files",
+            "Cloud versioning enables users to create multiple copies of a file",
+            "Cloud versioning allows users to save only the most recent version of a file",
+            "Cloud versioning keeps a history of changes made in to a file",
+            "Cloud versioning automatically deletes old versions after 30 days"
+        ],
+        "javob": "Cloud versioning keeps a history of changes made in to a file"
+    },
+    {
+        "id": 68,
+        "savol": "Match each media creation process from the list on the left with its appropriate action on the right",
+        "variantlar": [
+            "Choosing the right video resolution and aspect ratio for the platform",
+            "Adjusting colors, contrast, and brightness of the footage",
+            "Uploading the video to YouTube or other platforms for audience access"
+        ],
+        "javob": {
+            "Choosing the right video resolution and aspect ratio for the platform": "Capture video",
+            "Adjusting colors, contrast, and brightness of the footage": "Finalize production",
+            "Uploading the video to YouTube or other platforms for audience access": "Distribute video"
+        }
+    },
+    {
+        "id": 69,
+        "savol": "Which two actions describe ways to protect individual and corporate intellectual property?",
+        "variantlar": [
+            "Share your creative work on a public social media account.",
+            "Embed your name in the metadata of digital files as the copyright owner.",
+            "Create a creative commons license, allowing others to use your work with attribution.",
+            "Create a digital portfolio that is accessible to everyone on the internet."
+        ],
+        "javob": [
+            "Embed your name in the metadata of digital files as the copyright owner.",
+            "Create a creative commons license, allowing others to use your work with attribution."
+        ]
+    },
+    {
+        "id": 70,
+        "savol": "A friend is being bullied. Who should your friend report the bullying to?",
+        "variantlar": [
+            "The bully threatens to hurt your friend physically",
+            "The bully writes insults from social media posts on your friend’s gym class locker",
+            "The bully posts a series of insults about your friend on a hacked social media account"
+        ],
+        "javob": {
+            "The bully threatens to hurt your friend physically": "Law enforcement",
+            "The bully writes insults from social media posts on your friend’s gym class locker": "School faculty",
+            "The bully posts a series of insults about your friend on a hacked social media account": "Social media provider"
+        }
+    },
+    {
+        "id": 71,
+        "savol": "McKenna is setting up a new social media account and is asked to enable multifactor authentication. What is the main purpose of enabling this feature?",
+        "variantlar": [
+            "To change your password every month",
+            "To allow your friends to easily find you online",
+            "To confirm your identity",
+            "To create a more complex password for your account"
+        ],
+        "javob": "To confirm your identity"
+    },
+    {
+        "id": 72,
+        "savol": "You lead a project team in your digital design class. You and your teammates will create a project for a local business. You arrange a virtual meeting with the business owner to discuss the project. You need to ensure that the business owner leaves the meeting with confidence that your team can successfully complete the project. Which three actions should you take? (Choose 3.)",
+        "variantlar": [
+            "After the client presents ideas, paraphrase what they said.",
+            "Speak in a casual, informal manner to put the client at ease and encourage discussion.",
+            "Tell the client that you will email a draft proposal that includes deadlines.",
+            "Discuss your career goals in the field of digital design.",
+            "Decide with the client which forms of digital communication to use during the project.",
+            "Include a lengthy discussion about the design applications you will use."
+        ],
+        "javob": [
+            "After the client presents ideas, paraphrase what they said.",
+            "Tell the client that you will email a draft proposal that includes deadlines.",
+            "Decide with the client which forms of digital communication to use during the project."
+        ]
+    },
+    {
+        "id": 73,
+        "savol": "Your team has just completed a client review, and the client is not happy with the product. They have requested multiple changes to the product to address the problems, and they need the product to be fixed as quickly as possible. How should you efficiently complete their revisions?",
+        "variantlar": [
+            "Assign all tasks to the entire team so everyone will collaborate on the remaining tasks.",
+            "Assign the same task to multiple team members to avoid missing any of the remaining tasks.",
+            "Assign all work to the most experienced team member so the rest of the team can work on other projects.",
+            "Assign responsibilities so work is evenly distributed among team members."
+        ],
+        "javob": "Assign responsibilities so work is evenly distributed among team members."
+    },
+    {
+        "id": 74,
+        "savol": "You are creating a flowchart. Move each symbol description from the list on the left to its corresponding symbol on the right.",
+        "variantlar": [
+            "Data: can represent any type of data in a flowchart.",
+            "Decision: indicates a decision point between two or more paths in the chart.",
+            "Delay: indicates a delay in the process.",
+            "Terminator: indicates the beginning or end of a process."
+        ],
+        "javob": {
+            "Data: can represent any type of data in a flowchart.": "Parallelogram symbol",
+            "Decision: indicates a decision point between two or more paths in the chart.": "Diamond/Rhombus symbol",
+            "Delay: indicates a delay in the process.": "D-shaped symbol",
+            "Terminator: indicates the beginning or end of a process.": "Oval/Pill-shaped symbol"
+        }
+    },
+    {
+        "id": 75,
+        "savol": "Which software program can be used to create pivot tables?",
+        "variantlar": [
+            "Excel",
+            "Pages",
+            "Publisher",
+            "PowerPoint",
+            "Word"
+        ],
+        "javob": "Excel"
+    },
+    {
+        "id": 76,
+        "savol": "What is the purpose of clearing file storage space during troubleshooting?",
+        "variantlar": [
+            "To increase network speed",
+            "To make room for new system updates",
+            "To remove viruses from the system",
+            "To prevent applications from syncing with cloud storage"
+        ],
+        "javob": "To make room for new system updates"
+    },
+    {
+        "id": 77,
+        "savol": "Which two are appropriate web page elements that may require the use of the alt text attribute? (Choose 2)",
+        "variantlar": [
+            "Index",
+            "Table of Contents",
+            "Lengthy URL",
+            "Caption",
+            "Image"
+        ],
+        "javob": [
+            "Lengthy URL",
+            "Image"
+        ]
+    },
+    {
+        "id": 78,
+        "savol": "Which two actions would most likely make someone aware of technological advancements? (Choose 2)",
+        "variantlar": [
+            "Subscribe to a technology news feed.",
+            "Use a computing device daily.",
+            "Watch movies produced using technology.",
+            "Join several technology groups on social media and read their posts."
+        ],
+        "javob": [
+            "Subscribe to a technology news feed.",
+            "Join several technology groups on social media and read their posts."
+        ]
+    },
+    {
+        "id": 79,
+        "savol": "Which two circumstances would create a new cloud version in Google Docs? (Choose 2)",
+        "variantlar": [
+            "Uploading a new file",
+            "Copying a folder",
+            "Viewing contents of a folder",
+            "Adding a comment to a Google Doc",
+            "Downloading a file"
+        ],
+        "javob": [
+            "Uploading a new file",
+            "Adding a comment to a Google Doc"
+        ]
+    },
+    {
+        "id": 80,
+        "savol": "Identify if the digital devices meets the requirements.",
+        "variantlar": [
+            "A smartphone is capable of checking email, sending messages, and receiving voice calls without Wi-Fi",
+            "A tablet is sufficient to merge and edit large videos for your clients' websites",
+            "A notebook computer is portable for classroom use, supports access to the cloud, and runs most office apps"
+        ],
+        "javob": {
+            "A smartphone is capable of checking email, sending messages, and receiving voice calls without Wi-Fi": "Yes",
+            "A tablet is sufficient to merge and edit large videos for your clients' websites": "No",
+            "A notebook computer is portable for classroom use, supports access to the cloud, and runs most office apps": "Yes"
+        }
+    },
+    {
+        "id": 81,
+        "savol": "You are searching a job database website for \"project manager\" positions that work with SQL. But, you don't speak Spanish. Your first attempt entering just the keywords \"project manager\" returned too many results that had nothing to do with SQL or required Spanish language skills. You decide to narrow your results using a Boolean search. Which Boolean search would be appropriate to return only project manager positions involving SQL, but not Spanish language skills?",
+        "variantlar": [
+            "\"Project Manager\" AND SQL AND Spanish",
+            "\"Project Manager\" AND NOT SQL AND Spanish",
+            "\"Project Manager\" AND SQL AND NOT Spanish",
+            "\"Project Manager\" AND NOT (SQL OR Spanish)"
+        ],
+        "javob": "\"Project Manager\" AND SQL AND NOT Spanish"
+    },
+    {
+        "id": 82,
+        "savol": "What can be performed to remove any personal information from a device?",
+        "variantlar": [
+            "quick scan",
+            "Software updates",
+            "A factory reset",
+            "Device shutdown"
+        ],
+        "javob": "A factory reset"
+    },
+    {
+        "id": 83,
+        "savol": "Multifactor authentication (MFA) helps provide added security to an account by requiring two or more credentials to be entered when logging in. Which are three common credentials?",
+        "variantlar": [
+            "Fingerprint",
+            "Date",
+            "PIN",
+            "Username",
+            "Password"
+        ],
+        "javob": [
+            "Fingerprint",
+            "PIN",
+            "Password"
+        ]
+    },
+    {
+        "id": 84,
+        "savol": "If a user frequently uses the internet, how often should they run scans on their computer?",
+        "variantlar": [
+            "Once a month",
+            "Two to three times per week",
+            "Rarely",
+            "Every day"
+        ],
+        "javob": "Every day"
+    },
+    {
+        "id": 85,
+        "savol": "To communicate the results of data sets, it is helpful to display them visually. Identify the appropriate visual format to express the described data set. Select Yes if the visual format is appropriate or No if it is not.",
+        "variantlar": [
+            "A Table would be best to illustrate simple part-to-whole relationships within a small data set",
+            "To show trends that change over time, you should use a Line Graph",
+            "Displaying sales volumes of various products can be represented with a Column Chart",
+            "Displaying a comparative ranking of data, can be represented with a Bar Chart"
+        ],
+        "javob": {
+            "A Table would be best to illustrate simple part-to-whole relationships within a small data set": "No",
+            "To show trends that change over time, you should use a Line Graph": "Yes",
+            "Displaying sales volumes of various products can be represented with a Column Chart": "Yes",
+            "Displaying a comparative ranking of data, can be represented with a Bar Chart": "Yes"
+        }
+    },
+    {
+        "id": 86,
+        "savol": "You are traveling and your smartphone hasn't received text messages for the past several hours, yet a friend just called and told you she sent several. Now your phone won't make outbound calls. Which is the first troubleshooting step you should make with your smartphone?",
+        "variantlar": [
+            "If you have a SIM card, replace it.",
+            "Perform a factory reset.",
+            "Power your phone off and back on",
+            "Call technical support"
+        ],
+        "javob": "Power your phone off and back on"
+    },
+    {
+        "id": 87,
+        "savol": "Which is the best way to archive online privacy at your workplace?",
+        "variantlar": [
+            "Delete all cookies after doing personal shopping on your work computer.",
+            "Send personal emails using your work account.",
+            "Make sure nobody is looking when you surf the Internet.",
+            "Don't use work equipment to do anything personal"
+        ],
+        "javob": "Don't use work equipment to do anything personal"
+    },
+    {
+        "id": 88,
+        "savol": "Which two software tools would be best to compose a flowchart? (Choose 2).",
+        "variantlar": [
+            "Intuit QuickBooks",
+            "Affinity Designer",
+            "Microsoft Visio",
+            "SmartDraw",
+            "Adobe Illustrator"
+        ],
+        "javob": [
+            "Microsoft Visio",
+            "SmartDraw"
+        ]
+    },
+    {
+        "id": 89,
+        "savol": "Your smartphone has FireFox, Google Chrome, and your phone manufacturer's brand of browser installed. Currently, all websites open in the manufacturer's browser. You want to change the phone setting so websites automatically open in FireFox. On either an Android or iPhone smartphone, where can you change the setting that controls which browser opens automatically?",
+        "variantlar": [
+            "Task Manager",
+            "In the browser settings",
+            "Email Settings",
+            "In your phone's App store"
+        ],
+        "javob": "In the browser settings"
+    },
+    {
+        "id": 90,
+        "savol": "Which two software tools would be best to build tables, charts, and visual representations of raw data? (Choose 2).",
+        "variantlar": [
+            "Google Sheets",
+            "Microsoft Excel",
+            "Adobe Illustrator",
+            "Affinity Designer",
+            "Intuit QuickBooks"
+        ],
+        "javob": [
+            "Google Sheets",
+            "Microsoft Excel"
+        ]
+    },
+    {
+        "id": 91,
+        "savol": "The browser you use is Chrome. You would like to add an extension that will automatically display Spanish web pages in English. Which extension will allow the Chrome browser to display Spanish web pages in English?",
+        "variantlar": [
+            "Google Translate",
+            "Read-a-Loud",
+            "Screencastify",
+            "Dark Reader"
+        ],
+        "javob": "Google Translate"
+    },
+    {
+        "id": 92,
+        "savol": "Which of these file formats is capable of holding audio, video, and other media by containing data rather than code?",
+        "variantlar": [
+            "MP3",
+            "MP4",
+            "WMA",
+            "WAV"
+        ],
+        "javob": "MP4"
+    },
+    {
+        "id": 93,
+        "savol": "A team of college students are creating content for a website. Their instructor has advised them it is important that they follow accessibility standards for using fonts. Select Yes if the action stated follows accessibility standards or No if it will not.",
+        "variantlar": [
+            "Serif fonts should be used because they are the easiest to read online",
+            "Body text font sizes should be between 15-25px",
+            "Optimal length of a line of text is 45-90 characters.",
+            "The ideal width is 66 characters White space between headers and body text should be between 15-30px"
+        ],
+        "javob": {
+            "Serif fonts should be used because they are the easiest to read online": "No",
+            "Body text font sizes should be between 15-25px": "Yes",
+            "Optimal length of a line of text is 45-90 characters.": "Yes",
+            "The ideal width is 66 characters White space between headers and body text should be between 15-30px": "Yes"
+        }
+    },
+    {
+        "id": 94,
+        "savol": "How does color contrast affect the visually impaired?",
+        "variantlar": [
+            "Increasing contrast between an object and its background makes the object more visible.",
+            "Offering a variety of colors makes focusing easier for the visually impaired.",
+            "Color contrast has no affect on the visually impaired.",
+            "Increasing contrast between an object and its background makes the object less visible."
+        ],
+        "javob": "Increasing contrast between an object and its background makes the object more visible."
+    },
+    {
+        "id": 95,
+        "savol": "What are two reasons for software versioning? (Choose 2).",
+        "variantlar": [
+            "Allows retailers to charge more money",
+            "Enables customers to recognize updated versions",
+            "Allows programmers to track changes",
+            "Enables computing devices to use less memory",
+            "Allows software publishers to more efficiently track sales"
+        ],
+        "javob": [
+            "Enables customers to recognize updated versions",
+            "Allows programmers to track changes"
+        ]
+    },
+    {
+        "id": 96,
+        "savol": "What is the name of human ideas, which are internationally protected by either copyright, patent, trademark, or trade secret?",
+        "variantlar": [
+            "Imaginary Property",
+            "Real Property",
+            "Tangible Property",
+            "Intellectual Property"
+        ],
+        "javob": "Intellectual Property"
+    },
+    {
+        "id": 97,
+        "savol": "Which is the highest screen resolution?",
+        "variantlar": [
+            "1366×768",
+            "1920×1080",
+            "1440×900",
+            "1536x864"
+        ],
+        "javob": "1920×1080"
+    },
+    {
+        "id": 98,
+        "savol": "Which two are the most popular ways to distinguish between paragraph headings and body text on a website? (Choose 2).",
+        "variantlar": [
+            "Use a larger font for headings than body text.",
+            "Use the same font for both headings and body text.",
+            "Use only serif fonts.",
+            "Use the same size font for both headings and body text.",
+            "Use one font for headings and a different font for body text"
+        ],
+        "javob": [
+            "Use a larger font for headings than body text.",
+            "Use one font for headings and a different font for body text"
+        ]
+    },
+    {
+        "id": 99,
+        "savol": "A license that gives customers the right to modify and reuse the software.",
+        "variantlar": [
+            "Free and Open Source Software",
+            "Boolean Search",
+            "Computer Model Number",
+            "Synchronous Editing"
+        ],
+        "javob": "Free and Open Source Software"
+    },
+    {
+        "id": 100,
+        "savol": "A virus or Trojan horse designed to cause harm to a computer or device.",
+        "variantlar": [
+            "Proprietary Software",
+            "Password",
+            "Malware",
+            "Instant Messaging"
+        ],
+        "javob": "Malware"
+    },
+    {
+        "id": 101,
+        "savol": "An application used to access websites on the internet.",
+        "variantlar": [
+            "Attribution",
+            "Email",
+            "Browser",
+            "Public Domain"
+        ],
+        "javob": "Browser"
+    },
+    {
+        "id": 102,
+        "savol": "What are two consequences of posting one's current location while away on vacation? Choose 2",
+        "variantlar": [
+            "Others will know the user's location",
+            "Others will not believe the user is away",
+            "Others will go on vacation",
+            "Others will know that the user's home is vacant",
+            "Others will think the user is home"
+        ],
+        "javob": [
+            "Others will know the user's location",
+            "Others will know that the user's home is vacant"
+        ]
+    },
+    {
+        "id": 103,
+        "savol": "What should digital users have current knowledge of? Choose 2.",
+        "variantlar": [
+            "The latest technology",
+            "Internet wormholes",
+            "Early computer history",
+            "Compromised data"
+        ],
+        "javob": [
+            "The latest technology",
+            "Compromised data"
+        ]
+    },
+    {
+        "id": 104,
+        "savol": "If someone chooses to share their account information with a close friend, what should that friend do with the information?",
+        "variantlar": [
+            "Keep the information safe",
+            "Impersonate the friend as a joke",
+            "Steal and share personally identifiable information",
+            "Use the information to make purchases"
+        ],
+        "javob": "Keep the information safe"
+    },
+    {
+        "id": 105,
+        "savol": "Matching Match the specific requirement to the most appropriate digital device",
+        "variantlar": [
+            "Capable of checking email, sending messages, and receiving voice calls without Wi-Fi",
+            "Capable of merging and editing large videos for a client’s website",
+            "Portable for classroom use, support note taking, access to the cloud, and runs most office apps"
+        ],
+        "javob": {
+            "Capable of checking email, sending messages, and receiving voice calls without Wi-Fi": "Smartphone",
+            "Capable of merging and editing large videos for a client’s website": "Desktop Computer",
+            "Portable for classroom use, support note taking, access to the cloud, and runs most office apps": "Tablet"
+        }
+    },
+    {
+        "id": 106,
+        "savol": "A means of giving credit to a source when their information is used.",
+        "variantlar": [
+            "Search Operators",
+            "Chart",
+            "Encryption",
+            "Citation"
+        ],
+        "javob": "Citation"
+    },
+    {
+        "id": 107,
+        "savol": "A free license used by creators to permit others to use their content, free of charge, as long as they follow the license rules.",
+        "variantlar": [
+            "Email",
+            "Attribution",
+            "Personally Identifiable Information",
+            "Creative Commons License"
+        ],
+        "javob": "Creative Commons License"
+    },
+    {
+        "id": 108,
+        "savol": "A digital language made up of binary digits, which are ones and zeros that allow the hardware and software to communicate and work together.",
+        "variantlar": [
+            "Grammarly",
+            "Binary-Coded Machine Language",
+            "Page Orientation",
+            "Public Domain"
+        ],
+        "javob": "Binary-Coded Machine Language"
+    },
+    {
+        "id": 109,
+        "savol": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
+        "variantlar": [
+            "Intuit QuickBooks",
+            "Microsoft PowerPoint",
+            "Adobe InDesign",
+            "Google Sheets"
+        ],
+        "javob": "Google Sheets"
+    },
+    {
+        "id": 110,
+        "savol": "Which two practices are recommended to help you stay informed about current digital threats, scams, and security breaches for a digital app that you use? (Choose 2.)",
+        "variantlar": [
+            "Follow a variety of social media accounts that post independent content about digital tools.",
+            "Pay attention to app notifications for software updates and terms of use changes from the app publisher.",
+            "Subscribe to email alerts for the app publisher's latest marketing offers and special discounts.",
+            "Review the app publisher's website once a year for updates and news."
+        ],
+        "javob": [
+            "Follow a variety of social media accounts that post independent content about digital tools.",
+            "Pay attention to app notifications for software updates and terms of use changes from the app publisher."
+        ]
+    },
+    {
+        "id": 111,
+        "savol": "Analyze the following statements about employment and how it relates to social media use and privacy. For each statement, select True or False.",
+        "variantlar": [
+            "Employers are allowed to monitor your social media posts",
+            "You can be fired for social media messages you post on your own time",
+            "Employers can restrict what you post on your personal social media accounts"
+        ],
+        "javob": {
+            "Employers are allowed to monitor your social media posts": "True",
+            "You can be fired for social media messages you post on your own time": "True",
+            "Employers can restrict what you post on your personal social media accounts": "True"
+        }
+    },
+    {
+        "id": 112,
+        "savol": "You post a video on your company's website. Site users complain that the video takes long time to load. You need to decrease the video loading time. For each action, select Yes if it will make the video load faster or No if it will not.",
+        "variantlar": [
+            "Increase the video bitrate",
+            "Convert the video to HTML5",
+            "Decrease the video resolution",
+            "Replace the video with an uncompressed version"
+        ],
+        "javob": {
+            "Increase the video bitrate": "No",
+            "Convert the video to HTML5": "Yes",
+            "Decrease the video resolution": "Yes",
+            "Replace the video with an uncompressed version": "No"
+        }
+    },
+    {
+        "id": 113,
+        "savol": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt-text or No if it is not.",
+        "variantlar": [
+            "The image copyright",
+            "A brief description of the image",
+            "Context and details relevant to the image pirporse"
+        ],
+        "javob": {
+            "The image copyright": "No",
+            "A brief description of the image": "Yes",
+            "Context and details relevant to the image pirporse": "Yes"
+        }
+    },
+    {
+        "id": 114,
+        "savol": "Which two actions will improve the readability of a document? (Choose2.)",
+        "variantlar": [
+            "Carefully choose a font color with strong contrast against the background.",
+            "Use a small, compact font size to prevent paragraphs from breaking across pages.",
+            "Set the line spacing so there is a slight distance between each line of text.",
+            "Type in all caps to make the text more uniform in appearance.",
+            "Select a font family that is unique, decorative, and in line with modern trends."
+        ],
+        "javob": [
+            "Carefully choose a font color with strong contrast against the background.",
+            "Set the line spacing so there is a slight distance between each line of text."
+        ]
+    },
+    {
+        "id": 115,
+        "savol": "You are starting a home bakery business. You plan to create a website on which customers can place pickup and delivery orders. For which two reasons should you create a prototype of your order form? (Choose 2.)",
+        "variantlar": [
+            "To test whether the solution will work.",
+            "To enable customers to place orders before you launch the website.",
+            "To reveal flaws in your design.",
+            "To advertise your business."
+        ],
+        "javob": [
+            "To test whether the solution will work.",
+            "To reveal flaws in your design."
+        ]
+    },
+    {
+        "id": 116,
+        "savol": "For which two reasons should you run a virus scan? (Choose 2.)",
+        "variantlar": [
+            "Your computer starts to run slower than usual.",
+            "You receive an email message from an online store after placing an order there.",
+            "A program begins operations on its own, without you initiating it.",
+            "A pop-up ad appears on a website."
+        ],
+        "javob": [
+            "Your computer starts to run slower than usual.",
+            "A program begins operations on its own, without you initiating it."
+        ]
+    },
+    {
+        "id": 117,
+        "savol": "Your team is creating a website for a local business. You agree to act as the team spokesperson, although you do not have all the information. You arrange a virtual meeting with the business owner. Your meeting software allows you to enable and disable chat for different participants. How should you configure the chat feature of the virtual meeting software for this meeting?",
+        "variantlar": [
+            "Allow chat communication between all meeting participants.",
+            "Allow chat communication only between you and the client.",
+            "Turn off the chat function.",
+            "Allow chat communication only between you and your team members."
+        ],
+        "javob": "Allow chat communication only between you and your team members."
+    },
+    {
+        "id": 118,
+        "savol": "Which three types of authentication factors are used to prove your identity when you use multifactor authentication? (Choose 3.)",
+        "variantlar": [
+            "Something you are",
+            "Something you make",
+            "Something you calculate",
+            "Something you know",
+            "Something you research",
+            "Something you have"
+        ],
+        "javob": [
+            "Something you are",
+            "Something you know",
+            "Something you have"
+        ]
+    },
+    {
+        "id": 119,
+        "savol": "A story about a college test prep study guide appears in your social media news feed. ... Which two logical fallacies does the story contain? (Choose 2.)",
+        "variantlar": [
+            "Red herring",
+            "False dilemma",
+            "Ad hominem",
+            "Hasty generalization"
+        ],
+        "javob": [
+            "False dilemma",
+            "Hasty generalization"
+        ]
+    },
+    {
+        "id": 120,
+        "savol": "You are performing online research for a class. For each search topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
+        "variantlar": [
+            "Safaris outside of Africa",
+            "General information about zebras",
+            "A specific quote by a specific author",
+            "Elephants in the southern hemisphere"
+        ],
+        "javob": {
+            "Safaris outside of Africa": "Yes",
+            "General information about zebras": "No",
+            "A specific quote by a specific author": "No",
+            "Elephants in the southern hemisphere": "No"
+        }
+    },
+    {
+        "id": 121,
+        "savol": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
+        "variantlar": [
+            "Intuit QuickBooks",
+            "Microsoft PowerPoint",
+            "Adobe InDesign",
+            "Google Sheets"
+        ],
+        "javob": "Google Sheets"
+    },
+    {
+        "id": 122,
+        "savol": "Which two actions can you take to improve your communication skills? (Choose 2)",
+        "variantlar": [
+            "When talking with the client, speak in a positive, respectful tone.",
+            "Text the client to apologize for your poor communication.",
+            "When the client asks questions, summarize the question before you answer.",
+            "Have another team member take over the communication at the next meeting."
+        ],
+        "javob": [
+            "When talking with the client, speak in a positive, respectful tone.",
+            "When the client asks questions, summarize the question before you answer."
+        ]
+    },
+    {
+        "id": 123,
+        "savol": "Which two video editing methods are used to alter videos to change the original meaning of the content? (Choose 2.) Note: You will receive partial credit for each correct answer.",
+        "variantlar": [
+            "Show a brief clip of a longer segment of the video.",
+            "At the end of the video, show links to credible sources that support the message of the video.",
+            "Edit together pieces of different videos.",
+            "Identify the people in the video and the cameraperson in credits at the end of the vide"
+        ],
+        "javob": [
+            "Show a brief clip of a longer segment of the video.",
+            "Edit together pieces of different videos."
+        ]
+    },
+    {
+        "id": 124,
+        "savol": "Which statement is correct?",
+        "variantlar": [
+            "This laptop meets the optimal system requirements.",
+            "This laptop meets the recommended system requirements.",
+            "This laptop meets the minimum system requirements.",
+            "This laptop does not meet the minimum system requirements."
+        ],
+        "javob": "This laptop meets the minimum system requirements."
+    },
+    {
+        "id": 125,
+        "savol": "Which file size is the largest?",
+        "variantlar": [
+            "3 petabytes (PB)",
+            "16 gigabytes (GB)",
+            "1.44 megabytes (MB)",
+            "640 kilobytes (KB)",
+            "2 terabytes (TB)"
+        ],
+        "javob": "3 petabytes (PB)"
+    },
+    {
+        "id": 126,
+        "savol": "How can you ensure your contributions to a project team are most effective?",
+        "variantlar": [
+            "By being open to suggestions and willing to adapt your ideas",
+            "By focusing only on your own tasks",
+            "By always taking the lead",
+            "By withholding your ideas"
+        ],
+        "javob": "By being open to suggestions and willing to adapt your ideas"
+    },
+    {
+        "id": 127,
+        "savol": "Which of the following files can you NOT send through a standard email provider such as Gmail or Yahoo?",
+        "variantlar": [
+            "A 30-frame 1080p-resolution animated GIF",
+            "A 5-minute podcast in MP3 format",
+            "A 1-minute 8K-resolution video in AVI format",
+            "A 400-page plain-text file"
+        ],
+        "javob": "A 1-minute 8K-resolution video in AVI format"
+    },
+    {
+        "id": 128,
+        "savol": "Which file cannot typically be sent through a standard email provider?",
+        "variantlar": [
+            "A text document",
+            "A 5-minute MP3 file",
+            "A 1-minute 8K video in AVI format",
+            "An animated GIF"
+        ],
+        "javob": "A 1-minute 8K video in AVI format"
+    },
+    {
+        "id": 129,
+        "savol": "Which scenario would NOT be considered fair use of a video clip?",
+        "variantlar": [
+            "Using the clip in a news report",
+            "Using the clip for teaching",
+            "Using the clip in a political advertisement",
+            "Using the clip in a parody"
+        ],
+        "javob": "Using the clip in a political advertisement"
+    },
+    {
+        "id": 130,
+        "savol": "Which two video editing methods can alter a video to change its original meaning? (Choose 2)",
+        "variantlar": [
+            "Showing a short clip out of context",
+            "Editing together clips from different videos",
+            "Adding credits",
+            "Including references"
+        ],
+        "javob": [
+            "Showing a short clip out of context",
+            "Editing together clips from different videos"
+        ]
+    },
+    {
+        "id": 131,
+        "savol": "Which two actions will improve the readability of a document?(Choose 2)",
+        "variantlar": [
+            "Use all capital letters",
+            "Use a strong contrast between text and background",
+            "Use slight spacing between lines of text",
+            "Use decorative fonts"
+        ],
+        "javob": [
+            "Use a strong contrast between text and background",
+            "Use slight spacing between lines of text"
+        ]
+    },
+    {
+        "id": 132,
+        "savol": "Which two actions will improve communication skills when working with a client? (Choose 2)",
+        "variantlar": [
+            "Summarize the question before answering",
+            "Send a text message to apologize for poor communication",
+            "Have another team member take over communication",
+            "Speak in positive and respectful tone"
+        ],
+        "javob": [
+            "Summarize the question before answering",
+            "Speak in positive and respectful tone"
+        ]
+    }
+]

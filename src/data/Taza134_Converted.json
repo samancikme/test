@@ -1,0 +1,3839 @@
+[
+  {
+    "id": "t134-q1",
+    "questionNumber": 1,
+    "questionText": "Experts are concerned that society will lose some skills because of reliance on technology. Which three skills can become underutilized through the use of technology? (Choose 3)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Map navigation"
+      },
+      {
+        "id": "o2",
+        "text": "Memorization"
+      },
+      {
+        "id": "o3",
+        "text": "Organization"
+      },
+      {
+        "id": "o4",
+        "text": "Mental math"
+      },
+      {
+        "id": "o5",
+        "text": "Eye-hand coordination"
+      },
+      {
+        "id": "o6",
+        "text": "Dexterity"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q2",
+    "questionNumber": 2,
+    "questionText": "Which practice helps keep your online accounts secure?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Share your password with trusted friends"
+      },
+      {
+        "id": "o2",
+        "text": "Use the same password for all accounts"
+      },
+      {
+        "id": "o3",
+        "text": "Use strong, unique passwords for each account"
+      },
+      {
+        "id": "o4",
+        "text": "Write your password on paper near your computer"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q3",
+    "questionNumber": 3,
+    "questionText": "What is an advantage of collaborating within a team to resolve an issue?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It ensures external resources are unnecessary."
+      },
+      {
+        "id": "o2",
+        "text": "It eliminates the need for individual leadership"
+      },
+      {
+        "id": "o3",
+        "text": "It allows for diverse perspective to generate solutions."
+      },
+      {
+        "id": "o4",
+        "text": "It balances speed and quality when addressing"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q4",
+    "questionNumber": 4,
+    "questionText": "Electronic waste (e-waste) refers to used electronics that are discarded, donated, or given to a recycler. For each statement about e-waste, select True or False",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Over 60% of e-waste is recycled",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "E-waste is the slowest slowest growing from of waste worldwide",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "E-waste contains precious metals like gold and silver that can be recovered and reused",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "E-waste contains toxic metals like lead and mercury that cause human illness uf they leach into groundwater",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q5",
+    "questionNumber": 5,
+    "questionText": "What is a benefit of using a cyclical design process to create digital products?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It allows you to follow a strict schedule with a definite ending deadline."
+      },
+      {
+        "id": "o2",
+        "text": "It allows you to deliver the final product as quickly as possible with few changes"
+      },
+      {
+        "id": "o3",
+        "text": "It allows you to continually test and improve the product to achieve the best possible result."
+      },
+      {
+        "id": "o4",
+        "text": "It allows you to work independently, without needing to ask input from other team members."
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q6",
+    "questionNumber": 6,
+    "questionText": "You are working with classmates on a team project. Your part of the project is due in three days. You realize that you need more time to finish. You have an online meeting tomorrow. What should you do?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Wait to communicate with the team until after you complete your part of the project."
+      },
+      {
+        "id": "o2",
+        "text": "Explain why you haven’t made enough progress"
+      },
+      {
+        "id": "o3",
+        "text": "Tell the team you took an too much"
+      },
+      {
+        "id": "o4",
+        "text": "Describe what you have accomplished and ask for help with the rest."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q7",
+    "questionNumber": 7,
+    "questionText": "Your Windows 10 computer has Microsoft Edge, Microsoft Internet Explorer, and Google Chrome installed, Every time you click a link to a website in an email message, the website opens in Microsoft Edge. You want to open links in Google Chrome instead. In Windows 10, where can you configure this setting?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Default Apps"
+      },
+      {
+        "id": "o2",
+        "text": "Email Privacy Settings"
+      },
+      {
+        "id": "o3",
+        "text": "Notifications"
+      },
+      {
+        "id": "o4",
+        "text": "Task Manager"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q8",
+    "questionNumber": 8,
+    "questionText": "You are researching apples on the internet. For each research topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Apple varieties",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "History of apple agriculture",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Recipes for apple pie or cake",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Macintosh apples, but not the Macintosh computer",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q9",
+    "questionNumber": 9,
+    "questionText": "You need to find drivers for a Windows 10 laptop. Device manager shows “unknown device” for several components. What should you do?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "From Device Manager, scan for hardware changes."
+      },
+      {
+        "id": "o2",
+        "text": "Use the model number of the machine to locate the Drivers page on the laptop manufacturer’s website."
+      },
+      {
+        "id": "o3",
+        "text": "Restart the computer and use the Windows 10 repair tool"
+      },
+      {
+        "id": "o4",
+        "text": "Purchase device driver software from the store where the computer was purchased."
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q10",
+    "questionNumber": 10,
+    "questionText": "You purchase a software program to complete a specific project. After you finish the project, a friend asks to borrow the program. You need to determine whether this is an acceptable use of the software. Where can you find this information?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Content Management System (CMS)"
+      },
+      {
+        "id": "o2",
+        "text": "Electronic Software Rating Board (ESRB)"
+      },
+      {
+        "id": "o3",
+        "text": "Access Control List (ACL)"
+      },
+      {
+        "id": "o4",
+        "text": "End User License Agreement (EULA)"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q11",
+    "questionNumber": 11,
+    "questionText": "You work for company with a strict security policy. A coworker shares their password with you. For each statement, select true or False.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "If you someone else’s password, your employer can restrict your future access to the company network.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Using a coworker’s password to sign then into the company network because they are late for work is fraud",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "If multiple people know a coworker’s password and a security breach occurs, they could all be held responsible",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q12",
+    "questionNumber": 12,
+    "questionText": "What happens when you enlarge a small bitmap image that you save from a webpage?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The image becomes pixelated."
+      },
+      {
+        "id": "o2",
+        "text": "The image becomes clearer"
+      },
+      {
+        "id": "o3",
+        "text": "The image file size decreases"
+      },
+      {
+        "id": "o4",
+        "text": "The image resolution decreases"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q13",
+    "questionNumber": 13,
+    "questionText": "Which command should you select?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "You and Google"
+      },
+      {
+        "id": "o2",
+        "text": "Appearance"
+      },
+      {
+        "id": "o3",
+        "text": "Default browser"
+      },
+      {
+        "id": "o4",
+        "text": "On startup"
+      },
+      {
+        "id": "o5",
+        "text": "Reset an clean up"
+      }
+    ],
+    "correctAnswer": "o5"
+  },
+  {
+    "id": "t134-q14",
+    "questionNumber": 14,
+    "questionText": "What are two traits of a constructive team member? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Opinionated"
+      },
+      {
+        "id": "o2",
+        "text": "Rigid"
+      },
+      {
+        "id": "o3",
+        "text": "Confident"
+      },
+      {
+        "id": "o4",
+        "text": "Inquisitive"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q15",
+    "questionNumber": 15,
+    "questionText": "You encounter a video on social media that you suspect might be a deepfake generated by AI. For each statement, select Yes if the action would help you determine if the statement is true or No if it would not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Assume that because the video contains a statement unlikely to be said by the speaker that the video is trustworthy",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Search online for some of the specific quotes from the video to see if they are being featured by reputable news organizations",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Consider the motivations of the originators and sharers of the video",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Check the comments on the video to see if there are accusations of impropriety or other issues",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q16",
+    "questionNumber": 16,
+    "questionText": "A story about a college test prep study guide appears in your social media news feed. The story contains the following information: A recent study of 1000 students showed that students improved their test scores by 25% when they used this specific study guide. One renowned college professor associated with the study stated, “If students do not use this guige, they might not earn the scores they need to be admitted to a college or university.” You identify two common logical fallacies does the story contain?(Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Appeal to authority – relying on one expert, named or unnamed, as the basis for an argument."
+      },
+      {
+        "id": "o2",
+        "text": "Ad hominem (“against the person”) – attacking the person and not the issue."
+      },
+      {
+        "id": "o3",
+        "text": "Appeal to tradition – ignoring past problems and assuming that the way things were is better than they are now"
+      },
+      {
+        "id": "o4",
+        "text": "False dilemma – limiting the possible choices to avoid consideration of another choice"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q17",
+    "questionNumber": 17,
+    "questionText": "Move each content type from the list on the left to the most appropriate application for presenting the content on the right.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "A large data set that you manipulate by using formulas",
+        "right": "Microsoft Excel"
+      },
+      {
+        "left": "A multiple – page project proposal with an automatically generated table of contents and index",
+        "right": "Microsoft Word"
+      },
+      {
+        "left": "A visual presentation that automatically advances through multiple topics on an computer",
+        "right": "Microsoft PowerPoint"
+      }
+    ]
+  },
+  {
+    "id": "t134-q18",
+    "questionNumber": 18,
+    "questionText": "You copy a 30-second video clip from the internet. You do not know who created the video. Which scenario would NOT be fair use of the video clip?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "You create a parody that includes the video clip."
+      },
+      {
+        "id": "o2",
+        "text": "You create a political ad that includes the video clip."
+      },
+      {
+        "id": "o3",
+        "text": "You use the video clip as part of a news report."
+      },
+      {
+        "id": "o4",
+        "text": "You use the video clip to teach/"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q19",
+    "questionNumber": 19,
+    "questionText": "You see a post online in which a person is threatening to commit a harmful act. What is the action you should take?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Take a screenshot of the post and wait to see if the harmful act is committed."
+      },
+      {
+        "id": "o2",
+        "text": "Reply to the post and convince the original poster not to commit this act."
+      },
+      {
+        "id": "o3",
+        "text": "Share the post to your own social media audience to warn others about the threat"
+      },
+      {
+        "id": "o4",
+        "text": "Notify your local law enforcement by telephone or emergency text message if available."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q20",
+    "questionNumber": 20,
+    "questionText": "Your team is working virtually on a group project. You want the group and project to be successful. For each statement about strategies for achieving success in a virtual group, select True or False.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Have team members collect information in a OneNote notebook",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Increase efficiency by utilizing only asynchronous communication",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Create a team discussion board for project-related conversations",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Have a central file storage location that all team members can accerss",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q21",
+    "questionNumber": 21,
+    "questionText": "For each statement, select True or False. Note: You will receive partial credit for each correct selection.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Web pages are more credible if they cite sources for their content",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "You know a source is reliable when the website address ends in .org",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Consulting multiple sources is a good way to determine a site’s accuracy",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "A search engine differentiates between good and bad sites. The first results are usually the most reliable",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "t134-q22",
+    "questionNumber": 22,
+    "questionText": "Jackson is working at a tech store. A customer calls to ask about a faulty laptop. The laptop is an older model, and there are newer versions available. What is the best first step for Jackson to take to understand the issue?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Explain that the laptop is probably too old to fix"
+      },
+      {
+        "id": "o2",
+        "text": "Ask the customer about any error messages"
+      },
+      {
+        "id": "o3",
+        "text": "Tell the customer to come into the store for a refund"
+      },
+      {
+        "id": "o4",
+        "text": "Suggest that the customer buy a new laptop"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q23",
+    "questionNumber": 23,
+    "questionText": "You have been asked to address unhappy and angry customer reviews online. You need to determine how to customize your message for the audience . for each customization , select True if you should implement it or False if you should not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Offer solutions to the problems the customers express",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Apologize only if the customers have a valid complaint",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Tell unhappy customers that many other customers have given positive reviews of your company",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "t134-q24",
+    "questionNumber": 24,
+    "questionText": "Which term describes the text embedded with an image that describes the image’s visual content to be read aloud by a screen reader?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Caption"
+      },
+      {
+        "id": "o2",
+        "text": "Alt text"
+      },
+      {
+        "id": "o3",
+        "text": "Blockquote"
+      },
+      {
+        "id": "o4",
+        "text": "Header"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q25",
+    "questionNumber": 25,
+    "questionText": "What is the first thing you should consider when preparing a digital presentation to ensure it can be viewed effectively on various devices?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use many transitions and animations"
+      },
+      {
+        "id": "o2",
+        "text": "Optimize file size of images and videos for quick loading"
+      },
+      {
+        "id": "o3",
+        "text": "Use fancy decorative fonts"
+      },
+      {
+        "id": "o4",
+        "text": "Put as much text as possible on slides"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q26",
+    "questionNumber": 26,
+    "questionText": "You must conduct various searches. Move each search topic from the list on the left to the corresponding type of search on the right.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Population statistics",
+        "right": "Informational"
+      },
+      {
+        "left": "A specific site",
+        "right": "Navigational"
+      },
+      {
+        "left": "Third – party options to purchase software",
+        "right": "Transactional"
+      }
+    ]
+  },
+  {
+    "id": "t134-q27",
+    "questionNumber": 27,
+    "questionText": "You need to maximize you online privacy. For each action, select Yes if it contributes to online privacy or No if it does not",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Stay logged into websites",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Delete cookies after using the browser",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Use the same credentials for multiple accounts",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s4",
+        "text": "Open all email messages to make sure they do not include malware",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "t134-q28",
+    "questionNumber": 28,
+    "questionText": "Which type of software can be used online and with iOS and Android devices?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Microsoft 365"
+      },
+      {
+        "id": "o2",
+        "text": "Chrome OS"
+      },
+      {
+        "id": "o3",
+        "text": "Windows 11"
+      },
+      {
+        "id": "o4",
+        "text": "Mac OS"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q29",
+    "questionNumber": 29,
+    "questionText": "Which term describes unwanted email that are sent in bulk?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Spam"
+      },
+      {
+        "id": "o2",
+        "text": "Malware"
+      },
+      {
+        "id": "o3",
+        "text": "Phishing"
+      },
+      {
+        "id": "o4",
+        "text": "Encryption"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q30",
+    "questionNumber": 30,
+    "questionText": "Which two action will increase audience engagement?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Clearly read aloud the slide text"
+      },
+      {
+        "id": "o2",
+        "text": "Speak in a soothing monotone"
+      },
+      {
+        "id": "o3",
+        "text": "Encourage participation with polls or virtual hand - raising"
+      },
+      {
+        "id": "o4",
+        "text": "Have group members take turns presenting"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q31",
+    "questionNumber": 31,
+    "questionText": "Which to actions will help the idea – generation process? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Withhold criticism of your peer’s ideas"
+      },
+      {
+        "id": "o2",
+        "text": "Only share ideas you’re very confident about"
+      },
+      {
+        "id": "o3",
+        "text": "Limit each team member to one or two ideas"
+      },
+      {
+        "id": "o4",
+        "text": "Encourage wild ideas"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q32",
+    "questionNumber": 32,
+    "questionText": "Which action best demonstrates an understanding of intellectual property guidelines when reusing someone’s work?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Modify the original work slightly and present it as your own"
+      },
+      {
+        "id": "o2",
+        "text": "Credit the source only in a bibliography"
+      },
+      {
+        "id": "o3",
+        "text": "Use small portions assuming it is fair use"
+      },
+      {
+        "id": "o4",
+        "text": "Provide attribution after adhering to fair use principles"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q33",
+    "questionNumber": 33,
+    "questionText": "Complete the sentences by selecting the correct option from each drop – down list.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Fingerprints and facial recognition are examples of...",
+        "right": "Biometric authentication factors"
+      },
+      {
+        "left": "Smartphones and employee access cards are examples of...",
+        "right": "Possession (Physical) authentication factors"
+      },
+      {
+        "left": "Passwords and personal identification numbers (PINs) are examples of...",
+        "right": "Knowledge (Logical) authentication factors"
+      }
+    ]
+  },
+  {
+    "id": "t134-q34",
+    "questionNumber": 34,
+    "questionText": "You are creating content for a website. You need to follow accessibility standards. Complete the sentences by selecting the correct option from each drop-down list",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "The preferred font style is...",
+        "right": "sans serif"
+      },
+      {
+        "left": "The minimum recommended font size for website body test is...",
+        "right": "12 point/16 pixels"
+      },
+      {
+        "left": "You should maintain a... between the font color and the background color",
+        "right": "high contrast"
+      }
+    ]
+  },
+  {
+    "id": "t134-q35",
+    "questionNumber": 35,
+    "questionText": "You plan to get a job in information technology. You need to stay current with the latest digital technologies. What should you do?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Subscribe to and read notifications from respected technology sites."
+      },
+      {
+        "id": "o2",
+        "text": "Refresh your knowledge of digital technology by taking a new class every three years."
+      },
+      {
+        "id": "o3",
+        "text": "Volunteer to create a monthly newsletter for a local school"
+      },
+      {
+        "id": "o4",
+        "text": "Write a monthly blog post about new technology that interests you."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q36",
+    "questionNumber": 36,
+    "questionText": "Which two visual representations are best for population growth over time?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bar graph"
+      },
+      {
+        "id": "o2",
+        "text": "Map"
+      },
+      {
+        "id": "o3",
+        "text": "Line graph"
+      },
+      {
+        "id": "o4",
+        "text": "Pie chart"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q37",
+    "questionNumber": 37,
+    "questionText": "Which option is recommended for creating a secure password you can remember?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use your social media profile name"
+      },
+      {
+        "id": "o2",
+        "text": "Use your favorite color and animal"
+      },
+      {
+        "id": "o3",
+        "text": "Use parts of a random phrase"
+      },
+      {
+        "id": "o4",
+        "text": "Use a name with a number at the end"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q38",
+    "questionNumber": 38,
+    "questionText": "Liam is working on his math homework but doesn’t understand how to solve question 12 in the “Fractions 4.1” assignment. What should Liam write in the subject line when emailing his teacher about this issue?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Help Needed for Fractions 4.1, Question 12"
+      },
+      {
+        "id": "o2",
+        "text": "Urgent Help"
+      },
+      {
+        "id": "o3",
+        "text": "Teacher I Need HELP Email Me Back NOW"
+      },
+      {
+        "id": "o4",
+        "text": "(no subject)"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q39",
+    "questionNumber": 39,
+    "questionText": "Isaac’s online banking app asks for a code from his phone in addition to his password. What is this an example of?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Multifactor authentication"
+      },
+      {
+        "id": "o2",
+        "text": "A website cookie"
+      },
+      {
+        "id": "o3",
+        "text": "A phishing attempt"
+      },
+      {
+        "id": "o4",
+        "text": "A password reset prompt"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q40",
+    "questionNumber": 40,
+    "questionText": "You need to troubleshoot issues with your computer and smartphone. Move each troubleshooting step from the list on the left to its corresponding issue on the right.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "The computer screen freezes while you are working on a project",
+        "right": "Check Task Manager for resource usage"
+      },
+      {
+        "left": "Webpages load slowly while you are searching for information on the internet",
+        "right": "Check the network connection"
+      },
+      {
+        "left": "A camera shutter noise comes from your smartphone but you are not taking photos",
+        "right": "Check application permission"
+      },
+      {
+        "left": "When you start your computer, you hear a rhythmic ticking sound inside the case",
+        "right": "Check the hard disk drive for a worn disk head"
+      }
+    ]
+  },
+  {
+    "id": "t134-q41",
+    "questionNumber": 41,
+    "questionText": "Your teacher requires that you store your assignments in a specific folder in the cloud. The school’s cloud storage platform has versioning turned on. What does this enable you to do?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Access your files from any operating system"
+      },
+      {
+        "id": "o2",
+        "text": "Restore files that you’ve deleted from the cloud"
+      },
+      {
+        "id": "o3",
+        "text": "Retrieve old versions of your files from the cloud"
+      },
+      {
+        "id": "o4",
+        "text": "Access your files from any version of the cloud storage app"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q42",
+    "questionNumber": 42,
+    "questionText": "Move each visual representation goal from the list on the left to ots most effective visual format on the right.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Illustrate simple part- to-whole relationships within a small data set",
+        "right": "Pie chart"
+      },
+      {
+        "left": "Show how one or more data series change over time",
+        "right": "Line graph"
+      },
+      {
+        "left": "Show the correlation and distribution of a large amount of data",
+        "right": "Scatter plot"
+      }
+    ]
+  },
+  {
+    "id": "t134-q43",
+    "questionNumber": 43,
+    "questionText": "Which action best demonstrates an understanding of intellectual property guidelines when reusing someone’s work ?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Providing attribution after adhering to fair use principles"
+      },
+      {
+        "id": "o2",
+        "text": "Crediting the original source in a bibliography instead of using direct in –text citations"
+      },
+      {
+        "id": "o3",
+        "text": "Using small portions of the work under the assumption that it falls under fair use"
+      },
+      {
+        "id": "o4",
+        "text": "Making sure you modify the original work slightly and then present it as your own."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q44",
+    "questionNumber": 44,
+    "questionText": "You are tasked with designing a website that achieves the following goals:… Which two website criteria are design constraints? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It must be quick to load."
+      },
+      {
+        "id": "o2",
+        "text": "It must provide a method for students to indicate why they will be absent."
+      },
+      {
+        "id": "o3",
+        "text": "It must be complete in two weeks."
+      },
+      {
+        "id": "o4",
+        "text": "It must be easy to use."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q45",
+    "questionNumber": 45,
+    "questionText": "What is the first thing you should consider when preparing a digital presentation to ensure it can be viewed effectively on various devices?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Include as much text as possible on each slide to keep the total number of slides low"
+      },
+      {
+        "id": "o2",
+        "text": "Use a variety of transitions and animations to keep the audience engaged"
+      },
+      {
+        "id": "o3",
+        "text": "The file size of the images and videos should be optimized to ensure quick loading times and smooth playback"
+      },
+      {
+        "id": "o4",
+        "text": "The font style used in the presentation should be fancy and decorative to make it visually appealing"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q46",
+    "questionNumber": 46,
+    "questionText": "In which two ways do cloud computing data centers negatively impact the environment? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "They use chemical coolants, which are typically made from hazardous materials."
+      },
+      {
+        "id": "o2",
+        "text": "They use a significant amount of electricity that is derived from non – renewable energy sources"
+      },
+      {
+        "id": "o3",
+        "text": "They dump their waste heat into nearby water sources, which raises the temperature beyond what aquatic life can survive"
+      },
+      {
+        "id": "o4",
+        "text": "They are built in cold climates, damaging habitats for polar bears and other wildlife"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "t134-q47",
+    "questionNumber": 47,
+    "questionText": "You are trying to access a website, but it is not loading property on your browser. What should you try first?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Clear the browser cache"
+      },
+      {
+        "id": "o2",
+        "text": "Email the website owner"
+      },
+      {
+        "id": "o3",
+        "text": "Check the BIOS settings"
+      },
+      {
+        "id": "o4",
+        "text": "Remove unnecessary apps"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q48",
+    "questionNumber": 48,
+    "questionText": "For each statement about digital communications with clients and coworkers, select True or False",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Avoid directly stating the purpose of the message",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Use bullet points or lists to organize message details",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Use acronyms and abbreviations in all messages to keep the short",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "When you need a client to make a choice, provide multiple options to minimize back-and-forth",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q49",
+    "questionNumber": 49,
+    "questionText": "You need to appropriately protect your personally identifiable information (PII). For each statement, select True or False",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The AII collected by websites can be used for identity theft purposes",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Using multifactor authentication increases the risk of an outsider accessing your PII",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Closing an online account permanently deletes your PII from the hosting server",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "t134-q50",
+    "questionNumber": 50,
+    "questionText": "Emma needs to send to a quick reminder about homework to her study group. Which method is most appropriate?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Send a brief group text message with the homework reminder."
+      },
+      {
+        "id": "o2",
+        "text": "Post it on her school’s Instagram page"
+      },
+      {
+        "id": "o3",
+        "text": "Call each person individually and remind them"
+      },
+      {
+        "id": "o4",
+        "text": "Ask her teacher to send a reminder email to her study group."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q51",
+    "questionNumber": 51,
+    "questionText": "Which two options help keep data secure in the workplace? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use strong passwords"
+      },
+      {
+        "id": "o2",
+        "text": "Shat computers down at night"
+      },
+      {
+        "id": "o3",
+        "text": "Report suspicious emails"
+      },
+      {
+        "id": "o4",
+        "text": "Allow workers to share computers"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q52",
+    "questionNumber": 52,
+    "questionText": "You are using Microsoft Word on a Windows 10 computer to write a paper about a company. The company name, Abusives, begins with two capital letters, Each time you type the company name, the software corrects the capital letters. Where can you change this correction preference?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "In the AutoCorrect Options settings"
+      },
+      {
+        "id": "o2",
+        "text": "In the computer operating system preferences"
+      },
+      {
+        "id": "o3",
+        "text": "In the Grammar & Refinements settings"
+      },
+      {
+        "id": "o4",
+        "text": "In the Office Language Preferences"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q53",
+    "questionNumber": 53,
+    "questionText": "You are searching the internet for facts and information to use for a research project, but your results are not giving you the answers you expected. Which action should you take?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Refresh the page and search again."
+      },
+      {
+        "id": "o2",
+        "text": "Rephrase your search term to be more specific"
+      },
+      {
+        "id": "o3",
+        "text": "Use fewer words in your search term"
+      },
+      {
+        "id": "o4",
+        "text": "Clear your browser’s cache and search again"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q54",
+    "questionNumber": 54,
+    "questionText": "You are the leader of a digital design team. You team is creating a poster for a local fundraising event. You send a draft of the poster of the client. The client requests changes that you and your team members believe will make the poster less attractive and less effective. You need to communicate effectively with the client about the design changes. Which three actions should you take ? (Choose 3)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Create a mockup of the poster with the client’s changes and send it to the client"
+      },
+      {
+        "id": "o2",
+        "text": "Ask the client to explain the reasons for the changes and the impact they will have on the poster"
+      },
+      {
+        "id": "o3",
+        "text": "Tell the client that their ideas are not welcome"
+      },
+      {
+        "id": "o4",
+        "text": "Remind the client that your team has the knowledge and experience to create an effective final poster design"
+      },
+      {
+        "id": "o5",
+        "text": "Tell the client you don’t want to make the changes"
+      },
+      {
+        "id": "o6",
+        "text": "Focus the discussion on the design choices, rather than your emotional response to the client’s changes."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o6"
+    ]
+  },
+  {
+    "id": "t134-q55",
+    "questionNumber": 55,
+    "questionText": "Match each term on the left with its correct description on the right.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "The influence of personal opinions or agendas on how information is presented, potentially distorting facts",
+        "right": "Bias"
+      },
+      {
+        "left": "The qualifications and expertise of the author, indicating their knowledge about the topic",
+        "right": "Credentials"
+      },
+      {
+        "left": "The relevance and timeliness of the information, indicating how up-to-date it is",
+        "right": "Currency"
+      }
+    ]
+  },
+  {
+    "id": "t134-q56",
+    "questionNumber": 56,
+    "questionText": "You need to plan a project that will use a cyclical design process. In which order should you complete the project tasks?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Develop the prototype",
+        "right": ""
+      },
+      {
+        "left": "Generate ideas",
+        "right": ""
+      },
+      {
+        "left": "Identify project requirements",
+        "right": ""
+      },
+      {
+        "left": "Test the prototype",
+        "right": ""
+      },
+      {
+        "left": "Refine the prototype",
+        "right": ""
+      }
+    ]
+  },
+  {
+    "id": "t134-q57",
+    "questionNumber": 57,
+    "questionText": "For each statement about technology – driven automation, select True or False.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Automation will displace some existing job roles",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Automation will lead to the creation of new job roles",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Activities that include social interactions are more likely than others to be automated",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Activities that include physical tasks in predictable environments are more likely than others to be automated",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q58",
+    "questionNumber": 58,
+    "questionText": "You are conducting online research. When should you use a Boolean search?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "To narrow the search results by excluding terms using the Not operator",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "To broaden the search results by including multiple search alternatives using the Or operator",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "To narrow the search results by combining search terms using the AND operator",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q59",
+    "questionNumber": 59,
+    "questionText": "You are conducting online research. You find a selection of videos appear to support your hypothesis. You need to determine whether a video has been altered to change the original message. Which two methods of audio editing would indicate that the video has been altered to change the message? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A voice-over identifying the cameraperson has been added to the end of the video"
+      },
+      {
+        "id": "o2",
+        "text": "The original audio has been replaced by a music soundtrack"
+      },
+      {
+        "id": "o3",
+        "text": "Closed captions have been added to the original audio"
+      },
+      {
+        "id": "o4",
+        "text": "Words have been rearranged and inserted"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q60",
+    "questionNumber": 60,
+    "questionText": "You plan to sell your computer. You delete your personal files from your hard drive and then empty the Recycle Bin or Trash. What data remains on your hard drive?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "None. The reference to the files on the hard drive and the file data are completely removed."
+      },
+      {
+        "id": "o2",
+        "text": "All of it. The reference to the files on the hard drive remains. The file data remains"
+      },
+      {
+        "id": "o3",
+        "text": "The reference to the files on the hard drive remains. The file data is completely removed"
+      },
+      {
+        "id": "o4",
+        "text": "The reference to the files on the hard drive is deleted. The file data remains."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q61",
+    "questionNumber": 61,
+    "questionText": "You design a website for your school to track student involvement in clubs. You arrange a usability test to find out how well students can use the website. Which two actions should you take to ensure you get good test data? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Watch the students use the website and note whether they have problems."
+      },
+      {
+        "id": "o2",
+        "text": "Show the students how to use the website"
+      },
+      {
+        "id": "o3",
+        "text": "Listen to the students and record any questions they have about how to use the site"
+      },
+      {
+        "id": "o4",
+        "text": "Tell the students why the school asked you to create the website"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q62",
+    "questionNumber": 62,
+    "questionText": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt – text or No if it is not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The image copyright",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "A brief description of the image",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Context and details relevant to the image purpose",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q63",
+    "questionNumber": 63,
+    "questionText": "You are the assistant coach of an adult soccer league. You collect registration information from each player. You decide to create a team contact list. Which information can you Not share without the player’s permission?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "City of residence"
+      },
+      {
+        "id": "o2",
+        "text": "Team name and position"
+      },
+      {
+        "id": "o3",
+        "text": "First name and last name"
+      },
+      {
+        "id": "o4",
+        "text": "Allergies"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q64",
+    "questionNumber": 64,
+    "questionText": "You open a small business. You and your employees will use the Microsoft Office suite of productivity software. You need to decide whether to install the desktop apps or use the online version. What is a benefit of using a desktop app rather than a cloud app?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The software does not depend on an internet connection."
+      },
+      {
+        "id": "o2",
+        "text": "The up-front cost is less"
+      },
+      {
+        "id": "o3",
+        "text": "The software uses less hard disk drive storage space"
+      },
+      {
+        "id": "o4",
+        "text": "The software is updated more frequently"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q65",
+    "questionNumber": 65,
+    "questionText": "Sophia’s group is working on a class project, but they’re unsure how to star. The teacher has already given instructions but the group is having a hard time getting started. What is the best approach for Sophia to help the team identify the issue?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Ask everyone to give their input on how to begin."
+      },
+      {
+        "id": "o2",
+        "text": "Let one person decide for the group."
+      },
+      {
+        "id": "o3",
+        "text": "Begin working independently until the group decides what to do."
+      },
+      {
+        "id": "o4",
+        "text": "Wait until the next day to see if everyone comes up with an idea."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q66",
+    "questionNumber": 66,
+    "questionText": "What is the key to contributing constructively to a project team?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Completing tasks faster than the other group members."
+      },
+      {
+        "id": "o2",
+        "text": "Providing feedback that helps improve the team’s work."
+      },
+      {
+        "id": "o3",
+        "text": "Focusing only on your assigned tasks"
+      },
+      {
+        "id": "o4",
+        "text": "Avoiding conflicts by agreeing with all ideas."
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q67",
+    "questionNumber": 67,
+    "questionText": "Which statement describes the principles of cloud versioning?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cloud versioning requires users to manually save every version of their files"
+      },
+      {
+        "id": "o2",
+        "text": "Cloud versioning enables users to create multiple copies of a file"
+      },
+      {
+        "id": "o3",
+        "text": "Cloud versioning allows users to save only the most recent version of a file"
+      },
+      {
+        "id": "o4",
+        "text": "Cloud versioning keeps a history of changes made in to a file"
+      },
+      {
+        "id": "o5",
+        "text": "Cloud versioning automatically deletes old versions after 30 days"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q68",
+    "questionNumber": 68,
+    "questionText": "Match each media creation process from the list on the left with its appropriate action on the right",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Choosing the right video resolution and aspect ratio for the platform",
+        "right": "Capture video"
+      },
+      {
+        "left": "Adjusting colors, contrast, and brightness of the footage",
+        "right": "Finalize production"
+      },
+      {
+        "left": "Uploading the video to YouTube or other platforms for audience access",
+        "right": "Distribute video"
+      }
+    ]
+  },
+  {
+    "id": "t134-q69",
+    "questionNumber": 69,
+    "questionText": "Which two actions describe ways to protect individual and corporate intellectual property?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Share your creative work on a public social media account."
+      },
+      {
+        "id": "o2",
+        "text": "Embed your name in the metadata of digital files as the copyright owner."
+      },
+      {
+        "id": "o3",
+        "text": "Create a creative commons license, allowing others to use your work with attribution."
+      },
+      {
+        "id": "o4",
+        "text": "Create a digital portfolio that is accessible to everyone on the internet."
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q70",
+    "questionNumber": 70,
+    "questionText": "A friend is being bullied. Who should your friend report the bullying to?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "The bully threatens to hurt your friend physically",
+        "right": "Law enforcement"
+      },
+      {
+        "left": "The bully writes insults from social media posts on your friend’s gym class locker",
+        "right": "School faculty"
+      },
+      {
+        "left": "The bully posts a series of insults about your friend on a hacked social media account",
+        "right": "Social media provider"
+      }
+    ]
+  },
+  {
+    "id": "t134-q71",
+    "questionNumber": 71,
+    "questionText": "McKenna is setting up a new social media account and is asked to enable multifactor authentication. What is the main purpose of enabling this feature?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "To change your password every month"
+      },
+      {
+        "id": "o2",
+        "text": "To allow your friends to easily find you online"
+      },
+      {
+        "id": "o3",
+        "text": "To confirm your identity"
+      },
+      {
+        "id": "o4",
+        "text": "To create a more complex password for your account"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q72",
+    "questionNumber": 72,
+    "questionText": "You lead a project team in your digital design class. You and your teammates will create a project for a local business. You arrange a virtual meeting with the business owner to discuss the project. You need to ensure that the business owner leaves the meeting with confidence that your team can successfully complete the project. Which three actions should you take? (Choose 3.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "After the client presents ideas, paraphrase what they said."
+      },
+      {
+        "id": "o2",
+        "text": "Speak in a casual, informal manner to put the client at ease and encourage discussion."
+      },
+      {
+        "id": "o3",
+        "text": "Tell the client that you will email a draft proposal that includes deadlines."
+      },
+      {
+        "id": "o4",
+        "text": "Discuss your career goals in the field of digital design."
+      },
+      {
+        "id": "o5",
+        "text": "Decide with the client which forms of digital communication to use during the project."
+      },
+      {
+        "id": "o6",
+        "text": "Include a lengthy discussion about the design applications you will use."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3",
+      "o5"
+    ]
+  },
+  {
+    "id": "t134-q73",
+    "questionNumber": 73,
+    "questionText": "Your team has just completed a client review, and the client is not happy with the product. They have requested multiple changes to the product to address the problems, and they need the product to be fixed as quickly as possible. How should you efficiently complete their revisions?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Assign all tasks to the entire team so everyone will collaborate on the remaining tasks."
+      },
+      {
+        "id": "o2",
+        "text": "Assign the same task to multiple team members to avoid missing any of the remaining tasks."
+      },
+      {
+        "id": "o3",
+        "text": "Assign all work to the most experienced team member so the rest of the team can work on other projects."
+      },
+      {
+        "id": "o4",
+        "text": "Assign responsibilities so work is evenly distributed among team members."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q74",
+    "questionNumber": 74,
+    "questionText": "You are creating a flowchart. Move each symbol description from the list on the left to its corresponding symbol on the right.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Data: can represent any type of data in a flowchart.",
+        "right": "Parallelogram symbol"
+      },
+      {
+        "left": "Decision: indicates a decision point between two or more paths in the chart.",
+        "right": "Diamond/Rhombus symbol"
+      },
+      {
+        "left": "Delay: indicates a delay in the process.",
+        "right": "D-shaped symbol"
+      },
+      {
+        "left": "Terminator: indicates the beginning or end of a process.",
+        "right": "Oval/Pill-shaped symbol"
+      }
+    ]
+  },
+  {
+    "id": "t134-q75",
+    "questionNumber": 75,
+    "questionText": "Which software program can be used to create pivot tables?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Excel"
+      },
+      {
+        "id": "o2",
+        "text": "Pages"
+      },
+      {
+        "id": "o3",
+        "text": "Publisher"
+      },
+      {
+        "id": "o4",
+        "text": "PowerPoint"
+      },
+      {
+        "id": "o5",
+        "text": "Word"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q76",
+    "questionNumber": 76,
+    "questionText": "What is the purpose of clearing file storage space during troubleshooting?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "To increase network speed"
+      },
+      {
+        "id": "o2",
+        "text": "To make room for new system updates"
+      },
+      {
+        "id": "o3",
+        "text": "To remove viruses from the system"
+      },
+      {
+        "id": "o4",
+        "text": "To prevent applications from syncing with cloud storage"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q77",
+    "questionNumber": 77,
+    "questionText": "Which two are appropriate web page elements that may require the use of the alt text attribute? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Index"
+      },
+      {
+        "id": "o2",
+        "text": "Table of Contents"
+      },
+      {
+        "id": "o3",
+        "text": "Lengthy URL"
+      },
+      {
+        "id": "o4",
+        "text": "Caption"
+      },
+      {
+        "id": "o5",
+        "text": "Image"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o5"
+    ]
+  },
+  {
+    "id": "t134-q78",
+    "questionNumber": 78,
+    "questionText": "Which two actions would most likely make someone aware of technological advancements? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Subscribe to a technology news feed."
+      },
+      {
+        "id": "o2",
+        "text": "Use a computing device daily."
+      },
+      {
+        "id": "o3",
+        "text": "Watch movies produced using technology."
+      },
+      {
+        "id": "o4",
+        "text": "Join several technology groups on social media and read their posts."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q79",
+    "questionNumber": 79,
+    "questionText": "Which two circumstances would create a new cloud version in Google Docs? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Uploading a new file"
+      },
+      {
+        "id": "o2",
+        "text": "Copying a folder"
+      },
+      {
+        "id": "o3",
+        "text": "Viewing contents of a folder"
+      },
+      {
+        "id": "o4",
+        "text": "Adding a comment to a Google Doc"
+      },
+      {
+        "id": "o5",
+        "text": "Downloading a file"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q80",
+    "questionNumber": 80,
+    "questionText": "Identify if the digital devices meets the requirements.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "A smartphone is capable of checking email, sending messages, and receiving voice calls without Wi-Fi",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "A tablet is sufficient to merge and edit large videos for your clients' websites",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "A notebook computer is portable for classroom use, supports access to the cloud, and runs most office apps",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q81",
+    "questionNumber": 81,
+    "questionText": "You are searching a job database website for \"project manager\" positions that work with SQL. But, you don't speak Spanish. Your first attempt entering just the keywords \"project manager\" returned too many results that had nothing to do with SQL or required Spanish language skills. You decide to narrow your results using a Boolean search. Which Boolean search would be appropriate to return only project manager positions involving SQL, but not Spanish language skills?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "\"Project Manager\" AND SQL AND Spanish"
+      },
+      {
+        "id": "o2",
+        "text": "\"Project Manager\" AND NOT SQL AND Spanish"
+      },
+      {
+        "id": "o3",
+        "text": "\"Project Manager\" AND SQL AND NOT Spanish"
+      },
+      {
+        "id": "o4",
+        "text": "\"Project Manager\" AND NOT (SQL OR Spanish)"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q82",
+    "questionNumber": 82,
+    "questionText": "What can be performed to remove any personal information from a device?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "quick scan"
+      },
+      {
+        "id": "o2",
+        "text": "Software updates"
+      },
+      {
+        "id": "o3",
+        "text": "A factory reset"
+      },
+      {
+        "id": "o4",
+        "text": "Device shutdown"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q83",
+    "questionNumber": 83,
+    "questionText": "Multifactor authentication (MFA) helps provide added security to an account by requiring two or more credentials to be entered when logging in. Which are three common credentials?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Fingerprint"
+      },
+      {
+        "id": "o2",
+        "text": "Date"
+      },
+      {
+        "id": "o3",
+        "text": "PIN"
+      },
+      {
+        "id": "o4",
+        "text": "Username"
+      },
+      {
+        "id": "o5",
+        "text": "Password"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3",
+      "o5"
+    ]
+  },
+  {
+    "id": "t134-q84",
+    "questionNumber": 84,
+    "questionText": "If a user frequently uses the internet, how often should they run scans on their computer?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Once a month"
+      },
+      {
+        "id": "o2",
+        "text": "Two to three times per week"
+      },
+      {
+        "id": "o3",
+        "text": "Rarely"
+      },
+      {
+        "id": "o4",
+        "text": "Every day"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q85",
+    "questionNumber": 85,
+    "questionText": "To communicate the results of data sets, it is helpful to display them visually. Identify the appropriate visual format to express the described data set. Select Yes if the visual format is appropriate or No if it is not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "A Table would be best to illustrate simple part-to-whole relationships within a small data set",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "To show trends that change over time, you should use a Line Graph",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Displaying sales volumes of various products can be represented with a Column Chart",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Displaying a comparative ranking of data, can be represented with a Bar Chart",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q86",
+    "questionNumber": 86,
+    "questionText": "You are traveling and your smartphone hasn't received text messages for the past several hours, yet a friend just called and told you she sent several. Now your phone won't make outbound calls. Which is the first troubleshooting step you should make with your smartphone?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "If you have a SIM card, replace it."
+      },
+      {
+        "id": "o2",
+        "text": "Perform a factory reset."
+      },
+      {
+        "id": "o3",
+        "text": "Power your phone off and back on"
+      },
+      {
+        "id": "o4",
+        "text": "Call technical support"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q87",
+    "questionNumber": 87,
+    "questionText": "Which is the best way to archive online privacy at your workplace?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Delete all cookies after doing personal shopping on your work computer."
+      },
+      {
+        "id": "o2",
+        "text": "Send personal emails using your work account."
+      },
+      {
+        "id": "o3",
+        "text": "Make sure nobody is looking when you surf the Internet."
+      },
+      {
+        "id": "o4",
+        "text": "Don't use work equipment to do anything personal"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q88",
+    "questionNumber": 88,
+    "questionText": "Which two software tools would be best to compose a flowchart? (Choose 2).",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Intuit QuickBooks"
+      },
+      {
+        "id": "o2",
+        "text": "Affinity Designer"
+      },
+      {
+        "id": "o3",
+        "text": "Microsoft Visio"
+      },
+      {
+        "id": "o4",
+        "text": "SmartDraw"
+      },
+      {
+        "id": "o5",
+        "text": "Adobe Illustrator"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q89",
+    "questionNumber": 89,
+    "questionText": "Your smartphone has FireFox, Google Chrome, and your phone manufacturer's brand of browser installed. Currently, all websites open in the manufacturer's browser. You want to change the phone setting so websites automatically open in FireFox. On either an Android or iPhone smartphone, where can you change the setting that controls which browser opens automatically?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Task Manager"
+      },
+      {
+        "id": "o2",
+        "text": "In the browser settings"
+      },
+      {
+        "id": "o3",
+        "text": "Email Settings"
+      },
+      {
+        "id": "o4",
+        "text": "In your phone's App store"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q90",
+    "questionNumber": 90,
+    "questionText": "Which two software tools would be best to build tables, charts, and visual representations of raw data? (Choose 2).",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Google Sheets"
+      },
+      {
+        "id": "o2",
+        "text": "Microsoft Excel"
+      },
+      {
+        "id": "o3",
+        "text": "Adobe Illustrator"
+      },
+      {
+        "id": "o4",
+        "text": "Affinity Designer"
+      },
+      {
+        "id": "o5",
+        "text": "Intuit QuickBooks"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "t134-q91",
+    "questionNumber": 91,
+    "questionText": "The browser you use is Chrome. You would like to add an extension that will automatically display Spanish web pages in English. Which extension will allow the Chrome browser to display Spanish web pages in English?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Google Translate"
+      },
+      {
+        "id": "o2",
+        "text": "Read-a-Loud"
+      },
+      {
+        "id": "o3",
+        "text": "Screencastify"
+      },
+      {
+        "id": "o4",
+        "text": "Dark Reader"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q92",
+    "questionNumber": 92,
+    "questionText": "Which of these file formats is capable of holding audio, video, and other media by containing data rather than code?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "MP3"
+      },
+      {
+        "id": "o2",
+        "text": "MP4"
+      },
+      {
+        "id": "o3",
+        "text": "WMA"
+      },
+      {
+        "id": "o4",
+        "text": "WAV"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q93",
+    "questionNumber": 93,
+    "questionText": "A team of college students are creating content for a website. Their instructor has advised them it is important that they follow accessibility standards for using fonts. Select Yes if the action stated follows accessibility standards or No if it will not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Serif fonts should be used because they are the easiest to read online",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Body text font sizes should be between 15-25px",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Optimal length of a line of text is 45-90 characters.",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "The ideal width is 66 characters White space between headers and body text should be between 15-30px",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q94",
+    "questionNumber": 94,
+    "questionText": "How does color contrast affect the visually impaired?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Increasing contrast between an object and its background makes the object more visible."
+      },
+      {
+        "id": "o2",
+        "text": "Offering a variety of colors makes focusing easier for the visually impaired."
+      },
+      {
+        "id": "o3",
+        "text": "Color contrast has no affect on the visually impaired."
+      },
+      {
+        "id": "o4",
+        "text": "Increasing contrast between an object and its background makes the object less visible."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q95",
+    "questionNumber": 95,
+    "questionText": "What are two reasons for software versioning? (Choose 2).",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Allows retailers to charge more money"
+      },
+      {
+        "id": "o2",
+        "text": "Enables customers to recognize updated versions"
+      },
+      {
+        "id": "o3",
+        "text": "Allows programmers to track changes"
+      },
+      {
+        "id": "o4",
+        "text": "Enables computing devices to use less memory"
+      },
+      {
+        "id": "o5",
+        "text": "Allows software publishers to more efficiently track sales"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q96",
+    "questionNumber": 96,
+    "questionText": "What is the name of human ideas, which are internationally protected by either copyright, patent, trademark, or trade secret?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Imaginary Property"
+      },
+      {
+        "id": "o2",
+        "text": "Real Property"
+      },
+      {
+        "id": "o3",
+        "text": "Tangible Property"
+      },
+      {
+        "id": "o4",
+        "text": "Intellectual Property"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q97",
+    "questionNumber": 97,
+    "questionText": "Which is the highest screen resolution?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "1366×768"
+      },
+      {
+        "id": "o2",
+        "text": "1920×1080"
+      },
+      {
+        "id": "o3",
+        "text": "1440×900"
+      },
+      {
+        "id": "o4",
+        "text": "1536x864"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q98",
+    "questionNumber": 98,
+    "questionText": "Which two are the most popular ways to distinguish between paragraph headings and body text on a website? (Choose 2).",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use a larger font for headings than body text."
+      },
+      {
+        "id": "o2",
+        "text": "Use the same font for both headings and body text."
+      },
+      {
+        "id": "o3",
+        "text": "Use only serif fonts."
+      },
+      {
+        "id": "o4",
+        "text": "Use the same size font for both headings and body text."
+      },
+      {
+        "id": "o5",
+        "text": "Use one font for headings and a different font for body text"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o5"
+    ]
+  },
+  {
+    "id": "t134-q99",
+    "questionNumber": 99,
+    "questionText": "A license that gives customers the right to modify and reuse the software.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Free and Open Source Software"
+      },
+      {
+        "id": "o2",
+        "text": "Boolean Search"
+      },
+      {
+        "id": "o3",
+        "text": "Computer Model Number"
+      },
+      {
+        "id": "o4",
+        "text": "Synchronous Editing"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q100",
+    "questionNumber": 100,
+    "questionText": "A virus or Trojan horse designed to cause harm to a computer or device.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Proprietary Software"
+      },
+      {
+        "id": "o2",
+        "text": "Password"
+      },
+      {
+        "id": "o3",
+        "text": "Malware"
+      },
+      {
+        "id": "o4",
+        "text": "Instant Messaging"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q101",
+    "questionNumber": 101,
+    "questionText": "An application used to access websites on the internet.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Attribution"
+      },
+      {
+        "id": "o2",
+        "text": "Email"
+      },
+      {
+        "id": "o3",
+        "text": "Browser"
+      },
+      {
+        "id": "o4",
+        "text": "Public Domain"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q102",
+    "questionNumber": 102,
+    "questionText": "What are two consequences of posting one's current location while away on vacation? Choose 2",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Others will know the user's location"
+      },
+      {
+        "id": "o2",
+        "text": "Others will not believe the user is away"
+      },
+      {
+        "id": "o3",
+        "text": "Others will go on vacation"
+      },
+      {
+        "id": "o4",
+        "text": "Others will know that the user's home is vacant"
+      },
+      {
+        "id": "o5",
+        "text": "Others will think the user is home"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q103",
+    "questionNumber": 103,
+    "questionText": "What should digital users have current knowledge of? Choose 2.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The latest technology"
+      },
+      {
+        "id": "o2",
+        "text": "Internet wormholes"
+      },
+      {
+        "id": "o3",
+        "text": "Early computer history"
+      },
+      {
+        "id": "o4",
+        "text": "Compromised data"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q104",
+    "questionNumber": 104,
+    "questionText": "If someone chooses to share their account information with a close friend, what should that friend do with the information?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Keep the information safe"
+      },
+      {
+        "id": "o2",
+        "text": "Impersonate the friend as a joke"
+      },
+      {
+        "id": "o3",
+        "text": "Steal and share personally identifiable information"
+      },
+      {
+        "id": "o4",
+        "text": "Use the information to make purchases"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q105",
+    "questionNumber": 105,
+    "questionText": "Matching Match the specific requirement to the most appropriate digital device",
+    "topic": "Level 3 (Taza 134)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Capable of checking email, sending messages, and receiving voice calls without Wi-Fi",
+        "right": "Smartphone"
+      },
+      {
+        "left": "Capable of merging and editing large videos for a client’s website",
+        "right": "Desktop Computer"
+      },
+      {
+        "left": "Portable for classroom use, support note taking, access to the cloud, and runs most office apps",
+        "right": "Tablet"
+      }
+    ]
+  },
+  {
+    "id": "t134-q106",
+    "questionNumber": 106,
+    "questionText": "A means of giving credit to a source when their information is used.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Search Operators"
+      },
+      {
+        "id": "o2",
+        "text": "Chart"
+      },
+      {
+        "id": "o3",
+        "text": "Encryption"
+      },
+      {
+        "id": "o4",
+        "text": "Citation"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q107",
+    "questionNumber": 107,
+    "questionText": "A free license used by creators to permit others to use their content, free of charge, as long as they follow the license rules.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Email"
+      },
+      {
+        "id": "o2",
+        "text": "Attribution"
+      },
+      {
+        "id": "o3",
+        "text": "Personally Identifiable Information"
+      },
+      {
+        "id": "o4",
+        "text": "Creative Commons License"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q108",
+    "questionNumber": 108,
+    "questionText": "A digital language made up of binary digits, which are ones and zeros that allow the hardware and software to communicate and work together.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Grammarly"
+      },
+      {
+        "id": "o2",
+        "text": "Binary-Coded Machine Language"
+      },
+      {
+        "id": "o3",
+        "text": "Page Orientation"
+      },
+      {
+        "id": "o4",
+        "text": "Public Domain"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "t134-q109",
+    "questionNumber": 109,
+    "questionText": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Intuit QuickBooks"
+      },
+      {
+        "id": "o2",
+        "text": "Microsoft PowerPoint"
+      },
+      {
+        "id": "o3",
+        "text": "Adobe InDesign"
+      },
+      {
+        "id": "o4",
+        "text": "Google Sheets"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q110",
+    "questionNumber": 110,
+    "questionText": "Which two practices are recommended to help you stay informed about current digital threats, scams, and security breaches for a digital app that you use? (Choose 2.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Follow a variety of social media accounts that post independent content about digital tools."
+      },
+      {
+        "id": "o2",
+        "text": "Pay attention to app notifications for software updates and terms of use changes from the app publisher."
+      },
+      {
+        "id": "o3",
+        "text": "Subscribe to email alerts for the app publisher's latest marketing offers and special discounts."
+      },
+      {
+        "id": "o4",
+        "text": "Review the app publisher's website once a year for updates and news."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "t134-q111",
+    "questionNumber": 111,
+    "questionText": "Analyze the following statements about employment and how it relates to social media use and privacy. For each statement, select True or False.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Employers are allowed to monitor your social media posts",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "You can be fired for social media messages you post on your own time",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Employers can restrict what you post on your personal social media accounts",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "t134-q112",
+    "questionNumber": 112,
+    "questionText": "You post a video on your company's website. Site users complain that the video takes long time to load. You need to decrease the video loading time. For each action, select Yes if it will make the video load faster or No if it will not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Increase the video bitrate",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "Convert the video to HTML5",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Decrease the video resolution",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s4",
+        "text": "Replace the video with an uncompressed version",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "t134-q113",
+    "questionNumber": 113,
+    "questionText": "You are adding alt text to the images on your website. For each type of information, select Yes if it is necessary to include it in the alt-text or No if it is not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The image copyright",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s2",
+        "text": "A brief description of the image",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s3",
+        "text": "Context and details relevant to the image pirporse",
+        "correctAnswer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "t134-q114",
+    "questionNumber": 114,
+    "questionText": "Which two actions will improve the readability of a document? (Choose2.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Carefully choose a font color with strong contrast against the background."
+      },
+      {
+        "id": "o2",
+        "text": "Use a small, compact font size to prevent paragraphs from breaking across pages."
+      },
+      {
+        "id": "o3",
+        "text": "Set the line spacing so there is a slight distance between each line of text."
+      },
+      {
+        "id": "o4",
+        "text": "Type in all caps to make the text more uniform in appearance."
+      },
+      {
+        "id": "o5",
+        "text": "Select a font family that is unique, decorative, and in line with modern trends."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q115",
+    "questionNumber": 115,
+    "questionText": "You are starting a home bakery business. You plan to create a website on which customers can place pickup and delivery orders. For which two reasons should you create a prototype of your order form? (Choose 2.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "To test whether the solution will work."
+      },
+      {
+        "id": "o2",
+        "text": "To enable customers to place orders before you launch the website."
+      },
+      {
+        "id": "o3",
+        "text": "To reveal flaws in your design."
+      },
+      {
+        "id": "o4",
+        "text": "To advertise your business."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q116",
+    "questionNumber": 116,
+    "questionText": "For which two reasons should you run a virus scan? (Choose 2.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Your computer starts to run slower than usual."
+      },
+      {
+        "id": "o2",
+        "text": "You receive an email message from an online store after placing an order there."
+      },
+      {
+        "id": "o3",
+        "text": "A program begins operations on its own, without you initiating it."
+      },
+      {
+        "id": "o4",
+        "text": "A pop-up ad appears on a website."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q117",
+    "questionNumber": 117,
+    "questionText": "Your team is creating a website for a local business. You agree to act as the team spokesperson, although you do not have all the information. You arrange a virtual meeting with the business owner. Your meeting software allows you to enable and disable chat for different participants. How should you configure the chat feature of the virtual meeting software for this meeting?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Allow chat communication between all meeting participants."
+      },
+      {
+        "id": "o2",
+        "text": "Allow chat communication only between you and the client."
+      },
+      {
+        "id": "o3",
+        "text": "Turn off the chat function."
+      },
+      {
+        "id": "o4",
+        "text": "Allow chat communication only between you and your team members."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q118",
+    "questionNumber": 118,
+    "questionText": "Which three types of authentication factors are used to prove your identity when you use multifactor authentication? (Choose 3.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Something you are"
+      },
+      {
+        "id": "o2",
+        "text": "Something you make"
+      },
+      {
+        "id": "o3",
+        "text": "Something you calculate"
+      },
+      {
+        "id": "o4",
+        "text": "Something you know"
+      },
+      {
+        "id": "o5",
+        "text": "Something you research"
+      },
+      {
+        "id": "o6",
+        "text": "Something you have"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4",
+      "o6"
+    ]
+  },
+  {
+    "id": "t134-q119",
+    "questionNumber": 119,
+    "questionText": "A story about a college test prep study guide appears in your social media news feed. ... Which two logical fallacies does the story contain? (Choose 2.)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Red herring"
+      },
+      {
+        "id": "o2",
+        "text": "False dilemma"
+      },
+      {
+        "id": "o3",
+        "text": "Ad hominem"
+      },
+      {
+        "id": "o4",
+        "text": "Hasty generalization"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "t134-q120",
+    "questionNumber": 120,
+    "questionText": "You are performing online research for a class. For each search topic, select Yes if a Boolean search will help to identify relevant results faster or No if it will not.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Yes",
+        "text": "Yes"
+      },
+      {
+        "id": "No",
+        "text": "No"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Safaris outside of Africa",
+        "correctAnswer": "Yes"
+      },
+      {
+        "id": "s2",
+        "text": "General information about zebras",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s3",
+        "text": "A specific quote by a specific author",
+        "correctAnswer": "No"
+      },
+      {
+        "id": "s4",
+        "text": "Elephants in the southern hemisphere",
+        "correctAnswer": "No"
+      }
+    ]
+  },
+  {
+    "id": "t134-q121",
+    "questionNumber": 121,
+    "questionText": "For your science class, you need to analyze several tables of numbers. Which of these software applications should you use?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Intuit QuickBooks"
+      },
+      {
+        "id": "o2",
+        "text": "Microsoft PowerPoint"
+      },
+      {
+        "id": "o3",
+        "text": "Adobe InDesign"
+      },
+      {
+        "id": "o4",
+        "text": "Google Sheets"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "t134-q122",
+    "questionNumber": 122,
+    "questionText": "Which two actions can you take to improve your communication skills? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "When talking with the client, speak in a positive, respectful tone."
+      },
+      {
+        "id": "o2",
+        "text": "Text the client to apologize for your poor communication."
+      },
+      {
+        "id": "o3",
+        "text": "When the client asks questions, summarize the question before you answer."
+      },
+      {
+        "id": "o4",
+        "text": "Have another team member take over the communication at the next meeting."
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q123",
+    "questionNumber": 123,
+    "questionText": "Which two video editing methods are used to alter videos to change the original meaning of the content? (Choose 2.) Note: You will receive partial credit for each correct answer.",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Show a brief clip of a longer segment of the video."
+      },
+      {
+        "id": "o2",
+        "text": "At the end of the video, show links to credible sources that support the message of the video."
+      },
+      {
+        "id": "o3",
+        "text": "Edit together pieces of different videos."
+      },
+      {
+        "id": "o4",
+        "text": "Identify the people in the video and the cameraperson in credits at the end of the vide"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q124",
+    "questionNumber": 124,
+    "questionText": "Which statement is correct?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "This laptop meets the optimal system requirements."
+      },
+      {
+        "id": "o2",
+        "text": "This laptop meets the recommended system requirements."
+      },
+      {
+        "id": "o3",
+        "text": "This laptop meets the minimum system requirements."
+      },
+      {
+        "id": "o4",
+        "text": "This laptop does not meet the minimum system requirements."
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q125",
+    "questionNumber": 125,
+    "questionText": "Which file size is the largest?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "3 petabytes (PB)"
+      },
+      {
+        "id": "o2",
+        "text": "16 gigabytes (GB)"
+      },
+      {
+        "id": "o3",
+        "text": "1.44 megabytes (MB)"
+      },
+      {
+        "id": "o4",
+        "text": "640 kilobytes (KB)"
+      },
+      {
+        "id": "o5",
+        "text": "2 terabytes (TB)"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q126",
+    "questionNumber": 126,
+    "questionText": "How can you ensure your contributions to a project team are most effective?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "By being open to suggestions and willing to adapt your ideas"
+      },
+      {
+        "id": "o2",
+        "text": "By focusing only on your own tasks"
+      },
+      {
+        "id": "o3",
+        "text": "By always taking the lead"
+      },
+      {
+        "id": "o4",
+        "text": "By withholding your ideas"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "t134-q127",
+    "questionNumber": 127,
+    "questionText": "Which of the following files can you NOT send through a standard email provider such as Gmail or Yahoo?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A 30-frame 1080p-resolution animated GIF"
+      },
+      {
+        "id": "o2",
+        "text": "A 5-minute podcast in MP3 format"
+      },
+      {
+        "id": "o3",
+        "text": "A 1-minute 8K-resolution video in AVI format"
+      },
+      {
+        "id": "o4",
+        "text": "A 400-page plain-text file"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q128",
+    "questionNumber": 128,
+    "questionText": "Which file cannot typically be sent through a standard email provider?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "A text document"
+      },
+      {
+        "id": "o2",
+        "text": "A 5-minute MP3 file"
+      },
+      {
+        "id": "o3",
+        "text": "A 1-minute 8K video in AVI format"
+      },
+      {
+        "id": "o4",
+        "text": "An animated GIF"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q129",
+    "questionNumber": 129,
+    "questionText": "Which scenario would NOT be considered fair use of a video clip?",
+    "topic": "Level 3 (Taza 134)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using the clip in a news report"
+      },
+      {
+        "id": "o2",
+        "text": "Using the clip for teaching"
+      },
+      {
+        "id": "o3",
+        "text": "Using the clip in a political advertisement"
+      },
+      {
+        "id": "o4",
+        "text": "Using the clip in a parody"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "t134-q130",
+    "questionNumber": 130,
+    "questionText": "Which two video editing methods can alter a video to change its original meaning? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Showing a short clip out of context"
+      },
+      {
+        "id": "o2",
+        "text": "Editing together clips from different videos"
+      },
+      {
+        "id": "o3",
+        "text": "Adding credits"
+      },
+      {
+        "id": "o4",
+        "text": "Including references"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2"
+    ]
+  },
+  {
+    "id": "t134-q131",
+    "questionNumber": 131,
+    "questionText": "Which two actions will improve the readability of a document?(Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use all capital letters"
+      },
+      {
+        "id": "o2",
+        "text": "Use a strong contrast between text and background"
+      },
+      {
+        "id": "o3",
+        "text": "Use slight spacing between lines of text"
+      },
+      {
+        "id": "o4",
+        "text": "Use decorative fonts"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "t134-q132",
+    "questionNumber": 132,
+    "questionText": "Which two actions will improve communication skills when working with a client? (Choose 2)",
+    "topic": "Level 3 (Taza 134)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Summarize the question before answering"
+      },
+      {
+        "id": "o2",
+        "text": "Send a text message to apologize for poor communication"
+      },
+      {
+        "id": "o3",
+        "text": "Have another team member take over communication"
+      },
+      {
+        "id": "o4",
+        "text": "Speak in positive and respectful tone"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  }
+]

@@ -1,0 +1,1147 @@
+[
+    {
+        "id": 1,
+        "savol": "Move each password management practice from the list on the left to its matching benefit on the right.",
+        "variantlar": [
+            "Adds an extra safety layer beyond passwords.",
+            "Keeps passwords safe in one locked place.",
+            "Keeps account protected against new threats.",
+            "Stops unauthorized access if one site using that password is hacked."
+        ],
+        "javob": {
+            "Adds an extra safety layer beyond passwords.": "Enabling two-factor authentication",
+            "Keeps passwords safe in one locked place.": "Using a password manager",
+            "Keeps account protected against new threats.": "Regularly updating passwords",
+            "Stops unauthorized access if one site using that password is hacked.": "Creating unique passwords"
+        }
+    },
+    {
+        "id": 2,
+        "savol": "You are designing a presentation for a client. The client wants all slides to have the same background, font, and color scheme. Which feature should you use to maintain a uniform look across all slides?",
+        "variantlar": [
+            "A. Slide Master",
+            "B. Layout",
+            "C. Design Ideas",
+            "D. Backgrounds"
+        ],
+        "javob": "A"
+    },
+    {
+        "id": 3,
+        "savol": "You need input from your team on a draft policy by tomorrow. Team members are in different time zones and may reply at different times. The file is too large to send as an attachment, and you want everyone's feedback stored together. Which platform should you use?",
+        "variantlar": [
+            "A. Individual instant messages to each teammate with the file compressed and attached",
+            "B. A shared cloud document that allows team members to review and annotate in one location.",
+            "C. A private team chat channel post with the file uploaded and comments collected in the message thread",
+            "D. A group video meeting scheduled for later today to discuss the draft live"
+        ],
+        "javob": "B"
+    },
+    {
+        "id": 4,
+        "savol": "Which two tools enables multiple people to edit the same document online at the same time? (Choose 2.)",
+        "variantlar": [
+            "A. Google Docs",
+            "B. Acrobat Reader",
+            "C. Notepad",
+            "D. Microsoft 365"
+        ],
+        "javob": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "id": 5,
+        "savol": "Which two settings improve accessibility for users with visual impairments? (Choose 2.)",
+        "variantlar": [
+            "A. Using screen magnifier",
+            "B. Increasing the refresh rate",
+            "C. Disabling notifications",
+            "D. Enabling high-contrast mode"
+        ],
+        "javob": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "id": 6,
+        "savol": "Move each accessibility feature from the list on the left to its corresponding user need on the right.",
+        "variantlar": [
+            "Operate the computer with limited hand mobility or dexterity.",
+            "Improve typing accuracy for users with low vision.",
+            "Reduce neck/back strain and accommodate seated, standing, or wheelchair users.",
+            "Improve on-screen readability for users with low vision or visual fatigue."
+        ],
+        "javob": {
+            "Operate the computer with limited hand mobility or dexterity.": "Voice control (OS voice access with built-in mic)",
+            "Improve typing accuracy for users with low vision.": "Large-print keyboard or keycap overlays",
+            "Reduce neck/back strain and accommodate seated, standing, or wheelchair users.": "Adjustable height desk",
+            "Improve on-screen readability for users with low vision or visual fatigue.": "Screen magnifier/zoom with high contrast display"
+        }
+    },
+    {
+        "id": 7,
+        "savol": "For each of the four statements about filtering search results, select True or False.",
+        "variantlar": [
+            "Filters can include date, file type, and region.",
+            "Filters guarantee accurate information.",
+            "Filters help organize results based on user needs.",
+            "Removing filters narrows search results."
+        ],
+        "javob": {
+            "Filters can include date, file type, and region.": "True",
+            "Filters guarantee accurate information.": "False",
+            "Filters help organize results based on user needs.": "True",
+            "Removing filters narrows search results.": "False"
+        }
+    },
+    {
+        "id": 8,
+        "savol": "Move each editing approach from the list on the left to its characteristic on the right. Editing approaches may be used more than once.",
+        "variantlar": [
+            "Minor typing delays may occur when several people type in the same paragraph at the same time.",
+            "Teammates edit offline and later upload different versions that must be merged.",
+            "A reliable internet connection is needed so multiple users can edit a shared document.",
+            "Contributors post suggestions which the file owner accepts or rejects after review."
+        ],
+        "javob": {
+            "Minor typing delays may occur when several people type in the same paragraph at the same time.": "Synchronous",
+            "Teammates edit offline and later upload different versions that must be merged.": "Asynchronous",
+            "A reliable internet connection is needed so multiple users can edit a shared document.": "Synchronous",
+            "Contributors post suggestions which the file owner accepts or rejects after review.": "Asynchronous"
+        }
+    },
+    {
+        "id": 9,
+        "savol": "A heat advisory has been issued. You need to confirm whether your city's cooling centers are open this evening and find the nearest location. Which online resource is the authoritative source of information?",
+        "variantlar": [
+            "A. Local news article covering the heat wave with reader comments",
+            "B. Private neighborhood social app post from last summer listing facilities and hours",
+            "C. City emergency alerts page with live status and an official locations map",
+            "D. Third-party business directory page for a nearby community center"
+        ],
+        "javob": "C"
+    },
+    {
+        "id": 10,
+        "savol": "For each of the three statements about creating and managing digital identities, select True or False.",
+        "variantlar": [
+            "Your professional digital identity shows your skills to possible employers or coworkers.",
+            "One digital identity is enough for all online tasks, both personal and work.",
+            "Using the same password for your work and personal accounts is easier and safer."
+        ],
+        "javob": {
+            "Your professional digital identity shows your skills to possible employers or coworkers.": "True",
+            "One digital identity is enough for all online tasks, both personal and work.": "False",
+            "Using the same password for your work and personal accounts is easier and safer.": "False"
+        }
+    },
+    {
+        "id": 11,
+        "savol": "Move each factor from the list on the left to its description on the right.",
+        "variantlar": [
+            "Information relates to the topic.",
+            "Information is correct and supported by evidence.",
+            "Source is trustworthy and authoritative.",
+            "Content favors one perspective."
+        ],
+        "javob": {
+            "Information relates to the topic.": "Relevance",
+            "Information is correct and supported by evidence.": "Accuracy",
+            "Source is trustworthy and authoritative.": "Credibility",
+            "Content favors one perspective.": "Bias"
+        }
+    },
+    {
+        "id": 12,
+        "savol": "You are reviewing a shared document with your team. You want to see who made changes and what edits were suggested. For each of the four statements about tracking changes in a document, select True or False.",
+        "variantlar": [
+            "Track Changes can show insertions and deletions.",
+            "Track Changes is used to apply consistent formatting.",
+            "Track Changes automatically accepts all edits.",
+            "Track Changes highlights edits made by different users."
+        ],
+        "javob": {
+            "Track Changes can show insertions and deletions.": "True",
+            "Track Changes is used to apply consistent formatting.": "False",
+            "Track Changes automatically accepts all edits.": "False",
+            "Track Changes highlights edits made by different users.": "True"
+        }
+    },
+    {
+        "id": 13,
+        "savol": "For each of the four statements about calendar event reminders, select True or False.",
+        "variantlar": [
+            "You can customize an event's reminder time.",
+            "You can set multiple reminders for a single event.",
+            "You can set a different reminder time for each attendee.",
+            "Reminders can be sent by email or pop-up alerts."
+        ],
+        "javob": {
+            "You can customize an event's reminder time.": "True",
+            "You can set multiple reminders for a single event.": "True",
+            "You can set a different reminder time for each attendee.": "False",
+            "Reminders can be sent by email or pop-up alerts.": "True"
+        }
+    },
+    {
+        "id": 14,
+        "savol": "Your team is updating a public computer lab to better follow universal hardware design. Which choice supports universal design principles for the widest range of users?",
+        "variantlar": [
+            "A. Replace one PC with a special workstation reserved for users with disabilities",
+            "B. Add high-DPI gaming mice to every station for faster pointing",
+            "C. Install height-adjustable desks and adjustable monitor arms at all workstations",
+            "D. Post a sign that assistance is available upon request"
+        ],
+        "javob": "C"
+    },
+    {
+        "id": 15,
+        "savol": "For each of the four statements about cloud computing, select True or False.",
+        "variantlar": [
+            "Cloud computing supports scalability of resources.",
+            "Cloud computing requires all applications to be installed locally.",
+            "Cloud computing allows users to access resources over the internet.",
+            "Cloud computing eliminates the need for any internet connection."
+        ],
+        "javob": {
+            "Cloud computing supports scalability of resources.": "True",
+            "Cloud computing requires all applications to be installed locally.": "False",
+            "Cloud computing allows users to access resources over the internet.": "True",
+            "Cloud computing eliminates the need for any internet connection.": "False"
+        }
+    },
+    {
+        "id": 16,
+        "savol": "Which three practices help maintain speed and accuracy during routine typing and editing tasks? (Choose 3.)",
+        "variantlar": [
+            "A. Rest your palms on the keyboard's front edge while actively typing.",
+            "B. Strike keys firmly to ensure each keystroke registers",
+            "C. Maintain a neutral wrist position with forearms roughly parallel to the floor",
+            "D. Use the Shift key for a single capital letter instead of toggling Caps Lock",
+            "E. Occasionally look down at the keyboard to confirm each key before pressing it.",
+            "F. Place index fingers on F and J and return to the home row after reaching"
+        ],
+        "javob": [
+            "C",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "id": 17,
+        "savol": "Ten minutes after posting a rude public comment about a classmate on TikTok, you decide to privatize it, but others have already replied and shared it. Which outcome describes the risk that remains?",
+        "variantlar": [
+            "A. The deleted comment cannot affect you or your classmate now that it has been removed",
+            "B. Screenshots and reshares may continue circulating, harming your reputation even after deletion.",
+            "C. Your home internet service will automatically suspend your account for policy violations",
+            "D. People who replied must remove every reply per platform policy"
+        ],
+        "javob": "B"
+    },
+    {
+        "id": 18,
+        "savol": "You are collaborating with a group of classmates and need to edit the same online document at the same time, and see who is making changes. Which two actions should you choose? (Choose 2.)",
+        "variantlar": [
+            "A. Share the document with your classmates as commenters via an online app",
+            "B. Share the document by attaching it to an email to your classmates.",
+            "C. Share the document on a cloud storage service with version history and grant edit access",
+            "D. Share the document using an online app with co-authoring and notation",
+            "E. Share the document as an exported PDF using your cloud storage"
+        ],
+        "javob": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 19,
+        "savol": "For each of the three statements about assessing bias, select True or False.",
+        "variantlar": [
+            "Researching the author's affiliations can uncover potential bias.",
+            "Neutral content avoids presenting multiple viewpoints.",
+            "Biased content often uses emotional language."
+        ],
+        "javob": {
+            "Researching the author's affiliations can uncover potential bias.": "True",
+            "Neutral content avoids presenting multiple viewpoints.": "False",
+            "Biased content often uses emotional language.": "True"
+        }
+    },
+    {
+        "id": 20,
+        "savol": "For each of the four statements about internet commerce, select True or False.",
+        "variantlar": [
+            "A restaurant delivery order is only a good, not a service.",
+            "A downloadable movie you can watch offline at any time after purchase is a digital good.",
+            "A cloud backup subscription is a service because you pay for ongoing access rather than owning a product.",
+            "Renting a video in an app for 48 hours is a service because you pay for temporary access."
+        ],
+        "javob": {
+            "A restaurant delivery order is only a good, not a service.": "False",
+            "A downloadable movie you can watch offline at any time after purchase is a digital good.": "True",
+            "A cloud backup subscription is a service because you pay for ongoing access rather than owning a product.": "True",
+            "Renting a video in an app for 48 hours is a service because you pay for temporary access.": "True"
+        }
+    },
+    {
+        "id": 21,
+        "savol": "Your class is planning a fundraiser for an upcoming event. You are in charge of emailing people to ask for donations and responding to requests for more information. For each of the four actions, select whether it is an Appropriate or Inappropriate way to communicate.",
+        "variantlar": [
+            "Using all caps for emphasis.",
+            "Sharing confidential information.",
+            "Responding promptly to questions.",
+            "Keeping messages concise and relevant."
+        ],
+        "javob": {
+            "Using all caps for emphasis.": "Inappropriate",
+            "Sharing confidential information.": "Inappropriate",
+            "Responding promptly to questions.": "Appropriate",
+            "Keeping messages concise and relevant.": "Appropriate"
+        }
+    },
+    {
+        "id": 22,
+        "savol": "You are working with a group of classmates on a project and are emailing your teacher with some questions about it. For each of the four statements about email etiquette, select True or False.",
+        "variantlar": [
+            "Use professional greetings.",
+            "Proofread before sending.",
+            "Use a clear subject line.",
+            "Mark the emails you send to your teacher as important."
+        ],
+        "javob": {
+            "Use professional greetings.": "True",
+            "Proofread before sending.": "True",
+            "Use a clear subject line.": "True",
+            "Mark the emails you send to your teacher as important.": "False"
+        }
+    },
+    {
+        "id": 23,
+        "savol": "You installed a free game that sells extra items inside the app. The tablet is shared with younger siblings. Which setting enables you to reduce the risk of unwanted charges?",
+        "variantlar": [
+            "A. Permit purchases without a password for 60 minutes",
+            "B. Store the card on the device for one-tap checkout",
+            "C. Disable marketing alerts about new in-game items",
+            "D. Require a password or fingerprint for every purchase"
+        ],
+        "javob": "D"
+    },
+    {
+        "id": 24,
+        "savol": "For each of the four statements about online data collection, select True or False.",
+        "variantlar": [
+            "Data collected online is typically stored on remote servers or cloud systems.",
+            "Surveys can be distributed through email links.",
+            "Screenshots are an effective way to collect structured data.",
+            "Online forms can include text fields and multiple-choice questions."
+        ],
+        "javob": {
+            "Data collected online is typically stored on remote servers or cloud systems.": "True",
+            "Surveys can be distributed through email links.": "True",
+            "Screenshots are an effective way to collect structured data.": "False",
+            "Online forms can include text fields and multiple-choice questions.": "True"
+        }
+    },
+    {
+        "id": 25,
+        "savol": "For each of the four statements, select True or False.",
+        "variantlar": [
+            "When an online exchange becomes hostile, continuing to reply until the other person calms down is a healthy way to protect your well-being.",
+            "Curating your feed by unfollowing or muting accounts that trigger anxiety is an appropriate self-care step and does not require a confrontation.",
+            "Turning on a blue-light filter at night is an effective way to prevent sleep problems caused by habitual late-night social media use.",
+            "Scheduling quiet hours or Do Not Disturb and limiting check-in times can reduce notification-driven stress without uninstalling apps."
+        ],
+        "javob": {
+            "When an online exchange becomes hostile, continuing to reply until the other person calms down is a healthy way to protect your well-being.": "False",
+            "Curating your feed by unfollowing or muting accounts that trigger anxiety is an appropriate self-care step and does not require a confrontation.": "True",
+            "Turning on a blue-light filter at night is an effective way to prevent sleep problems caused by habitual late-night social media use.": "False",
+            "Scheduling quiet hours or Do Not Disturb and limiting check-in times can reduce notification-driven stress without uninstalling apps.": "True"
+        }
+    },
+    {
+        "id": 26,
+        "savol": "Move each function from the list on the left to the task you would use it for on the right.",
+        "variantlar": [
+            "Return the number of cells in a range that contain numeric values.",
+            "Calculate the mean of a list of test scores.",
+            "Identify the single highest value in a sales column.",
+            "Insert a total for B2:B15 using a one-click command."
+        ],
+        "javob": {
+            "Return the number of cells in a range that contain numeric values.": "COUNT",
+            "Calculate the mean of a list of test scores.": "AVERAGE",
+            "Identify the single highest value in a sales column.": "MAX",
+            "Insert a total for B2:B15 using a one-click command.": "AutoSum (SUM)"
+        }
+    },
+    {
+        "id": 27,
+        "savol": "Move each technology concept from the list on the left to its description on the right.",
+        "variantlar": [
+            "Uses technology to perform tasks without human input.",
+            "Provides resources over the internet.",
+            "Predicts and finishes words as you type.",
+            "Finds and fixes grammatical and spelling errors."
+        ],
+        "javob": {
+            "Uses technology to perform tasks without human input.": "Automation",
+            "Provides resources over the internet.": "Cloud computing",
+            "Predicts and finishes words as you type.": "Autocomplete",
+            "Finds and fixes grammatical and spelling errors.": "Autocorrect"
+        }
+    },
+    {
+        "id": 28,
+        "savol": "For each of the four statements, select True or False.",
+        "variantlar": [
+            "In small-team update meetings, giving a brief status, noting blocking issues, and stating next steps respects teammates' time.",
+            "In large meetings, staying muted when not speaking and using Raise Hand or the Q&A tool as the host requests helps keep discussion orderly.",
+            "For asynchronous review of a shared draft, downloading your own copy and emailing edits back later keeps feedback centralized.",
+            "In a public webinar, screen sharing without being asked shows engagement and is appropriate."
+        ],
+        "javob": {
+            "In small-team update meetings, giving a brief status, noting blocking issues, and stating next steps respects teammates' time.": "True",
+            "In large meetings, staying muted when not speaking and using Raise Hand or the Q&A tool as the host requests helps keep discussion orderly.": "True",
+            "For asynchronous review of a shared draft, downloading your own copy and emailing edits back later keeps feedback centralized.": "False",
+            "In a public webinar, screen sharing without being asked shows engagement and is appropriate.": "False"
+        }
+    },
+    {
+        "id": 29,
+        "savol": "Which two actions apply digital etiquette when reviewing a shared draft asynchronously? (Choose 2.)",
+        "variantlar": [
+            "A. Tag multiple stakeholders across unrelated sections to get more attention",
+            "B. Use comments with @mentions to ask clarifying questions where issues appear",
+            "C. Turn on Suggesting/Track Changes so edits are visible and attributed",
+            "D. Download a personal copy, make edits privately, and email it back later",
+            "E. Rewrite sections directly in the main text without explanation to save time"
+        ],
+        "javob": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 30,
+        "savol": "For each of the three statements about refining search results, select True or False.",
+        "variantlar": [
+            "Adding keyword synonyms improves accuracy.",
+            "Applying filters like date and region can make results more relevant.",
+            "Using broad terms increases result precision."
+        ],
+        "javob": {
+            "Adding keyword synonyms improves accuracy.": "True",
+            "Applying filters like date and region can make results more relevant.": "True",
+            "Using broad terms increases result precision.": "False"
+        }
+    },
+    {
+        "id": 31,
+        "savol": "Why should you compress a folder into a ZIP file before emailing it?",
+        "variantlar": [
+            "A. It automatically encrypts the contents with strong security",
+            "B. It makes every file inside editable by anyone, even without the software installed",
+            "C. It reduces the total size and combines many items into one attachment.",
+            "D. It improves image quality in the files"
+        ],
+        "javob": "C"
+    },
+    {
+        "id": 32,
+        "savol": "Which two practices improve clarity and response rate when composing a work email to request a quick decision? (Choose 2.)",
+        "variantlar": [
+            "A. (Question repeated in option A)",
+            "B. Provide a long background section before the request",
+            "C. Write a specific subject line that summarizes the action needed",
+            "D. Put the decision and due date in the first sentence",
+            "E. Use multiple colors and fonts to emphasize urgency"
+        ],
+        "javob": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 33,
+        "savol": "During a two-hour study block, you feel FOMO as classmates post live updates about a campus event. Which action reduces FOMO while protecting focus?",
+        "variantlar": [
+            "A. Leave notifications on but lower the volume so alerts are less noticeable",
+            "B. Enable Focus/Do Not Disturb for the study block and schedule a 5-minute check at the midpoint.",
+            "C. Keep group chats open on a second screen to glance at between problems",
+            "D. Turn on push notifications for event posts to avoid missing anything important"
+        ],
+        "javob": "B"
+    },
+    {
+        "id": 34,
+        "savol": "Move each principle of digital etiquette from the list on the left to its example on the right.",
+        "variantlar": [
+            "Not sharing private client data.",
+            "Replying to messages within agreed timeframes.",
+            "Avoiding acronyms in professional emails.",
+            "Scheduling meetings considering time zones."
+        ],
+        "javob": {
+            "Not sharing private client data.": "Confidentiality",
+            "Replying to messages within agreed timeframes.": "Timeliness",
+            "Avoiding acronyms in professional emails.": "Clarity",
+            "Scheduling meetings considering time zones.": "Cultural sensitivity"
+        }
+    },
+    {
+        "id": 35,
+        "savol": "For each of the four statements about sound adjustments, select True or False.",
+        "variantlar": [
+            "Mono audio combines stereo channels into one.",
+            "Balance control adjusts the distribution of sound between speakers.",
+            "Volume control changes the overall loudness of audio.",
+            "Equalizer settings can fix uneven sound between left and right speakers."
+        ],
+        "javob": {
+            "Mono audio combines stereo channels into one.": "True",
+            "Balance control adjusts the distribution of sound between speakers.": "True",
+            "Volume control changes the overall loudness of audio.": "True",
+            "Equalizer settings can fix uneven sound between left and right speakers.": "False"
+        }
+    },
+    {
+        "id": 36,
+        "savol": "Which two settings enable device encryption on common desktop operating systems? (Choose 2.)",
+        "variantlar": [
+            "A. Airplane mode (device)",
+            "B. Windows Hello PIN (Windows)",
+            "C. Secure Boot (UEFI firmware)",
+            "D. FileVault (macOS)",
+            "E. BitLocker (Windows)"
+        ],
+        "javob": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "id": 37,
+        "savol": "A user complains that the screen looks washed out after moving their laptop near a window. Which adjustment should be made to improve the display?",
+        "variantlar": [
+            "A. Adjust gamma settings",
+            "B. Lower refresh rate",
+            "C. Increase brightness",
+            "D. Enable night mode"
+        ],
+        "javob": "C"
+    },
+    {
+        "id": 38,
+        "savol": "Jordan has recently started using a new cloud-based project management tool at work. The company encourages employees to develop digital skills independently and provides resources for self-learning. While working on a project with a tight deadline, Jordan encounters a feature that is unfamiliar. Jordan wants to complete the task on time and improve their understanding of the tool. Which two actions should Jordan take to increase digital competence in this situation? (Choose 2.)",
+        "variantlar": [
+            "A. Watch a video review of the tool on a popular tech channel to learn about its future.",
+            "B. Ask a coworker for a quick explanation and rely on that guidance going forward",
+            "C. Post a question in an online community forum for the tool",
+            "D. Search for tutorials and user guides in the tool's help section"
+        ],
+        "javob": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 39,
+        "savol": "Which three practices improve your ability to find files later? (Choose 3.)",
+        "variantlar": [
+            "A. Include your initials in every file name so everyone knows they are yours",
+            "B. Use consistent, descriptive file names that reflect the file's content and context",
+            "C. Establish a predictable folder structure that mirrors your workflow",
+            "D. Apply available metadata, for example, tags or properties, to categorize files.",
+            "E. Change the file extensions to .pdf so everyone can open it",
+            "F. Keep multiple versions with identical names and a date in the same folder"
+        ],
+        "javob": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 40,
+        "savol": "Which two features help protect your card details when paying online? (Choose 2.)",
+        "variantlar": [
+            "A. Using a private/incognito browser window while entering payment details",
+            "B. Bank-sent one-time passcodes to approve the transaction",
+            "C. Using a virtual credit card number that is temporary",
+            "D. A 'secure site' badge or padlock image displayed near the payment form",
+            "E. Saving your card in your store account settings"
+        ],
+        "javob": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 41,
+        "savol": "Which Microsoft 365 tool integrates chat, video meetings, and shared files for team collaboration?",
+        "variantlar": [
+            "A. Outlook",
+            "B. SharePoint",
+            "C. Teams",
+            "D. OneDrive"
+        ],
+        "javob": "C"
+    },
+    {
+        "id": 42,
+        "savol": "Move each verification step from the list on the left to its purpose on the right.",
+        "variantlar": [
+            "Indicates reliability",
+            "Ensures timeliness",
+            "Confirms expertise",
+            "Validates accuracy"
+        ],
+        "javob": {
+            "Indicates reliability": "Analyze domain type",
+            "Ensures timeliness": "Review publication date",
+            "Confirms expertise": "Check author credentials",
+            "Validates accuracy": "Cross-reference sources"
+        }
+    },
+    {
+        "id": 43,
+        "savol": "Priya is learning to use a specialized data visualization tool for a volunteer project. The tool has limited official documentation, but it has an active online community where users share tips and solutions. Priya needs to create a custom chart type that is not explained in the basic guide. After completing the task, she will document the process for other volunteers so they can use the feature correctly in future projects. Which two actions should Priya take to increase digital competence in this situation? (Choose 2.)",
+        "variantlar": [
+            "A. Experiment with the tool's settings until the custom chart looks correct",
+            "B. Use a similar chart type from the basic guide and hope it meets the project's needs",
+            "C. Search for a user-created tutorial video on a video-sharing platform",
+            "D. Post a question in the tool's official community forum asking for guidance on creating the custom chart."
+        ],
+        "javob": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 44,
+        "savol": "Move each editing approach from the list on the left to its characteristic on the right. Editing approaches may be used more than once.",
+        "variantlar": [
+            "The cursors of other users are visible while you are editing.",
+            "Everyone sees updates as they happen on the same file.",
+            "Team members work on their own copies and submit changes later.",
+            "Changes are merged after review using comments or tracked changes."
+        ],
+        "javob": {
+            "The cursors of other users are visible while you are editing.": "Synchronous",
+            "Everyone sees updates as they happen on the same file.": "Synchronous",
+            "Team members work on their own copies and submit changes later.": "Asynchronous",
+            "Changes are merged after review using comments or tracked changes.": "Asynchronous"
+        }
+    },
+    {
+        "id": 45,
+        "savol": "Which two actions can confirm a successful printer connection? (Choose 2.)",
+        "variantlar": [
+            "A. Checking the printer queue for pending jobs",
+            "B. Selecting 'Set as default printer'",
+            "C. Printing a test page",
+            "D. Restarting the computer"
+        ],
+        "javob": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "id": 46,
+        "savol": "For each of the three statements about device security, select True or False.",
+        "variantlar": [
+            "It is safe to plug in an unknown USB flash drive as long as you don't open any files from it.",
+            "A charge-only cable will protect your device from data risks when using a public USB charging station.",
+            "You should block camera access until you confirm that a new app is legitimate and actually needs the camera."
+        ],
+        "javob": {
+            "It is safe to plug in an unknown USB flash drive as long as you don't open any files from it.": "False",
+            "A charge-only cable will protect your device from data risks when using a public USB charging station.": "True",
+            "You should block camera access until you confirm that a new app is legitimate and actually needs the camera.": "True"
+        }
+    },
+    {
+        "id": 47,
+        "savol": "For each of the three statements about verifying online information, select True or False.",
+        "variantlar": [
+            "Checking the publication date helps determine relevance.",
+            "Cross-referencing with other reliable sources can confirm accuracy.",
+            "The number of social media shares is a good indicator of truthfulness."
+        ],
+        "javob": {
+            "Checking the publication date helps determine relevance.": "True",
+            "Cross-referencing with other reliable sources can confirm accuracy.": "True",
+            "The number of social media shares is a good indicator of truthfulness.": "False"
+        }
+    },
+    {
+        "id": 48,
+        "savol": "For each of the four statements, select True or False.",
+        "variantlar": [
+            "Version history lets you view or restore an earlier saved version of a file.",
+            "Uploading a new file to replace an old one automatically removes the old file's version history.",
+            "Compressing multiple files into a ZIP file makes them easier to upload.",
+            "Compressing a video into a ZIP file reduces the audio and visual quality."
+        ],
+        "javob": {
+            "Version history lets you view or restore an earlier saved version of a file.": "True",
+            "Uploading a new file to replace an old one automatically removes the old file's version history.": "False",
+            "Compressing multiple files into a ZIP file makes them easier to upload.": "True",
+            "Compressing a video into a ZIP file reduces the audio and visual quality.": "False"
+        }
+    },
+    {
+        "id": 49,
+        "savol": "You are making a sales brochure for your company, and the image you want to use is labeled Creative Commons, For Non-Commercial Use, Requires Attribution (CC BY-NC). What should you do?",
+        "variantlar": [
+            "A. Use the image if the brochure will be free to download",
+            "B. Use the image without making edits",
+            "C. Don't use the image and find something else",
+            "D. Use with credit because the image is allowed for business"
+        ],
+        "javob": "C"
+    },
+    {
+        "id": 50,
+        "savol": "For each of the four statements about filling out online forms, select True or False.",
+        "variantlar": [
+            "Required fields must be completed before submission.",
+            "Forms may include CAPTCHA for security.",
+            "Forms can include file upload options.",
+            "Submitting a form automatically saves a copy to your local drive or email."
+        ],
+        "javob": {
+            "Required fields must be completed before submission.": "True",
+            "Forms may include CAPTCHA for security.": "True",
+            "Forms can include file upload options.": "True",
+            "Submitting a form automatically saves a copy to your local drive or email.": "False"
+        }
+    },
+    {
+        "id": 51,
+        "savol": "You are working on a document with a group of classmates and need to track, collect, and manage feedback in the shared draft without creating conflicting copies. Which two actions should you choose? (Choose 2.)",
+        "variantlar": [
+            "A. Have each reviewer use Suggesting/Track Changes in their own copy and email it back",
+            "B. Turn off version history to reduce file clutter",
+            "C. Move feedback into group chat outside the document",
+            "D. Add comments with @mentions in the shared document",
+            "E. Enable Suggesting/Track Changes to label edits by user"
+        ],
+        "javob": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "id": 52,
+        "savol": "For each of the four statements, select True or False.",
+        "variantlar": [
+            "The CPU is an output device that shows information to users.",
+            "A GPU is a processing device that handles pictures and graphics.",
+            "Processing devices change input data into useful output.",
+            "RAM is a processing device because it stores data for a short time."
+        ],
+        "javob": {
+            "The CPU is an output device that shows information to users.": "False",
+            "A GPU is a processing device that handles pictures and graphics.": "True",
+            "Processing devices change input data into useful output.": "True",
+            "RAM is a processing device because it stores data for a short time.": "False"
+        }
+    },
+    {
+        "id": 53,
+        "savol": "You need to send a one-page project update to a community group that reads on phones and only uses basic apps. Which format should you use for this audience?",
+        "variantlar": [
+            "A. PowerPoint (.pptx) slide deck",
+            "B. Compact PDF document",
+            "C. JPEG screenshot of the file",
+            "D. Photoshop (.psd) source file"
+        ],
+        "javob": "B"
+    },
+    {
+        "id": 54,
+        "savol": "Which option protects a file by requiring authentication before access?",
+        "variantlar": [
+            "A. Add a password that is required to open the file",
+            "B. Limit editing to tracked changes",
+            "C. Protect the document for comments only",
+            "D. Mark the file as Read-only."
+        ],
+        "javob": "A"
+    },
+    {
+        "id": 55,
+        "savol": "For each of the three statements about creating and managing identities online, select True or False.",
+        "variantlar": [
+            "Keeping personal views about hot topics away from your work online presence helps keep good digital boundaries.",
+            "Having different email addresses for work and personal use is a good way to manage multiple digital identities.",
+            "Making different usernames for work sites and personal sites is too hard and not needed."
+        ],
+        "javob": {
+            "Keeping personal views about hot topics away from your work online presence helps keep good digital boundaries.": "True",
+            "Having different email addresses for work and personal use is a good way to manage multiple digital identities.": "True",
+            "Making different usernames for work sites and personal sites is too hard and not needed.": "False"
+        }
+    },
+    {
+        "id": 56,
+        "savol": "Move each hardware feature from the list on the left to its primarily inclusive need it addresses on the right.",
+        "variantlar": [
+            "Improve key visibility for users with low vision.",
+            "Allow private listening and volume adjustment.",
+            "Easier connection of peripherals; accommodate wheelchair users.",
+            "Reduce glare/neck strain; positioning for different heights."
+        ],
+        "javob": {
+            "Improve key visibility for users with low vision.": "High-contrast, large-label keycaps",
+            "Allow private listening and volume adjustment.": "Headsets with in-line volume control and standard 3.5 mm jacks",
+            "Easier connection of peripherals; accommodate wheelchair users.": "Front-mounted USB ports and wide knee clearance",
+            "Reduce glare/neck strain; positioning for different heights.": "Monitors on tilt-and-swivel adjustable arms"
+        }
+    },
+    {
+        "id": 57,
+        "savol": "You are creating a step-by-step guide for nontechnical community members who will print it at home. Which two actions should you do? (Choose 2.)",
+        "variantlar": [
+            "A. Add captions for your videos so the information is printed",
+            "B. Share the design source file (.psd) for editing",
+            "C. Use plain language and numbered steps",
+            "D. Export a printer-friendly PDF with high contrast"
+        ],
+        "javob": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 58,
+        "savol": "For each of the three statements about language and regional settings, select True or False.",
+        "variantlar": [
+            "Regional settings can affect date and time formats.",
+            "Language settings can be configured for individual user profiles.",
+            "Changing the system language automatically translates all third-party apps."
+        ],
+        "javob": {
+            "Regional settings can affect date and time formats.": "True",
+            "Language settings can be configured for individual user profiles.": "True",
+            "Changing the system language automatically translates all third-party apps.": "False"
+        }
+    },
+    {
+        "id": 59,
+        "savol": "For each of the four statements about instant messaging in the workplace, select True or False.",
+        "variantlar": [
+            "Respond with 'OK' to all messages.",
+            "Keep messages short and relevant.",
+            "Avoid sending messages outside work hours unless urgent.",
+            "Use emojis and GIFs to replace words in formal communications."
+        ],
+        "javob": {
+            "Respond with 'OK' to all messages.": "False",
+            "Keep messages short and relevant.": "True",
+            "Avoid sending messages outside work hours unless urgent.": "True",
+            "Use emojis and GIFs to replace words in formal communications.": "False"
+        }
+    },
+    {
+        "id": 60,
+        "savol": "For each of the four statements about digital etiquette in a large video meeting, select True or False.",
+        "variantlar": [
+            "Demonstrate good etiquette by testing your audio/video before the meeting starts.",
+            "Mute your microphone when you are not speaking.",
+            "Unmuting your microphone is better than using Q&A or chat tools to ask questions.",
+            "Joining a session with a clear display name is an example of good digital etiquette."
+        ],
+        "javob": {
+            "Demonstrate good etiquette by testing your audio/video before the meeting starts.": "True",
+            "Mute your microphone when you are not speaking.": "True",
+            "Unmuting your microphone is better than using Q&A or chat tools to ask questions.": "False",
+            "Joining a session with a clear display name is an example of good digital etiquette.": "True"
+        }
+    },
+    {
+        "id": 61,
+        "savol": "You are creating a company report in a word processing application. The report has multiple headings and body text sections. Your manager asks you to ensure that all headings have the same font, size, and color, and that the body text is consistent throughout the document. Which feature should you use to apply the consistent formatting throughout the document?",
+        "variantlar": [
+            "A. Paragraph spacing",
+            "B. Styles",
+            "C. Font color",
+            "D. Text effects"
+        ],
+        "javob": "B"
+    },
+    {
+        "id": 62,
+        "savol": "For each of the four statements about cultural sensitivity online, select True or False.",
+        "variantlar": [
+            "Be aware of time zone differences.",
+            "Use humor to make everyone comfortable.",
+            "Assume everyone celebrates the same holidays.",
+            "Avoid stereotypes in communication."
+        ],
+        "javob": {
+            "Be aware of time zone differences.": "True",
+            "Use humor to make everyone comfortable.": "False",
+            "Assume everyone celebrates the same holidays.": "False",
+            "Avoid stereotypes in communication.": "True"
+        }
+    },
+    {
+        "id": 63,
+        "savol": "For each of the four statements about creating calendar events, select True or False.",
+        "variantlar": [
+            "You can add a location for an event.",
+            "You can schedule events for a recurring date and time.",
+            "You can add links to a calendar event.",
+            "You must delete an event to change its time."
+        ],
+        "javob": {
+            "You can add a location for an event.": "True",
+            "You can schedule events for a recurring date and time.": "True",
+            "You can add links to a calendar event.": "True",
+            "You must delete an event to change its time.": "False"
+        }
+    },
+    {
+        "id": 64,
+        "savol": "A person you met in an online study group forum avoids video calls, asks for gift cards, and pushes for personal details. What should you do?",
+        "variantlar": [
+            "A. Send a small amount once to build trust, then ask for ID",
+            "B. Share limited personal data but decline any money requests",
+            "C. Move the conversation to a private app to talk one-on-one",
+            "D. Stop the conversation, block the account, and report it to the platform"
+        ],
+        "javob": "D"
+    },
+    {
+        "id": 65,
+        "savol": "For each of the four statements about image editing, select True or False.",
+        "variantlar": [
+            "Rotating an image 90 degrees clockwise produces the same result as flipping it horizontally.",
+            "Exporting a JPEG at a higher compression level reduces file size with no impact on visual quality.",
+            "Resizing an image with 'lock aspect ratio' prevents distortion.",
+            "Increasing contrast can make a dim photo brighter, but overdoing it can lose detail."
+        ],
+        "javob": {
+            "Rotating an image 90 degrees clockwise produces the same result as flipping it horizontally.": "False",
+            "Exporting a JPEG at a higher compression level reduces file size with no impact on visual quality.": "False",
+            "Resizing an image with 'lock aspect ratio' prevents distortion.": "True",
+            "Increasing contrast can make a dim photo brighter, but overdoing it can lose detail.": "True"
+        }
+    },
+    {
+        "id": 66,
+        "savol": "For each of the three statements about catfishing, select True or False.",
+        "variantlar": [
+            "One example of catfishing is a legitimate-looking link that leads to a fake banking site for stealing users' passwords.",
+            "Catfishing involves creating a fake online identity to gain trust and trick users out of money or personal information.",
+            "You can check for possible catfishing by asking for a quick live video call and running a reverse image search on profile photos."
+        ],
+        "javob": {
+            "One example of catfishing is a legitimate-looking link that leads to a fake banking site for stealing users' passwords.": "False",
+            "Catfishing involves creating a fake online identity to gain trust and trick users out of money or personal information.": "True",
+            "You can check for possible catfishing by asking for a quick live video call and running a reverse image search on profile photos.": "True"
+        }
+    },
+    {
+        "id": 67,
+        "savol": "Amira has been asked to create an interactive presentation using a new online tool for an upcoming client meeting. The presentation is due tomorrow, and Amira has never used this tool before. Which action should Amira take to increase digital competence and meet the deadline?",
+        "variantlar": [
+            "A. Ask a friend who has used similar tools to walk through the process over a call",
+            "B. Search for a blog article comparing multiple presentation tools to learn about trends",
+            "C. Post a question in a general tech discussion group and wait for responses",
+            "D. Complete the tool's quick-start tutorial provided in its help section."
+        ],
+        "javob": "D"
+    },
+    {
+        "id": 68,
+        "savol": "For each of the four statements about automation, select True or False.",
+        "variantlar": [
+            "Automation can be used for scheduled system backups.",
+            "After initial setup, automation requires user input to function.",
+            "Automation guarantees zero human oversight.",
+            "Automation reduces the need for repetitive manual tasks."
+        ],
+        "javob": {
+            "Automation can be used for scheduled system backups.": "True",
+            "After initial setup, automation requires user input to function.": "False",
+            "Automation guarantees zero human oversight.": "False",
+            "Automation reduces the need for repetitive manual tasks.": "True"
+        }
+    },
+    {
+        "id": 69,
+        "savol": "Which two consequences can result from posting hostile or insulting comments from your public account? (Choose 2.)",
+        "variantlar": [
+            "A. Loss of opportunities when schools or employers review your online presence",
+            "B. Automatic protection from platform moderation because the post is an opinion",
+            "C. Guaranteed increase in followers due to higher engagement",
+            "D. Account actions such as content removal or suspension under platform policies"
+        ],
+        "javob": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "id": 70,
+        "savol": "For each of the four statements about structuring a document, select True or False.",
+        "variantlar": [
+            "Applying built-in Heading styles enables the automated generation of a table of contents.",
+            "To begin a new page at a specific point, insert a page break instead of pressing Enter repeatedly.",
+            "Manually formatting each heading is the best approach if you may need to update all headings later.",
+            "To add space between paragraphs consistently, adjust paragraph spacing settings rather than inserting empty lines."
+        ],
+        "javob": {
+            "Applying built-in Heading styles enables the automated generation of a table of contents.": "True",
+            "To begin a new page at a specific point, insert a page break instead of pressing Enter repeatedly.": "True",
+            "Manually formatting each heading is the best approach if you may need to update all headings later.": "False",
+            "To add space between paragraphs consistently, adjust paragraph spacing settings rather than inserting empty lines.": "True"
+        }
+    },
+    {
+        "id": 71,
+        "savol": "Move each feature from the list on the left to the benefit it provides on the right.",
+        "variantlar": [
+            "Creates simulated versions of hardware or environments.",
+            "Stores files remotely for easy access.",
+            "Improves text accuracy during typing.",
+            "Reduces repetitive manual work."
+        ],
+        "javob": {
+            "Creates simulated versions of hardware or environments.": "Virtualization",
+            "Stores files remotely for easy access.": "Cloud storage",
+            "Improves text accuracy during typing.": "Autocorrect",
+            "Reduces repetitive manual work.": "Automation"
+        }
+    },
+    {
+        "id": 72,
+        "savol": "Lena has just completed her first infographic using a new design tool for a school project. She followed tutorials and feels confident about the layout and color choices. The project will be shared with the entire class, and Lena wants to improve her design skills for future assignments. Which two actions should Lena take to increase digital competence in this situation? (Choose 2.)",
+        "variantlar": [
+            "A. Watch another tutorial on the design tool to learn additional features",
+            "B. Compare her infographic to examples she finds online and make changes based on what looks better.",
+            "C. Ask a classmate or instructor for feedback on the infographic's design and usability",
+            "D. Post the infographic on social media to see how many likes it gets"
+        ],
+        "javob": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "id": 73,
+        "savol": "You open a template file from a shared folder and see it is read-only. You need to add information and send it to someone for approval within the next few minutes. Which action allows you to proceed?",
+        "variantlar": [
+            "A. Make edits in the read-only file and rely on AutoSave to keep your changes",
+            "B. Use Save As to save a copy to a location you can edit, then continue working on that copy",
+            "C. Request edit access from the owner and wait for approval before you start editing",
+            "D. Rename the file to remove the read-only status so you can save over it"
+        ],
+        "javob": "B"
+    },
+    {
+        "id": 74,
+        "savol": "Complete the sentence by selecting the correct option from the drop-down list.",
+        "variantlar": [
+            "A. equalizer setting",
+            "B. brightness setting",
+            "C. spatial sound setting",
+            "D. balance setting"
+        ],
+        "javob": "D"
+    },
+    {
+        "id": 75,
+        "savol": "Which action mitigates risk when connecting untrusted portable media to a computer?",
+        "variantlar": [
+            "A. Format the media to a common file system and then copy needed files",
+            "B. Temporarily turn off the firewall to allow the device to mount correctly",
+            "C. Open a few small files to check contents, then run a scan afterward",
+            "D. Disable AutoPlay/AutoRun and scan the media with up-to-date security software before opening files."
+        ],
+        "javob": "D"
+    },
+    {
+        "id": 76,
+        "savol": "Which three actions are valid ways to recover an earlier version of a file? (Choose 3.)",
+        "variantlar": [
+            "A. Use your cloud storage service's version history for the file",
+            "B. Restore from a recent backup drive or backup service",
+            "C. Rename the file with an earlier date to revert its contents",
+            "D. Use your operating system's 'Previous versions' or file history feature",
+            "E. Change the file's Modified date/time in Properties to roll the contents back"
+        ],
+        "javob": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 77,
+        "savol": "(Choose 2.)",
+        "variantlar": [
+            "A. Set a password that is required to modify the file",
+            "B. Apply editing restrictions that allow comments only",
+            "C. Encrypt the file so a password is required to open it",
+            "D. Disable autosave in the application settings"
+        ],
+        "javob": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "id": 78,
+        "savol": "For each of the four statements about printer concepts, select True or False.",
+        "variantlar": [
+            "Inkjet printers use heat to fuse toner to paper.",
+            "A default printer is the one automatically selected for print jobs.",
+            "A successful printer connection can be confirmed by printing a test page.",
+            "Laser printers use toner cartridges."
+        ],
+        "javob": {
+            "Inkjet printers use heat to fuse toner to paper.": "False",
+            "A default printer is the one automatically selected for print jobs.": "True",
+            "A successful printer connection can be confirmed by printing a test page.": "True",
+            "Laser printers use toner cartridges.": "True"
+        }
+    },
+    {
+        "id": 79,
+        "savol": "For each of the three statements, select whether it is True or False.",
+        "variantlar": [
+            "Public domain content can be reused without license restrictions, though attribution is still a good practice.",
+            "'NonCommercial' licenses allow use in company marketing materials if the materials are free to download.",
+            "'NoDerivatives' licenses allow sharing exact copies but not distributing modified versions."
+        ],
+        "javob": {
+            "Public domain content can be reused without license restrictions, though attribution is still a good practice.": "True",
+            "'NonCommercial' licenses allow use in company marketing materials if the materials are free to download.": "False",
+            "'NoDerivatives' licenses allow sharing exact copies but not distributing modified versions.": "True"
+        }
+    },
+    {
+        "id": 80,
+        "savol": "For each of the four statements about digital devices and connections, select True or False.",
+        "variantlar": [
+            "Ethernet cables use fiber optic technology to move data between devices.",
+            "HDMI cables are only for audio and cannot carry video.",
+            "USB Type-C cables can send both power and data at the same time.",
+            "Thunderbolt connectors move data faster than USB-C connections."
+        ],
+        "javob": {
+            "Ethernet cables use fiber optic technology to move data between devices.": "False",
+            "HDMI cables are only for audio and cannot carry video.": "False",
+            "USB Type-C cables can send both power and data at the same time.": "True",
+            "Thunderbolt connectors move data faster than USB-C connections.": "True"
+        }
+    }
+]

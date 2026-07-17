@@ -1,0 +1,2561 @@
+[
+  {
+    "id": "l2-80q-q1",
+    "questionNumber": 1,
+    "questionText": "Move each password management practice from the list on the left to its matching benefit on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Adds an extra safety layer beyond passwords.",
+        "right": "Enabling two-factor authentication"
+      },
+      {
+        "left": "Keeps passwords safe in one locked place.",
+        "right": "Using a password manager"
+      },
+      {
+        "left": "Keeps account protected against new threats.",
+        "right": "Regularly updating passwords"
+      },
+      {
+        "left": "Stops unauthorized access if one site using that password is hacked.",
+        "right": "Creating unique passwords"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q2",
+    "questionNumber": 2,
+    "questionText": "You are designing a presentation for a client. The client wants all slides to have the same background, font, and color scheme. Which feature should you use to maintain a uniform look across all slides?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Slide Master"
+      },
+      {
+        "id": "o2",
+        "text": "Layout"
+      },
+      {
+        "id": "o3",
+        "text": "Design Ideas"
+      },
+      {
+        "id": "o4",
+        "text": "Backgrounds"
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "l2-80q-q3",
+    "questionNumber": 3,
+    "questionText": "You need input from your team on a draft policy by tomorrow. Team members are in different time zones and may reply at different times. The file is too large to send as an attachment, and you want everyone's feedback stored together. Which platform should you use?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Individual instant messages to each teammate with the file compressed and attached"
+      },
+      {
+        "id": "o2",
+        "text": "A shared cloud document that allows team members to review and annotate in one location."
+      },
+      {
+        "id": "o3",
+        "text": "A private team chat channel post with the file uploaded and comments collected in the message thread"
+      },
+      {
+        "id": "o4",
+        "text": "A group video meeting scheduled for later today to discuss the draft live"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l2-80q-q4",
+    "questionNumber": 4,
+    "questionText": "Which two tools enables multiple people to edit the same document online at the same time? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Google Docs"
+      },
+      {
+        "id": "o2",
+        "text": "Acrobat Reader"
+      },
+      {
+        "id": "o3",
+        "text": "Notepad"
+      },
+      {
+        "id": "o4",
+        "text": "Microsoft 365"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q5",
+    "questionNumber": 5,
+    "questionText": "Which two settings improve accessibility for users with visual impairments? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using screen magnifier"
+      },
+      {
+        "id": "o2",
+        "text": "Increasing the refresh rate"
+      },
+      {
+        "id": "o3",
+        "text": "Disabling notifications"
+      },
+      {
+        "id": "o4",
+        "text": "Enabling high-contrast mode"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q6",
+    "questionNumber": 6,
+    "questionText": "Move each accessibility feature from the list on the left to its corresponding user need on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Operate the computer with limited hand mobility or dexterity.",
+        "right": "Voice control (OS voice access with built-in mic)"
+      },
+      {
+        "left": "Improve typing accuracy for users with low vision.",
+        "right": "Large-print keyboard or keycap overlays"
+      },
+      {
+        "left": "Reduce neck/back strain and accommodate seated, standing, or wheelchair users.",
+        "right": "Adjustable height desk"
+      },
+      {
+        "left": "Improve on-screen readability for users with low vision or visual fatigue.",
+        "right": "Screen magnifier/zoom with high contrast display"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q7",
+    "questionNumber": 7,
+    "questionText": "For each of the four statements about filtering search results, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Filters can include date, file type, and region.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Filters guarantee accurate information.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Filters help organize results based on user needs.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Removing filters narrows search results.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q8",
+    "questionNumber": 8,
+    "questionText": "Move each editing approach from the list on the left to its characteristic on the right. Editing approaches may be used more than once.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Minor typing delays may occur when several people type in the same paragraph at the same time.",
+        "right": "Synchronous"
+      },
+      {
+        "left": "Teammates edit offline and later upload different versions that must be merged.",
+        "right": "Asynchronous"
+      },
+      {
+        "left": "A reliable internet connection is needed so multiple users can edit a shared document.",
+        "right": "Synchronous"
+      },
+      {
+        "left": "Contributors post suggestions which the file owner accepts or rejects after review.",
+        "right": "Asynchronous"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q9",
+    "questionNumber": 9,
+    "questionText": "A heat advisory has been issued. You need to confirm whether your city's cooling centers are open this evening and find the nearest location. Which online resource is the authoritative source of information?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Local news article covering the heat wave with reader comments"
+      },
+      {
+        "id": "o2",
+        "text": "Private neighborhood social app post from last summer listing facilities and hours"
+      },
+      {
+        "id": "o3",
+        "text": "City emergency alerts page with live status and an official locations map"
+      },
+      {
+        "id": "o4",
+        "text": "Third-party business directory page for a nearby community center"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l2-80q-q10",
+    "questionNumber": 10,
+    "questionText": "For each of the three statements about creating and managing digital identities, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Your professional digital identity shows your skills to possible employers or coworkers.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "One digital identity is enough for all online tasks, both personal and work.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Using the same password for your work and personal accounts is easier and safer.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q11",
+    "questionNumber": 11,
+    "questionText": "Move each factor from the list on the left to its description on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Information relates to the topic.",
+        "right": "Relevance"
+      },
+      {
+        "left": "Information is correct and supported by evidence.",
+        "right": "Accuracy"
+      },
+      {
+        "left": "Source is trustworthy and authoritative.",
+        "right": "Credibility"
+      },
+      {
+        "left": "Content favors one perspective.",
+        "right": "Bias"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q12",
+    "questionNumber": 12,
+    "questionText": "You are reviewing a shared document with your team. You want to see who made changes and what edits were suggested. For each of the four statements about tracking changes in a document, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Track Changes can show insertions and deletions.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Track Changes is used to apply consistent formatting.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Track Changes automatically accepts all edits.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Track Changes highlights edits made by different users.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q13",
+    "questionNumber": 13,
+    "questionText": "For each of the four statements about calendar event reminders, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You can customize an event's reminder time.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "You can set multiple reminders for a single event.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "You can set a different reminder time for each attendee.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Reminders can be sent by email or pop-up alerts.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q14",
+    "questionNumber": 14,
+    "questionText": "Your team is updating a public computer lab to better follow universal hardware design. Which choice supports universal design principles for the widest range of users?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Replace one PC with a special workstation reserved for users with disabilities"
+      },
+      {
+        "id": "o2",
+        "text": "Add high-DPI gaming mice to every station for faster pointing"
+      },
+      {
+        "id": "o3",
+        "text": "Install height-adjustable desks and adjustable monitor arms at all workstations"
+      },
+      {
+        "id": "o4",
+        "text": "Post a sign that assistance is available upon request"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l2-80q-q15",
+    "questionNumber": 15,
+    "questionText": "For each of the four statements about cloud computing, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Cloud computing supports scalability of resources.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Cloud computing requires all applications to be installed locally.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Cloud computing allows users to access resources over the internet.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Cloud computing eliminates the need for any internet connection.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q16",
+    "questionNumber": 16,
+    "questionText": "Which three practices help maintain speed and accuracy during routine typing and editing tasks? (Choose 3.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Rest your palms on the keyboard's front edge while actively typing."
+      },
+      {
+        "id": "o2",
+        "text": "Strike keys firmly to ensure each keystroke registers"
+      },
+      {
+        "id": "o3",
+        "text": "Maintain a neutral wrist position with forearms roughly parallel to the floor"
+      },
+      {
+        "id": "o4",
+        "text": "Use the Shift key for a single capital letter instead of toggling Caps Lock"
+      },
+      {
+        "id": "o5",
+        "text": "Occasionally look down at the keyboard to confirm each key before pressing it."
+      },
+      {
+        "id": "o6",
+        "text": "Place index fingers on F and J and return to the home row after reaching"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4",
+      "o6"
+    ]
+  },
+  {
+    "id": "l2-80q-q17",
+    "questionNumber": 17,
+    "questionText": "Ten minutes after posting a rude public comment about a classmate on TikTok, you decide to privatize it, but others have already replied and shared it. Which outcome describes the risk that remains?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "The deleted comment cannot affect you or your classmate now that it has been removed"
+      },
+      {
+        "id": "o2",
+        "text": "Screenshots and reshares may continue circulating, harming your reputation even after deletion."
+      },
+      {
+        "id": "o3",
+        "text": "Your home internet service will automatically suspend your account for policy violations"
+      },
+      {
+        "id": "o4",
+        "text": "People who replied must remove every reply per platform policy"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l2-80q-q18",
+    "questionNumber": 18,
+    "questionText": "You are collaborating with a group of classmates and need to edit the same online document at the same time, and see who is making changes. Which two actions should you choose? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Share the document with your classmates as commenters via an online app"
+      },
+      {
+        "id": "o2",
+        "text": "Share the document by attaching it to an email to your classmates."
+      },
+      {
+        "id": "o3",
+        "text": "Share the document on a cloud storage service with version history and grant edit access"
+      },
+      {
+        "id": "o4",
+        "text": "Share the document using an online app with co-authoring and notation"
+      },
+      {
+        "id": "o5",
+        "text": "Share the document as an exported PDF using your cloud storage"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q19",
+    "questionNumber": 19,
+    "questionText": "For each of the three statements about assessing bias, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Researching the author's affiliations can uncover potential bias.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Neutral content avoids presenting multiple viewpoints.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Biased content often uses emotional language.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q20",
+    "questionNumber": 20,
+    "questionText": "For each of the four statements about internet commerce, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "A restaurant delivery order is only a good, not a service.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "A downloadable movie you can watch offline at any time after purchase is a digital good.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "A cloud backup subscription is a service because you pay for ongoing access rather than owning a product.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Renting a video in an app for 48 hours is a service because you pay for temporary access.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q21",
+    "questionNumber": 21,
+    "questionText": "Your class is planning a fundraiser for an upcoming event. You are in charge of emailing people to ask for donations and responding to requests for more information. For each of the four actions, select whether it is an Appropriate or Inappropriate way to communicate.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "Appropriate",
+        "text": "Appropriate"
+      },
+      {
+        "id": "Inappropriate",
+        "text": "Inappropriate"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Using all caps for emphasis.",
+        "correctAnswer": "Inappropriate"
+      },
+      {
+        "id": "s2",
+        "text": "Sharing confidential information.",
+        "correctAnswer": "Inappropriate"
+      },
+      {
+        "id": "s3",
+        "text": "Responding promptly to questions.",
+        "correctAnswer": "Appropriate"
+      },
+      {
+        "id": "s4",
+        "text": "Keeping messages concise and relevant.",
+        "correctAnswer": "Appropriate"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q22",
+    "questionNumber": 22,
+    "questionText": "You are working with a group of classmates on a project and are emailing your teacher with some questions about it. For each of the four statements about email etiquette, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Use professional greetings.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Proofread before sending.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Use a clear subject line.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Mark the emails you send to your teacher as important.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q23",
+    "questionNumber": 23,
+    "questionText": "You installed a free game that sells extra items inside the app. The tablet is shared with younger siblings. Which setting enables you to reduce the risk of unwanted charges?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Permit purchases without a password for 60 minutes"
+      },
+      {
+        "id": "o2",
+        "text": "Store the card on the device for one-tap checkout"
+      },
+      {
+        "id": "o3",
+        "text": "Disable marketing alerts about new in-game items"
+      },
+      {
+        "id": "o4",
+        "text": "Require a password or fingerprint for every purchase"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l2-80q-q24",
+    "questionNumber": 24,
+    "questionText": "For each of the four statements about online data collection, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Data collected online is typically stored on remote servers or cloud systems.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Surveys can be distributed through email links.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Screenshots are an effective way to collect structured data.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Online forms can include text fields and multiple-choice questions.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q25",
+    "questionNumber": 25,
+    "questionText": "For each of the four statements, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "When an online exchange becomes hostile, continuing to reply until the other person calms down is a healthy way to protect your well-being.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Curating your feed by unfollowing or muting accounts that trigger anxiety is an appropriate self-care step and does not require a confrontation.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Turning on a blue-light filter at night is an effective way to prevent sleep problems caused by habitual late-night social media use.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Scheduling quiet hours or Do Not Disturb and limiting check-in times can reduce notification-driven stress without uninstalling apps.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q26",
+    "questionNumber": 26,
+    "questionText": "Move each function from the list on the left to the task you would use it for on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Return the number of cells in a range that contain numeric values.",
+        "right": "COUNT"
+      },
+      {
+        "left": "Calculate the mean of a list of test scores.",
+        "right": "AVERAGE"
+      },
+      {
+        "left": "Identify the single highest value in a sales column.",
+        "right": "MAX"
+      },
+      {
+        "left": "Insert a total for B2:B15 using a one-click command.",
+        "right": "AutoSum (SUM)"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q27",
+    "questionNumber": 27,
+    "questionText": "Move each technology concept from the list on the left to its description on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Uses technology to perform tasks without human input.",
+        "right": "Automation"
+      },
+      {
+        "left": "Provides resources over the internet.",
+        "right": "Cloud computing"
+      },
+      {
+        "left": "Predicts and finishes words as you type.",
+        "right": "Autocomplete"
+      },
+      {
+        "left": "Finds and fixes grammatical and spelling errors.",
+        "right": "Autocorrect"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q28",
+    "questionNumber": 28,
+    "questionText": "For each of the four statements, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "In small-team update meetings, giving a brief status, noting blocking issues, and stating next steps respects teammates' time.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "In large meetings, staying muted when not speaking and using Raise Hand or the Q&A tool as the host requests helps keep discussion orderly.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "For asynchronous review of a shared draft, downloading your own copy and emailing edits back later keeps feedback centralized.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "In a public webinar, screen sharing without being asked shows engagement and is appropriate.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q29",
+    "questionNumber": 29,
+    "questionText": "Which two actions apply digital etiquette when reviewing a shared draft asynchronously? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tag multiple stakeholders across unrelated sections to get more attention"
+      },
+      {
+        "id": "o2",
+        "text": "Use comments with @mentions to ask clarifying questions where issues appear"
+      },
+      {
+        "id": "o3",
+        "text": "Turn on Suggesting/Track Changes so edits are visible and attributed"
+      },
+      {
+        "id": "o4",
+        "text": "Download a personal copy, make edits privately, and email it back later"
+      },
+      {
+        "id": "o5",
+        "text": "Rewrite sections directly in the main text without explanation to save time"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l2-80q-q30",
+    "questionNumber": 30,
+    "questionText": "For each of the three statements about refining search results, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Adding keyword synonyms improves accuracy.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Applying filters like date and region can make results more relevant.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Using broad terms increases result precision.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q31",
+    "questionNumber": 31,
+    "questionText": "Why should you compress a folder into a ZIP file before emailing it?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "It automatically encrypts the contents with strong security"
+      },
+      {
+        "id": "o2",
+        "text": "It makes every file inside editable by anyone, even without the software installed"
+      },
+      {
+        "id": "o3",
+        "text": "It reduces the total size and combines many items into one attachment."
+      },
+      {
+        "id": "o4",
+        "text": "It improves image quality in the files"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l2-80q-q32",
+    "questionNumber": 32,
+    "questionText": "Which two practices improve clarity and response rate when composing a work email to request a quick decision? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "(Question repeated in option A)"
+      },
+      {
+        "id": "o2",
+        "text": "Provide a long background section before the request"
+      },
+      {
+        "id": "o3",
+        "text": "Write a specific subject line that summarizes the action needed"
+      },
+      {
+        "id": "o4",
+        "text": "Put the decision and due date in the first sentence"
+      },
+      {
+        "id": "o5",
+        "text": "Use multiple colors and fonts to emphasize urgency"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q33",
+    "questionNumber": 33,
+    "questionText": "During a two-hour study block, you feel FOMO as classmates post live updates about a campus event. Which action reduces FOMO while protecting focus?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Leave notifications on but lower the volume so alerts are less noticeable"
+      },
+      {
+        "id": "o2",
+        "text": "Enable Focus/Do Not Disturb for the study block and schedule a 5-minute check at the midpoint."
+      },
+      {
+        "id": "o3",
+        "text": "Keep group chats open on a second screen to glance at between problems"
+      },
+      {
+        "id": "o4",
+        "text": "Turn on push notifications for event posts to avoid missing anything important"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l2-80q-q34",
+    "questionNumber": 34,
+    "questionText": "Move each principle of digital etiquette from the list on the left to its example on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Not sharing private client data.",
+        "right": "Confidentiality"
+      },
+      {
+        "left": "Replying to messages within agreed timeframes.",
+        "right": "Timeliness"
+      },
+      {
+        "left": "Avoiding acronyms in professional emails.",
+        "right": "Clarity"
+      },
+      {
+        "left": "Scheduling meetings considering time zones.",
+        "right": "Cultural sensitivity"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q35",
+    "questionNumber": 35,
+    "questionText": "For each of the four statements about sound adjustments, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Mono audio combines stereo channels into one.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Balance control adjusts the distribution of sound between speakers.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Volume control changes the overall loudness of audio.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Equalizer settings can fix uneven sound between left and right speakers.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q36",
+    "questionNumber": 36,
+    "questionText": "Which two settings enable device encryption on common desktop operating systems? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Airplane mode (device)"
+      },
+      {
+        "id": "o2",
+        "text": "Windows Hello PIN (Windows)"
+      },
+      {
+        "id": "o3",
+        "text": "Secure Boot (UEFI firmware)"
+      },
+      {
+        "id": "o4",
+        "text": "FileVault (macOS)"
+      },
+      {
+        "id": "o5",
+        "text": "BitLocker (Windows)"
+      }
+    ],
+    "correctAnswers": [
+      "o4",
+      "o5"
+    ]
+  },
+  {
+    "id": "l2-80q-q37",
+    "questionNumber": 37,
+    "questionText": "A user complains that the screen looks washed out after moving their laptop near a window. Which adjustment should be made to improve the display?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Adjust gamma settings"
+      },
+      {
+        "id": "o2",
+        "text": "Lower refresh rate"
+      },
+      {
+        "id": "o3",
+        "text": "Increase brightness"
+      },
+      {
+        "id": "o4",
+        "text": "Enable night mode"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l2-80q-q38",
+    "questionNumber": 38,
+    "questionText": "Jordan has recently started using a new cloud-based project management tool at work. The company encourages employees to develop digital skills independently and provides resources for self-learning. While working on a project with a tight deadline, Jordan encounters a feature that is unfamiliar. Jordan wants to complete the task on time and improve their understanding of the tool. Which two actions should Jordan take to increase digital competence in this situation? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Watch a video review of the tool on a popular tech channel to learn about its future."
+      },
+      {
+        "id": "o2",
+        "text": "Ask a coworker for a quick explanation and rely on that guidance going forward"
+      },
+      {
+        "id": "o3",
+        "text": "Post a question in an online community forum for the tool"
+      },
+      {
+        "id": "o4",
+        "text": "Search for tutorials and user guides in the tool's help section"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q39",
+    "questionNumber": 39,
+    "questionText": "Which three practices improve your ability to find files later? (Choose 3.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Include your initials in every file name so everyone knows they are yours"
+      },
+      {
+        "id": "o2",
+        "text": "Use consistent, descriptive file names that reflect the file's content and context"
+      },
+      {
+        "id": "o3",
+        "text": "Establish a predictable folder structure that mirrors your workflow"
+      },
+      {
+        "id": "o4",
+        "text": "Apply available metadata, for example, tags or properties, to categorize files."
+      },
+      {
+        "id": "o5",
+        "text": "Change the file extensions to .pdf so everyone can open it"
+      },
+      {
+        "id": "o6",
+        "text": "Keep multiple versions with identical names and a date in the same folder"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q40",
+    "questionNumber": 40,
+    "questionText": "Which two features help protect your card details when paying online? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Using a private/incognito browser window while entering payment details"
+      },
+      {
+        "id": "o2",
+        "text": "Bank-sent one-time passcodes to approve the transaction"
+      },
+      {
+        "id": "o3",
+        "text": "Using a virtual credit card number that is temporary"
+      },
+      {
+        "id": "o4",
+        "text": "A 'secure site' badge or padlock image displayed near the payment form"
+      },
+      {
+        "id": "o5",
+        "text": "Saving your card in your store account settings"
+      }
+    ],
+    "correctAnswers": [
+      "o2",
+      "o3"
+    ]
+  },
+  {
+    "id": "l2-80q-q41",
+    "questionNumber": 41,
+    "questionText": "Which Microsoft 365 tool integrates chat, video meetings, and shared files for team collaboration?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Outlook"
+      },
+      {
+        "id": "o2",
+        "text": "SharePoint"
+      },
+      {
+        "id": "o3",
+        "text": "Teams"
+      },
+      {
+        "id": "o4",
+        "text": "OneDrive"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l2-80q-q42",
+    "questionNumber": 42,
+    "questionText": "Move each verification step from the list on the left to its purpose on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Indicates reliability",
+        "right": "Analyze domain type"
+      },
+      {
+        "left": "Ensures timeliness",
+        "right": "Review publication date"
+      },
+      {
+        "left": "Confirms expertise",
+        "right": "Check author credentials"
+      },
+      {
+        "left": "Validates accuracy",
+        "right": "Cross-reference sources"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q43",
+    "questionNumber": 43,
+    "questionText": "Priya is learning to use a specialized data visualization tool for a volunteer project. The tool has limited official documentation, but it has an active online community where users share tips and solutions. Priya needs to create a custom chart type that is not explained in the basic guide. After completing the task, she will document the process for other volunteers so they can use the feature correctly in future projects. Which two actions should Priya take to increase digital competence in this situation? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Experiment with the tool's settings until the custom chart looks correct"
+      },
+      {
+        "id": "o2",
+        "text": "Use a similar chart type from the basic guide and hope it meets the project's needs"
+      },
+      {
+        "id": "o3",
+        "text": "Search for a user-created tutorial video on a video-sharing platform"
+      },
+      {
+        "id": "o4",
+        "text": "Post a question in the tool's official community forum asking for guidance on creating the custom chart."
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q44",
+    "questionNumber": 44,
+    "questionText": "Move each editing approach from the list on the left to its characteristic on the right. Editing approaches may be used more than once.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "The cursors of other users are visible while you are editing.",
+        "right": "Synchronous"
+      },
+      {
+        "left": "Everyone sees updates as they happen on the same file.",
+        "right": "Synchronous"
+      },
+      {
+        "left": "Team members work on their own copies and submit changes later.",
+        "right": "Asynchronous"
+      },
+      {
+        "left": "Changes are merged after review using comments or tracked changes.",
+        "right": "Asynchronous"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q45",
+    "questionNumber": 45,
+    "questionText": "Which two actions can confirm a successful printer connection? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Checking the printer queue for pending jobs"
+      },
+      {
+        "id": "o2",
+        "text": "Selecting 'Set as default printer'"
+      },
+      {
+        "id": "o3",
+        "text": "Printing a test page"
+      },
+      {
+        "id": "o4",
+        "text": "Restarting the computer"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l2-80q-q46",
+    "questionNumber": 46,
+    "questionText": "For each of the three statements about device security, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "It is safe to plug in an unknown USB flash drive as long as you don't open any files from it.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "A charge-only cable will protect your device from data risks when using a public USB charging station.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "You should block camera access until you confirm that a new app is legitimate and actually needs the camera.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q47",
+    "questionNumber": 47,
+    "questionText": "For each of the three statements about verifying online information, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Checking the publication date helps determine relevance.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Cross-referencing with other reliable sources can confirm accuracy.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "The number of social media shares is a good indicator of truthfulness.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q48",
+    "questionNumber": 48,
+    "questionText": "For each of the four statements, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Version history lets you view or restore an earlier saved version of a file.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Uploading a new file to replace an old one automatically removes the old file's version history.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Compressing multiple files into a ZIP file makes them easier to upload.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Compressing a video into a ZIP file reduces the audio and visual quality.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q49",
+    "questionNumber": 49,
+    "questionText": "You are making a sales brochure for your company, and the image you want to use is labeled Creative Commons, For Non-Commercial Use, Requires Attribution (CC BY-NC). What should you do?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use the image if the brochure will be free to download"
+      },
+      {
+        "id": "o2",
+        "text": "Use the image without making edits"
+      },
+      {
+        "id": "o3",
+        "text": "Don't use the image and find something else"
+      },
+      {
+        "id": "o4",
+        "text": "Use with credit because the image is allowed for business"
+      }
+    ],
+    "correctAnswer": "o3"
+  },
+  {
+    "id": "l2-80q-q50",
+    "questionNumber": 50,
+    "questionText": "For each of the four statements about filling out online forms, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Required fields must be completed before submission.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Forms may include CAPTCHA for security.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Forms can include file upload options.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Submitting a form automatically saves a copy to your local drive or email.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q51",
+    "questionNumber": 51,
+    "questionText": "You are working on a document with a group of classmates and need to track, collect, and manage feedback in the shared draft without creating conflicting copies. Which two actions should you choose? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Have each reviewer use Suggesting/Track Changes in their own copy and email it back"
+      },
+      {
+        "id": "o2",
+        "text": "Turn off version history to reduce file clutter"
+      },
+      {
+        "id": "o3",
+        "text": "Move feedback into group chat outside the document"
+      },
+      {
+        "id": "o4",
+        "text": "Add comments with @mentions in the shared document"
+      },
+      {
+        "id": "o5",
+        "text": "Enable Suggesting/Track Changes to label edits by user"
+      }
+    ],
+    "correctAnswers": [
+      "o4",
+      "o5"
+    ]
+  },
+  {
+    "id": "l2-80q-q52",
+    "questionNumber": 52,
+    "questionText": "For each of the four statements, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "The CPU is an output device that shows information to users.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "A GPU is a processing device that handles pictures and graphics.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Processing devices change input data into useful output.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "RAM is a processing device because it stores data for a short time.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q53",
+    "questionNumber": 53,
+    "questionText": "You need to send a one-page project update to a community group that reads on phones and only uses basic apps. Which format should you use for this audience?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "PowerPoint (.pptx) slide deck"
+      },
+      {
+        "id": "o2",
+        "text": "Compact PDF document"
+      },
+      {
+        "id": "o3",
+        "text": "JPEG screenshot of the file"
+      },
+      {
+        "id": "o4",
+        "text": "Photoshop (.psd) source file"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l2-80q-q54",
+    "questionNumber": 54,
+    "questionText": "Which option protects a file by requiring authentication before access?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Add a password that is required to open the file"
+      },
+      {
+        "id": "o2",
+        "text": "Limit editing to tracked changes"
+      },
+      {
+        "id": "o3",
+        "text": "Protect the document for comments only"
+      },
+      {
+        "id": "o4",
+        "text": "Mark the file as Read-only."
+      }
+    ],
+    "correctAnswer": "o1"
+  },
+  {
+    "id": "l2-80q-q55",
+    "questionNumber": 55,
+    "questionText": "For each of the three statements about creating and managing identities online, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Keeping personal views about hot topics away from your work online presence helps keep good digital boundaries.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Having different email addresses for work and personal use is a good way to manage multiple digital identities.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Making different usernames for work sites and personal sites is too hard and not needed.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q56",
+    "questionNumber": 56,
+    "questionText": "Move each hardware feature from the list on the left to its primarily inclusive need it addresses on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Improve key visibility for users with low vision.",
+        "right": "High-contrast, large-label keycaps"
+      },
+      {
+        "left": "Allow private listening and volume adjustment.",
+        "right": "Headsets with in-line volume control and standard 3.5 mm jacks"
+      },
+      {
+        "left": "Easier connection of peripherals; accommodate wheelchair users.",
+        "right": "Front-mounted USB ports and wide knee clearance"
+      },
+      {
+        "left": "Reduce glare/neck strain; positioning for different heights.",
+        "right": "Monitors on tilt-and-swivel adjustable arms"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q57",
+    "questionNumber": 57,
+    "questionText": "You are creating a step-by-step guide for nontechnical community members who will print it at home. Which two actions should you do? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Add captions for your videos so the information is printed"
+      },
+      {
+        "id": "o2",
+        "text": "Share the design source file (.psd) for editing"
+      },
+      {
+        "id": "o3",
+        "text": "Use plain language and numbered steps"
+      },
+      {
+        "id": "o4",
+        "text": "Export a printer-friendly PDF with high contrast"
+      }
+    ],
+    "correctAnswers": [
+      "o3",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q58",
+    "questionNumber": 58,
+    "questionText": "For each of the three statements about language and regional settings, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Regional settings can affect date and time formats.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Language settings can be configured for individual user profiles.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Changing the system language automatically translates all third-party apps.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q59",
+    "questionNumber": 59,
+    "questionText": "For each of the four statements about instant messaging in the workplace, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Respond with 'OK' to all messages.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Keep messages short and relevant.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Avoid sending messages outside work hours unless urgent.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Use emojis and GIFs to replace words in formal communications.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q60",
+    "questionNumber": 60,
+    "questionText": "For each of the four statements about digital etiquette in a large video meeting, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Demonstrate good etiquette by testing your audio/video before the meeting starts.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Mute your microphone when you are not speaking.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Unmuting your microphone is better than using Q&A or chat tools to ask questions.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Joining a session with a clear display name is an example of good digital etiquette.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q61",
+    "questionNumber": 61,
+    "questionText": "You are creating a company report in a word processing application. The report has multiple headings and body text sections. Your manager asks you to ensure that all headings have the same font, size, and color, and that the body text is consistent throughout the document. Which feature should you use to apply the consistent formatting throughout the document?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Paragraph spacing"
+      },
+      {
+        "id": "o2",
+        "text": "Styles"
+      },
+      {
+        "id": "o3",
+        "text": "Font color"
+      },
+      {
+        "id": "o4",
+        "text": "Text effects"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l2-80q-q62",
+    "questionNumber": 62,
+    "questionText": "For each of the four statements about cultural sensitivity online, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Be aware of time zone differences.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "Use humor to make everyone comfortable.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Assume everyone celebrates the same holidays.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Avoid stereotypes in communication.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q63",
+    "questionNumber": 63,
+    "questionText": "For each of the four statements about creating calendar events, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "You can add a location for an event.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "You can schedule events for a recurring date and time.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "You can add links to a calendar event.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "You must delete an event to change its time.",
+        "correctAnswer": "False"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q64",
+    "questionNumber": 64,
+    "questionText": "A person you met in an online study group forum avoids video calls, asks for gift cards, and pushes for personal details. What should you do?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Send a small amount once to build trust, then ask for ID"
+      },
+      {
+        "id": "o2",
+        "text": "Share limited personal data but decline any money requests"
+      },
+      {
+        "id": "o3",
+        "text": "Move the conversation to a private app to talk one-on-one"
+      },
+      {
+        "id": "o4",
+        "text": "Stop the conversation, block the account, and report it to the platform"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l2-80q-q65",
+    "questionNumber": 65,
+    "questionText": "For each of the four statements about image editing, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Rotating an image 90 degrees clockwise produces the same result as flipping it horizontally.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Exporting a JPEG at a higher compression level reduces file size with no impact on visual quality.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Resizing an image with 'lock aspect ratio' prevents distortion.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Increasing contrast can make a dim photo brighter, but overdoing it can lose detail.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q66",
+    "questionNumber": 66,
+    "questionText": "For each of the three statements about catfishing, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "One example of catfishing is a legitimate-looking link that leads to a fake banking site for stealing users' passwords.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "Catfishing involves creating a fake online identity to gain trust and trick users out of money or personal information.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "You can check for possible catfishing by asking for a quick live video call and running a reverse image search on profile photos.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q67",
+    "questionNumber": 67,
+    "questionText": "Amira has been asked to create an interactive presentation using a new online tool for an upcoming client meeting. The presentation is due tomorrow, and Amira has never used this tool before. Which action should Amira take to increase digital competence and meet the deadline?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Ask a friend who has used similar tools to walk through the process over a call"
+      },
+      {
+        "id": "o2",
+        "text": "Search for a blog article comparing multiple presentation tools to learn about trends"
+      },
+      {
+        "id": "o3",
+        "text": "Post a question in a general tech discussion group and wait for responses"
+      },
+      {
+        "id": "o4",
+        "text": "Complete the tool's quick-start tutorial provided in its help section."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l2-80q-q68",
+    "questionNumber": 68,
+    "questionText": "For each of the four statements about automation, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Automation can be used for scheduled system backups.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "After initial setup, automation requires user input to function.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "Automation guarantees zero human oversight.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "Automation reduces the need for repetitive manual tasks.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q69",
+    "questionNumber": 69,
+    "questionText": "Which two consequences can result from posting hostile or insulting comments from your public account? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Loss of opportunities when schools or employers review your online presence"
+      },
+      {
+        "id": "o2",
+        "text": "Automatic protection from platform moderation because the post is an opinion"
+      },
+      {
+        "id": "o3",
+        "text": "Guaranteed increase in followers due to higher engagement"
+      },
+      {
+        "id": "o4",
+        "text": "Account actions such as content removal or suspension under platform policies"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q70",
+    "questionNumber": 70,
+    "questionText": "For each of the four statements about structuring a document, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Applying built-in Heading styles enables the automated generation of a table of contents.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "To begin a new page at a specific point, insert a page break instead of pressing Enter repeatedly.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "Manually formatting each heading is the best approach if you may need to update all headings later.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s4",
+        "text": "To add space between paragraphs consistently, adjust paragraph spacing settings rather than inserting empty lines.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q71",
+    "questionNumber": 71,
+    "questionText": "Move each feature from the list on the left to the benefit it provides on the right.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "matching",
+    "pairs": [
+      {
+        "left": "Creates simulated versions of hardware or environments.",
+        "right": "Virtualization"
+      },
+      {
+        "left": "Stores files remotely for easy access.",
+        "right": "Cloud storage"
+      },
+      {
+        "left": "Improves text accuracy during typing.",
+        "right": "Autocorrect"
+      },
+      {
+        "left": "Reduces repetitive manual work.",
+        "right": "Automation"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q72",
+    "questionNumber": 72,
+    "questionText": "Lena has just completed her first infographic using a new design tool for a school project. She followed tutorials and feels confident about the layout and color choices. The project will be shared with the entire class, and Lena wants to improve her design skills for future assignments. Which two actions should Lena take to increase digital competence in this situation? (Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Watch another tutorial on the design tool to learn additional features"
+      },
+      {
+        "id": "o2",
+        "text": "Compare her infographic to examples she finds online and make changes based on what looks better."
+      },
+      {
+        "id": "o3",
+        "text": "Ask a classmate or instructor for feedback on the infographic's design and usability"
+      },
+      {
+        "id": "o4",
+        "text": "Post the infographic on social media to see how many likes it gets"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l2-80q-q73",
+    "questionNumber": 73,
+    "questionText": "You open a template file from a shared folder and see it is read-only. You need to add information and send it to someone for approval within the next few minutes. Which action allows you to proceed?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Make edits in the read-only file and rely on AutoSave to keep your changes"
+      },
+      {
+        "id": "o2",
+        "text": "Use Save As to save a copy to a location you can edit, then continue working on that copy"
+      },
+      {
+        "id": "o3",
+        "text": "Request edit access from the owner and wait for approval before you start editing"
+      },
+      {
+        "id": "o4",
+        "text": "Rename the file to remove the read-only status so you can save over it"
+      }
+    ],
+    "correctAnswer": "o2"
+  },
+  {
+    "id": "l2-80q-q74",
+    "questionNumber": 74,
+    "questionText": "Complete the sentence by selecting the correct option from the drop-down list.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "equalizer setting"
+      },
+      {
+        "id": "o2",
+        "text": "brightness setting"
+      },
+      {
+        "id": "o3",
+        "text": "spatial sound setting"
+      },
+      {
+        "id": "o4",
+        "text": "balance setting"
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l2-80q-q75",
+    "questionNumber": 75,
+    "questionText": "Which action mitigates risk when connecting untrusted portable media to a computer?",
+    "topic": "Level 2 (80 Questions)",
+    "type": "single",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Format the media to a common file system and then copy needed files"
+      },
+      {
+        "id": "o2",
+        "text": "Temporarily turn off the firewall to allow the device to mount correctly"
+      },
+      {
+        "id": "o3",
+        "text": "Open a few small files to check contents, then run a scan afterward"
+      },
+      {
+        "id": "o4",
+        "text": "Disable AutoPlay/AutoRun and scan the media with up-to-date security software before opening files."
+      }
+    ],
+    "correctAnswer": "o4"
+  },
+  {
+    "id": "l2-80q-q76",
+    "questionNumber": 76,
+    "questionText": "Which three actions are valid ways to recover an earlier version of a file? (Choose 3.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 3 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Use your cloud storage service's version history for the file"
+      },
+      {
+        "id": "o2",
+        "text": "Restore from a recent backup drive or backup service"
+      },
+      {
+        "id": "o3",
+        "text": "Rename the file with an earlier date to revert its contents"
+      },
+      {
+        "id": "o4",
+        "text": "Use your operating system's 'Previous versions' or file history feature"
+      },
+      {
+        "id": "o5",
+        "text": "Change the file's Modified date/time in Properties to roll the contents back"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o2",
+      "o4"
+    ]
+  },
+  {
+    "id": "l2-80q-q77",
+    "questionNumber": 77,
+    "questionText": "(Choose 2.)",
+    "topic": "Level 2 (80 Questions)",
+    "type": "multi",
+    "instruction": "Choose 2 correct options.",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Set a password that is required to modify the file"
+      },
+      {
+        "id": "o2",
+        "text": "Apply editing restrictions that allow comments only"
+      },
+      {
+        "id": "o3",
+        "text": "Encrypt the file so a password is required to open it"
+      },
+      {
+        "id": "o4",
+        "text": "Disable autosave in the application settings"
+      }
+    ],
+    "correctAnswers": [
+      "o1",
+      "o3"
+    ]
+  },
+  {
+    "id": "l2-80q-q78",
+    "questionNumber": 78,
+    "questionText": "For each of the four statements about printer concepts, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Inkjet printers use heat to fuse toner to paper.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "A default printer is the one automatically selected for print jobs.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s3",
+        "text": "A successful printer connection can be confirmed by printing a test page.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Laser printers use toner cartridges.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q79",
+    "questionNumber": 79,
+    "questionText": "For each of the three statements, select whether it is True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Public domain content can be reused without license restrictions, though attribution is still a good practice.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s2",
+        "text": "'NonCommercial' licenses allow use in company marketing materials if the materials are free to download.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "'NoDerivatives' licenses allow sharing exact copies but not distributing modified versions.",
+        "correctAnswer": "True"
+      }
+    ]
+  },
+  {
+    "id": "l2-80q-q80",
+    "questionNumber": 80,
+    "questionText": "For each of the four statements about digital devices and connections, select True or False.",
+    "topic": "Level 2 (80 Questions)",
+    "type": "statement-grid",
+    "options": [
+      {
+        "id": "True",
+        "text": "True"
+      },
+      {
+        "id": "False",
+        "text": "False"
+      }
+    ],
+    "statements": [
+      {
+        "id": "s1",
+        "text": "Ethernet cables use fiber optic technology to move data between devices.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s2",
+        "text": "HDMI cables are only for audio and cannot carry video.",
+        "correctAnswer": "False"
+      },
+      {
+        "id": "s3",
+        "text": "USB Type-C cables can send both power and data at the same time.",
+        "correctAnswer": "True"
+      },
+      {
+        "id": "s4",
+        "text": "Thunderbolt connectors move data faster than USB-C connections.",
+        "correctAnswer": "True"
+      }
+    ]
+  }
+]
